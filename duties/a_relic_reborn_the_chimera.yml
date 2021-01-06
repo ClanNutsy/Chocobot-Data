@@ -1,0 +1,9 @@
+sections:
+  - title: Dhorme Chimera
+    entries:
+       - type: text
+         roles: all
+         value:
+           en-US:
+             text: This encounter is missing data! Why not help contribute?
+             specech: 
