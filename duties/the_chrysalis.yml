@@ -1,8 +1,8 @@
 name:
-  en: 'The Chrysalis'
-  fr: 'La Chrysalide'
-  de: 'Chrysalis'
-  ja: 'アシエン・ナプリアレス討伐戦'
+  en: "The Chrysalis"
+  fr: "La Chrysalide"
+  de: "Chrysalis"
+  ja: "アシエン・ナプリアレス討伐戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Nabriales'
-          fr: 'Nabriales'
-          de: 'Nabriales'
-          ja: 'アシエン・ナプリアレス'
+          en: "Nabriales"
+          fr: "Nabriales"
+          de: "Nabriales"
+          ja: "アシエン・ナプリアレス"
         lodestone:
           id: 47616be7bf8
           url: /lodestone/playguide/db/npc/enemy/47616be7bf8/

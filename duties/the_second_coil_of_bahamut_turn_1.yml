@@ -1,8 +1,8 @@
 name:
-  en: 'The Second Coil of Bahamut - Turn 1'
-  fr: 'Les Méandres de Bahamut I'
-  de: 'Verschlungene Schatten 2 - 1'
-  ja: '大迷宮バハムート：侵攻編1'
+  en: "The Second Coil of Bahamut - Turn 1"
+  fr: "Les Méandres de Bahamut I"
+  de: "Verschlungene Schatten 2 - 1"
+  ja: "大迷宮バハムート：侵攻編1"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Rafflesia'
-          fr: 'Rafflesia'
-          de: 'Rafflesia'
-          ja: 'ラフレシア'
+          en: "Rafflesia"
+          fr: "Rafflesia"
+          de: "Rafflesia"
+          ja: "ラフレシア"
         lodestone:
           id: cf48185370c
           url: /lodestone/playguide/db/npc/enemy/cf48185370c/

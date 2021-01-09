@@ -1,8 +1,8 @@
 name:
-  en: 'The Qitana Ravel'
-  fr: 'L'Enchevêtrement des Qitari'
-  de: 'Irrungen der Qitari'
-  ja: '古跡探索 キタンナ神影洞'
+  en: "The Qitana Ravel"
+  fr: "L'Enchevêtrement des Qitari"
+  de: "Irrungen der Qitari"
+  ja: "古跡探索 キタンナ神影洞"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Lozatl'
-          fr: 'Lozatl'
-          de: 'Lozatl'
-          ja: 'ロツァトル'
+          en: "Lozatl"
+          fr: "Lozatl"
+          de: "Lozatl"
+          ja: "ロツァトル"
         lodestone:
           id: abe6f0618eb
           url: /lodestone/playguide/db/npc/enemy/abe6f0618eb/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Batsquatch'
-          fr: 'Batsquatch'
-          de: 'Fledersquatch'
-          ja: 'バッツカッチ'
+          en: "Batsquatch"
+          fr: "Batsquatch"
+          de: "Fledersquatch"
+          ja: "バッツカッチ"
         lodestone:
           id: 3dcad8e1f17
           url: /lodestone/playguide/db/npc/enemy/3dcad8e1f17/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Eros'
-          fr: 'Éros'
-          de: 'Eros'
-          ja: 'エロース'
+          en: "Eros"
+          fr: "Éros"
+          de: "Eros"
+          ja: "エロース"
         lodestone:
           id: e8fe76c7ec4
           url: /lodestone/playguide/db/npc/enemy/e8fe76c7ec4/

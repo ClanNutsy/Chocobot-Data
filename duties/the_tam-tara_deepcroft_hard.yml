@@ -1,8 +1,8 @@
 name:
-  en: 'The Tam-Tara Deepcroft (Hard)'
-  fr: 'L'Hypogée de Tam-Tara (brutal)'
-  de: 'Totenacker Tam-Tara (schwer)'
-  ja: '惨劇霊殿 タムタラの墓所 (Hard)'
+  en: "The Tam-Tara Deepcroft (Hard)"
+  fr: "L'Hypogée de Tam-Tara (brutal)"
+  de: "Totenacker Tam-Tara (schwer)"
+  ja: "惨劇霊殿 タムタラの墓所 (Hard)"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Liavinne'
-          fr: 'Liavinne la dame d'honneur'
-          de: 'Liavinne'
-          ja: '立会人リアヴィヌ'
+          en: "Liavinne"
+          fr: "Liavinne la dame d'honneur"
+          de: "Liavinne"
+          ja: "立会人リアヴィヌ"
         lodestone:
           id: 98707efa0d2
           url: /lodestone/playguide/db/npc/enemy/98707efa0d2/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Spare Body'
-          fr: 'Corps inusité'
-          de: 'Ungenutzter Körper'
-          ja: 'スペアボディ'
+          en: "Spare Body"
+          fr: "Corps inusité"
+          de: "Ungenutzter Körper"
+          ja: "スペアボディ"
         lodestone:
           id: 559dcd15a23
           url: /lodestone/playguide/db/npc/enemy/559dcd15a23/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Avere Bravearm'
-          fr: 'Avere l'intrépide'
-          de: 'Avere Haudegen'
-          ja: '勇壮のアヴィール'
+          en: "Avere Bravearm"
+          fr: "Avere l'intrépide"
+          de: "Avere Haudegen"
+          ja: "勇壮のアヴィール"
         lodestone:
           id: 8b20c2c67c4
           url: /lodestone/playguide/db/npc/enemy/8b20c2c67c4/

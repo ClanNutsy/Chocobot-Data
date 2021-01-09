@@ -1,8 +1,8 @@
 name:
-  en: 'Alexander - The Breath of the Creator (Savage)'
-  fr: 'Alexander - Le Souffle du Créateur (sadique)'
-  de: 'Alexander - Atem des Schöpfers (episch)'
-  ja: '機工城アレキサンダー零式：天動編2'
+  en: "Alexander - The Breath of the Creator (Savage)"
+  fr: "Alexander - Le Souffle du Créateur (sadique)"
+  de: "Alexander - Atem des Schöpfers (episch)"
+  ja: "機工城アレキサンダー零式：天動編2"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Lamebrix Strikebocks'
-          fr: 'Lamebrix le Mercenaire'
-          de: 'Wüterix der Söldner'
-          ja: '傭兵のレイムプリクス'
+          en: "Lamebrix Strikebocks"
+          fr: "Lamebrix le Mercenaire"
+          de: "Wüterix der Söldner"
+          ja: "傭兵のレイムプリクス"
         lodestone:
           id: 3ea88797237
           url: /lodestone/playguide/db/npc/enemy/3ea88797237/

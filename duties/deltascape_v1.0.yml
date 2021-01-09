@@ -1,8 +1,8 @@
 name:
-  en: 'Deltascape V1.0'
-  fr: 'Deltastice v1.0'
-  de: 'Deltametrie 1.0'
-  ja: '次元の狭間オメガ：デルタ編1'
+  en: "Deltascape V1.0"
+  fr: "Deltastice v1.0"
+  de: "Deltametrie 1.0"
+  ja: "次元の狭間オメガ：デルタ編1"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Alte Roite'
-          fr: 'Alte Roite'
-          de: 'Alte Roite'
-          ja: 'アルテ・ロイテ'
+          en: "Alte Roite"
+          fr: "Alte Roite"
+          de: "Alte Roite"
+          ja: "アルテ・ロイテ"
         lodestone:
           id: fdf470b2853
           url: /lodestone/playguide/db/npc/enemy/fdf470b2853/

@@ -1,8 +1,8 @@
 name:
-  en: 'Cinder Drift (Extreme)'
-  fr: 'Les Nuées de Brandons (extrême)'
-  de: 'Rubinfeuer - Trauma'
-  ja: '極ルビーウェポン破壊作戦'
+  en: "Cinder Drift (Extreme)"
+  fr: "Les Nuées de Brandons (extrême)"
+  de: "Rubinfeuer - Trauma"
+  ja: "極ルビーウェポン破壊作戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'The Ruby Weapon'
-          fr: 'Arme Rubis'
-          de: 'Rubin-Waffe'
-          ja: 'ルビーウェポン'
+          en: "The Ruby Weapon"
+          fr: "Arme Rubis"
+          de: "Rubin-Waffe"
+          ja: "ルビーウェポン"
         lodestone:
           id: 585b821636c
           url: /lodestone/playguide/db/npc/enemy/585b821636c/

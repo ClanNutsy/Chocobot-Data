@@ -1,8 +1,8 @@
 name:
-  en: 'The Binding Coil of Bahamut - Turn 2'
-  fr: 'Le Labyrinthe de Bahamut II'
-  de: 'Verschlungene Schatten 2'
-  ja: '大迷宮バハムート：邂逅編2'
+  en: "The Binding Coil of Bahamut - Turn 2"
+  fr: "Le Labyrinthe de Bahamut II"
+  de: "Verschlungene Schatten 2"
+  ja: "大迷宮バハムート：邂逅編2"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'ADS'
-          fr: 'Sphère de contrôle'
-          de: 'Abwehrsystem'
-          ja: '制御システム'
+          en: "ADS"
+          fr: "Sphère de contrôle"
+          de: "Abwehrsystem"
+          ja: "制御システム"
         lodestone:
           id: 40a8cb2f18e
           url: /lodestone/playguide/db/npc/enemy/40a8cb2f18e/

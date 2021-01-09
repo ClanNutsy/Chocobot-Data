@@ -1,8 +1,8 @@
 name:
-  en: 'The Fractal Continuum (Hard)'
-  fr: 'Le Continuum fractal (brutal)'
-  de: 'Die Fraktal-Kontinuum (schwer)'
-  ja: '暴走戦艦 フラクタル・コンティニアム (Hard)'
+  en: "The Fractal Continuum (Hard)"
+  fr: "Le Continuum fractal (brutal)"
+  de: "Die Fraktal-Kontinuum (schwer)"
+  ja: "暴走戦艦 フラクタル・コンティニアム (Hard)"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Motherbit'
-          fr: 'Drone mère'
-          de: 'Mutterdrohne'
-          ja: 'マザービット'
+          en: "Motherbit"
+          fr: "Drone mère"
+          de: "Mutterdrohne"
+          ja: "マザービット"
         lodestone:
           id: 933740cf608
           url: /lodestone/playguide/db/npc/enemy/933740cf608/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'The Ultima Warrior'
-          fr: 'Ultima-guerrier'
-          de: 'Ultimativer Krieger'
-          ja: 'アルテマウォリアー'
+          en: "The Ultima Warrior"
+          fr: "Ultima-guerrier"
+          de: "Ultimativer Krieger"
+          ja: "アルテマウォリアー"
         lodestone:
           id: 2f806a6446e
           url: /lodestone/playguide/db/npc/enemy/2f806a6446e/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'The Ultima Beast'
-          fr: 'Ultima-monstre'
-          de: 'Ultimative Bestie'
-          ja: 'アルテマビースト'
+          en: "The Ultima Beast"
+          fr: "Ultima-monstre"
+          de: "Ultimative Bestie"
+          ja: "アルテマビースト"
         lodestone:
           id: a49861b138e
           url: /lodestone/playguide/db/npc/enemy/a49861b138e/

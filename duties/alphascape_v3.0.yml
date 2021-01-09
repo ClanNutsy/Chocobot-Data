@@ -1,8 +1,8 @@
 name:
-  en: 'Alphascape V3.0'
-  fr: 'Alphastice v3.0'
-  de: 'Alphametrie 3.0'
-  ja: '次元の狭間オメガ：アルファ編3'
+  en: "Alphascape V3.0"
+  fr: "Alphastice v3.0"
+  de: "Alphametrie 3.0"
+  ja: "次元の狭間オメガ：アルファ編3"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Omega'
-          fr: 'Oméga'
-          de: 'Omega'
-          ja: 'オメガ'
+          en: "Omega"
+          fr: "Oméga"
+          de: "Omega"
+          ja: "オメガ"
         lodestone:
           id: f6503b4370d
           url: /lodestone/playguide/db/npc/enemy/f6503b4370d/

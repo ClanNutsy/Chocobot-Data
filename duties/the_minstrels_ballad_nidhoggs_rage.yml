@@ -1,8 +1,8 @@
 name:
-  en: 'The Minstrel's Ballad: Nidhogg's Rage'
-  fr: 'L'ire de Nidhogg'
-  de: 'Das Lied von Nidhoggs letztem Ruf'
-  ja: '極ニーズヘッグ征竜戦'
+  en: "The Minstrel's Ballad: Nidhogg's Rage"
+  fr: "L'ire de Nidhogg"
+  de: "Das Lied von Nidhoggs letztem Ruf"
+  ja: "極ニーズヘッグ征竜戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Nidhogg'
-          fr: 'Nidhogg'
-          de: 'Nidhogg'
-          ja: 'ニーズヘッグ'
+          en: "Nidhogg"
+          fr: "Nidhogg"
+          de: "Nidhogg"
+          ja: "ニーズヘッグ"
         lodestone:
           id: 24c714ec46f
           url: /lodestone/playguide/db/npc/enemy/24c714ec46f/

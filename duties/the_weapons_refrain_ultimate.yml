@@ -1,8 +1,8 @@
 name:
-  en: 'The Weapon's Refrain (Ultimate)'
-  fr: 'La Fantasmagorie d'Ultima (fatal)'
-  de: 'Heldenlied von Ultima (fatal)'
-  ja: '絶アルテマウェポン破壊作戦'
+  en: "The Weapon's Refrain (Ultimate)"
+  fr: "La Fantasmagorie d'Ultima (fatal)"
+  de: "Heldenlied von Ultima (fatal)"
+  ja: "絶アルテマウェポン破壊作戦"
 type: Ultimate Raid
 tags: []
 lodestone:
@@ -16,34 +16,34 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'The Ultima Weapon'
-          fr: 'Ultima Arma'
-          de: 'Ultima-Waffe'
-          ja: 'アルテマウェポン'
+          en: "The Ultima Weapon"
+          fr: "Ultima Arma"
+          de: "Ultima-Waffe"
+          ja: "アルテマウェポン"
         lodestone:
           id: df9b7620e3d
           url: /lodestone/playguide/db/npc/enemy/df9b7620e3d/
       - name:
-          en: 'Garuda'
-          fr: 'Garuda'
-          de: 'Garuda'
-          ja: 'ガルーダ'
+          en: "Garuda"
+          fr: "Garuda"
+          de: "Garuda"
+          ja: "ガルーダ"
         lodestone:
           id: 8a1760b2a6c
           url: /lodestone/playguide/db/npc/enemy/8a1760b2a6c/
       - name:
-          en: 'Ifrit'
-          fr: 'Ifrit'
-          de: 'Ifrit'
-          ja: 'イフリート'
+          en: "Ifrit"
+          fr: "Ifrit"
+          de: "Ifrit"
+          ja: "イフリート"
         lodestone:
           id: 565dffe9458
           url: /lodestone/playguide/db/npc/enemy/565dffe9458/
       - name:
-          en: 'Titan'
-          fr: 'Titan'
-          de: 'Titan'
-          ja: 'タイタン'
+          en: "Titan"
+          fr: "Titan"
+          de: "Titan"
+          ja: "タイタン"
         lodestone:
           id: 37a074a7704
           url: /lodestone/playguide/db/npc/enemy/37a074a7704/

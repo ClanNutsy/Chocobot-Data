@@ -1,8 +1,8 @@
 name:
-  en: 'The Pool of Tribute (Extreme)'
-  fr: 'La Crique aux tributs (extrême)'
-  de: 'Zenit der Götter - Susano'
-  ja: '極スサノオ討滅戦'
+  en: "The Pool of Tribute (Extreme)"
+  fr: "La Crique aux tributs (extrême)"
+  de: "Zenit der Götter - Susano"
+  ja: "極スサノオ討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Susano'
-          fr: 'Susano'
-          de: 'Susano'
-          ja: 'スサノオ'
+          en: "Susano"
+          fr: "Susano"
+          de: "Susano"
+          ja: "スサノオ"
         lodestone:
           id: 79dcbc803bf
           url: /lodestone/playguide/db/npc/enemy/79dcbc803bf/

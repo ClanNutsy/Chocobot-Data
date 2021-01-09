@@ -1,8 +1,8 @@
 name:
-  en: 'Alphascape V4.0 (Savage)'
-  fr: 'Alphastice v4.0 (sadique)'
-  de: 'Alphametrie 4.0 (episch)'
-  ja: '次元の狭間オメガ零式：アルファ編4'
+  en: "Alphascape V4.0 (Savage)"
+  fr: "Alphastice v4.0 (sadique)"
+  de: "Alphametrie 4.0 (episch)"
+  ja: "次元の狭間オメガ零式：アルファ編4"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Omega'
-          fr: 'Oméga'
-          de: 'Omega'
-          ja: 'オメガ'
+          en: "Omega"
+          fr: "Oméga"
+          de: "Omega"
+          ja: "オメガ"
         lodestone:
           id: f478302b18a
           url: /lodestone/playguide/db/npc/enemy/f478302b18a/

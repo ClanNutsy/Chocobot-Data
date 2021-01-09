@@ -1,8 +1,8 @@
 name:
-  en: 'Battle in the Big Keep'
-  fr: 'Revanche au vieux château'
-  de: 'Revanche in den Ruinen'
-  ja: '真ギルガメッシュ討滅戦'
+  en: "Battle in the Big Keep"
+  fr: "Revanche au vieux château"
+  de: "Revanche in den Ruinen"
+  ja: "真ギルガメッシュ討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,18 +16,18 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Gilgamesh'
-          fr: 'Gilgamesh'
-          de: 'Gilgamesch'
-          ja: 'ギルガメッシュ'
+          en: "Gilgamesh"
+          fr: "Gilgamesh"
+          de: "Gilgamesch"
+          ja: "ギルガメッシュ"
         lodestone:
           id: 3554b8b8296
           url: /lodestone/playguide/db/npc/enemy/3554b8b8296/
       - name:
-          en: 'Enkidu'
-          fr: 'Enkidu'
-          de: 'Enkidu'
-          ja: 'エンキドウ'
+          en: "Enkidu"
+          fr: "Enkidu"
+          de: "Enkidu"
+          ja: "エンキドウ"
         lodestone:
           id: 1365d0d97aa
           url: /lodestone/playguide/db/npc/enemy/1365d0d97aa/

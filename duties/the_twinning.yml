@@ -1,8 +1,8 @@
 name:
-  en: 'The Twinning'
-  fr: 'La Macle de Syrcus'
-  de: 'Der Kristallzwilling'
-  ja: '異界遺構 シルクス・ツイニング'
+  en: "The Twinning"
+  fr: "La Macle de Syrcus"
+  de: "Der Kristallzwilling"
+  ja: "異界遺構 シルクス・ツイニング"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Alpha Zaghnal'
-          fr: 'Zaghnal alpha'
-          de: 'Alpha-Zaghnal'
-          ja: 'アルファ・ザグナル'
+          en: "Alpha Zaghnal"
+          fr: "Zaghnal alpha"
+          de: "Alpha-Zaghnal"
+          ja: "アルファ・ザグナル"
         lodestone:
           id: 73d53e760e9
           url: /lodestone/playguide/db/npc/enemy/73d53e760e9/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Mithridates'
-          fr: 'Mithridate'
-          de: 'Mithridates'
-          ja: 'ミトリダテス'
+          en: "Mithridates"
+          fr: "Mithridate"
+          de: "Mithridates"
+          ja: "ミトリダテス"
         lodestone:
           id: 156780fca50
           url: /lodestone/playguide/db/npc/enemy/156780fca50/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'The Tycoon'
-          fr: 'Le Magnat'
-          de: 'Tycoon'
-          ja: 'タイクーン'
+          en: "The Tycoon"
+          fr: "Le Magnat"
+          de: "Tycoon"
+          ja: "タイクーン"
         lodestone:
           id: 0e6218abb50
           url: /lodestone/playguide/db/npc/enemy/0e6218abb50/

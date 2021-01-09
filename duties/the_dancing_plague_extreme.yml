@@ -1,8 +1,8 @@
 name:
-  en: 'The Dancing Plague (Extreme)'
-  fr: 'La Valse du Monarque (extrême)'
-  de: 'Letzte Läuterung - Titania'
-  ja: '極ティターニア討滅戦'
+  en: "The Dancing Plague (Extreme)"
+  fr: "La Valse du Monarque (extrême)"
+  de: "Letzte Läuterung - Titania"
+  ja: "極ティターニア討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Titania'
-          fr: 'Titania'
-          de: 'Titania'
-          ja: 'ティターニア'
+          en: "Titania"
+          fr: "Titania"
+          de: "Titania"
+          ja: "ティターニア"
         lodestone:
           id: 5ab129394e5
           url: /lodestone/playguide/db/npc/enemy/5ab129394e5/

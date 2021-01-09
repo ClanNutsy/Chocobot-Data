@@ -1,8 +1,8 @@
 name:
-  en: 'The Vault'
-  fr: 'La Voûte'
-  de: 'Erzbasilika'
-  ja: '強硬突入 イシュガルド教皇庁'
+  en: "The Vault"
+  fr: "La Voûte"
+  de: "Erzbasilika"
+  ja: "強硬突入 イシュガルド教皇庁"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Ser Adelphel Brightblade'
-          fr: 'Sire Adelphel'
-          de: 'Adelphel'
-          ja: '美剣のアデルフェル'
+          en: "Ser Adelphel Brightblade"
+          fr: "Sire Adelphel"
+          de: "Adelphel"
+          ja: "美剣のアデルフェル"
         lodestone:
           id: a9f4fda2acb
           url: /lodestone/playguide/db/npc/enemy/a9f4fda2acb/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Ser Grinnaux The Bull'
-          fr: 'Sire Grinnaux'
-          de: 'Grinnaux'
-          ja: '戦狂のグリノー'
+          en: "Ser Grinnaux The Bull"
+          fr: "Sire Grinnaux"
+          de: "Grinnaux"
+          ja: "戦狂のグリノー"
         lodestone:
           id: f33f4cb105a
           url: /lodestone/playguide/db/npc/enemy/f33f4cb105a/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Ser Charibert'
-          fr: 'Sire Charibert'
-          de: 'Charibert'
-          ja: '聖騎士シャリベル'
+          en: "Ser Charibert"
+          fr: "Sire Charibert"
+          de: "Charibert"
+          ja: "聖騎士シャリベル"
         lodestone:
           id: 9fafaa76ff8
           url: /lodestone/playguide/db/npc/enemy/9fafaa76ff8/

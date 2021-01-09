@@ -1,8 +1,8 @@
 name:
-  en: 'The Minstrel's Ballad: Hades's Elegy'
-  fr: 'Le Râle de l'Agonie (extrême)'
-  de: 'Letzte Läuterung - Hades'
-  ja: '極ハーデス討滅戦'
+  en: "The Minstrel's Ballad: Hades's Elegy"
+  fr: "Le Râle de l'Agonie (extrême)"
+  de: "Letzte Läuterung - Hades"
+  ja: "極ハーデス討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Hades'
-          fr: 'Hadès'
-          de: 'Hades'
-          ja: 'ハーデス'
+          en: "Hades"
+          fr: "Hadès"
+          de: "Hades"
+          ja: "ハーデス"
         lodestone:
           id: b43a1961518
           url: /lodestone/playguide/db/npc/enemy/b43a1961518/

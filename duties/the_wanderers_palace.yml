@@ -1,8 +1,8 @@
 name:
-  en: 'The Wanderer's Palace'
-  fr: 'Le Palais du Vagabond'
-  de: 'Palast des Wanderers'
-  ja: '旅神聖域 ワンダラーパレス'
+  en: "The Wanderer's Palace"
+  fr: "Le Palais du Vagabond"
+  de: "Palast des Wanderers"
+  ja: "旅神聖域 ワンダラーパレス"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Keeper Of Halidom'
-          fr: 'Gardien du sanctuaire'
-          de: 'Wächter von Halidom'
-          ja: 'キーパー・オブ・ヘリダム'
+          en: "Keeper Of Halidom"
+          fr: "Gardien du sanctuaire"
+          de: "Wächter von Halidom"
+          ja: "キーパー・オブ・ヘリダム"
         lodestone:
           id: 04f305c6b6a
           url: /lodestone/playguide/db/npc/enemy/04f305c6b6a/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Giant Bavarois'
-          fr: 'Bavarois géant'
-          de: 'Riesengelee'
-          ja: 'ジャイアント・ババロア'
+          en: "Giant Bavarois"
+          fr: "Bavarois géant"
+          de: "Riesengelee"
+          ja: "ジャイアント・ババロア"
         lodestone:
           id: 2c56832b780
           url: /lodestone/playguide/db/npc/enemy/2c56832b780/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Tonberry King'
-          fr: 'Tomberry roi'
-          de: 'Tomberry-König'
-          ja: 'トンベリキング'
+          en: "Tonberry King"
+          fr: "Tomberry roi"
+          de: "Tomberry-König"
+          ja: "トンベリキング"
         lodestone:
           id: c125f54436c
           url: /lodestone/playguide/db/npc/enemy/c125f54436c/

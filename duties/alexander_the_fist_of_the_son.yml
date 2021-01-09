@@ -1,8 +1,8 @@
 name:
-  en: 'Alexander - The Fist of the Son'
-  fr: 'Alexander - Le Poing du Fils'
-  de: 'Alexander - Faust des Sohnes'
-  ja: '機工城アレキサンダー：律動編1'
+  en: "Alexander - The Fist of the Son"
+  fr: "Alexander - Le Poing du Fils"
+  de: "Alexander - Faust des Sohnes"
+  ja: "機工城アレキサンダー：律動編1"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Ratfinx Twinkledinks'
-          fr: 'Ratfinx le Génie'
-          de: 'Ratfix Blinkdings'
-          ja: '奇才のラットフィンクス'
+          en: "Ratfinx Twinkledinks"
+          fr: "Ratfinx le Génie"
+          de: "Ratfix Blinkdings"
+          ja: "奇才のラットフィンクス"
         lodestone:
           id: fc1f92b85d4
           url: /lodestone/playguide/db/npc/enemy/fc1f92b85d4/

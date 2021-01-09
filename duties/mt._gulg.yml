@@ -1,8 +1,8 @@
 name:
-  en: 'Mt. Gulg'
-  fr: 'Mont Gulg'
-  de: 'Der Gulg'
-  ja: '偽造天界 グルグ火山'
+  en: "Mt. Gulg"
+  fr: "Mont Gulg"
+  de: "Der Gulg"
+  ja: "偽造天界 グルグ火山"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Forgiven Cruelty'
-          fr: 'Cruauté pardonnée'
-          de: 'Geläuterte Grausamkeit'
-          ja: 'フォーギヴン・クルエルティー'
+          en: "Forgiven Cruelty"
+          fr: "Cruauté pardonnée"
+          de: "Geläuterte Grausamkeit"
+          ja: "フォーギヴン・クルエルティー"
         lodestone:
           id: c738f0bd330
           url: /lodestone/playguide/db/npc/enemy/c738f0bd330/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Forgiven Whimsy'
-          fr: 'Caprice pardonné'
-          de: 'Geläuterte Gereiztheit'
-          ja: 'フォーギヴン・ウィムズィー'
+          en: "Forgiven Whimsy"
+          fr: "Caprice pardonné"
+          de: "Geläuterte Gereiztheit"
+          ja: "フォーギヴン・ウィムズィー"
         lodestone:
           id: a65cc3bf993
           url: /lodestone/playguide/db/npc/enemy/a65cc3bf993/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Forgiven Obscenity'
-          fr: 'Obscénité pardonnée'
-          de: 'Geläuterte Unzucht'
-          ja: 'フォーギヴン・オブセニティー'
+          en: "Forgiven Obscenity"
+          fr: "Obscénité pardonnée"
+          de: "Geläuterte Unzucht"
+          ja: "フォーギヴン・オブセニティー"
         lodestone:
           id: f146c10cca6
           url: /lodestone/playguide/db/npc/enemy/f146c10cca6/

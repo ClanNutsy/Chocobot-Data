@@ -1,8 +1,8 @@
 name:
-  en: 'The Sunken Temple of Qarn'
-  fr: 'Le Temple enseveli de Qarn'
-  de: 'Versunkener Tempel von Qarn'
-  ja: '遺跡探索 カルン埋没寺院'
+  en: "The Sunken Temple of Qarn"
+  fr: "Le Temple enseveli de Qarn"
+  de: "Versunkener Tempel von Qarn"
+  ja: "遺跡探索 カルン埋没寺院"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Teratotaur'
-          fr: 'Teratotaurus'
-          de: 'Teratotaurus'
-          ja: 'テラトタウルス'
+          en: "Teratotaur"
+          fr: "Teratotaurus"
+          de: "Teratotaurus"
+          ja: "テラトタウルス"
         lodestone:
           id: e34c3c74ec7
           url: /lodestone/playguide/db/npc/enemy/e34c3c74ec7/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Temple Guardian'
-          fr: 'Gardien du temple'
-          de: 'Tempelwächter'
-          ja: 'テンプルガーディアン'
+          en: "Temple Guardian"
+          fr: "Gardien du temple"
+          de: "Tempelwächter"
+          ja: "テンプルガーディアン"
         lodestone:
           id: f93f961506e
           url: /lodestone/playguide/db/npc/enemy/f93f961506e/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Adjudicator'
-          fr: 'Adjucateur'
-          de: 'Azeyma-Richter'
-          ja: 'アーゼマジャッジ'
+          en: "Adjudicator"
+          fr: "Adjucateur"
+          de: "Azeyma-Richter"
+          ja: "アーゼマジャッジ"
         lodestone:
           id: 6683be5f041
           url: /lodestone/playguide/db/npc/enemy/6683be5f041/

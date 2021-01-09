@@ -1,8 +1,8 @@
 name:
-  en: 'Dohn Mheg'
-  fr: 'Dohn Mheg'
-  de: 'Dohn Mheg'
-  ja: '水妖幻園 ドォーヌ・メグ'
+  en: "Dohn Mheg"
+  fr: "Dohn Mheg"
+  de: "Dohn Mheg"
+  ja: "水妖幻園 ドォーヌ・メグ"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Aenc Thon, Lord Of The Lingering Gaze'
-          fr: 'Aenc Thon l'envoûtant'
-          de: 'Aenc Thon der Glupschäugiger'
-          ja: '美眼のインク＝ゾン'
+          en: "Aenc Thon, Lord Of The Lingering Gaze"
+          fr: "Aenc Thon l'envoûtant"
+          de: "Aenc Thon der Glupschäugiger"
+          ja: "美眼のインク＝ゾン"
         lodestone:
           id: 6b0f4e1f08c
           url: /lodestone/playguide/db/npc/enemy/6b0f4e1f08c/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Griaule'
-          fr: 'Griaule'
-          de: 'Griaule'
-          ja: 'グリオール'
+          en: "Griaule"
+          fr: "Griaule"
+          de: "Griaule"
+          ja: "グリオール"
         lodestone:
           id: 3baa21f9de9
           url: /lodestone/playguide/db/npc/enemy/3baa21f9de9/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Aenc Thon, Lord Of The Lengthsome Gait'
-          fr: 'Aenc Thon le virtuose'
-          de: 'Aenc Thon der Langbeiniger'
-          ja: '楽聖のインク＝ゾン'
+          en: "Aenc Thon, Lord Of The Lengthsome Gait"
+          fr: "Aenc Thon le virtuose"
+          de: "Aenc Thon der Langbeiniger"
+          ja: "楽聖のインク＝ゾン"
         lodestone:
           id: fa45b1945d0
           url: /lodestone/playguide/db/npc/enemy/fa45b1945d0/

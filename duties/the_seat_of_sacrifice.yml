@@ -1,8 +1,8 @@
 name:
-  en: 'The Seat of Sacrifice'
-  fr: 'Le Trône du Sacrifice'
-  de: 'Krieger des Lichts'
-  ja: 'ウォーリア・オブ・ライト討滅戦'
+  en: "The Seat of Sacrifice"
+  fr: "Le Trône du Sacrifice"
+  de: "Krieger des Lichts"
+  ja: "ウォーリア・オブ・ライト討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Warrior Of Light'
-          fr: 'Guerrier de la Lumière primordial'
-          de: 'Krieger des Lichts'
-          ja: 'ウォーリア・オブ・ライト'
+          en: "Warrior Of Light"
+          fr: "Guerrier de la Lumière primordial"
+          de: "Krieger des Lichts"
+          ja: "ウォーリア・オブ・ライト"
         lodestone:
           id: 66e1a6bbc85
           url: /lodestone/playguide/db/npc/enemy/66e1a6bbc85/

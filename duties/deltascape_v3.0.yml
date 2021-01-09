@@ -1,8 +1,8 @@
 name:
-  en: 'Deltascape V3.0'
-  fr: 'Deltastice v3.0'
-  de: 'Deltametrie 3.0'
-  ja: '次元の狭間オメガ：デルタ編3'
+  en: "Deltascape V3.0"
+  fr: "Deltastice v3.0"
+  de: "Deltametrie 3.0"
+  ja: "次元の狭間オメガ：デルタ編3"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Halicarnassus'
-          fr: 'Halicarnasse'
-          de: 'Halikarnassos'
-          ja: 'ハリカルナッソス'
+          en: "Halicarnassus"
+          fr: "Halicarnasse"
+          de: "Halikarnassos"
+          ja: "ハリカルナッソス"
         lodestone:
           id: 5cce34b519c
           url: /lodestone/playguide/db/npc/enemy/5cce34b519c/

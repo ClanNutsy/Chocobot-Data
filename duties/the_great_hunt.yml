@@ -1,8 +1,8 @@
 name:
-  en: 'The Great Hunt'
-  fr: 'Chasse au Rathalos'
-  de: 'Jagd auf Rathalos'
-  ja: 'リオレウス狩猟戦'
+  en: "The Great Hunt"
+  fr: "Chasse au Rathalos"
+  de: "Jagd auf Rathalos"
+  ja: "リオレウス狩猟戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Rathalos'
-          fr: 'Rathalos'
-          de: 'Rathalos'
-          ja: 'リオレウス'
+          en: "Rathalos"
+          fr: "Rathalos"
+          de: "Rathalos"
+          ja: "リオレウス"
         lodestone:
           id: 5785a982d4e
           url: /lodestone/playguide/db/npc/enemy/5785a982d4e/

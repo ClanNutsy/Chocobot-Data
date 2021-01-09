@@ -1,8 +1,8 @@
 name:
-  en: 'Deltascape V2.0'
-  fr: 'Deltastice v2.0'
-  de: 'Deltametrie 2.0'
-  ja: '次元の狭間オメガ：デルタ編2'
+  en: "Deltascape V2.0"
+  fr: "Deltastice v2.0"
+  de: "Deltametrie 2.0"
+  ja: "次元の狭間オメガ：デルタ編2"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Catastrophe'
-          fr: 'Catastrophe'
-          de: 'Katastroph'
-          ja: 'カタストロフィー'
+          en: "Catastrophe"
+          fr: "Catastrophe"
+          de: "Katastroph"
+          ja: "カタストロフィー"
         lodestone:
           id: 0af49be3711
           url: /lodestone/playguide/db/npc/enemy/0af49be3711/

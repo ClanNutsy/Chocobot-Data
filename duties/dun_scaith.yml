@@ -1,8 +1,8 @@
 name:
-  en: 'Dun Scaith'
-  fr: 'Dun Scaith'
-  de: 'Dun Scaith'
-  ja: '影の国ダン・スカー'
+  en: "Dun Scaith"
+  fr: "Dun Scaith"
+  de: "Dun Scaith"
+  ja: "影の国ダン・スカー"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Deathgaze Hollow'
-          fr: 'Mortalis nihil'
-          de: 'Nihil-Thanatos'
-          ja: 'デスゲイズ・ホロー'
+          en: "Deathgaze Hollow"
+          fr: "Mortalis nihil"
+          de: "Nihil-Thanatos"
+          ja: "デスゲイズ・ホロー"
         lodestone:
           id: 77ac5137c68
           url: /lodestone/playguide/db/npc/enemy/77ac5137c68/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Ferdiad Hollow'
-          fr: 'Ferdiad nihil'
-          de: 'Nihil-Ferdiad'
-          ja: 'フェルディア・ホロー'
+          en: "Ferdiad Hollow"
+          fr: "Ferdiad nihil"
+          de: "Nihil-Ferdiad"
+          ja: "フェルディア・ホロー"
         lodestone:
           id: fa67cd848ba
           url: /lodestone/playguide/db/npc/enemy/fa67cd848ba/
@@ -82,18 +82,18 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Scathach'
-          fr: 'Scáthach'
-          de: 'Scathach'
-          ja: 'スカアハ'
+          en: "Scathach"
+          fr: "Scáthach"
+          de: "Scathach"
+          ja: "スカアハ"
         lodestone:
           id: 7f0aa671d6a
           url: /lodestone/playguide/db/npc/enemy/7f0aa671d6a/
       - name:
-          en: 'Connla'
-          fr: 'Connla'
-          de: 'Connla'
-          ja: 'コンラ'
+          en: "Connla"
+          fr: "Connla"
+          de: "Connla"
+          ja: "コンラ"
         lodestone:
           id: 1307358c3e2
           url: /lodestone/playguide/db/npc/enemy/1307358c3e2/
@@ -123,10 +123,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Diabolos'
-          fr: 'Diabolos'
-          de: 'Diabolos'
-          ja: 'ディアボロス'
+          en: "Diabolos"
+          fr: "Diabolos"
+          de: "Diabolos"
+          ja: "ディアボロス"
         lodestone:
           id: aa08efa410b
           url: /lodestone/playguide/db/npc/enemy/aa08efa410b/

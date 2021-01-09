@@ -1,8 +1,8 @@
 name:
-  en: 'Eden's Verse: Iconoclasm (Savage)'
-  fr: 'Les Accords d'Éden - Iconoclasme (sadique)'
-  de: 'Edens Resonanz - Bildersturm (episch)'
-  ja: '希望の園エデン零式：共鳴編3'
+  en: "Eden's Verse: Iconoclasm (Savage)"
+  fr: "Les Accords d'Éden - Iconoclasme (sadique)"
+  de: "Edens Resonanz - Bildersturm (episch)"
+  ja: "希望の園エデン零式：共鳴編3"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'The Idol Of Darkness'
-          fr: 'Idole des Ténèbres'
-          de: 'Götzenbild der Dunkelheit'
-          ja: 'ダークアイドル'
+          en: "The Idol Of Darkness"
+          fr: "Idole des Ténèbres"
+          de: "Götzenbild der Dunkelheit"
+          ja: "ダークアイドル"
         lodestone:
           id: 0221550c79c
           url: /lodestone/playguide/db/npc/enemy/0221550c79c/

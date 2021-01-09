@@ -1,8 +1,8 @@
 name:
-  en: 'The <i>Whorleater</i> (Hard)'
-  fr: 'Le Briseur de marées (brutal)'
-  de: 'Götterdämmerung - Leviathan'
-  ja: '真リヴァイアサン討滅戦'
+  en: "The <i>Whorleater</i> (Hard)"
+  fr: "Le Briseur de marées (brutal)"
+  de: "Götterdämmerung - Leviathan"
+  ja: "真リヴァイアサン討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Leviathan'
-          fr: 'Léviathan'
-          de: 'Leviathan'
-          ja: 'リヴァイアサン'
+          en: "Leviathan"
+          fr: "Léviathan"
+          de: "Leviathan"
+          ja: "リヴァイアサン"
         lodestone:
           id: c6615d6c85b
           url: /lodestone/playguide/db/npc/enemy/c6615d6c85b/

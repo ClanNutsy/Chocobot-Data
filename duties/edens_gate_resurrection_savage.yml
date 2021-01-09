@@ -1,8 +1,8 @@
 name:
-  en: 'Eden's Gate: Resurrection (Savage)'
-  fr: 'L'Éveil d'Éden - Résurrection (sadique)'
-  de: 'Edens Erwachen - Auferstehung (episch)'
-  ja: '希望の園エデン零式：覚醒編1'
+  en: "Eden's Gate: Resurrection (Savage)"
+  fr: "L'Éveil d'Éden - Résurrection (sadique)"
+  de: "Edens Erwachen - Auferstehung (episch)"
+  ja: "希望の園エデン零式：覚醒編1"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Eden Prime'
-          fr: 'Primo-Éden'
-          de: 'Prim-Eden'
-          ja: 'エデン・プライム'
+          en: "Eden Prime"
+          fr: "Primo-Éden"
+          de: "Prim-Eden"
+          ja: "エデン・プライム"
         lodestone:
           id: eeac650e82f
           url: /lodestone/playguide/db/npc/enemy/eeac650e82f/

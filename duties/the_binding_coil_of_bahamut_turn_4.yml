@@ -1,8 +1,8 @@
 name:
-  en: 'The Binding Coil of Bahamut - Turn 4'
-  fr: 'Le Labyrinthe de Bahamut IV'
-  de: 'Verschlungene Schatten 4'
-  ja: '大迷宮バハムート：邂逅編4'
+  en: "The Binding Coil of Bahamut - Turn 4"
+  fr: "Le Labyrinthe de Bahamut IV"
+  de: "Verschlungene Schatten 4"
+  ja: "大迷宮バハムート：邂逅編4"
 type: Raid
 tags: []
 lodestone:
@@ -16,42 +16,42 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Clockwork Bug'
-          fr: 'Insecte mécanique'
-          de: 'Uhrwerk-Wanze'
-          ja: 'アラガンワーク・バグ'
+          en: "Clockwork Bug"
+          fr: "Insecte mécanique"
+          de: "Uhrwerk-Wanze"
+          ja: "アラガンワーク・バグ"
         lodestone:
           id: ae70ffa43f4
           url: /lodestone/playguide/db/npc/enemy/ae70ffa43f4/
       - name:
-          en: 'Clockwork Dreadnaught'
-          fr: 'Cuirassé Dreadnaught'
-          de: 'Brummonaut'
-          ja: 'ドレッドノート'
+          en: "Clockwork Dreadnaught"
+          fr: "Cuirassé Dreadnaught"
+          de: "Brummonaut"
+          ja: "ドレッドノート"
         lodestone:
           id: 7842504153d
           url: /lodestone/playguide/db/npc/enemy/7842504153d/
       - name:
-          en: 'Clockwork Knight'
-          fr: 'Chevalier mécanique'
-          de: 'Uhrwerk-Ritter'
-          ja: 'アラガンワーク・ナイト'
+          en: "Clockwork Knight"
+          fr: "Chevalier mécanique"
+          de: "Uhrwerk-Ritter"
+          ja: "アラガンワーク・ナイト"
         lodestone:
           id: d79c3f775a0
           url: /lodestone/playguide/db/npc/enemy/d79c3f775a0/
       - name:
-          en: 'Clockwork Soldier'
-          fr: 'Soldat mécanique'
-          de: 'Uhrwerk-Soldat'
-          ja: 'アラガンワーク・ソルジャー'
+          en: "Clockwork Soldier"
+          fr: "Soldat mécanique"
+          de: "Uhrwerk-Soldat"
+          ja: "アラガンワーク・ソルジャー"
         lodestone:
           id: 24b8c838f09
           url: /lodestone/playguide/db/npc/enemy/24b8c838f09/
       - name:
-          en: 'Spinner-rook'
-          fr: 'Drone-drille'
-          de: 'Drehturm'
-          ja: 'ルークスピナー'
+          en: "Spinner-rook"
+          fr: "Drone-drille"
+          de: "Drehturm"
+          ja: "ルークスピナー"
         lodestone:
           id: a17cafa5b89
           url: /lodestone/playguide/db/npc/enemy/a17cafa5b89/

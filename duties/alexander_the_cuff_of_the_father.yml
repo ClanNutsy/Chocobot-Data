@@ -1,8 +1,8 @@
 name:
-  en: 'Alexander - The Cuff of the Father'
-  fr: 'Alexander - Le Poignet du Père'
-  de: 'Alexander - Elle des Vaters'
-  ja: '機工城アレキサンダー：起動編2'
+  en: "Alexander - The Cuff of the Father"
+  fr: "Alexander - Le Poignet du Père"
+  de: "Alexander - Elle des Vaters"
+  ja: "機工城アレキサンダー：起動編2"
 type: Raid
 tags: []
 lodestone:
@@ -16,58 +16,58 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Boomtype Magitek Gobwalker G-VII'
-          fr: 'Gobblindé magitek G-VII Boumbardier'
-          de: 'Gobumm-Stampfer VII'
-          ja: 'VII号ゴブリウォーカーB型'
+          en: "Boomtype Magitek Gobwalker G-VII"
+          fr: "Gobblindé magitek G-VII Boumbardier"
+          de: "Gobumm-Stampfer VII"
+          ja: "VII号ゴブリウォーカーB型"
         lodestone:
           id: 71dd85bf241
           url: /lodestone/playguide/db/npc/enemy/71dd85bf241/
       - name:
-          en: 'Gordian Hardhelm'
-          fr: 'Casque-dur gordien'
-          de: 'Gordios-Harthelm'
-          ja: 'ゴルディオス・ハードヘルム'
+          en: "Gordian Hardhelm"
+          fr: "Casque-dur gordien"
+          de: "Gordios-Harthelm"
+          ja: "ゴルディオス・ハードヘルム"
         lodestone:
           id: 299a28ffe2d
           url: /lodestone/playguide/db/npc/enemy/299a28ffe2d/
       - name:
-          en: 'Gordian Hardmind'
-          fr: 'Cerveau-dur gordien'
-          de: 'Gordios-Sturschale'
-          ja: 'ゴルディオス・ハードマインド'
+          en: "Gordian Hardmind"
+          fr: "Cerveau-dur gordien"
+          de: "Gordios-Sturschale"
+          ja: "ゴルディオス・ハードマインド"
         lodestone:
           id: b738c8c01de
           url: /lodestone/playguide/db/npc/enemy/b738c8c01de/
       - name:
-          en: 'Gordian Sniper'
-          fr: 'Sniper gordien'
-          de: 'Indigohand-Scharfschütze'
-          ja: 'ゴルディオス・スナイパー'
+          en: "Gordian Sniper"
+          fr: "Sniper gordien"
+          de: "Indigohand-Scharfschütze"
+          ja: "ゴルディオス・スナイパー"
         lodestone:
           id: 0e95da2438b
           url: /lodestone/playguide/db/npc/enemy/0e95da2438b/
       - name:
-          en: 'Gordian Soldier'
-          fr: 'Soldat gordien'
-          de: 'Gordios-Soldat'
-          ja: 'ゴルディオス・ソルジャー'
+          en: "Gordian Soldier"
+          fr: "Soldat gordien"
+          de: "Gordios-Soldat"
+          ja: "ゴルディオス・ソルジャー"
         lodestone:
           id: 76f5236b6bd
           url: /lodestone/playguide/db/npc/enemy/76f5236b6bd/
       - name:
-          en: 'Jagd Doll'
-          fr: 'Poupée jagd'
-          de: 'Jagdpuppe'
-          ja: 'ヤークトドール'
+          en: "Jagd Doll"
+          fr: "Poupée jagd"
+          de: "Jagdpuppe"
+          ja: "ヤークトドール"
         lodestone:
           id: c9357fe3090
           url: /lodestone/playguide/db/npc/enemy/c9357fe3090/
       - name:
-          en: 'Magitek Gobwidow G-IX'
-          fr: 'Gobmygale magitek G-IX'
-          de: 'Gob-Witwe IX'
-          ja: 'IX号ゴブリウィドー'
+          en: "Magitek Gobwidow G-IX"
+          fr: "Gobmygale magitek G-IX"
+          de: "Gob-Witwe IX"
+          ja: "IX号ゴブリウィドー"
         lodestone:
           id: 0282ff3489e
           url: /lodestone/playguide/db/npc/enemy/0282ff3489e/

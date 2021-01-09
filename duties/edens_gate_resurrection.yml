@@ -1,8 +1,8 @@
 name:
-  en: 'Eden's Gate: Resurrection'
-  fr: 'L'Éveil d'Éden - Résurrection'
-  de: 'Edens Erwachen - Auferstehung'
-  ja: '希望の園エデン：覚醒編1'
+  en: "Eden's Gate: Resurrection"
+  fr: "L'Éveil d'Éden - Résurrection"
+  de: "Edens Erwachen - Auferstehung"
+  ja: "希望の園エデン：覚醒編1"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Eden Prime'
-          fr: 'Primo-Éden'
-          de: 'Prim-Eden'
-          ja: 'エデン・プライム'
+          en: "Eden Prime"
+          fr: "Primo-Éden"
+          de: "Prim-Eden"
+          ja: "エデン・プライム"
         lodestone:
           id: 0112af1d455
           url: /lodestone/playguide/db/npc/enemy/0112af1d455/

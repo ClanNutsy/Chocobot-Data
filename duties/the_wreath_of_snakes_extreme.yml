@@ -1,8 +1,8 @@
 name:
-  en: 'The Wreath of Snakes (Extreme)'
-  fr: 'L'Îlot des Amertumes (extrême)'
-  de: 'Seelensturm - Seiryu'
-  ja: '極青龍征魂戦'
+  en: "The Wreath of Snakes (Extreme)"
+  fr: "L'Îlot des Amertumes (extrême)"
+  de: "Seelensturm - Seiryu"
+  ja: "極青龍征魂戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Seiryu'
-          fr: 'Seiryû'
-          de: 'Seiryu'
-          ja: '青龍'
+          en: "Seiryu"
+          fr: "Seiryû"
+          de: "Seiryu"
+          ja: "青龍"
         lodestone:
           id: 142085e482c
           url: /lodestone/playguide/db/npc/enemy/142085e482c/

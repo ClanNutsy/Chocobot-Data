@@ -1,8 +1,8 @@
 name:
-  en: 'The Final Coil of Bahamut - Turn 4'
-  fr: 'L'Abîme de Bahamut IV'
-  de: 'Verschlungene Schatten 3 - 4'
-  ja: '大迷宮バハムート：真成編4'
+  en: "The Final Coil of Bahamut - Turn 4"
+  fr: "L'Abîme de Bahamut IV"
+  de: "Verschlungene Schatten 3 - 4"
+  ja: "大迷宮バハムート：真成編4"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Bahamut Prime'
-          fr: 'Primo-Bahamut'
-          de: 'Prim-Bahamut'
-          ja: 'バハムート・プライム'
+          en: "Bahamut Prime"
+          fr: "Primo-Bahamut"
+          de: "Prim-Bahamut"
+          ja: "バハムート・プライム"
         lodestone:
           id: 9e83ee0d9d4
           url: /lodestone/playguide/db/npc/enemy/9e83ee0d9d4/

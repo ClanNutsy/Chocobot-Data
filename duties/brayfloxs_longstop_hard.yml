@@ -1,8 +1,8 @@
 name:
-  en: 'Brayflox's Longstop (Hard)'
-  fr: 'Le Bivouac de Brayflox (brutal)'
-  de: 'Brüllvolx' Langrast (schwer)'
-  ja: '盟友支援 ブレイフロクスの野営地 (Hard)'
+  en: "Brayflox's Longstop (Hard)"
+  fr: "Le Bivouac de Brayflox (brutal)"
+  de: "Brüllvolx' Langrast (schwer)"
+  ja: "盟友支援 ブレイフロクスの野営地 (Hard)"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Illuminati Commander'
-          fr: 'Commandant de la Main indigo'
-          de: 'Indigohand-Kommandant'
-          ja: 'ブルーハンド・コマンダー'
+          en: "Illuminati Commander"
+          fr: "Commandant de la Main indigo"
+          de: "Indigohand-Kommandant"
+          ja: "ブルーハンド・コマンダー"
         lodestone:
           id: b222cd6e226
           url: /lodestone/playguide/db/npc/enemy/b222cd6e226/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Magitek Vangob G-III'
-          fr: 'Gobavant-garde magitek G-III'
-          de: 'Magitek-Gobbrecher III'
-          ja: 'III号ゴブリガード'
+          en: "Magitek Vangob G-III"
+          fr: "Gobavant-garde magitek G-III"
+          de: "Magitek-Gobbrecher III"
+          ja: "III号ゴブリガード"
         lodestone:
           id: cf7c495439b
           url: /lodestone/playguide/db/npc/enemy/cf7c495439b/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Gobmachine G-VI'
-          fr: 'Gobtank G-VI'
-          de: 'Gobmaschine VI'
-          ja: 'VI号ゴブリタンク'
+          en: "Gobmachine G-VI"
+          fr: "Gobtank G-VI"
+          de: "Gobmaschine VI"
+          ja: "VI号ゴブリタンク"
         lodestone:
           id: 356d6732e86
           url: /lodestone/playguide/db/npc/enemy/356d6732e86/

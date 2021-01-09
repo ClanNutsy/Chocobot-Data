@@ -1,8 +1,8 @@
 name:
-  en: 'The Second Coil of Bahamut (Savage) - Turn 1'
-  fr: 'Les Méandres de Bahamut I (sadique)'
-  de: 'Verschlungene Schatten 2 - 1 (episch)'
-  ja: '大迷宮バハムート零式：侵攻編1'
+  en: "The Second Coil of Bahamut (Savage) - Turn 1"
+  fr: "Les Méandres de Bahamut I (sadique)"
+  de: "Verschlungene Schatten 2 - 1 (episch)"
+  ja: "大迷宮バハムート零式：侵攻編1"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Rafflesia'
-          fr: 'Rafflesia'
-          de: 'Rafflesia'
-          ja: 'ラフレシア'
+          en: "Rafflesia"
+          fr: "Rafflesia"
+          de: "Rafflesia"
+          ja: "ラフレシア"
         lodestone:
           id: 212e8c1d13d
           url: /lodestone/playguide/db/npc/enemy/212e8c1d13d/

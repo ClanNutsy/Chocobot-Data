@@ -1,8 +1,8 @@
 name:
-  en: 'The Aetherochemical Research Facility'
-  fr: 'Le Laboratoire de magismologie'
-  de: 'Ätherochemisches Forschungslabor'
-  ja: '蒼天聖戦 魔科学研究所'
+  en: "The Aetherochemical Research Facility"
+  fr: "Le Laboratoire de magismologie"
+  de: "Ätherochemisches Forschungslabor"
+  ja: "蒼天聖戦 魔科学研究所"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Regula Van Hydrus'
-          fr: 'Regula van Hydrus'
-          de: 'Regula van Hydrus'
-          ja: 'レグラ・ヴァン・ヒュドルス'
+          en: "Regula Van Hydrus"
+          fr: "Regula van Hydrus"
+          de: "Regula van Hydrus"
+          ja: "レグラ・ヴァン・ヒュドルス"
         lodestone:
           id: 8c77f6f1ca2
           url: /lodestone/playguide/db/npc/enemy/8c77f6f1ca2/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Harmachis'
-          fr: 'Horemakhet'
-          de: 'Harmachis'
-          ja: 'ハルマキス'
+          en: "Harmachis"
+          fr: "Horemakhet"
+          de: "Harmachis"
+          ja: "ハルマキス"
         lodestone:
           id: f1c9aa11855
           url: /lodestone/playguide/db/npc/enemy/f1c9aa11855/
@@ -82,18 +82,18 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Igeyorhm'
-          fr: 'Igeyorhm'
-          de: 'Igeyorhm'
-          ja: 'アシエン・イゲオルム'
+          en: "Igeyorhm"
+          fr: "Igeyorhm"
+          de: "Igeyorhm"
+          ja: "アシエン・イゲオルム"
         lodestone:
           id: 1641d4789a6
           url: /lodestone/playguide/db/npc/enemy/1641d4789a6/
       - name:
-          en: 'Lahabrea'
-          fr: 'Lahabrea'
-          de: 'Lahabrea'
-          ja: 'アシエン・ラハブレア'
+          en: "Lahabrea"
+          fr: "Lahabrea"
+          de: "Lahabrea"
+          ja: "アシエン・ラハブレア"
         lodestone:
           id: 0f456c2eefa
           url: /lodestone/playguide/db/npc/enemy/0f456c2eefa/
@@ -123,10 +123,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Ascian Prime'
-          fr: 'Primo-Ascien'
-          de: 'Prim-Ascian'
-          ja: 'アシエン・プライム'
+          en: "Ascian Prime"
+          fr: "Primo-Ascien"
+          de: "Prim-Ascian"
+          ja: "アシエン・プライム"
         lodestone:
           id: 0fe407f9ceb
           url: /lodestone/playguide/db/npc/enemy/0fe407f9ceb/

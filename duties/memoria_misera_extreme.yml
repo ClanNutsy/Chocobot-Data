@@ -1,8 +1,8 @@
 name:
-  en: 'Memoria Misera (Extreme)'
-  fr: 'Memoria Misera (extrême)'
-  de: 'Memoria Misera (extrem)'
-  ja: '極シタデル・ボズヤ追憶戦'
+  en: "Memoria Misera (Extreme)"
+  fr: "Memoria Misera (extrême)"
+  de: "Memoria Misera (extrem)"
+  ja: "極シタデル・ボズヤ追憶戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Varis Yae Galvus'
-          fr: 'Varis yae Galvus'
-          de: 'Varis yae Galvus'
-          ja: 'ヴァリス・イェー・ガルヴァス'
+          en: "Varis Yae Galvus"
+          fr: "Varis yae Galvus"
+          de: "Varis yae Galvus"
+          ja: "ヴァリス・イェー・ガルヴァス"
         lodestone:
           id: 2ae4ed83f53
           url: /lodestone/playguide/db/npc/enemy/2ae4ed83f53/

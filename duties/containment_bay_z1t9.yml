@@ -1,8 +1,8 @@
 name:
-  en: 'Containment Bay Z1T9'
-  fr: 'Unité de contention Z1P9'
-  de: 'Götterdämmerung - Zurvan'
-  ja: '鬼神ズルワーン討滅戦'
+  en: "Containment Bay Z1T9"
+  fr: "Unité de contention Z1P9"
+  de: "Götterdämmerung - Zurvan"
+  ja: "鬼神ズルワーン討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Zurvan'
-          fr: 'Zurvan'
-          de: 'Zurvan'
-          ja: 'ズルワーン'
+          en: "Zurvan"
+          fr: "Zurvan"
+          de: "Zurvan"
+          ja: "ズルワーン"
         lodestone:
           id: b9fb8499c78
           url: /lodestone/playguide/db/npc/enemy/b9fb8499c78/

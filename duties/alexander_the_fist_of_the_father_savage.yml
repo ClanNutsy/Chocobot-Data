@@ -1,8 +1,8 @@
 name:
-  en: 'Alexander - The Fist of the Father (Savage)'
-  fr: 'Alexander - Le Poing du Père (sadique)'
-  de: 'Alexander - Faust des Vaters (episch)'
-  ja: '機工城アレキサンダー零式：起動編1'
+  en: "Alexander - The Fist of the Father (Savage)"
+  fr: "Alexander - Le Poing du Père (sadique)"
+  de: "Alexander - Faust des Vaters (episch)"
+  ja: "機工城アレキサンダー零式：起動編1"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Oppressor'
-          fr: 'Oppresseur'
-          de: 'Unterdrücker'
-          ja: 'オプレッサー'
+          en: "Oppressor"
+          fr: "Oppresseur"
+          de: "Unterdrücker"
+          ja: "オプレッサー"
         lodestone:
           id: 87b15eca7b5
           url: /lodestone/playguide/db/npc/enemy/87b15eca7b5/

@@ -1,8 +1,8 @@
 name:
-  en: 'The Second Coil of Bahamut - Turn 4'
-  fr: 'Les Méandres de Bahamut IV'
-  de: 'Verschlungene Schatten 2 - 4'
-  ja: '大迷宮バハムート：侵攻編4'
+  en: "The Second Coil of Bahamut - Turn 4"
+  fr: "Les Méandres de Bahamut IV"
+  de: "Verschlungene Schatten 2 - 4"
+  ja: "大迷宮バハムート：侵攻編4"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Nael Deus Darnus'
-          fr: 'Nael deus Darnus'
-          de: 'Nael deus Darnus'
-          ja: 'ネール・デウス・ダーナス'
+          en: "Nael Deus Darnus"
+          fr: "Nael deus Darnus"
+          de: "Nael deus Darnus"
+          ja: "ネール・デウス・ダーナス"
         lodestone:
           id: e3ca09cb201
           url: /lodestone/playguide/db/npc/enemy/e3ca09cb201/

@@ -1,8 +1,8 @@
 name:
-  en: 'The Second Coil of Bahamut (Savage) - Turn 2'
-  fr: 'Les Méandres de Bahamut II (sadique)'
-  de: 'Verschlungene Schatten 2 - 2 (episch)'
-  ja: '大迷宮バハムート零式：侵攻編2'
+  en: "The Second Coil of Bahamut (Savage) - Turn 2"
+  fr: "Les Méandres de Bahamut II (sadique)"
+  de: "Verschlungene Schatten 2 - 2 (episch)"
+  ja: "大迷宮バハムート零式：侵攻編2"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Melusine'
-          fr: 'Mélusine'
-          de: 'Melusine'
-          ja: 'メリュジーヌ'
+          en: "Melusine"
+          fr: "Mélusine"
+          de: "Melusine"
+          ja: "メリュジーヌ"
         lodestone:
           id: f994c6754e5
           url: /lodestone/playguide/db/npc/enemy/f994c6754e5/

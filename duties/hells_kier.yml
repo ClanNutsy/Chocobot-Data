@@ -1,8 +1,8 @@
 name:
-  en: 'Hells' Kier'
-  fr: 'Le Nid des Lamentations'
-  de: 'Seelentanz - Suzaku'
-  ja: '朱雀征魂戦'
+  en: "Hells' Kier"
+  fr: "Le Nid des Lamentations"
+  de: "Seelentanz - Suzaku"
+  ja: "朱雀征魂戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,18 +16,18 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Suzaku'
-          fr: 'Suzaku'
-          de: 'Suzaku'
-          ja: '朱雀'
+          en: "Suzaku"
+          fr: "Suzaku"
+          de: "Suzaku"
+          ja: "朱雀"
         lodestone:
           id: 7047b8c4a38
           url: /lodestone/playguide/db/npc/enemy/7047b8c4a38/
       - name:
-          en: 'Scarlet Lady'
-          fr: 'Oiseau de feu'
-          de: 'Flammenvogel'
-          ja: '火焔鳥'
+          en: "Scarlet Lady"
+          fr: "Oiseau de feu"
+          de: "Flammenvogel"
+          ja: "火焔鳥"
         lodestone:
           id: 316e47aad6c
           url: /lodestone/playguide/db/npc/enemy/316e47aad6c/

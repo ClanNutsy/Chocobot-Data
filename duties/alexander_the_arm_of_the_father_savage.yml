@@ -1,8 +1,8 @@
 name:
-  en: 'Alexander - The Arm of the Father (Savage)'
-  fr: 'Alexander - Le Bras du Père (sadique)'
-  de: 'Alexander - Arm des Vaters (episch)'
-  ja: '機工城アレキサンダー零式：起動編3'
+  en: "Alexander - The Arm of the Father (Savage)"
+  fr: "Alexander - Le Bras du Père (sadique)"
+  de: "Alexander - Arm des Vaters (episch)"
+  ja: "機工城アレキサンダー零式：起動編3"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Living Liquid'
-          fr: 'Liquide vivant'
-          de: 'Belebtes Wasser'
-          ja: 'リビングリキッド'
+          en: "Living Liquid"
+          fr: "Liquide vivant"
+          de: "Belebtes Wasser"
+          ja: "リビングリキッド"
         lodestone:
           id: 2ce2f2432d8
           url: /lodestone/playguide/db/npc/enemy/2ce2f2432d8/

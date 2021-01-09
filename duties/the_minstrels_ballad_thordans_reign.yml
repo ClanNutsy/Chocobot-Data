@@ -1,8 +1,8 @@
 name:
-  en: 'The Minstrel's Ballad: Thordan's Reign'
-  fr: 'Le règne de Thordan'
-  de: 'Heldenlied von Thordans Fall'
-  ja: '蒼天幻想 ナイツ・オブ・ラウンド討滅戦'
+  en: "The Minstrel's Ballad: Thordan's Reign"
+  fr: "Le règne de Thordan"
+  de: "Heldenlied von Thordans Fall"
+  ja: "蒼天幻想 ナイツ・オブ・ラウンド討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'King Thordan'
-          fr: 'Roi Thordan'
-          de: 'Thordan'
-          ja: '騎神トールダン'
+          en: "King Thordan"
+          fr: "Roi Thordan"
+          de: "Thordan"
+          ja: "騎神トールダン"
         lodestone:
           id: 7a34613ae2d
           url: /lodestone/playguide/db/npc/enemy/7a34613ae2d/

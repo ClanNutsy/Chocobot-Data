@@ -1,8 +1,8 @@
 name:
-  en: 'The Bowl of Embers (Extreme)'
-  fr: 'Le Cratère des tisons (extrême)'
-  de: 'Zenit der Götter - Ifrit'
-  ja: '極イフリート討滅戦'
+  en: "The Bowl of Embers (Extreme)"
+  fr: "Le Cratère des tisons (extrême)"
+  de: "Zenit der Götter - Ifrit"
+  ja: "極イフリート討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Ifrit'
-          fr: 'Ifrit'
-          de: 'Ifrit'
-          ja: 'イフリート'
+          en: "Ifrit"
+          fr: "Ifrit"
+          de: "Ifrit"
+          ja: "イフリート"
         lodestone:
           id: 4ec28894427
           url: /lodestone/playguide/db/npc/enemy/4ec28894427/

@@ -1,8 +1,8 @@
 name:
-  en: 'Haukke Manor (Hard)'
-  fr: 'Le Manoir des Haukke (brutal)'
-  de: 'Haukke-Herrenhaus (schwer)'
-  ja: '妖異屋敷 ハウケタ御用邸 (Hard)'
+  en: "Haukke Manor (Hard)"
+  fr: "Le Manoir des Haukke (brutal)"
+  de: "Haukke-Herrenhaus (schwer)"
+  ja: "妖異屋敷 ハウケタ御用邸 (Hard)"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Manor Jester'
-          fr: 'Bouffon du manoir'
-          de: 'Hofnarr'
-          ja: '御用邸の道化師'
+          en: "Manor Jester"
+          fr: "Bouffon du manoir"
+          de: "Hofnarr"
+          ja: "御用邸の道化師"
         lodestone:
           id: 523b5036844
           url: /lodestone/playguide/db/npc/enemy/523b5036844/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Ash'
-          fr: 'Astaroth'
-          de: 'Ashur'
-          ja: 'アッシュ'
+          en: "Ash"
+          fr: "Astaroth"
+          de: "Ashur"
+          ja: "アッシュ"
         lodestone:
           id: 5cccab7df4b
           url: /lodestone/playguide/db/npc/enemy/5cccab7df4b/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Halicarnassus'
-          fr: 'Halicarnasse'
-          de: 'Halikarnassos'
-          ja: 'ハリカルナッソス'
+          en: "Halicarnassus"
+          fr: "Halicarnasse"
+          de: "Halikarnassos"
+          ja: "ハリカルナッソス"
         lodestone:
           id: 1b7b19482c4
           url: /lodestone/playguide/db/npc/enemy/1b7b19482c4/

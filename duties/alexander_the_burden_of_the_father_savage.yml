@@ -1,8 +1,8 @@
 name:
-  en: 'Alexander - The Burden of the Father (Savage)'
-  fr: 'Alexander - Le Fardeau du Père (sadique)'
-  de: 'Alexander - Last des Vaters (episch)'
-  ja: '機工城アレキサンダー零式：起動編4'
+  en: "Alexander - The Burden of the Father (Savage)"
+  fr: "Alexander - Le Fardeau du Père (sadique)"
+  de: "Alexander - Last des Vaters (episch)"
+  ja: "機工城アレキサンダー零式：起動編4"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'The Manipulator'
-          fr: 'Manipulateur'
-          de: 'Manipulator'
-          ja: 'マニピュレーター'
+          en: "The Manipulator"
+          fr: "Manipulateur"
+          de: "Manipulator"
+          ja: "マニピュレーター"
         lodestone:
           id: dc8adcab0ee
           url: /lodestone/playguide/db/npc/enemy/dc8adcab0ee/

@@ -1,8 +1,8 @@
 name:
-  en: 'The Weeping City of Mhach'
-  fr: 'La Cité défendue de Mhach'
-  de: 'Die Stadt der Tränen'
-  ja: '禁忌都市マハ'
+  en: "The Weeping City of Mhach"
+  fr: "La Cité défendue de Mhach"
+  de: "Die Stadt der Tränen"
+  ja: "禁忌都市マハ"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Arachne Eve'
-          fr: 'Arachné mère'
-          de: 'Arachne die Ahnin'
-          ja: 'アルケニー'
+          en: "Arachne Eve"
+          fr: "Arachné mère"
+          de: "Arachne die Ahnin"
+          ja: "アルケニー"
         lodestone:
           id: 5f9de4f1bc3
           url: /lodestone/playguide/db/npc/enemy/5f9de4f1bc3/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Forgall'
-          fr: 'Forgall'
-          de: 'Forgall'
-          ja: 'フォルガル'
+          en: "Forgall"
+          fr: "Forgall"
+          de: "Forgall"
+          ja: "フォルガル"
         lodestone:
           id: 6d1c995c9f6
           url: /lodestone/playguide/db/npc/enemy/6d1c995c9f6/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Ozma'
-          fr: 'Ozma'
-          de: 'Yadis'
-          ja: 'オズマ'
+          en: "Ozma"
+          fr: "Ozma"
+          de: "Yadis"
+          ja: "オズマ"
         lodestone:
           id: ba184158705
           url: /lodestone/playguide/db/npc/enemy/ba184158705/
@@ -115,10 +115,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Calofisteri'
-          fr: 'Calofisteri'
-          de: 'Calofisteri'
-          ja: 'カロフィステリ'
+          en: "Calofisteri"
+          fr: "Calofisteri"
+          de: "Calofisteri"
+          ja: "カロフィステリ"
         lodestone:
           id: df65bfc9a90
           url: /lodestone/playguide/db/npc/enemy/df65bfc9a90/

@@ -1,8 +1,8 @@
 name:
-  en: 'Sohm Al'
-  fr: 'Sohm Al'
-  de: 'Sohm Al'
-  ja: '霊峰踏破 ソーム・アル'
+  en: "Sohm Al"
+  fr: "Sohm Al"
+  de: "Sohm Al"
+  ja: "霊峰踏破 ソーム・アル"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Raskovnik'
-          fr: 'Raskovnik'
-          de: 'Raskovnik'
-          ja: 'ラスコヴニク'
+          en: "Raskovnik"
+          fr: "Raskovnik"
+          de: "Raskovnik"
+          ja: "ラスコヴニク"
         lodestone:
           id: c51edfdf2f0
           url: /lodestone/playguide/db/npc/enemy/c51edfdf2f0/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Myath'
-          fr: 'Myath'
-          de: 'Myath'
-          ja: 'マイス'
+          en: "Myath"
+          fr: "Myath"
+          de: "Myath"
+          ja: "マイス"
         lodestone:
           id: 806a9e77762
           url: /lodestone/playguide/db/npc/enemy/806a9e77762/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Tioman'
-          fr: 'Tioman'
-          de: 'Tioman'
-          ja: 'ティオマン'
+          en: "Tioman"
+          fr: "Tioman"
+          de: "Tioman"
+          ja: "ティオマン"
         lodestone:
           id: 850eda141fb
           url: /lodestone/playguide/db/npc/enemy/850eda141fb/

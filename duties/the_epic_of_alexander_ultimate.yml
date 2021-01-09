@@ -1,8 +1,8 @@
 name:
-  en: 'The Epic of Alexander (Ultimate)'
-  fr: 'L'Odyssée d'Alexander (fatal)'
-  de: 'Alexander (fatal)'
-  ja: '絶アレキサンダー討滅戦'
+  en: "The Epic of Alexander (Ultimate)"
+  fr: "L'Odyssée d'Alexander (fatal)"
+  de: "Alexander (fatal)"
+  ja: "絶アレキサンダー討滅戦"
 type: Ultimate Raid
 tags: []
 lodestone:
@@ -16,34 +16,34 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Alexander Prime'
-          fr: 'Primo-Alexander'
-          de: 'Prim-Alexander'
-          ja: 'アレキサンダー・プライム'
+          en: "Alexander Prime"
+          fr: "Primo-Alexander"
+          de: "Prim-Alexander"
+          ja: "アレキサンダー・プライム"
         lodestone:
           id: 1b7681b1a12
           url: /lodestone/playguide/db/npc/enemy/1b7681b1a12/
       - name:
-          en: 'Brute Justice'
-          fr: 'Justicier'
-          de: 'Brutalus'
-          ja: 'ブルートジャスティス'
+          en: "Brute Justice"
+          fr: "Justicier"
+          de: "Brutalus"
+          ja: "ブルートジャスティス"
         lodestone:
           id: bdcce5c5295
           url: /lodestone/playguide/db/npc/enemy/bdcce5c5295/
       - name:
-          en: 'Cruise Chaser'
-          fr: 'Croiseur-chasseur'
-          de: 'Chaser-Mecha'
-          ja: 'クルーズチェイサー'
+          en: "Cruise Chaser"
+          fr: "Croiseur-chasseur"
+          de: "Chaser-Mecha"
+          ja: "クルーズチェイサー"
         lodestone:
           id: 9bf68f501ad
           url: /lodestone/playguide/db/npc/enemy/9bf68f501ad/
       - name:
-          en: 'Living Liquid'
-          fr: 'Liquide vivant'
-          de: 'Belebtes Wasser'
-          ja: 'リビングリキッド'
+          en: "Living Liquid"
+          fr: "Liquide vivant"
+          de: "Belebtes Wasser"
+          ja: "リビングリキッド"
         lodestone:
           id: 6430a075c08
           url: /lodestone/playguide/db/npc/enemy/6430a075c08/

@@ -1,8 +1,8 @@
 name:
-  en: 'The Final Coil of Bahamut - Turn 3'
-  fr: 'L'Abîme de Bahamut III'
-  de: 'Verschlungene Schatten 3 - 3'
-  ja: '大迷宮バハムート：真成編3'
+  en: "The Final Coil of Bahamut - Turn 3"
+  fr: "L'Abîme de Bahamut III"
+  de: "Verschlungene Schatten 3 - 3"
+  ja: "大迷宮バハムート：真成編3"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Phoenix'
-          fr: 'Phénix'
-          de: 'Phönix'
-          ja: 'フェニックス'
+          en: "Phoenix"
+          fr: "Phénix"
+          de: "Phönix"
+          ja: "フェニックス"
         lodestone:
           id: 7d0eff3cfb7
           url: /lodestone/playguide/db/npc/enemy/7d0eff3cfb7/

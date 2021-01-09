@@ -1,8 +1,8 @@
 name:
-  en: 'The Aery'
-  fr: 'L'Aire'
-  de: 'Nest des Drachen'
-  ja: '邪竜血戦 ドラゴンズエアリー'
+  en: "The Aery"
+  fr: "L'Aire"
+  de: "Nest des Drachen"
+  ja: "邪竜血戦 ドラゴンズエアリー"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Rangda'
-          fr: 'Rangda'
-          de: 'Rangda'
-          ja: 'ランダ'
+          en: "Rangda"
+          fr: "Rangda"
+          de: "Rangda"
+          ja: "ランダ"
         lodestone:
           id: 635ab739e2c
           url: /lodestone/playguide/db/npc/enemy/635ab739e2c/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Gyascutus'
-          fr: 'Gyascutus'
-          de: 'Gyascutus'
-          ja: 'グヤスクトゥス'
+          en: "Gyascutus"
+          fr: "Gyascutus"
+          de: "Gyascutus"
+          ja: "グヤスクトゥス"
         lodestone:
           id: 3f05c9e5335
           url: /lodestone/playguide/db/npc/enemy/3f05c9e5335/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Nidhogg'
-          fr: 'Nidhogg'
-          de: 'Nidhogg'
-          ja: 'ニーズヘッグ'
+          en: "Nidhogg"
+          fr: "Nidhogg"
+          de: "Nidhogg"
+          ja: "ニーズヘッグ"
         lodestone:
           id: 49024aa9036
           url: /lodestone/playguide/db/npc/enemy/49024aa9036/

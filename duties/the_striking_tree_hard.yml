@@ -1,8 +1,8 @@
 name:
-  en: 'The Striking Tree (Hard)'
-  fr: 'L'Arbre du jugement (brutal)'
-  de: 'Götterdämmerung - Ramuh'
-  ja: '真ラムウ討滅戦'
+  en: "The Striking Tree (Hard)"
+  fr: "L'Arbre du jugement (brutal)"
+  de: "Götterdämmerung - Ramuh"
+  ja: "真ラムウ討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Ramuh'
-          fr: 'Ramuh'
-          de: 'Ramuh'
-          ja: 'ラムウ'
+          en: "Ramuh"
+          fr: "Ramuh"
+          de: "Ramuh"
+          ja: "ラムウ"
         lodestone:
           id: b01a497fdbf
           url: /lodestone/playguide/db/npc/enemy/b01a497fdbf/

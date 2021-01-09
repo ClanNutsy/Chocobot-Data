@@ -1,8 +1,8 @@
 name:
-  en: 'The Labyrinth of the Ancients'
-  fr: 'La Tour de Cristal - Dédale antique'
-  de: 'Kristallturm - Das Labyrinth der Alten'
-  ja: 'クリスタルタワー：古代の民の迷宮'
+  en: "The Labyrinth of the Ancients"
+  fr: "La Tour de Cristal - Dédale antique"
+  de: "Kristallturm - Das Labyrinth der Alten"
+  ja: "クリスタルタワー：古代の民の迷宮"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Bone Dragon'
-          fr: 'Calcidragon'
-          de: 'Knochendrache'
-          ja: 'ボーンドラゴン'
+          en: "Bone Dragon"
+          fr: "Calcidragon"
+          de: "Knochendrache"
+          ja: "ボーンドラゴン"
         lodestone:
           id: cd4e94063a4
           url: /lodestone/playguide/db/npc/enemy/cd4e94063a4/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Thanatos'
-          fr: 'Thanatos'
-          de: 'Thanatos'
-          ja: 'タナトス'
+          en: "Thanatos"
+          fr: "Thanatos"
+          de: "Thanatos"
+          ja: "タナトス"
         lodestone:
           id: af29a27c084
           url: /lodestone/playguide/db/npc/enemy/af29a27c084/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'King Behemoth'
-          fr: 'Béhémoth roi'
-          de: 'König Behemoth'
-          ja: 'キングベヒーモス'
+          en: "King Behemoth"
+          fr: "Béhémoth roi"
+          de: "König Behemoth"
+          ja: "キングベヒーモス"
         lodestone:
           id: a0a22b29916
           url: /lodestone/playguide/db/npc/enemy/a0a22b29916/
@@ -115,10 +115,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Phlegethon'
-          fr: 'Phlégéthon'
-          de: 'Phlegethon'
-          ja: 'ティターン'
+          en: "Phlegethon"
+          fr: "Phlégéthon"
+          de: "Phlegethon"
+          ja: "ティターン"
         lodestone:
           id: af2706be588
           url: /lodestone/playguide/db/npc/enemy/af2706be588/

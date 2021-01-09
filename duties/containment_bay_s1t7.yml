@@ -1,8 +1,8 @@
 name:
-  en: 'Containment Bay S1T7'
-  fr: 'Unité de contention S1P7'
-  de: 'Götterdämmerung - Sephirot'
-  ja: '魔神セフィロト討滅戦'
+  en: "Containment Bay S1T7"
+  fr: "Unité de contention S1P7"
+  de: "Götterdämmerung - Sephirot"
+  ja: "魔神セフィロト討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Sephirot'
-          fr: 'Sephirot'
-          de: 'Sephirot'
-          ja: 'セフィロト'
+          en: "Sephirot"
+          fr: "Sephirot"
+          de: "Sephirot"
+          ja: "セフィロト"
         lodestone:
           id: aacc550210b
           url: /lodestone/playguide/db/npc/enemy/aacc550210b/

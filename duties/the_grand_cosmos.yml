@@ -1,8 +1,8 @@
 name:
-  en: 'The Grand Cosmos'
-  fr: 'Le Cosmos coruscant'
-  de: 'Chateau Cosmea'
-  ja: '魔法宮殿 グラン・コスモス'
+  en: "The Grand Cosmos"
+  fr: "Le Cosmos coruscant"
+  de: "Chateau Cosmea"
+  ja: "魔法宮殿 グラン・コスモス"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Seeker Of Solitude'
-          fr: 'Ermite du palais'
-          de: 'Einsiedler'
-          ja: '宮殿の隠者'
+          en: "Seeker Of Solitude"
+          fr: "Ermite du palais"
+          de: "Einsiedler"
+          ja: "宮殿の隠者"
         lodestone:
           id: 8936bbec41f
           url: /lodestone/playguide/db/npc/enemy/8936bbec41f/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Leannan Sith'
-          fr: 'Leannan Sith'
-          de: 'Leanan Sidhe'
-          ja: 'リャナンシー'
+          en: "Leannan Sith"
+          fr: "Leannan Sith"
+          de: "Leanan Sidhe"
+          ja: "リャナンシー"
         lodestone:
           id: 89c3082221c
           url: /lodestone/playguide/db/npc/enemy/89c3082221c/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Lugus'
-          fr: 'Lugus'
-          de: 'Lugus'
-          ja: 'ルゴス'
+          en: "Lugus"
+          fr: "Lugus"
+          de: "Lugus"
+          ja: "ルゴス"
         lodestone:
           id: 0ad3b331dd9
           url: /lodestone/playguide/db/npc/enemy/0ad3b331dd9/

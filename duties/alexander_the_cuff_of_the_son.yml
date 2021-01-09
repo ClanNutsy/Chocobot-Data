@@ -1,8 +1,8 @@
 name:
-  en: 'Alexander - The Cuff of the Son'
-  fr: 'Alexander - Le Poignet du Fils'
-  de: 'Alexander - Elle des Sohnes'
-  ja: '機工城アレキサンダー：律動編2'
+  en: "Alexander - The Cuff of the Son"
+  fr: "Alexander - Le Poignet du Fils"
+  de: "Alexander - Elle des Sohnes"
+  ja: "機工城アレキサンダー：律動編2"
 type: Raid
 tags: []
 lodestone:
@@ -16,34 +16,34 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Blaster'
-          fr: 'Fracasseur'
-          de: 'Blaster'
-          ja: 'ブラスター'
+          en: "Blaster"
+          fr: "Fracasseur"
+          de: "Blaster"
+          ja: "ブラスター"
         lodestone:
           id: 30f4a2e0ecd
           url: /lodestone/playguide/db/npc/enemy/30f4a2e0ecd/
       - name:
-          en: 'Brawler'
-          fr: 'Bagarreur'
-          de: 'Blechbrecher'
-          ja: 'ブロウラー'
+          en: "Brawler"
+          fr: "Bagarreur"
+          de: "Blechbrecher"
+          ja: "ブロウラー"
         lodestone:
           id: f90a4aa2a1b
           url: /lodestone/playguide/db/npc/enemy/f90a4aa2a1b/
       - name:
-          en: 'Swindler'
-          fr: 'Arnaqueur'
-          de: 'Schwindler'
-          ja: 'スウィンドラー'
+          en: "Swindler"
+          fr: "Arnaqueur"
+          de: "Schwindler"
+          ja: "スウィンドラー"
         lodestone:
           id: dae984f157d
           url: /lodestone/playguide/db/npc/enemy/dae984f157d/
       - name:
-          en: 'Vortexer'
-          fr: 'Tourbillonneur'
-          de: 'Wirbler'
-          ja: 'ボルテッカー'
+          en: "Vortexer"
+          fr: "Tourbillonneur"
+          de: "Wirbler"
+          ja: "ボルテッカー"
         lodestone:
           id: c0e19884ced
           url: /lodestone/playguide/db/npc/enemy/c0e19884ced/

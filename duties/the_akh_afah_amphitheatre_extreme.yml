@@ -1,8 +1,8 @@
 name:
-  en: 'The Akh Afah Amphitheatre (Extreme)'
-  fr: 'L'Amphithéâtre d'Akh Afah (extrême)'
-  de: 'Zenit der Götter - Shiva'
-  ja: '極シヴァ討滅戦'
+  en: "The Akh Afah Amphitheatre (Extreme)"
+  fr: "L'Amphithéâtre d'Akh Afah (extrême)"
+  de: "Zenit der Götter - Shiva"
+  ja: "極シヴァ討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Shiva'
-          fr: 'Shiva'
-          de: 'Shiva'
-          ja: 'シヴァ'
+          en: "Shiva"
+          fr: "Shiva"
+          de: "Shiva"
+          ja: "シヴァ"
         lodestone:
           id: 63ecb92ee64
           url: /lodestone/playguide/db/npc/enemy/63ecb92ee64/

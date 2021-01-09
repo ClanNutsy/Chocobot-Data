@@ -1,8 +1,8 @@
 name:
-  en: 'Sigmascape V3.0 (Savage)'
-  fr: 'Sigmastice v3.0 (sadique)'
-  de: 'Sigmametrie 3.0 (episch)'
-  ja: '次元の狭間オメガ零式：シグマ編3'
+  en: "Sigmascape V3.0 (Savage)"
+  fr: "Sigmastice v3.0 (sadique)"
+  de: "Sigmametrie 3.0 (episch)"
+  ja: "次元の狭間オメガ零式：シグマ編3"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Guardian'
-          fr: 'Gardien'
-          de: 'Wächter'
-          ja: 'ガーディアン'
+          en: "Guardian"
+          fr: "Gardien"
+          de: "Wächter"
+          ja: "ガーディアン"
         lodestone:
           id: a569878a048
           url: /lodestone/playguide/db/npc/enemy/a569878a048/

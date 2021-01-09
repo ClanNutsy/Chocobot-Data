@@ -1,8 +1,8 @@
 name:
-  en: 'The Fractal Continuum'
-  fr: 'Le Continuum fractal'
-  de: 'Die Fraktal-Kontinuum'
-  ja: '博物戦艦 フラクタル・コンティニアム'
+  en: "The Fractal Continuum"
+  fr: "Le Continuum fractal"
+  de: "Die Fraktal-Kontinuum"
+  ja: "博物戦艦 フラクタル・コンティニアム"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Phantom Ray'
-          fr: 'Rayon fantomatique'
-          de: 'Phantomschimmer'
-          ja: 'ファントムレイ'
+          en: "Phantom Ray"
+          fr: "Rayon fantomatique"
+          de: "Phantomschimmer"
+          ja: "ファントムレイ"
         lodestone:
           id: 39cefc52a63
           url: /lodestone/playguide/db/npc/enemy/39cefc52a63/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Minotaur'
-          fr: 'Minotaure'
-          de: 'Minotaurus'
-          ja: 'ミノタウロス'
+          en: "Minotaur"
+          fr: "Minotaure"
+          de: "Minotaurus"
+          ja: "ミノタウロス"
         lodestone:
           id: 4d76375c29f
           url: /lodestone/playguide/db/npc/enemy/4d76375c29f/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'The Curator'
-          fr: 'Conservateur'
-          de: 'Kurator'
-          ja: 'キュレーター'
+          en: "The Curator"
+          fr: "Conservateur"
+          de: "Kurator"
+          ja: "キュレーター"
         lodestone:
           id: fcf1d573e3d
           url: /lodestone/playguide/db/npc/enemy/fcf1d573e3d/

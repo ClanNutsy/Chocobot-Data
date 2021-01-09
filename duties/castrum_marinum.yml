@@ -1,8 +1,8 @@
 name:
-  en: 'Castrum Marinum'
-  fr: 'Castrum Marinum'
-  de: 'Smaragdsturm - Entfesselung'
-  ja: 'エメラルドウェポン破壊作戦'
+  en: "Castrum Marinum"
+  fr: "Castrum Marinum"
+  de: "Smaragdsturm - Entfesselung"
+  ja: "エメラルドウェポン破壊作戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'The Emerald Weapon'
-          fr: 'Arme Émeraude'
-          de: 'Smaragd-Waffe'
-          ja: 'エメラルドウェポン'
+          en: "The Emerald Weapon"
+          fr: "Arme Émeraude"
+          de: "Smaragd-Waffe"
+          ja: "エメラルドウェポン"
         lodestone:
           id: ffbd3faa429
           url: /lodestone/playguide/db/npc/enemy/ffbd3faa429/

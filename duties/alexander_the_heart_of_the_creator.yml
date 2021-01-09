@@ -1,8 +1,8 @@
 name:
-  en: 'Alexander - The Heart of the Creator'
-  fr: 'Alexander - Le Cœur du Créateur'
-  de: 'Alexander - Herz des Schöpfers'
-  ja: '機工城アレキサンダー：天動編3'
+  en: "Alexander - The Heart of the Creator"
+  fr: "Alexander - Le Cœur du Créateur"
+  de: "Alexander - Herz des Schöpfers"
+  ja: "機工城アレキサンダー：天動編3"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Cruise Chaser'
-          fr: 'Croiseur-chasseur'
-          de: 'Chaser-Mecha'
-          ja: 'クルーズチェイサー'
+          en: "Cruise Chaser"
+          fr: "Croiseur-chasseur"
+          de: "Chaser-Mecha"
+          ja: "クルーズチェイサー"
         lodestone:
           id: 245e2ccff27
           url: /lodestone/playguide/db/npc/enemy/245e2ccff27/

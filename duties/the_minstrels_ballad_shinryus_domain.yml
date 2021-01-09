@@ -1,8 +1,8 @@
 name:
-  en: 'The Minstrel's Ballad: Shinryu's Domain'
-  fr: 'Le domaine de Shinryu'
-  de: 'Heldenlied von Shinryu'
-  ja: '極神龍討滅戦'
+  en: "The Minstrel's Ballad: Shinryu's Domain"
+  fr: "Le domaine de Shinryu"
+  de: "Heldenlied von Shinryu"
+  ja: "極神龍討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Shinryu'
-          fr: 'Shinryu'
-          de: 'Shinryu'
-          ja: '神龍'
+          en: "Shinryu"
+          fr: "Shinryu"
+          de: "Shinryu"
+          ja: "神龍"
         lodestone:
           id: 9ac0b4d657e
           url: /lodestone/playguide/db/npc/enemy/9ac0b4d657e/

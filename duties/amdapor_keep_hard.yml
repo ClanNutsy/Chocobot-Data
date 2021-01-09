@@ -1,8 +1,8 @@
 name:
-  en: 'Amdapor Keep (Hard)'
-  fr: 'Le Château d'Amdapor (brutal)'
-  de: 'Die Ruinen von Amdapor (schwer)'
-  ja: '邪念排撃 古城アムダプール (Hard)'
+  en: "Amdapor Keep (Hard)"
+  fr: "Le Château d'Amdapor (brutal)"
+  de: "Die Ruinen von Amdapor (schwer)"
+  ja: "邪念排撃 古城アムダプール (Hard)"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Anchag'
-          fr: 'Anchag'
-          de: 'Anchag'
-          ja: 'アンクハガー'
+          en: "Anchag"
+          fr: "Anchag"
+          de: "Anchag"
+          ja: "アンクハガー"
         lodestone:
           id: 6e3ce18be8a
           url: /lodestone/playguide/db/npc/enemy/6e3ce18be8a/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Boogyman'
-          fr: 'Croque-mitaine'
-          de: 'Butzemann'
-          ja: 'ボギーマン'
+          en: "Boogyman"
+          fr: "Croque-mitaine"
+          de: "Butzemann"
+          ja: "ボギーマン"
         lodestone:
           id: 71b651eeb17
           url: /lodestone/playguide/db/npc/enemy/71b651eeb17/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Ferdiad'
-          fr: 'Ferdiad'
-          de: 'Ferdiad'
-          ja: 'フェルディア'
+          en: "Ferdiad"
+          fr: "Ferdiad"
+          de: "Ferdiad"
+          ja: "フェルディア"
         lodestone:
           id: b20bf30b9fc
           url: /lodestone/playguide/db/npc/enemy/b20bf30b9fc/

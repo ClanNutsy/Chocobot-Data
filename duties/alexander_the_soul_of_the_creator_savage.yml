@@ -1,8 +1,8 @@
 name:
-  en: 'Alexander - The Soul of the Creator (Savage)'
-  fr: 'Alexander - L'Âme du Créateur (sadique)'
-  de: 'Alexander - Seele des Schöpfers (episch)'
-  ja: '機工城アレキサンダー零式：天動編4'
+  en: "Alexander - The Soul of the Creator (Savage)"
+  fr: "Alexander - L'Âme du Créateur (sadique)"
+  de: "Alexander - Seele des Schöpfers (episch)"
+  ja: "機工城アレキサンダー零式：天動編4"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Alexander Prime'
-          fr: 'Primo-Alexander'
-          de: 'Prim-Alexander'
-          ja: 'アレキサンダー・プライム'
+          en: "Alexander Prime"
+          fr: "Primo-Alexander"
+          de: "Prim-Alexander"
+          ja: "アレキサンダー・プライム"
         lodestone:
           id: dd92a1b86f0
           url: /lodestone/playguide/db/npc/enemy/dd92a1b86f0/

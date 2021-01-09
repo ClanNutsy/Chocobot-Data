@@ -1,8 +1,8 @@
 name:
-  en: 'The Crown of the Immaculate'
-  fr: 'La Couronne de l'Immaculé'
-  de: 'Offenbarung - Innozenz'
-  ja: 'イノセンス討滅戦'
+  en: "The Crown of the Immaculate"
+  fr: "La Couronne de l'Immaculé"
+  de: "Offenbarung - Innozenz"
+  ja: "イノセンス討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Innocence'
-          fr: 'Innocence'
-          de: 'Innozenz'
-          ja: 'イノセンス'
+          en: "Innocence"
+          fr: "Innocence"
+          de: "Innozenz"
+          ja: "イノセンス"
         lodestone:
           id: 44e8fd8d8ea
           url: /lodestone/playguide/db/npc/enemy/44e8fd8d8ea/

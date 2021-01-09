@@ -1,8 +1,8 @@
 name:
-  en: 'The Striking Tree (Extreme)'
-  fr: 'L'Arbre du jugement (extrême)'
-  de: 'Zenit der Götter - Ramuh'
-  ja: '極ラムウ討滅戦'
+  en: "The Striking Tree (Extreme)"
+  fr: "L'Arbre du jugement (extrême)"
+  de: "Zenit der Götter - Ramuh"
+  ja: "極ラムウ討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Ramuh'
-          fr: 'Ramuh'
-          de: 'Ramuh'
-          ja: 'ラムウ'
+          en: "Ramuh"
+          fr: "Ramuh"
+          de: "Ramuh"
+          ja: "ラムウ"
         lodestone:
           id: 54d3461fa02
           url: /lodestone/playguide/db/npc/enemy/54d3461fa02/

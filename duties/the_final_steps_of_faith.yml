@@ -1,8 +1,8 @@
 name:
-  en: 'The Final Steps of Faith'
-  fr: 'La Dernière avancée de la Foi'
-  de: 'Der letzte Schicksalsweg'
-  ja: 'ニーズヘッグ征竜戦'
+  en: "The Final Steps of Faith"
+  fr: "La Dernière avancée de la Foi"
+  de: "Der letzte Schicksalsweg"
+  ja: "ニーズヘッグ征竜戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Nidhogg'
-          fr: 'Nidhogg'
-          de: 'Nidhogg'
-          ja: 'ニーズヘッグ'
+          en: "Nidhogg"
+          fr: "Nidhogg"
+          de: "Nidhogg"
+          ja: "ニーズヘッグ"
         lodestone:
           id: 0691138af59
           url: /lodestone/playguide/db/npc/enemy/0691138af59/

@@ -1,8 +1,8 @@
 name:
-  en: 'The Final Coil of Bahamut - Turn 1'
-  fr: 'L'Abîme de Bahamut I'
-  de: 'Verschlungene Schatten 3 - 1'
-  ja: '大迷宮バハムート：真成編1'
+  en: "The Final Coil of Bahamut - Turn 1"
+  fr: "L'Abîme de Bahamut I"
+  de: "Verschlungene Schatten 3 - 1"
+  ja: "大迷宮バハムート：真成編1"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Imdugud'
-          fr: 'Imdugud'
-          de: 'Imdugud'
-          ja: 'イムドゥグド'
+          en: "Imdugud"
+          fr: "Imdugud"
+          de: "Imdugud"
+          ja: "イムドゥグド"
         lodestone:
           id: 6185a982324
           url: /lodestone/playguide/db/npc/enemy/6185a982324/

@@ -1,8 +1,8 @@
 name:
-  en: 'Saint Mocianne's Arboretum'
-  fr: 'L'Arboretum Sainte-Mocianne'
-  de: 'Sankt Mocianne-Arboretum'
-  ja: '草木庭園 聖モシャーヌ植物園'
+  en: "Saint Mocianne's Arboretum"
+  fr: "L'Arboretum Sainte-Mocianne"
+  de: "Sankt Mocianne-Arboretum"
+  ja: "草木庭園 聖モシャーヌ植物園"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Rose Garden'
-          fr: 'Rosier'
-          de: 'Garten-Rosi'
-          ja: 'ローズガーデン'
+          en: "Rose Garden"
+          fr: "Rosier"
+          de: "Garten-Rosi"
+          ja: "ローズガーデン"
         lodestone:
           id: a7c1ef3fd62
           url: /lodestone/playguide/db/npc/enemy/a7c1ef3fd62/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Queen Hawk'
-          fr: 'Reine des guêpes'
-          de: 'Falkenkönigin'
-          ja: 'クィーンホーク'
+          en: "Queen Hawk"
+          fr: "Reine des guêpes"
+          de: "Falkenkönigin"
+          ja: "クィーンホーク"
         lodestone:
           id: 95c3f3b000e
           url: /lodestone/playguide/db/npc/enemy/95c3f3b000e/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Belladonna'
-          fr: 'Belladone'
-          de: 'Belladonna'
-          ja: 'ベラドンナ'
+          en: "Belladonna"
+          fr: "Belladone"
+          de: "Belladonna"
+          ja: "ベラドンナ"
         lodestone:
           id: cfec5893064
           url: /lodestone/playguide/db/npc/enemy/cfec5893064/

@@ -1,8 +1,8 @@
 name:
-  en: 'Eden's Gate: Inundation (Savage)'
-  fr: 'L'Éveil d'Éden - Déluge (sadique)'
-  de: 'Edens Erwachen - Überflutung (episch)'
-  ja: '希望の園エデン零式：覚醒編3'
+  en: "Eden's Gate: Inundation (Savage)"
+  fr: "L'Éveil d'Éden - Déluge (sadique)"
+  de: "Edens Erwachen - Überflutung (episch)"
+  ja: "希望の園エデン零式：覚醒編3"
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Leviathan'
-          fr: 'Léviathan'
-          de: 'Leviathan'
-          ja: 'リヴァイアサン'
+          en: "Leviathan"
+          fr: "Léviathan"
+          de: "Leviathan"
+          ja: "リヴァイアサン"
         lodestone:
           id: b9105883915
           url: /lodestone/playguide/db/npc/enemy/b9105883915/

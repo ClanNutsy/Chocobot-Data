@@ -1,8 +1,8 @@
 name:
-  en: 'Pharos Sirius'
-  fr: 'Le Phare de Sirius'
-  de: 'Pharos Sirius'
-  ja: '怪鳥巨塔 シリウス大灯台'
+  en: "Pharos Sirius"
+  fr: "Le Phare de Sirius"
+  de: "Pharos Sirius"
+  ja: "怪鳥巨塔 シリウス大灯台"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Symond The Unsinkable'
-          fr: 'Symond l'insubmersible'
-          de: 'Unsinkbarer Symond'
-          ja: '不沈のサイモンド'
+          en: "Symond The Unsinkable"
+          fr: "Symond l'insubmersible"
+          de: "Unsinkbarer Symond"
+          ja: "不沈のサイモンド"
         lodestone:
           id: 7d87c4a00e4
           url: /lodestone/playguide/db/npc/enemy/7d87c4a00e4/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Zu'
-          fr: 'Zu'
-          de: 'Montisaurus'
-          ja: 'ズー'
+          en: "Zu"
+          fr: "Zu"
+          de: "Montisaurus"
+          ja: "ズー"
         lodestone:
           id: b7bd4764ca5
           url: /lodestone/playguide/db/npc/enemy/b7bd4764ca5/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Tyrant'
-          fr: 'Tyran'
-          de: 'Tyrant'
-          ja: 'タイラント'
+          en: "Tyrant"
+          fr: "Tyran"
+          de: "Tyrant"
+          ja: "タイラント"
         lodestone:
           id: 9d33902cd2d
           url: /lodestone/playguide/db/npc/enemy/9d33902cd2d/
@@ -115,10 +115,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Siren'
-          fr: 'Sirène'
-          de: 'Sirene'
-          ja: 'セイレーン'
+          en: "Siren"
+          fr: "Sirène"
+          de: "Sirene"
+          ja: "セイレーン"
         lodestone:
           id: 1d53db91305
           url: /lodestone/playguide/db/npc/enemy/1d53db91305/

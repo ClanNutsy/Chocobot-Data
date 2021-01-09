@@ -1,8 +1,8 @@
 name:
-  en: 'Copperbell Mines (Hard)'
-  fr: 'Les Mines de Clochecuivre (brutal)'
-  de: 'Kupferglocken-Mine (schwer)'
-  ja: '騒乱坑道 カッパーベル銅山 (Hard)'
+  en: "Copperbell Mines (Hard)"
+  fr: "Les Mines de Clochecuivre (brutal)"
+  de: "Kupferglocken-Mine (schwer)"
+  ja: "騒乱坑道 カッパーベル銅山 (Hard)"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Hecatoncheir Mastermind'
-          fr: 'Hécatonchire instigateur'
-          de: 'Hekatoncheir-Rädelsführer'
-          ja: 'ヘカトン・マスターマインド'
+          en: "Hecatoncheir Mastermind"
+          fr: "Hécatonchire instigateur"
+          de: "Hekatoncheir-Rädelsführer"
+          ja: "ヘカトン・マスターマインド"
         lodestone:
           id: ad85f544b2e
           url: /lodestone/playguide/db/npc/enemy/ad85f544b2e/
@@ -49,18 +49,18 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Biggy'
-          fr: 'Biggy'
-          de: 'Biggy'
-          ja: 'ビィギー'
+          en: "Biggy"
+          fr: "Biggy"
+          de: "Biggy"
+          ja: "ビィギー"
         lodestone:
           id: 064b4c81b32
           url: /lodestone/playguide/db/npc/enemy/064b4c81b32/
       - name:
-          en: 'Gogmagolem'
-          fr: 'Gogmagolem'
-          de: 'Gogmagolem'
-          ja: 'ゴグマゴーレム'
+          en: "Gogmagolem"
+          fr: "Gogmagolem"
+          de: "Gogmagolem"
+          ja: "ゴグマゴーレム"
         lodestone:
           id: 2dafccd185f
           url: /lodestone/playguide/db/npc/enemy/2dafccd185f/
@@ -90,10 +90,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Ouranos'
-          fr: 'Ouranos'
-          de: 'Ouranos'
-          ja: '復讐のウラノス'
+          en: "Ouranos"
+          fr: "Ouranos"
+          de: "Ouranos"
+          ja: "復讐のウラノス"
         lodestone:
           id: 02094ca3a6e
           url: /lodestone/playguide/db/npc/enemy/02094ca3a6e/

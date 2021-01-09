@@ -1,8 +1,8 @@
 name:
-  en: 'Castrum Fluminis'
-  fr: 'Castrum Fluminis'
-  de: 'Götterdämmerung - Tsukuyomi'
-  ja: 'ツクヨミ討滅戦'
+  en: "Castrum Fluminis"
+  fr: "Castrum Fluminis"
+  de: "Götterdämmerung - Tsukuyomi"
+  ja: "ツクヨミ討滅戦"
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Tsukuyomi'
-          fr: 'Tsukuyomi'
-          de: 'Tsukuyomi'
-          ja: 'ツクヨミ'
+          en: "Tsukuyomi"
+          fr: "Tsukuyomi"
+          de: "Tsukuyomi"
+          ja: "ツクヨミ"
         lodestone:
           id: cdb470f5e7a
           url: /lodestone/playguide/db/npc/enemy/cdb470f5e7a/

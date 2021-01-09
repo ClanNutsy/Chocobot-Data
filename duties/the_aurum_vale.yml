@@ -1,8 +1,8 @@
 name:
-  en: 'The Aurum Vale'
-  fr: 'Le Val d'Aurum'
-  de: 'Goldklamm'
-  ja: '霧中行軍 オーラムヴェイル'
+  en: "The Aurum Vale"
+  fr: "Le Val d'Aurum"
+  de: "Goldklamm"
+  ja: "霧中行軍 オーラムヴェイル"
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: 'Locksmith'
-          fr: 'Serrurier'
-          de: 'Schlosser'
-          ja: 'ロックスミス'
+          en: "Locksmith"
+          fr: "Serrurier"
+          de: "Schlosser"
+          ja: "ロックスミス"
         lodestone:
           id: c8d5ce30474
           url: /lodestone/playguide/db/npc/enemy/c8d5ce30474/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Coincounter'
-          fr: 'Trésorier'
-          de: 'Münzzähler'
-          ja: 'コインカウンター'
+          en: "Coincounter"
+          fr: "Trésorier"
+          de: "Münzzähler"
+          ja: "コインカウンター"
         lodestone:
           id: 0d8cdbe4581
           url: /lodestone/playguide/db/npc/enemy/0d8cdbe4581/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: 'Miser's Mistress'
-          fr: 'Maîtresse du Grigou'
-          de: 'Knausers Mätresse'
-          ja: 'マイザーズミストレス'
+          en: "Miser's Mistress"
+          fr: "Maîtresse du Grigou"
+          de: "Knausers Mätresse"
+          ja: "マイザーズミストレス"
         lodestone:
           id: 167a12b84fb
           url: /lodestone/playguide/db/npc/enemy/167a12b84fb/
