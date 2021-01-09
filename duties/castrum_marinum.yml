@@ -1,0 +1,50 @@
+name:
+  en: Castrum Marinum
+  fr: Castrum Marinum
+  de: Smaragdsturm - Entfesselung
+  ja: エメラルドウェポン破壊作戦
+type: Trial
+tags: []
+lodestone:
+  id: cd08ecb15cc
+  url: /lodestone/playguide/db/duty/cd08ecb15cc/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: The Emerald Weapon
+        fr: Arme Émeraude
+        de: Smaragd-Waffe
+        ja: エメラルドウェポン
+      lodestone:
+        id: ffbd3faa429
+        url: /lodestone/playguide/db/npc/enemy/ffbd3faa429/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

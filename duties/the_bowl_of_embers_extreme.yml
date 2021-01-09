@@ -1,0 +1,50 @@
+name:
+  en: The Bowl of Embers (Extreme)
+  fr: Le Cratère des tisons (extrême)
+  de: Zenit der Götter - Ifrit
+  ja: 極イフリート討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: 6af1a94ccca
+  url: /lodestone/playguide/db/duty/6af1a94ccca/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Ifrit
+        fr: Ifrit
+        de: Ifrit
+        ja: イフリート
+      lodestone:
+        id: 4ec28894427
+        url: /lodestone/playguide/db/npc/enemy/4ec28894427/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

@@ -1,0 +1,116 @@
+name:
+  en: Kugane Castle
+  fr: Le Château de Kugane
+  de: Schloss Kugane
+  ja: 悪党成敗 クガネ城
+type: Dungeon
+tags: []
+lodestone:
+  id: 37d0e83919d
+  url: /lodestone/playguide/db/duty/37d0e83919d/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Zuiko-maru
+        fr: Zuiko Maru
+        de: Zuiko-Maru
+        ja: ズイコウ丸
+      lodestone:
+        id: 97c168723b9
+        url: /lodestone/playguide/db/npc/enemy/97c168723b9/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Dojun-maru
+        fr: Dôjun Maru
+        de: Dojun-Maru
+        ja: ドウジュン丸
+      lodestone:
+        id: 37d17915401
+        url: /lodestone/playguide/db/npc/enemy/37d17915401/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Yojimbo
+        fr: Yojimbo
+        de: Yojinbo
+        ja: ヨウジンボウ
+      lodestone:
+        id: 7267501ac54
+        url: /lodestone/playguide/db/npc/enemy/7267501ac54/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

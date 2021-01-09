@@ -1,0 +1,116 @@
+name:
+  en: Saint Mocianne's Arboretum
+  fr: L'Arboretum Sainte-Mocianne
+  de: Sankt Mocianne-Arboretum
+  ja: 草木庭園 聖モシャーヌ植物園
+type: Dungeon
+tags: []
+lodestone:
+  id: cdad1cb65e8
+  url: /lodestone/playguide/db/duty/cdad1cb65e8/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Rose Garden
+        fr: Rosier
+        de: Garten-Rosi
+        ja: ローズガーデン
+      lodestone:
+        id: a7c1ef3fd62
+        url: /lodestone/playguide/db/npc/enemy/a7c1ef3fd62/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Queen Hawk
+        fr: Reine des guêpes
+        de: Falkenkönigin
+        ja: クィーンホーク
+      lodestone:
+        id: 95c3f3b000e
+        url: /lodestone/playguide/db/npc/enemy/95c3f3b000e/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Belladonna
+        fr: Belladone
+        de: Belladonna
+        ja: ベラドンナ
+      lodestone:
+        id: cfec5893064
+        url: /lodestone/playguide/db/npc/enemy/cfec5893064/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

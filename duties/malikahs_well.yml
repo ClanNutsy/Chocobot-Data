@@ -1,0 +1,116 @@
+name:
+  en: Malikah's Well
+  fr: Le Puits de Malikah
+  de: Malikahs Brunnen
+  ja: 爽涼離宮 マリカの大井戸
+type: Dungeon
+tags: []
+lodestone:
+  id: f8fff809d77
+  url: /lodestone/playguide/db/duty/f8fff809d77/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Greater Armadillo
+        fr: Grand tatou
+        de: Riesengürteltier
+        ja: グレーター・アルマジロ
+      lodestone:
+        id: 387a483b22b
+        url: /lodestone/playguide/db/npc/enemy/387a483b22b/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Amphibious Talos
+        fr: Talos amphibie
+        de: Wasserträger-Talos
+        ja: ハイドロタロース
+      lodestone:
+        id: 464c0f82901
+        url: /lodestone/playguide/db/npc/enemy/464c0f82901/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Storge
+        fr: Storgê
+        de: Storge
+        ja: ストルゲー
+      lodestone:
+        id: 2e2b1b8c98f
+        url: /lodestone/playguide/db/npc/enemy/2e2b1b8c98f/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

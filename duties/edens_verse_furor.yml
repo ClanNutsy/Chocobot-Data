@@ -1,0 +1,66 @@
+name:
+  en: Eden's Verse: Furor
+  fr: Les Accords d'Éden - Fureur
+  de: Edens Resonanz - Raserei
+  ja: 希望の園エデン：共鳴編2
+type: Raid
+tags: []
+lodestone:
+  id: cdc9ff33eff
+  url: /lodestone/playguide/db/duty/cdc9ff33eff/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Garuda
+        fr: Garuda
+        de: Garuda
+        ja: ガルーダ
+      lodestone:
+        id: ef998c7b881
+        url: /lodestone/playguide/db/npc/enemy/ef998c7b881/
+    - name:
+        en: Ifrit
+        fr: Ifrit
+        de: Ifrit
+        ja: イフリート
+      lodestone:
+        id: 54475050ab5
+        url: /lodestone/playguide/db/npc/enemy/54475050ab5/
+    - name:
+        en: Raktapaksa
+        fr: Raktapaksa
+        de: Raktapaksa
+        ja: ラクタパクシャ
+      lodestone:
+        id: ceb627ee6d5
+        url: /lodestone/playguide/db/npc/enemy/ceb627ee6d5/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

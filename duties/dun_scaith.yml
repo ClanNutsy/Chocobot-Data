@@ -1,0 +1,157 @@
+name:
+  en: Dun Scaith
+  fr: Dun Scaith
+  de: Dun Scaith
+  ja: 影の国ダン・スカー
+type: Raid
+tags: []
+lodestone:
+  id: 35a8825ed8e
+  url: /lodestone/playguide/db/duty/35a8825ed8e/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Deathgaze Hollow
+        fr: Mortalis nihil
+        de: Nihil-Thanatos
+        ja: デスゲイズ・ホロー
+      lodestone:
+        id: 77ac5137c68
+        url: /lodestone/playguide/db/npc/enemy/77ac5137c68/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Ferdiad Hollow
+        fr: Ferdiad nihil
+        de: Nihil-Ferdiad
+        ja: フェルディア・ホロー
+      lodestone:
+        id: fa67cd848ba
+        url: /lodestone/playguide/db/npc/enemy/fa67cd848ba/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Scathach
+        fr: Scáthach
+        de: Scathach
+        ja: スカアハ
+      lodestone:
+        id: 7f0aa671d6a
+        url: /lodestone/playguide/db/npc/enemy/7f0aa671d6a/
+    - name:
+        en: Connla
+        fr: Connla
+        de: Connla
+        ja: コンラ
+      lodestone:
+        id: 1307358c3e2
+        url: /lodestone/playguide/db/npc/enemy/1307358c3e2/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Diabolos
+        fr: Diabolos
+        de: Diabolos
+        ja: ディアボロス
+      lodestone:
+        id: aa08efa410b
+        url: /lodestone/playguide/db/npc/enemy/aa08efa410b/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

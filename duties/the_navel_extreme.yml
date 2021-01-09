@@ -1,0 +1,50 @@
+name:
+  en: The Navel (Extreme)
+  fr: Le Nombril (extrême)
+  de: Zenit der Götter - Titan
+  ja: 極タイタン討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: 589c727302e
+  url: /lodestone/playguide/db/duty/589c727302e/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Titan
+        fr: Titan
+        de: Titan
+        ja: タイタン
+      lodestone:
+        id: ff136f695b1
+        url: /lodestone/playguide/db/npc/enemy/ff136f695b1/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

@@ -1,0 +1,50 @@
+name:
+  en: The <i>Whorleater</i> (Hard)
+  fr: Le Briseur de marées (brutal)
+  de: Götterdämmerung - Leviathan
+  ja: 真リヴァイアサン討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: a9147177b7a
+  url: /lodestone/playguide/db/duty/a9147177b7a/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Leviathan
+        fr: Léviathan
+        de: Leviathan
+        ja: リヴァイアサン
+      lodestone:
+        id: c6615d6c85b
+        url: /lodestone/playguide/db/npc/enemy/c6615d6c85b/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

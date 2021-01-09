@@ -1,0 +1,50 @@
+name:
+  en: The Striking Tree (Hard)
+  fr: L'Arbre du jugement (brutal)
+  de: Götterdämmerung - Ramuh
+  ja: 真ラムウ討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: 520ffafb60d
+  url: /lodestone/playguide/db/duty/520ffafb60d/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Ramuh
+        fr: Ramuh
+        de: Ramuh
+        ja: ラムウ
+      lodestone:
+        id: b01a497fdbf
+        url: /lodestone/playguide/db/npc/enemy/b01a497fdbf/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

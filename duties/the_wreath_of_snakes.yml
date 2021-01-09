@@ -1,0 +1,50 @@
+name:
+  en: The Wreath of Snakes
+  fr: L'Îlot des Amertumes
+  de: Seelentanz - Seiryu
+  ja: 青龍征魂戦
+type: Trial
+tags: []
+lodestone:
+  id: c19b83441e4
+  url: /lodestone/playguide/db/duty/c19b83441e4/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Seiryu
+        fr: Seiryû
+        de: Seiryu
+        ja: 青龍
+      lodestone:
+        id: d5cbf983b28
+        url: /lodestone/playguide/db/npc/enemy/d5cbf983b28/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

@@ -1,0 +1,50 @@
+name:
+  en: Battle on the Big Bridge
+  fr: Affrontement sur le grand pont
+  de: Duell auf der großen Brücke
+  ja: ギルガメッシュ討伐戦
+type: Trial
+tags: []
+lodestone:
+  id: c370021f429
+  url: /lodestone/playguide/db/duty/c370021f429/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Gilgamesh
+        fr: Gilgamesh
+        de: Gilgamesch
+        ja: ギルガメッシュ
+      lodestone:
+        id: eeb533b3c27
+        url: /lodestone/playguide/db/npc/enemy/eeb533b3c27/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

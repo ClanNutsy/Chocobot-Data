@@ -1,0 +1,50 @@
+name:
+  en: Alexander - The Heart of the Creator (Savage)
+  fr: Alexander - Le Cœur du Créateur (sadique)
+  de: Alexander - Herz des Schöpfers (episch)
+  ja: 機工城アレキサンダー零式：天動編3
+type: Raid
+tags: []
+lodestone:
+  id: a1ebaba1ae8
+  url: /lodestone/playguide/db/duty/a1ebaba1ae8/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Cruise Chaser
+        fr: Croiseur-chasseur
+        de: Chaser-Mecha
+        ja: クルーズチェイサー
+      lodestone:
+        id: d41d3a8525d
+        url: /lodestone/playguide/db/npc/enemy/d41d3a8525d/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

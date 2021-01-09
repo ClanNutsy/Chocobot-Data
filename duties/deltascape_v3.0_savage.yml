@@ -1,0 +1,50 @@
+name:
+  en: Deltascape V3.0 (Savage)
+  fr: Deltastice v3.0 (sadique)
+  de: Deltametrie 3.0 (episch)
+  ja: 次元の狭間オメガ零式：デルタ編3
+type: Raid
+tags: []
+lodestone:
+  id: 1b57dd15e71
+  url: /lodestone/playguide/db/duty/1b57dd15e71/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Halicarnassus
+        fr: Halicarnasse
+        de: Halikarnassos
+        ja: ハリカルナッソス
+      lodestone:
+        id: c73fc52ba4c
+        url: /lodestone/playguide/db/npc/enemy/c73fc52ba4c/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

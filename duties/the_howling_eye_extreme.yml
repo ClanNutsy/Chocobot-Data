@@ -1,0 +1,50 @@
+name:
+  en: The Howling Eye (Extreme)
+  fr: Hurlœil (extrême)
+  de: Zenit der Götter - Garuda
+  ja: 極ガルーダ討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: 7c17ae70cc6
+  url: /lodestone/playguide/db/duty/7c17ae70cc6/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Garuda
+        fr: Garuda
+        de: Garuda
+        ja: ガルーダ
+      lodestone:
+        id: a6738b9e253
+        url: /lodestone/playguide/db/npc/enemy/a6738b9e253/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

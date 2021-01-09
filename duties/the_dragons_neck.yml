@@ -1,0 +1,58 @@
+name:
+  en: The Dragon's Neck
+  fr: Le Col du dragon
+  de: Das Drachenhals-Kolosseum
+  ja: アマジナ杯闘技会決勝戦
+type: Trial
+tags: []
+lodestone:
+  id: a74020d08e8
+  url: /lodestone/playguide/db/duty/a74020d08e8/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Typhon
+        fr: Typhon
+        de: Typhon
+        ja: テュポーン
+      lodestone:
+        id: d576294c1e0
+        url: /lodestone/playguide/db/npc/enemy/d576294c1e0/
+    - name:
+        en: Ultros
+        fr: Orthros
+        de: Ultros
+        ja: オルトロス
+      lodestone:
+        id: 89b51da0d99
+        url: /lodestone/playguide/db/npc/enemy/89b51da0d99/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

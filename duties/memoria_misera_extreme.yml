@@ -1,0 +1,50 @@
+name:
+  en: Memoria Misera (Extreme)
+  fr: Memoria Misera (extrême)
+  de: Memoria Misera (extrem)
+  ja: 極シタデル・ボズヤ追憶戦
+type: Trial
+tags: []
+lodestone:
+  id: 841d3f69efd
+  url: /lodestone/playguide/db/duty/841d3f69efd/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Varis Yae Galvus
+        fr: Varis yae Galvus
+        de: Varis yae Galvus
+        ja: ヴァリス・イェー・ガルヴァス
+      lodestone:
+        id: 2ae4ed83f53
+        url: /lodestone/playguide/db/npc/enemy/2ae4ed83f53/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

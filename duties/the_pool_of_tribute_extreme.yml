@@ -1,0 +1,50 @@
+name:
+  en: The Pool of Tribute (Extreme)
+  fr: La Crique aux tributs (extrême)
+  de: Zenit der Götter - Susano
+  ja: 極スサノオ討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: b28f61e6212
+  url: /lodestone/playguide/db/duty/b28f61e6212/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Susano
+        fr: Susano
+        de: Susano
+        ja: スサノオ
+      lodestone:
+        id: 79dcbc803bf
+        url: /lodestone/playguide/db/npc/enemy/79dcbc803bf/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

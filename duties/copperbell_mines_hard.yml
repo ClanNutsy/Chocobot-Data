@@ -1,0 +1,124 @@
+name:
+  en: Copperbell Mines (Hard)
+  fr: Les Mines de Clochecuivre (brutal)
+  de: Kupferglocken-Mine (schwer)
+  ja: 騒乱坑道 カッパーベル銅山 (Hard)
+type: Dungeon
+tags: []
+lodestone:
+  id: a780ca9b970
+  url: /lodestone/playguide/db/duty/a780ca9b970/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Hecatoncheir Mastermind
+        fr: Hécatonchire instigateur
+        de: Hekatoncheir-Rädelsführer
+        ja: ヘカトン・マスターマインド
+      lodestone:
+        id: ad85f544b2e
+        url: /lodestone/playguide/db/npc/enemy/ad85f544b2e/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Biggy
+        fr: Biggy
+        de: Biggy
+        ja: ビィギー
+      lodestone:
+        id: 064b4c81b32
+        url: /lodestone/playguide/db/npc/enemy/064b4c81b32/
+    - name:
+        en: Gogmagolem
+        fr: Gogmagolem
+        de: Gogmagolem
+        ja: ゴグマゴーレム
+      lodestone:
+        id: 2dafccd185f
+        url: /lodestone/playguide/db/npc/enemy/2dafccd185f/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Ouranos
+        fr: Ouranos
+        de: Ouranos
+        ja: 復讐のウラノス
+      lodestone:
+        id: 02094ca3a6e
+        url: /lodestone/playguide/db/npc/enemy/02094ca3a6e/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

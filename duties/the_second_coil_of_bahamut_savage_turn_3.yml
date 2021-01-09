@@ -1,0 +1,50 @@
+name:
+  en: The Second Coil of Bahamut (Savage) - Turn 3
+  fr: Les Méandres de Bahamut III (sadique)
+  de: Verschlungene Schatten 2 - 3 (episch)
+  ja: 大迷宮バハムート零式：侵攻編3
+type: Raid
+tags: []
+lodestone:
+  id: a674fe41a1a
+  url: /lodestone/playguide/db/duty/a674fe41a1a/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: The Avatar
+        fr: Bio-tréant
+        de: Avatar
+        ja: アバター
+      lodestone:
+        id: af77e43026c
+        url: /lodestone/playguide/db/npc/enemy/af77e43026c/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

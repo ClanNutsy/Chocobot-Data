@@ -1,0 +1,50 @@
+name:
+  en: Eden's Verse: Iconoclasm
+  fr: Les Accords d'Éden - Iconoclasme
+  de: Edens Resonanz - Bildersturm
+  ja: 希望の園エデン：共鳴編3
+type: Raid
+tags: []
+lodestone:
+  id: 96ff35ae58b
+  url: /lodestone/playguide/db/duty/96ff35ae58b/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: The Idol Of Darkness
+        fr: Idole des Ténèbres
+        de: Götzenbild der Dunkelheit
+        ja: ダークアイドル
+      lodestone:
+        id: 2cff8f622c7
+        url: /lodestone/playguide/db/npc/enemy/2cff8f622c7/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

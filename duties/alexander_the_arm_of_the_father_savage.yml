@@ -1,0 +1,50 @@
+name:
+  en: Alexander - The Arm of the Father (Savage)
+  fr: Alexander - Le Bras du Père (sadique)
+  de: Alexander - Arm des Vaters (episch)
+  ja: 機工城アレキサンダー零式：起動編3
+type: Raid
+tags: []
+lodestone:
+  id: aa5e1798294
+  url: /lodestone/playguide/db/duty/aa5e1798294/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Living Liquid
+        fr: Liquide vivant
+        de: Belebtes Wasser
+        ja: リビングリキッド
+      lodestone:
+        id: 2ce2f2432d8
+        url: /lodestone/playguide/db/npc/enemy/2ce2f2432d8/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

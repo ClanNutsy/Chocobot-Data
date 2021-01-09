@@ -1,0 +1,50 @@
+name:
+  en: The Great Hunt
+  fr: Chasse au Rathalos
+  de: Jagd auf Rathalos
+  ja: リオレウス狩猟戦
+type: Trial
+tags: []
+lodestone:
+  id: a8b065d443b
+  url: /lodestone/playguide/db/duty/a8b065d443b/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Rathalos
+        fr: Rathalos
+        de: Rathalos
+        ja: リオレウス
+      lodestone:
+        id: 5785a982d4e
+        url: /lodestone/playguide/db/npc/enemy/5785a982d4e/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

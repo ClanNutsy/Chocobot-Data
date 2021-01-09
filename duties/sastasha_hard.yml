@@ -1,0 +1,132 @@
+name:
+  en: Sastasha (Hard)
+  fr: Sastasha (brutal)
+  de: Sastasha (schwer)
+  ja: 逆襲要害 サスタシャ浸食洞 (Hard)
+type: Dungeon
+tags: []
+lodestone:
+  id: df38ed5c808
+  url: /lodestone/playguide/db/duty/df38ed5c808/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Karlabos
+        fr: Karlabos
+        de: Karlabos
+        ja: カーラボス
+      lodestone:
+        id: 2055b7c7bd2
+        url: /lodestone/playguide/db/npc/enemy/2055b7c7bd2/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Captain Madison
+        fr: Ancien capitaine Madison
+        de: Kapitän Madison
+        ja: マディソン元船長
+      lodestone:
+        id: 179c65ef969
+        url: /lodestone/playguide/db/npc/enemy/179c65ef969/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Kraken
+        fr: Kraken
+        de: Aquadon
+        ja: クラーケン
+      lodestone:
+        id: a196c6aaa86
+        url: /lodestone/playguide/db/npc/enemy/a196c6aaa86/
+    - name:
+        en: Kraken's Arm
+        fr: Bras du Kraken
+        de: Fangarm
+        ja: クラーケンの腕
+      lodestone:
+        id: bd08cbc0959
+        url: /lodestone/playguide/db/npc/enemy/bd08cbc0959/
+    - name:
+        en: Tentacle
+        fr: Tentacule du Kraken
+        de: Tentakel
+        ja: クラーケンの触腕
+      lodestone:
+        id: 1d02eee968a
+        url: /lodestone/playguide/db/npc/enemy/1d02eee968a/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

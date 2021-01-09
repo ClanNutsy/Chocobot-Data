@@ -1,0 +1,50 @@
+name:
+  en: Alexander - The Arm of the Son
+  fr: Alexander - Le Bras du Fils
+  de: Alexander - Arm des Sohnes
+  ja: 機工城アレキサンダー：律動編3
+type: Raid
+tags: []
+lodestone:
+  id: b919a88ec20
+  url: /lodestone/playguide/db/duty/b919a88ec20/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Quickthinx Allthoughts
+        fr: Quickthinx le Cerveau
+        de: Denkfix
+        ja: 万能のクイックシンクス
+      lodestone:
+        id: a62d960e4a5
+        url: /lodestone/playguide/db/npc/enemy/a62d960e4a5/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

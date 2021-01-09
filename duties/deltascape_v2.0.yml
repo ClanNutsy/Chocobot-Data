@@ -1,0 +1,50 @@
+name:
+  en: Deltascape V2.0
+  fr: Deltastice v2.0
+  de: Deltametrie 2.0
+  ja: 次元の狭間オメガ：デルタ編2
+type: Raid
+tags: []
+lodestone:
+  id: 9322cea310c
+  url: /lodestone/playguide/db/duty/9322cea310c/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Catastrophe
+        fr: Catastrophe
+        de: Katastroph
+        ja: カタストロフィー
+      lodestone:
+        id: 0af49be3711
+        url: /lodestone/playguide/db/npc/enemy/0af49be3711/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

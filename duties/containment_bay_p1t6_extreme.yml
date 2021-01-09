@@ -1,0 +1,50 @@
+name:
+  en: Containment Bay P1T6 (Extreme)
+  fr: Unité de contention P1P6 (extrême)
+  de: Zenit der Götter - Sophia
+  ja: 極女神ソフィア討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: 212ceb19a34
+  url: /lodestone/playguide/db/duty/212ceb19a34/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Sophia
+        fr: Sophia
+        de: Sophia
+        ja: ソフィア
+      lodestone:
+        id: 04507a527e0
+        url: /lodestone/playguide/db/npc/enemy/04507a527e0/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

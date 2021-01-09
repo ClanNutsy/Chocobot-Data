@@ -1,0 +1,50 @@
+name:
+  en: Alexander - The Heart of the Creator
+  fr: Alexander - Le Cœur du Créateur
+  de: Alexander - Herz des Schöpfers
+  ja: 機工城アレキサンダー：天動編3
+type: Raid
+tags: []
+lodestone:
+  id: 3c58fc35be5
+  url: /lodestone/playguide/db/duty/3c58fc35be5/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Cruise Chaser
+        fr: Croiseur-chasseur
+        de: Chaser-Mecha
+        ja: クルーズチェイサー
+      lodestone:
+        id: 245e2ccff27
+        url: /lodestone/playguide/db/npc/enemy/245e2ccff27/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

@@ -1,0 +1,124 @@
+name:
+  en: Pharos Sirius (Hard)
+  fr: Le Phare de Sirius (brutal)
+  de: Pharos Sirius (schwer)
+  ja: 制圧巨塔 シリウス大灯台 (Hard)
+type: Dungeon
+tags: []
+lodestone:
+  id: cd500c08682
+  url: /lodestone/playguide/db/duty/cd500c08682/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Ghrah Luminary
+        fr: Ghrah virtuose
+        de: Ghrah-Luminion
+        ja: ルミナリー・ゴラホ
+      lodestone:
+        id: ec03db2e824
+        url: /lodestone/playguide/db/npc/enemy/ec03db2e824/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: 8th Order Patriarch Be Gu
+        fr: Be Gu patriarche du 8e ordre
+        de: Be Gu vom 8. Orden
+        ja: ペイトリアーク08 ベ・グ
+      lodestone:
+        id: bf86c315a92
+        url: /lodestone/playguide/db/npc/enemy/bf86c315a92/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Progenitor
+        fr: Papa bombo
+        de: Progenitor
+        ja: ファザーボム
+      lodestone:
+        id: 1669cb05669
+        url: /lodestone/playguide/db/npc/enemy/1669cb05669/
+    - name:
+        en: Progenitrix
+        fr: Maman bombo
+        de: Progenitrix
+        ja: マザーボム
+      lodestone:
+        id: e15fbec1991
+        url: /lodestone/playguide/db/npc/enemy/e15fbec1991/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

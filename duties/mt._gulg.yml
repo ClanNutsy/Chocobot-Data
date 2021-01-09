@@ -1,13 +1,13 @@
 name:
-  en: Xelphatol
-  fr: Xelphatol
-  de: Xelphatol
-  ja: 峻厳渓谷 ゼルファトル
+  en: Mt. Gulg
+  fr: Mont Gulg
+  de: Der Gulg
+  ja: 偽造天界 グルグ火山
 type: Dungeon
 tags: []
 lodestone:
-  id: 1d95a773990
-  url: /lodestone/playguide/db/duty/1d95a773990/
+  id: 72f2e86daba
+  url: /lodestone/playguide/db/duty/72f2e86daba/
 video_url:
   en: 
   fr: 
@@ -16,13 +16,13 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Nuzal Hueloc
-        fr: Nuzal Hueloc
-        de: Nuzal Hueloc
-        ja: 飛天のヌザル・フェロック
+        en: Forgiven Cruelty
+        fr: Cruauté pardonnée
+        de: Geläuterte Grausamkeit
+        ja: フォーギヴン・クルエルティー
       lodestone:
-        id: 49f6e7a03b8
-        url: /lodestone/playguide/db/npc/enemy/49f6e7a03b8/
+        id: c738f0bd330
+        url: /lodestone/playguide/db/npc/enemy/c738f0bd330/
     tags: []
     video_url:
       en:
@@ -49,13 +49,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Dotoli Ciloc
-        fr: Dotoli Ciloc
-        de: Dotoli Ciloc
-        ja: 旋風のドトリ・シロック
+        en: Forgiven Whimsy
+        fr: Caprice pardonné
+        de: Geläuterte Gereiztheit
+        ja: フォーギヴン・ウィムズィー
       lodestone:
-        id: 186b4861756
-        url: /lodestone/playguide/db/npc/enemy/186b4861756/
+        id: a65cc3bf993
+        url: /lodestone/playguide/db/npc/enemy/a65cc3bf993/
     tags: []
     video_url:
       en:
@@ -82,13 +82,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Tozol Huatotl
-        fr: Tozol Huatotl
-        de: Tozol Huatotl
-        ja: 晴嵐のトゾル・ファトトル
+        en: Forgiven Obscenity
+        fr: Obscénité pardonnée
+        de: Geläuterte Unzucht
+        ja: フォーギヴン・オブセニティー
       lodestone:
-        id: 0a9e06117e2
-        url: /lodestone/playguide/db/npc/enemy/0a9e06117e2/
+        id: f146c10cca6
+        url: /lodestone/playguide/db/npc/enemy/f146c10cca6/
     tags: []
     video_url:
       en:

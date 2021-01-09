@@ -1,0 +1,50 @@
+name:
+  en: The Seat of Sacrifice (Extreme)
+  fr: Le Trône du Sacrifice (extrême)
+  de: Krieger des Lichts (extrem)
+  ja: 極ウォーリア・オブ・ライト討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: 1543e03ff37
+  url: /lodestone/playguide/db/duty/1543e03ff37/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Warrior Of Light
+        fr: Guerrier de la Lumière primordial
+        de: Krieger des Lichts
+        ja: ウォーリア・オブ・ライト
+      lodestone:
+        id: b59fd3a154a
+        url: /lodestone/playguide/db/npc/enemy/b59fd3a154a/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

@@ -1,0 +1,82 @@
+name:
+  en: The Binding Coil of Bahamut - Turn 4
+  fr: Le Labyrinthe de Bahamut IV
+  de: Verschlungene Schatten 4
+  ja: 大迷宮バハムート：邂逅編4
+type: Raid
+tags: []
+lodestone:
+  id: f5e0e0bdfbe
+  url: /lodestone/playguide/db/duty/f5e0e0bdfbe/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Clockwork Bug
+        fr: Insecte mécanique
+        de: Uhrwerk-Wanze
+        ja: アラガンワーク・バグ
+      lodestone:
+        id: ae70ffa43f4
+        url: /lodestone/playguide/db/npc/enemy/ae70ffa43f4/
+    - name:
+        en: Clockwork Dreadnaught
+        fr: Cuirassé Dreadnaught
+        de: Brummonaut
+        ja: ドレッドノート
+      lodestone:
+        id: 7842504153d
+        url: /lodestone/playguide/db/npc/enemy/7842504153d/
+    - name:
+        en: Clockwork Knight
+        fr: Chevalier mécanique
+        de: Uhrwerk-Ritter
+        ja: アラガンワーク・ナイト
+      lodestone:
+        id: d79c3f775a0
+        url: /lodestone/playguide/db/npc/enemy/d79c3f775a0/
+    - name:
+        en: Clockwork Soldier
+        fr: Soldat mécanique
+        de: Uhrwerk-Soldat
+        ja: アラガンワーク・ソルジャー
+      lodestone:
+        id: 24b8c838f09
+        url: /lodestone/playguide/db/npc/enemy/24b8c838f09/
+    - name:
+        en: Spinner-rook
+        fr: Drone-drille
+        de: Drehturm
+        ja: ルークスピナー
+      lodestone:
+        id: a17cafa5b89
+        url: /lodestone/playguide/db/npc/enemy/a17cafa5b89/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

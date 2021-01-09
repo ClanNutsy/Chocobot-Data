@@ -1,0 +1,50 @@
+name:
+  en: Alexander - The Fist of the Son
+  fr: Alexander - Le Poing du Fils
+  de: Alexander - Faust des Sohnes
+  ja: 機工城アレキサンダー：律動編1
+type: Raid
+tags: []
+lodestone:
+  id: 39c6854e6a8
+  url: /lodestone/playguide/db/duty/39c6854e6a8/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Ratfinx Twinkledinks
+        fr: Ratfinx le Génie
+        de: Ratfix Blinkdings
+        ja: 奇才のラットフィンクス
+      lodestone:
+        id: fc1f92b85d4
+        url: /lodestone/playguide/db/npc/enemy/fc1f92b85d4/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

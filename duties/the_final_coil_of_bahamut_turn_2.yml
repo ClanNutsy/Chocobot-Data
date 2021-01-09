@@ -1,0 +1,50 @@
+name:
+  en: The Final Coil of Bahamut - Turn 2
+  fr: L'Abîme de Bahamut II
+  de: Verschlungene Schatten 3 - 2
+  ja: 大迷宮バハムート：真成編2
+type: Raid
+tags: []
+lodestone:
+  id: bcb01b1b218
+  url: /lodestone/playguide/db/duty/bcb01b1b218/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Kaliya
+        fr: Kaliya
+        de: Kaliya
+        ja: カーリア
+      lodestone:
+        id: 76c4ffab8aa
+        url: /lodestone/playguide/db/npc/enemy/76c4ffab8aa/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

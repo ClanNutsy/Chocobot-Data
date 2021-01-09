@@ -1,0 +1,50 @@
+name:
+  en: Castrum Meridianum
+  fr: Castrum Meridianum
+  de: Castrum Meridianum - Außenbereich
+  ja: 外郭攻略 カストルム・メリディアヌム
+type: Dungeon
+tags: []
+lodestone:
+  id: 59c2b3b84fa
+  url: /lodestone/playguide/db/duty/59c2b3b84fa/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Livia Sas Junius
+        fr: Livia sas Junius
+        de: Livia sas Junius
+        ja: リウィア・サス・ユニウス
+      lodestone:
+        id: aee1959475b
+        url: /lodestone/playguide/db/npc/enemy/aee1959475b/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

@@ -1,0 +1,50 @@
+name:
+  en: Eden's Gate: Resurrection
+  fr: L'Éveil d'Éden - Résurrection
+  de: Edens Erwachen - Auferstehung
+  ja: 希望の園エデン：覚醒編1
+type: Raid
+tags: []
+lodestone:
+  id: a3549ccbd94
+  url: /lodestone/playguide/db/duty/a3549ccbd94/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Eden Prime
+        fr: Primo-Éden
+        de: Prim-Eden
+        ja: エデン・プライム
+      lodestone:
+        id: 0112af1d455
+        url: /lodestone/playguide/db/npc/enemy/0112af1d455/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

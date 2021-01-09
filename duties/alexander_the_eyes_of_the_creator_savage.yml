@@ -1,0 +1,50 @@
+name:
+  en: Alexander - The Eyes of the Creator (Savage)
+  fr: Alexander - Les Yeux du Créateur (sadique)
+  de: Alexander - Augen des Schöpfers (episch)
+  ja: 機工城アレキサンダー零式：天動編1
+type: Raid
+tags: []
+lodestone:
+  id: 20c0e4f75a6
+  url: /lodestone/playguide/db/duty/20c0e4f75a6/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Refurbisher 0
+        fr: Récupérateur
+        de: Rekompositor
+        ja: リファビッシャー
+      lodestone:
+        id: f8287ed6a88
+        url: /lodestone/playguide/db/npc/enemy/f8287ed6a88/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

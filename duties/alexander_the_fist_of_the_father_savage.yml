@@ -1,0 +1,50 @@
+name:
+  en: Alexander - The Fist of the Father (Savage)
+  fr: Alexander - Le Poing du Père (sadique)
+  de: Alexander - Faust des Vaters (episch)
+  ja: 機工城アレキサンダー零式：起動編1
+type: Raid
+tags: []
+lodestone:
+  id: 747c862dc22
+  url: /lodestone/playguide/db/duty/747c862dc22/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Oppressor
+        fr: Oppresseur
+        de: Unterdrücker
+        ja: オプレッサー
+      lodestone:
+        id: 87b15eca7b5
+        url: /lodestone/playguide/db/npc/enemy/87b15eca7b5/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

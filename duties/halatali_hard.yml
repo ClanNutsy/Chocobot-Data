@@ -1,0 +1,156 @@
+name:
+  en: Halatali (Hard)
+  fr: Halatali (brutal)
+  de: Halatali (schwer)
+  ja: 剣闘領域 ハラタリ修練所 (Hard)
+type: Dungeon
+tags: []
+lodestone:
+  id: d536b8f0cc8
+  url: /lodestone/playguide/db/duty/d536b8f0cc8/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Pyracmon
+        fr: Pyracmon
+        de: Pyracmon
+        ja: ピュラクモン
+      lodestone:
+        id: ed8c6c49774
+        url: /lodestone/playguide/db/npc/enemy/ed8c6c49774/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Catoblepas
+        fr: Catoblépas
+        de: Catblepus
+        ja: カトブレパス
+      lodestone:
+        id: acb8d0dad04
+        url: /lodestone/playguide/db/npc/enemy/acb8d0dad04/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Mumuepo The Beholden
+        fr: Mumuepo le prêtre déchu
+        de: Ex-Bischof Mumuepo 
+        ja: 廃司教 ムムエポ
+      lodestone:
+        id: 823087d0c4e
+        url: /lodestone/playguide/db/npc/enemy/823087d0c4e/
+    - name:
+        en: Franz The Fair
+        fr: Franz le magnifique
+        de: Schöner Franz
+        ja: 麗しの剣士 フランツ
+      lodestone:
+        id: 070567ac6ec
+        url: /lodestone/playguide/db/npc/enemy/070567ac6ec/
+    - name:
+        en: Langloisiert The Lionheart
+        fr: Langloisiert l'inégalable
+        de: Langloisiert Löwenherz
+        ja: 無双のラングロアジエ
+      lodestone:
+        id: e2485e8d0cd
+        url: /lodestone/playguide/db/npc/enemy/e2485e8d0cd/
+    - name:
+        en: Narasimha
+        fr: Narasimha
+        de: Narasimha
+        ja: ナラシンハ
+      lodestone:
+        id: 6cd1cf203fa
+        url: /lodestone/playguide/db/npc/enemy/6cd1cf203fa/
+    - name:
+        en: Silent Moss The Solemn
+        fr: Silent Moss l'impératrice
+        de: Stilles Moos
+        ja: 女帝 サイレント・モス
+      lodestone:
+        id: ba9853641c9
+        url: /lodestone/playguide/db/npc/enemy/ba9853641c9/
+    - name:
+        en: U'linbho The Sand Devil
+        fr: U'linbho l'indomptable
+        de: Sandteufel U'linbho
+        ja: 砂の狩人 ウ・リンボ
+      lodestone:
+        id: 655a744ba2c
+        url: /lodestone/playguide/db/npc/enemy/655a744ba2c/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

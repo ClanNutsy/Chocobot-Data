@@ -1,0 +1,124 @@
+name:
+  en: The Ghimlyt Dark
+  fr: Les Ténèbres de Ghimlyt
+  de: Die Ghimlyt-Finsternis
+  ja: 境界戦線 ギムリトダーク
+type: Dungeon
+tags: []
+lodestone:
+  id: 33a05f144e4
+  url: /lodestone/playguide/db/duty/33a05f144e4/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Mark III-B Magitek Colossus
+        fr: Colosse magitek IIIB
+        de: Magitek-Stahlriese
+        ja: 魔導コロッサスIIIB型
+      lodestone:
+        id: 300612f4bd3
+        url: /lodestone/playguide/db/npc/enemy/300612f4bd3/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Prometheus
+        fr: Prometheus
+        de: Prometheus
+        ja: プロメテウス
+      lodestone:
+        id: 9caf528c6c1
+        url: /lodestone/playguide/db/npc/enemy/9caf528c6c1/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Annia Quo Soranus
+        fr: Annia quo Soranus
+        de: Annia quo Soranus
+        ja: アンニア・クォ・ソラノス
+      lodestone:
+        id: 719ca54bca8
+        url: /lodestone/playguide/db/npc/enemy/719ca54bca8/
+    - name:
+        en: Julia Quo Soranus
+        fr: Julia quo Soranus
+        de: Julia quo Soranus
+        ja: ユリア・クォ・ソラノス
+      lodestone:
+        id: f3fd765174c
+        url: /lodestone/playguide/db/npc/enemy/f3fd765174c/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

@@ -1,0 +1,165 @@
+name:
+  en: The Puppets' Bunker
+  fr: La base militaire des Pantins
+  de: Die Puppenfestung
+  ja: 人形タチノ軍事基地
+type: Raid
+tags: []
+lodestone:
+  id: 889b8d8cfa4
+  url: /lodestone/playguide/db/duty/889b8d8cfa4/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: 813P-operated Aegis Unit
+        fr: 813P : avec unité rempart
+        de: 813P: Bollwerk
+        ja: ８１３Ｐ：拠点防衛ユニット装備
+      lodestone:
+        id: 199ae432434
+        url: /lodestone/playguide/db/npc/enemy/199ae432434/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: 724P-operated Superior Flight Unit (A-lpha)
+        fr: 724P : avec module de vol renforcé [A-lpha]
+        de: 724P: Flugeinheit A-lpha
+        ja: ７２４Ｐ：強化型飛行ユニット［A-lpha］
+      lodestone:
+        id: 7f5805daae4
+        url: /lodestone/playguide/db/npc/enemy/7f5805daae4/
+    - name:
+        en: 767P-operated Superior Flight Unit (B-eta)
+        fr: 767P : avec module de vol renforcé [B-êta]
+        de: 767P: Flugeinheit B-eta
+        ja: ７６７Ｐ：強化型飛行ユニット［B-eta］
+      lodestone:
+        id: 1c9e9df213a
+        url: /lodestone/playguide/db/npc/enemy/1c9e9df213a/
+    - name:
+        en: 772P-operated Superior Flight Unit (C-hi)
+        fr: 772P : avec module de vol renforcé [C-hi]
+        de: 772P: Flugeinheit C-hi
+        ja: ７７２Ｐ：強化型飛行ユニット［C-hi］
+      lodestone:
+        id: 04ff5309ac5
+        url: /lodestone/playguide/db/npc/enemy/04ff5309ac5/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: 905P-operated Heavy Artillery Unit
+        fr: 905P : avec unité terrestre lourde
+        de: 905P: Läufer
+        ja: ９０５Ｐ：重陸戦ユニット装備
+      lodestone:
+        id: 3cb7eb338a7
+        url: /lodestone/playguide/db/npc/enemy/3cb7eb338a7/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: The Compound
+        fr: Agglomérat de pantins
+        de: Puppenklumpen
+        ja: 融合シタ人形タチ
+      lodestone:
+        id: 39112425e11
+        url: /lodestone/playguide/db/npc/enemy/39112425e11/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

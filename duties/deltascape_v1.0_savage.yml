@@ -1,0 +1,50 @@
+name:
+  en: Deltascape V1.0 (Savage)
+  fr: Deltastice v1.0 (sadique)
+  de: Deltametrie 1.0 (episch)
+  ja: 次元の狭間オメガ零式：デルタ編1
+type: Raid
+tags: []
+lodestone:
+  id: 7ba45eb83a8
+  url: /lodestone/playguide/db/duty/7ba45eb83a8/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Alte Roite
+        fr: Alte Roite
+        de: Alte Roite
+        ja: アルテ・ロイテ
+      lodestone:
+        id: 300f213c1ae
+        url: /lodestone/playguide/db/npc/enemy/300f213c1ae/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

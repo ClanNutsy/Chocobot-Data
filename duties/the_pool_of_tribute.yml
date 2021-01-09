@@ -1,0 +1,50 @@
+name:
+  en: The Pool of Tribute
+  fr: La Crique aux tributs
+  de: Götterdämmerung - Susano
+  ja: スサノオ討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: 5806cb2d995
+  url: /lodestone/playguide/db/duty/5806cb2d995/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Susano
+        fr: Susano
+        de: Susano
+        ja: スサノオ
+      lodestone:
+        id: 57facb9a0fc
+        url: /lodestone/playguide/db/npc/enemy/57facb9a0fc/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

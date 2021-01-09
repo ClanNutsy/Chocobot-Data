@@ -1,0 +1,50 @@
+name:
+  en: Alphascape V3.0 (Savage)
+  fr: Alphastice v3.0 (sadique)
+  de: Alphametrie 3.0 (episch)
+  ja: 次元の狭間オメガ零式：アルファ編3
+type: Raid
+tags: []
+lodestone:
+  id: 5e1eccd3304
+  url: /lodestone/playguide/db/duty/5e1eccd3304/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Omega
+        fr: Oméga
+        de: Omega
+        ja: オメガ
+      lodestone:
+        id: 4ebb5a254c6
+        url: /lodestone/playguide/db/npc/enemy/4ebb5a254c6/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

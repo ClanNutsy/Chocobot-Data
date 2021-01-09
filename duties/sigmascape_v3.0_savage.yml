@@ -1,0 +1,50 @@
+name:
+  en: Sigmascape V3.0 (Savage)
+  fr: Sigmastice v3.0 (sadique)
+  de: Sigmametrie 3.0 (episch)
+  ja: 次元の狭間オメガ零式：シグマ編3
+type: Raid
+tags: []
+lodestone:
+  id: 6196f1cd409
+  url: /lodestone/playguide/db/duty/6196f1cd409/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Guardian
+        fr: Gardien
+        de: Wächter
+        ja: ガーディアン
+      lodestone:
+        id: a569878a048
+        url: /lodestone/playguide/db/npc/enemy/a569878a048/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

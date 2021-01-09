@@ -1,0 +1,66 @@
+name:
+  en: The Unending Coil of Bahamut (Ultimate)
+  fr: L'Abîme infini de Bahamut (fatal)
+  de: Endlose Schatten von Bahamut (fatal)
+  ja: 絶バハムート討滅戦
+type: Ultimate Raid
+tags: []
+lodestone:
+  id: 1a863f1ea3b
+  url: /lodestone/playguide/db/duty/1a863f1ea3b/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Bahamut Prime
+        fr: Primo-Bahamut
+        de: Prim-Bahamut
+        ja: バハムート・プライム
+      lodestone:
+        id: 35c02005349
+        url: /lodestone/playguide/db/npc/enemy/35c02005349/
+    - name:
+        en: Nael Deus Darnus
+        fr: Nael deus Darnus
+        de: Nael deus Darnus
+        ja: ネール・デウス・ダーナス
+      lodestone:
+        id: 662f3172754
+        url: /lodestone/playguide/db/npc/enemy/662f3172754/
+    - name:
+        en: Twintania
+        fr: Gémellia
+        de: Twintania
+        ja: ツインタニア
+      lodestone:
+        id: 415b605e6e9
+        url: /lodestone/playguide/db/npc/enemy/415b605e6e9/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

@@ -1,0 +1,50 @@
+name:
+  en: Deltascape V1.0
+  fr: Deltastice v1.0
+  de: Deltametrie 1.0
+  ja: 次元の狭間オメガ：デルタ編1
+type: Raid
+tags: []
+lodestone:
+  id: 8e7cf4fcca2
+  url: /lodestone/playguide/db/duty/8e7cf4fcca2/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Alte Roite
+        fr: Alte Roite
+        de: Alte Roite
+        ja: アルテ・ロイテ
+      lodestone:
+        id: fdf470b2853
+        url: /lodestone/playguide/db/npc/enemy/fdf470b2853/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

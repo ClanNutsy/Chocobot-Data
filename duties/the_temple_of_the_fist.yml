@@ -1,0 +1,124 @@
+name:
+  en: The Temple of the Fist
+  fr: Le Temple du Poing
+  de: Tempel der Faust
+  ja: 壊神修行 星導山寺院
+type: Dungeon
+tags: []
+lodestone:
+  id: 23edcb0d626
+  url: /lodestone/playguide/db/duty/23edcb0d626/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Coeurl Smriti
+        fr: Coeurl smriti
+        de: Coeurl Smriti
+        ja: クァール・スムリティ
+      lodestone:
+        id: 3fe1e25c8c7
+        url: /lodestone/playguide/db/npc/enemy/3fe1e25c8c7/
+    - name:
+        en: Coeurl Sruti
+        fr: Coeurl sruti
+        de: Coeurl Sruti
+        ja: クァール・シュルティ
+      lodestone:
+        id: 8d9b0e08a0f
+        url: /lodestone/playguide/db/npc/enemy/8d9b0e08a0f/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Arbuda
+        fr: Arbuda
+        de: Arbuda
+        ja: アブダ
+      lodestone:
+        id: 03e641ccabf
+        url: /lodestone/playguide/db/npc/enemy/03e641ccabf/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Ivon Coeurlfist
+        fr: Ivon le Coeurl
+        de: Ivon Coeurlfaust
+        ja: 双豹のイヴォン
+      lodestone:
+        id: 77c6b5dfea3
+        url: /lodestone/playguide/db/npc/enemy/77c6b5dfea3/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

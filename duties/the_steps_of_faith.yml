@@ -1,0 +1,50 @@
+name:
+  en: The Steps of Faith
+  fr: Le Siège de la sainte Cité d'Ishgard
+  de: Der Schicksalsweg
+  ja: 皇都イシュガルド防衛戦
+type: Trial
+tags: []
+lodestone:
+  id: f80af21461f
+  url: /lodestone/playguide/db/duty/f80af21461f/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Vishap
+        fr: Vishap
+        de: Vishap
+        ja: ヴィシャップ
+      lodestone:
+        id: c6d6978ab73
+        url: /lodestone/playguide/db/npc/enemy/c6d6978ab73/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

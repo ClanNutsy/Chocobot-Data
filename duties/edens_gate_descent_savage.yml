@@ -1,0 +1,50 @@
+name:
+  en: Eden's Gate: Descent (Savage)
+  fr: L'Éveil d'Éden - Descente (sadique)
+  de: Edens Erwachen - Niederkunft (episch)
+  ja: 希望の園エデン零式：覚醒編2
+type: Raid
+tags: []
+lodestone:
+  id: 7616847b849
+  url: /lodestone/playguide/db/duty/7616847b849/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Voidwalker
+        fr: Marcheuse du néant
+        de: Nichtswandler
+        ja: ヴォイドウォーカー
+      lodestone:
+        id: 5ae77dfa3df
+        url: /lodestone/playguide/db/npc/enemy/5ae77dfa3df/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

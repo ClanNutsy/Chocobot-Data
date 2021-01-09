@@ -1,0 +1,50 @@
+name:
+  en: Sigmascape V4.0 (Savage)
+  fr: Sigmastice v4.0 (sadique)
+  de: Sigmametrie 4.0 (episch)
+  ja: 次元の狭間オメガ零式：シグマ編4
+type: Raid
+tags: []
+lodestone:
+  id: 28d9a03c886
+  url: /lodestone/playguide/db/duty/28d9a03c886/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Kefka
+        fr: Kefka
+        de: Kefka
+        ja: ケフカ
+      lodestone:
+        id: e0aa5258ecf
+        url: /lodestone/playguide/db/npc/enemy/e0aa5258ecf/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

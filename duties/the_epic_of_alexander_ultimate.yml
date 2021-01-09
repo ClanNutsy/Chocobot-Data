@@ -1,0 +1,74 @@
+name:
+  en: The Epic of Alexander (Ultimate)
+  fr: L'Odyssée d'Alexander (fatal)
+  de: Alexander (fatal)
+  ja: 絶アレキサンダー討滅戦
+type: Ultimate Raid
+tags: []
+lodestone:
+  id: b56710190e9
+  url: /lodestone/playguide/db/duty/b56710190e9/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Alexander Prime
+        fr: Primo-Alexander
+        de: Prim-Alexander
+        ja: アレキサンダー・プライム
+      lodestone:
+        id: 1b7681b1a12
+        url: /lodestone/playguide/db/npc/enemy/1b7681b1a12/
+    - name:
+        en: Brute Justice
+        fr: Justicier
+        de: Brutalus
+        ja: ブルートジャスティス
+      lodestone:
+        id: bdcce5c5295
+        url: /lodestone/playguide/db/npc/enemy/bdcce5c5295/
+    - name:
+        en: Cruise Chaser
+        fr: Croiseur-chasseur
+        de: Chaser-Mecha
+        ja: クルーズチェイサー
+      lodestone:
+        id: 9bf68f501ad
+        url: /lodestone/playguide/db/npc/enemy/9bf68f501ad/
+    - name:
+        en: Living Liquid
+        fr: Liquide vivant
+        de: Belebtes Wasser
+        ja: リビングリキッド
+      lodestone:
+        id: 6430a075c08
+        url: /lodestone/playguide/db/npc/enemy/6430a075c08/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

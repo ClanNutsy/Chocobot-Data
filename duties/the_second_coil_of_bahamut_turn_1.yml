@@ -1,0 +1,50 @@
+name:
+  en: The Second Coil of Bahamut - Turn 1
+  fr: Les Méandres de Bahamut I
+  de: Verschlungene Schatten 2 - 1
+  ja: 大迷宮バハムート：侵攻編1
+type: Raid
+tags: []
+lodestone:
+  id: 744fe0d9e6e
+  url: /lodestone/playguide/db/duty/744fe0d9e6e/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Rafflesia
+        fr: Rafflesia
+        de: Rafflesia
+        ja: ラフレシア
+      lodestone:
+        id: cf48185370c
+        url: /lodestone/playguide/db/npc/enemy/cf48185370c/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

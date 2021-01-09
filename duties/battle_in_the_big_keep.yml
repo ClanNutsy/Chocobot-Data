@@ -1,0 +1,58 @@
+name:
+  en: Battle in the Big Keep
+  fr: Revanche au vieux château
+  de: Revanche in den Ruinen
+  ja: 真ギルガメッシュ討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: cb876745bce
+  url: /lodestone/playguide/db/duty/cb876745bce/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Gilgamesh
+        fr: Gilgamesh
+        de: Gilgamesch
+        ja: ギルガメッシュ
+      lodestone:
+        id: 3554b8b8296
+        url: /lodestone/playguide/db/npc/enemy/3554b8b8296/
+    - name:
+        en: Enkidu
+        fr: Enkidu
+        de: Enkidu
+        ja: エンキドウ
+      lodestone:
+        id: 1365d0d97aa
+        url: /lodestone/playguide/db/npc/enemy/1365d0d97aa/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

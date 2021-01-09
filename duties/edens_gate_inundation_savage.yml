@@ -1,0 +1,50 @@
+name:
+  en: Eden's Gate: Inundation (Savage)
+  fr: L'Éveil d'Éden - Déluge (sadique)
+  de: Edens Erwachen - Überflutung (episch)
+  ja: 希望の園エデン零式：覚醒編3
+type: Raid
+tags: []
+lodestone:
+  id: 3a52efcba77
+  url: /lodestone/playguide/db/duty/3a52efcba77/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Leviathan
+        fr: Léviathan
+        de: Leviathan
+        ja: リヴァイアサン
+      lodestone:
+        id: b9105883915
+        url: /lodestone/playguide/db/npc/enemy/b9105883915/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

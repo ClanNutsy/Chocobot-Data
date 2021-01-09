@@ -1,0 +1,74 @@
+name:
+  en: Alexander - The Cuff of the Son (Savage)
+  fr: Alexander - Le Poignet du Fils (sadique)
+  de: Alexander - Elle des Sohnes (episch)
+  ja: 機工城アレキサンダー零式：律動編2
+type: Raid
+tags: []
+lodestone:
+  id: 0ed79e8abf3
+  url: /lodestone/playguide/db/duty/0ed79e8abf3/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Blaster
+        fr: Fracasseur
+        de: Blaster
+        ja: ブラスター
+      lodestone:
+        id: 903410ff3d6
+        url: /lodestone/playguide/db/npc/enemy/903410ff3d6/
+    - name:
+        en: Brawler
+        fr: Bagarreur
+        de: Blechbrecher
+        ja: ブロウラー
+      lodestone:
+        id: e079deeb950
+        url: /lodestone/playguide/db/npc/enemy/e079deeb950/
+    - name:
+        en: Swindler
+        fr: Arnaqueur
+        de: Schwindler
+        ja: スウィンドラー
+      lodestone:
+        id: 478ef5ef72a
+        url: /lodestone/playguide/db/npc/enemy/478ef5ef72a/
+    - name:
+        en: Vortexer
+        fr: Tourbillonneur
+        de: Wirbler
+        ja: ボルテッカー
+      lodestone:
+        id: c6021b14c34
+        url: /lodestone/playguide/db/npc/enemy/c6021b14c34/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

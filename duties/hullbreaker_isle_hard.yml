@@ -1,0 +1,140 @@
+name:
+  en: Hullbreaker Isle (Hard)
+  fr: L'Île de Crèvecarène (brutal)
+  de: Schiffbrecher-Insel (schwer)
+  ja: 黒渦伝説 ハルブレーカー・アイル (Hard)
+type: Dungeon
+tags: []
+lodestone:
+  id: 313b1415d0f
+  url: /lodestone/playguide/db/duty/313b1415d0f/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Battle Coeurl
+        fr: Coeurl de combat
+        de: Kampf-Coeurl
+        ja: バトルクァール
+      lodestone:
+        id: bb727a1501a
+        url: /lodestone/playguide/db/npc/enemy/bb727a1501a/
+    - name:
+        en: Sanguine Sirens Gunner
+        fr: Canonnière des Sirènes sanguinaires
+        de: Sirenen-Kanonierin
+        ja: 紅血聖女団の掌砲員
+      lodestone:
+        id: c4c2e394d13
+        url: /lodestone/playguide/db/npc/enemy/c4c2e394d13/
+    - name:
+        en: Sanguine Sirens Lodeswoman
+        fr: Pilote des Sirènes sanguinaires
+        de: Sirenen-Navigatorin
+        ja: 紅血聖女団の航海士
+      lodestone:
+        id: fb7dac41907
+        url: /lodestone/playguide/db/npc/enemy/fb7dac41907/
+    - name:
+        en: Sanguine Sirens Targirl
+        fr: Manœuvrière des Sirènes sanguinaires
+        de: Sirenen-Matrosin
+        ja: 紅血聖女団の甲板員
+      lodestone:
+        id: 75bfee75339
+        url: /lodestone/playguide/db/npc/enemy/75bfee75339/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Ymir
+        fr: Ymir
+        de: Ymir
+        ja: ユミール
+      lodestone:
+        id: d340b903759
+        url: /lodestone/playguide/db/npc/enemy/d340b903759/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Grand Storm Marshal Slafyrsyn
+        fr: Grand maréchal des tempêtes Slafyrsyn
+        de: Konteradmiral Eynzahr Slafyrsyn
+        ja: エインザル・スラフィルシン大甲将
+      lodestone:
+        id: 3a68229a928
+        url: /lodestone/playguide/db/npc/enemy/3a68229a928/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

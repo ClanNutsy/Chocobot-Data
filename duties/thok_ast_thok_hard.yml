@@ -1,0 +1,50 @@
+name:
+  en: Thok ast Thok (Hard)
+  fr: Thok ast Thok (brutal)
+  de: Götterdämmerung - Ravana
+  ja: 真ラーヴァナ討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: f55bdb9e34e
+  url: /lodestone/playguide/db/duty/f55bdb9e34e/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Ravana
+        fr: Ravana
+        de: Ravana
+        ja: ラーヴァナ
+      lodestone:
+        id: e12e4eb0b1b
+        url: /lodestone/playguide/db/npc/enemy/e12e4eb0b1b/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

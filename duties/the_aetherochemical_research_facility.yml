@@ -1,0 +1,157 @@
+name:
+  en: The Aetherochemical Research Facility
+  fr: Le Laboratoire de magismologie
+  de: Ätherochemisches Forschungslabor
+  ja: 蒼天聖戦 魔科学研究所
+type: Dungeon
+tags: []
+lodestone:
+  id: 923e0a1d1d0
+  url: /lodestone/playguide/db/duty/923e0a1d1d0/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Regula Van Hydrus
+        fr: Regula van Hydrus
+        de: Regula van Hydrus
+        ja: レグラ・ヴァン・ヒュドルス
+      lodestone:
+        id: 8c77f6f1ca2
+        url: /lodestone/playguide/db/npc/enemy/8c77f6f1ca2/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Harmachis
+        fr: Horemakhet
+        de: Harmachis
+        ja: ハルマキス
+      lodestone:
+        id: f1c9aa11855
+        url: /lodestone/playguide/db/npc/enemy/f1c9aa11855/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Igeyorhm
+        fr: Igeyorhm
+        de: Igeyorhm
+        ja: アシエン・イゲオルム
+      lodestone:
+        id: 1641d4789a6
+        url: /lodestone/playguide/db/npc/enemy/1641d4789a6/
+    - name:
+        en: Lahabrea
+        fr: Lahabrea
+        de: Lahabrea
+        ja: アシエン・ラハブレア
+      lodestone:
+        id: 0f456c2eefa
+        url: /lodestone/playguide/db/npc/enemy/0f456c2eefa/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Ascian Prime
+        fr: Primo-Ascien
+        de: Prim-Ascian
+        ja: アシエン・プライム
+      lodestone:
+        id: 0fe407f9ceb
+        url: /lodestone/playguide/db/npc/enemy/0fe407f9ceb/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

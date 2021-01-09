@@ -1,0 +1,50 @@
+name:
+  en: Kugane Ohashi
+  fr: Le Pont Ohashi
+  de: Duell auf der Kugane-Brücke
+  ja: 真ヨウジンボウ討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: bad56c435a5
+  url: /lodestone/playguide/db/duty/bad56c435a5/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Yojimbo
+        fr: Yojimbo
+        de: Yojinbo
+        ja: ヨウジンボウ
+      lodestone:
+        id: 380709431f8
+        url: /lodestone/playguide/db/npc/enemy/380709431f8/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

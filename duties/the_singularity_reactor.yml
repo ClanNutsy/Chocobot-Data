@@ -1,0 +1,50 @@
+name:
+  en: The Singularity Reactor
+  fr: Le Réacteur de singularité
+  de: Singularitäts-Reaktor
+  ja: ナイツ・オブ・ラウンド討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: 12c172943bc
+  url: /lodestone/playguide/db/duty/12c172943bc/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: King Thordan
+        fr: Roi Thordan
+        de: Thordan
+        ja: 騎神トールダン
+      lodestone:
+        id: 28636944c2c
+        url: /lodestone/playguide/db/npc/enemy/28636944c2c/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

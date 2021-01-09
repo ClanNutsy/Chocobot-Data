@@ -1,0 +1,58 @@
+name:
+  en: Deltascape V4.0 (Savage)
+  fr: Deltastice v4.0 (sadique)
+  de: Deltametrie 4.0 (episch)
+  ja: 次元の狭間オメガ零式：デルタ編4
+type: Raid
+tags: []
+lodestone:
+  id: 0b519d7fd00
+  url: /lodestone/playguide/db/duty/0b519d7fd00/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Exdeath
+        fr: Exdeath
+        de: Exdeath
+        ja: エクスデス
+      lodestone:
+        id: 7e53d796e6c
+        url: /lodestone/playguide/db/npc/enemy/7e53d796e6c/
+    - name:
+        en: Neo Exdeath
+        fr: Néo-Exdeath
+        de: Neo Exdeath
+        ja: ネオエクスデス
+      lodestone:
+        id: 82f8d4eabe0
+        url: /lodestone/playguide/db/npc/enemy/82f8d4eabe0/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

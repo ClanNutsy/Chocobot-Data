@@ -1,0 +1,74 @@
+name:
+  en: The Weapon's Refrain (Ultimate)
+  fr: La Fantasmagorie d'Ultima (fatal)
+  de: Heldenlied von Ultima (fatal)
+  ja: 絶アルテマウェポン破壊作戦
+type: Ultimate Raid
+tags: []
+lodestone:
+  id: e6c2c586ba6
+  url: /lodestone/playguide/db/duty/e6c2c586ba6/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: The Ultima Weapon
+        fr: Ultima Arma
+        de: Ultima-Waffe
+        ja: アルテマウェポン
+      lodestone:
+        id: df9b7620e3d
+        url: /lodestone/playguide/db/npc/enemy/df9b7620e3d/
+    - name:
+        en: Garuda
+        fr: Garuda
+        de: Garuda
+        ja: ガルーダ
+      lodestone:
+        id: 8a1760b2a6c
+        url: /lodestone/playguide/db/npc/enemy/8a1760b2a6c/
+    - name:
+        en: Ifrit
+        fr: Ifrit
+        de: Ifrit
+        ja: イフリート
+      lodestone:
+        id: 565dffe9458
+        url: /lodestone/playguide/db/npc/enemy/565dffe9458/
+    - name:
+        en: Titan
+        fr: Titan
+        de: Titan
+        ja: タイタン
+      lodestone:
+        id: 37a074a7704
+        url: /lodestone/playguide/db/npc/enemy/37a074a7704/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

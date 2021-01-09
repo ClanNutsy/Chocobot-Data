@@ -1,0 +1,50 @@
+name:
+  en: Sigmascape V2.0
+  fr: Sigmastice v2.0
+  de: Sigmametrie 2.0
+  ja: 次元の狭間オメガ：シグマ編2
+type: Raid
+tags: []
+lodestone:
+  id: e89c7361d67
+  url: /lodestone/playguide/db/duty/e89c7361d67/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Demon Chadarnook
+        fr: Démon Chadarnouk
+        de: Gefallener Chadarnook
+        ja: チャダルヌーク・デーモン
+      lodestone:
+        id: 0bfd8da6861
+        url: /lodestone/playguide/db/npc/enemy/0bfd8da6861/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

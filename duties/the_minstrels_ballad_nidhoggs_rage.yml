@@ -1,0 +1,50 @@
+name:
+  en: The Minstrel's Ballad: Nidhogg's Rage
+  fr: L'ire de Nidhogg
+  de: Das Lied von Nidhoggs letztem Ruf
+  ja: 極ニーズヘッグ征竜戦
+type: Trial
+tags: []
+lodestone:
+  id: 0e880006330
+  url: /lodestone/playguide/db/duty/0e880006330/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Nidhogg
+        fr: Nidhogg
+        de: Nidhogg
+        ja: ニーズヘッグ
+      lodestone:
+        id: 24c714ec46f
+        url: /lodestone/playguide/db/npc/enemy/24c714ec46f/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

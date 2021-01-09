@@ -1,0 +1,116 @@
+name:
+  en: The Sunken Temple of Qarn (Hard)
+  fr: Le Temple enseveli de Qarn (brutal)
+  de: Versunkener Tempel von Qarn (schwer)
+  ja: 遺跡救援 カルン埋没寺院 (Hard)
+type: Dungeon
+tags: []
+lodestone:
+  id: 6b35d4a1179
+  url: /lodestone/playguide/db/duty/6b35d4a1179/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Damaged Adjudicator
+        fr: Adjucateur endommagé
+        de: Beschädigter Azeyma-Richter
+        ja: ダメージド・アーゼマジャッジ
+      lodestone:
+        id: f388149d4f8
+        url: /lodestone/playguide/db/npc/enemy/f388149d4f8/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Sabotender Emperatriz
+        fr: Pampa impératrice
+        de: Sabotender-Kaiserin
+        ja: サボテンダー・エンペラトリス
+      lodestone:
+        id: afa1f36e68a
+        url: /lodestone/playguide/db/npc/enemy/afa1f36e68a/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Vicegerent To The Warden
+        fr: Adjoint de la Gardienne
+        de: Statthalter der Aufseherin
+        ja: アーゼマヴァイスジェレント
+      lodestone:
+        id: ae47368ecd3
+        url: /lodestone/playguide/db/npc/enemy/ae47368ecd3/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

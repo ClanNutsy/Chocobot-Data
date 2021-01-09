@@ -1,0 +1,50 @@
+name:
+  en: Sigmascape V1.0 (Savage)
+  fr: Sigmastice v1.0 (sadique)
+  de: Sigmametrie 1.0 (episch)
+  ja: 次元の狭間オメガ零式：シグマ編1
+type: Raid
+tags: []
+lodestone:
+  id: c6a225d5436
+  url: /lodestone/playguide/db/duty/c6a225d5436/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Phantom Train
+        fr: Train fantôme
+        de: Phantomzug
+        ja: 魔列車
+      lodestone:
+        id: a7bceb20ee9
+        url: /lodestone/playguide/db/npc/enemy/a7bceb20ee9/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

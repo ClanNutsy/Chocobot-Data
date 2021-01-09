@@ -1,0 +1,50 @@
+name:
+  en: The Dancing Plague
+  fr: La Valse du Monarque
+  de: Offenbarung - Titania
+  ja: ティターニア討滅戦
+type: Trial
+tags: []
+lodestone:
+  id: dbf2007968d
+  url: /lodestone/playguide/db/duty/dbf2007968d/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Titania
+        fr: Titania
+        de: Titania
+        ja: ティターニア
+      lodestone:
+        id: 291e37eb551
+        url: /lodestone/playguide/db/npc/enemy/291e37eb551/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

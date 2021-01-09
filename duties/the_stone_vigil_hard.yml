@@ -1,0 +1,124 @@
+name:
+  en: The Stone Vigil (Hard)
+  fr: Le Vigile de Pierre (brutal)
+  de: Steinerne Wacht (schwer)
+  ja: 城塞奪回 ストーンヴィジル (Hard)
+type: Dungeon
+tags: []
+lodestone:
+  id: 418628edfbf
+  url: /lodestone/playguide/db/duty/418628edfbf/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Gorynich
+        fr: Gorynich
+        de: Gorynich
+        ja: ゴリニチ
+      lodestone:
+        id: ca6df53675a
+        url: /lodestone/playguide/db/npc/enemy/ca6df53675a/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Cuca Fera
+        fr: Cuca Fera
+        de: Cuca Fera
+        ja: クカフェラ
+      lodestone:
+        id: 9cc2468c8b0
+        url: /lodestone/playguide/db/npc/enemy/9cc2468c8b0/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+ - bosses:
+    - name:
+        en: Giruveganaus
+        fr: Gilvéganos
+        de: Giruveganos
+        ja: ギルヴェガノス
+      lodestone:
+        id: fb0681cca1f
+        url: /lodestone/playguide/db/npc/enemy/fb0681cca1f/
+    - name:
+        en: Giruveganaus
+        fr: Gilvéganos
+        de: Giruveganos
+        ja: ギルヴェガノス
+      lodestone:
+        id: 162dc0e0380
+        url: /lodestone/playguide/db/npc/enemy/162dc0e0380/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

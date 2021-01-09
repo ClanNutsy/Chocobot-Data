@@ -1,0 +1,50 @@
+name:
+  en: Alexander - The Breath of the Creator
+  fr: Alexander - Le Souffle du Créateur
+  de: Alexander - Atem des Schöpfers
+  ja: 機工城アレキサンダー：天動編2
+type: Raid
+tags: []
+lodestone:
+  id: 54cc9b3db16
+  url: /lodestone/playguide/db/duty/54cc9b3db16/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Lamebrix Strikebocks
+        fr: Lamebrix le Mercenaire
+        de: Wüterix der Söldner
+        ja: 傭兵のレイムプリクス
+      lodestone:
+        id: 146f9f3c06a
+        url: /lodestone/playguide/db/npc/enemy/146f9f3c06a/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

@@ -1,0 +1,50 @@
+name:
+  en: The Second Coil of Bahamut - Turn 3
+  fr: Les Méandres de Bahamut III
+  de: Verschlungene Schatten 2 - 3
+  ja: 大迷宮バハムート：侵攻編3
+type: Raid
+tags: []
+lodestone:
+  id: 87e821480bb
+  url: /lodestone/playguide/db/duty/87e821480bb/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: The Avatar
+        fr: Bio-tréant
+        de: Avatar
+        ja: アバター
+      lodestone:
+        id: f3a49a50c1c
+        url: /lodestone/playguide/db/npc/enemy/f3a49a50c1c/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

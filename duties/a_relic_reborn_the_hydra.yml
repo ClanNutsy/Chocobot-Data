@@ -1,0 +1,50 @@
+name:
+  en: A Relic Reborn: the Hydra
+  fr: L'hydre d'Halatali
+  de: Kampf gegen die Hydra
+  ja: ハイドラ討伐戦
+type: Trial
+tags: []
+lodestone:
+  id: c87fbc421a0
+  url: /lodestone/playguide/db/duty/c87fbc421a0/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Hydra
+        fr: Hydre
+        de: Hydra
+        ja: ハイドラ
+      lodestone:
+        id: 0a5bfc5b7b6
+        url: /lodestone/playguide/db/npc/enemy/0a5bfc5b7b6/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+

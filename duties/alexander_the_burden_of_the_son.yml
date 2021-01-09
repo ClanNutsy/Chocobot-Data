@@ -1,0 +1,90 @@
+name:
+  en: Alexander - The Burden of the Son
+  fr: Alexander - Le Fardeau du Fils
+  de: Alexander - Last des Sohnes
+  ja: 機工城アレキサンダー：律動編4
+type: Raid
+tags: []
+lodestone:
+  id: d3146ecb9f8
+  url: /lodestone/playguide/db/duty/d3146ecb9f8/
+video_url:
+  en: 
+  fr: 
+  de: 
+  ja: 
+sections:
+ - bosses:
+    - name:
+        en: Brute Justice
+        fr: Justicier
+        de: Brutalus
+        ja: ブルートジャスティス
+      lodestone:
+        id: 5056e2c8bea
+        url: /lodestone/playguide/db/npc/enemy/5056e2c8bea/
+    - name:
+        en: Blaster
+        fr: Fracasseur
+        de: Blaster
+        ja: ブラスター
+      lodestone:
+        id: 2cde0c8b0c4
+        url: /lodestone/playguide/db/npc/enemy/2cde0c8b0c4/
+    - name:
+        en: Brawler
+        fr: Bagarreur
+        de: Blechbrecher
+        ja: ブロウラー
+      lodestone:
+        id: 8547745dfbf
+        url: /lodestone/playguide/db/npc/enemy/8547745dfbf/
+    - name:
+        en: Onslaughter
+        fr: Attaqueur
+        de: Schlachter
+        ja: オンスローター
+      lodestone:
+        id: 9eb1de3832d
+        url: /lodestone/playguide/db/npc/enemy/9eb1de3832d/
+    - name:
+        en: Swindler
+        fr: Arnaqueur
+        de: Schwindler
+        ja: スウィンドラー
+      lodestone:
+        id: 8c65d7e3dbd
+        url: /lodestone/playguide/db/npc/enemy/8c65d7e3dbd/
+    - name:
+        en: Vortexer
+        fr: Tourbillonneur
+        de: Wirbler
+        ja: ボルテッカー
+      lodestone:
+        id: 8f05a5b8a5b
+        url: /lodestone/playguide/db/npc/enemy/8f05a5b8a5b/
+    tags: []
+    video_url:
+      en:
+      fr:
+      de:
+      ja:
+    description:
+      en: No strategy has been defined for this encounter yet!
+      fr: No strategy has been defined for this encounter yet!
+      de: No strategy has been defined for this encounter yet!
+      ja: No strategy has been defined for this encounter yet!
+    notes:
+      en:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      fr:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      de:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+      ja:
+        - title: Why Not Contribute?
+          text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
+
