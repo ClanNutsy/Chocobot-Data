@@ -1,8 +1,8 @@
 name:
-  en: Saint Mocianne's Arboretum (Hard)
-  fr: L'Arboretum Sainte-Mocianne (brutal)
-  de: Sankt Mocianne-Arboretum (schwer)
-  ja: 草木汚染 聖モシャーヌ植物園 (Hard)
+  en: 'Saint Mocianne's Arboretum (Hard)'
+  fr: 'L'Arboretum Sainte-Mocianne (brutal)'
+  de: 'Sankt Mocianne-Arboretum (schwer)'
+  ja: '草木汚染 聖モシャーヌ植物園 (Hard)'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Nullchu
-        fr: Nullchu
-        de: Nullchu
-        ja: ヌルチュー
+        en: 'Nullchu'
+        fr: 'Nullchu'
+        de: 'Nullchu'
+        ja: 'ヌルチュー'
       lodestone:
         id: a7c5468ae63
         url: /lodestone/playguide/db/npc/enemy/a7c5468ae63/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Lakhamu
-        fr: Lakhamu
-        de: Lakhamu
-        ja: ラハム
+        en: 'Lakhamu'
+        fr: 'Lakhamu'
+        de: 'Lakhamu'
+        ja: 'ラハム'
       lodestone:
         id: ce8ecd03872
         url: /lodestone/playguide/db/npc/enemy/ce8ecd03872/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Tokkapchi
-        fr: Tokkapchi
-        de: Tokkapchi
-        ja: トカップチ
+        en: 'Tokkapchi'
+        fr: 'Tokkapchi'
+        de: 'Tokkapchi'
+        ja: 'トカップチ'
       lodestone:
         id: 9420faca787
         url: /lodestone/playguide/db/npc/enemy/9420faca787/

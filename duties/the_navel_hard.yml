@@ -1,8 +1,8 @@
 name:
-  en: The Navel (Hard)
-  fr: Le Nombril (brutal)
-  de: Götterdämmerung - Titan
-  ja: 真タイタン討滅戦
+  en: 'The Navel (Hard)'
+  fr: 'Le Nombril (brutal)'
+  de: 'Götterdämmerung - Titan'
+  ja: '真タイタン討滅戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Titan
-        fr: Titan
-        de: Titan
-        ja: タイタン
+        en: 'Titan'
+        fr: 'Titan'
+        de: 'Titan'
+        ja: 'タイタン'
       lodestone:
         id: e10b5d1b57b
         url: /lodestone/playguide/db/npc/enemy/e10b5d1b57b/

@@ -6,10 +6,10 @@ param(
 
 $dutyYamlTemplate = `
 'name:
-  en: {0}
-  fr: {1}
-  de: {2}
-  ja: {3}
+  en: ''{0}''
+  fr: ''{1}''
+  de: ''{2}''
+  ja: ''{3}''
 type: {4}
 tags: []
 lodestone:
@@ -26,10 +26,10 @@ sections:
 $bossYamlTemplate = `
 '
     - name:
-        en: {0}
-        fr: {1}
-        de: {2}
-        ja: {3}
+        en: ''{0}''
+        fr: ''{1}''
+        de: ''{2}''
+        ja: ''{3}''
       lodestone:
         id: {4}
         url: {5}'

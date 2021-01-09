@@ -1,8 +1,8 @@
 name:
-  en: Castrum Meridianum
-  fr: Castrum Meridianum
-  de: Castrum Meridianum - Außenbereich
-  ja: 外郭攻略 カストルム・メリディアヌム
+  en: 'Castrum Meridianum'
+  fr: 'Castrum Meridianum'
+  de: 'Castrum Meridianum - Außenbereich'
+  ja: '外郭攻略 カストルム・メリディアヌム'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Livia Sas Junius
-        fr: Livia sas Junius
-        de: Livia sas Junius
-        ja: リウィア・サス・ユニウス
+        en: 'Livia Sas Junius'
+        fr: 'Livia sas Junius'
+        de: 'Livia sas Junius'
+        ja: 'リウィア・サス・ユニウス'
       lodestone:
         id: aee1959475b
         url: /lodestone/playguide/db/npc/enemy/aee1959475b/

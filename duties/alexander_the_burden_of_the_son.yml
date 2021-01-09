@@ -1,8 +1,8 @@
 name:
-  en: Alexander - The Burden of the Son
-  fr: Alexander - Le Fardeau du Fils
-  de: Alexander - Last des Sohnes
-  ja: 機工城アレキサンダー：律動編4
+  en: 'Alexander - The Burden of the Son'
+  fr: 'Alexander - Le Fardeau du Fils'
+  de: 'Alexander - Last des Sohnes'
+  ja: '機工城アレキサンダー：律動編4'
 type: Raid
 tags: []
 lodestone:
@@ -16,50 +16,50 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Brute Justice
-        fr: Justicier
-        de: Brutalus
-        ja: ブルートジャスティス
+        en: 'Brute Justice'
+        fr: 'Justicier'
+        de: 'Brutalus'
+        ja: 'ブルートジャスティス'
       lodestone:
         id: 5056e2c8bea
         url: /lodestone/playguide/db/npc/enemy/5056e2c8bea/
     - name:
-        en: Blaster
-        fr: Fracasseur
-        de: Blaster
-        ja: ブラスター
+        en: 'Blaster'
+        fr: 'Fracasseur'
+        de: 'Blaster'
+        ja: 'ブラスター'
       lodestone:
         id: 2cde0c8b0c4
         url: /lodestone/playguide/db/npc/enemy/2cde0c8b0c4/
     - name:
-        en: Brawler
-        fr: Bagarreur
-        de: Blechbrecher
-        ja: ブロウラー
+        en: 'Brawler'
+        fr: 'Bagarreur'
+        de: 'Blechbrecher'
+        ja: 'ブロウラー'
       lodestone:
         id: 8547745dfbf
         url: /lodestone/playguide/db/npc/enemy/8547745dfbf/
     - name:
-        en: Onslaughter
-        fr: Attaqueur
-        de: Schlachter
-        ja: オンスローター
+        en: 'Onslaughter'
+        fr: 'Attaqueur'
+        de: 'Schlachter'
+        ja: 'オンスローター'
       lodestone:
         id: 9eb1de3832d
         url: /lodestone/playguide/db/npc/enemy/9eb1de3832d/
     - name:
-        en: Swindler
-        fr: Arnaqueur
-        de: Schwindler
-        ja: スウィンドラー
+        en: 'Swindler'
+        fr: 'Arnaqueur'
+        de: 'Schwindler'
+        ja: 'スウィンドラー'
       lodestone:
         id: 8c65d7e3dbd
         url: /lodestone/playguide/db/npc/enemy/8c65d7e3dbd/
     - name:
-        en: Vortexer
-        fr: Tourbillonneur
-        de: Wirbler
-        ja: ボルテッカー
+        en: 'Vortexer'
+        fr: 'Tourbillonneur'
+        de: 'Wirbler'
+        ja: 'ボルテッカー'
       lodestone:
         id: 8f05a5b8a5b
         url: /lodestone/playguide/db/npc/enemy/8f05a5b8a5b/

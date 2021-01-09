@@ -1,8 +1,8 @@
 name:
-  en: Deltascape V1.0 (Savage)
-  fr: Deltastice v1.0 (sadique)
-  de: Deltametrie 1.0 (episch)
-  ja: 次元の狭間オメガ零式：デルタ編1
+  en: 'Deltascape V1.0 (Savage)'
+  fr: 'Deltastice v1.0 (sadique)'
+  de: 'Deltametrie 1.0 (episch)'
+  ja: '次元の狭間オメガ零式：デルタ編1'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Alte Roite
-        fr: Alte Roite
-        de: Alte Roite
-        ja: アルテ・ロイテ
+        en: 'Alte Roite'
+        fr: 'Alte Roite'
+        de: 'Alte Roite'
+        ja: 'アルテ・ロイテ'
       lodestone:
         id: 300f213c1ae
         url: /lodestone/playguide/db/npc/enemy/300f213c1ae/

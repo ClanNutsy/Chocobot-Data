@@ -1,8 +1,8 @@
 name:
-  en: The Final Coil of Bahamut - Turn 2
-  fr: L'Abîme de Bahamut II
-  de: Verschlungene Schatten 3 - 2
-  ja: 大迷宮バハムート：真成編2
+  en: 'The Final Coil of Bahamut - Turn 2'
+  fr: 'L'Abîme de Bahamut II'
+  de: 'Verschlungene Schatten 3 - 2'
+  ja: '大迷宮バハムート：真成編2'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Kaliya
-        fr: Kaliya
-        de: Kaliya
-        ja: カーリア
+        en: 'Kaliya'
+        fr: 'Kaliya'
+        de: 'Kaliya'
+        ja: 'カーリア'
       lodestone:
         id: 76c4ffab8aa
         url: /lodestone/playguide/db/npc/enemy/76c4ffab8aa/

@@ -1,8 +1,8 @@
 name:
-  en: Hells' Lid
-  fr: Le Couvercle des enfers
-  de: Höllenspund
-  ja: 紅玉火山 獄之蓋
+  en: 'Hells' Lid'
+  fr: 'Le Couvercle des enfers'
+  de: 'Höllenspund'
+  ja: '紅玉火山 獄之蓋'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Otake-maru
-        fr: Ôtake Maru
-        de: Otake-Maru
-        ja: オオタケ丸
+        en: 'Otake-maru'
+        fr: 'Ôtake Maru'
+        de: 'Otake-Maru'
+        ja: 'オオタケ丸'
       lodestone:
         id: 474a9df587c
         url: /lodestone/playguide/db/npc/enemy/474a9df587c/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Kamaitachi
-        fr: Kamaitachi
-        de: Kamaitachi
-        ja: カマイタチ
+        en: 'Kamaitachi'
+        fr: 'Kamaitachi'
+        de: 'Kamaitachi'
+        ja: 'カマイタチ'
       lodestone:
         id: d9abc9c681e
         url: /lodestone/playguide/db/npc/enemy/d9abc9c681e/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Genbu
-        fr: Genbu
-        de: Genbu
-        ja: 玄武
+        en: 'Genbu'
+        fr: 'Genbu'
+        de: 'Genbu'
+        ja: '玄武'
       lodestone:
         id: 5fcb0282cdf
         url: /lodestone/playguide/db/npc/enemy/5fcb0282cdf/

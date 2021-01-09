@@ -1,8 +1,8 @@
 name:
-  en: The Bowl of Embers (Hard)
-  fr: Le Cratère des tisons (brutal)
-  de: Götterdämmerung - Ifrit
-  ja: 真イフリート討滅戦
+  en: 'The Bowl of Embers (Hard)'
+  fr: 'Le Cratère des tisons (brutal)'
+  de: 'Götterdämmerung - Ifrit'
+  ja: '真イフリート討滅戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Ifrit
-        fr: Ifrit
-        de: Ifrit
-        ja: イフリート
+        en: 'Ifrit'
+        fr: 'Ifrit'
+        de: 'Ifrit'
+        ja: 'イフリート'
       lodestone:
         id: cd36117e349
         url: /lodestone/playguide/db/npc/enemy/cd36117e349/

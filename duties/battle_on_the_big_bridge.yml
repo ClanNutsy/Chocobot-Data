@@ -1,8 +1,8 @@
 name:
-  en: Battle on the Big Bridge
-  fr: Affrontement sur le grand pont
-  de: Duell auf der großen Brücke
-  ja: ギルガメッシュ討伐戦
+  en: 'Battle on the Big Bridge'
+  fr: 'Affrontement sur le grand pont'
+  de: 'Duell auf der großen Brücke'
+  ja: 'ギルガメッシュ討伐戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Gilgamesh
-        fr: Gilgamesh
-        de: Gilgamesch
-        ja: ギルガメッシュ
+        en: 'Gilgamesh'
+        fr: 'Gilgamesh'
+        de: 'Gilgamesch'
+        ja: 'ギルガメッシュ'
       lodestone:
         id: eeb533b3c27
         url: /lodestone/playguide/db/npc/enemy/eeb533b3c27/

@@ -1,8 +1,8 @@
 name:
-  en: The Pool of Tribute
-  fr: La Crique aux tributs
-  de: Götterdämmerung - Susano
-  ja: スサノオ討滅戦
+  en: 'The Pool of Tribute'
+  fr: 'La Crique aux tributs'
+  de: 'Götterdämmerung - Susano'
+  ja: 'スサノオ討滅戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Susano
-        fr: Susano
-        de: Susano
-        ja: スサノオ
+        en: 'Susano'
+        fr: 'Susano'
+        de: 'Susano'
+        ja: 'スサノオ'
       lodestone:
         id: 57facb9a0fc
         url: /lodestone/playguide/db/npc/enemy/57facb9a0fc/

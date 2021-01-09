@@ -1,8 +1,8 @@
 name:
-  en: Haukke Manor
-  fr: Le Manoir des Haukke
-  de: Haukke-Herrenhaus
-  ja: 名門屋敷 ハウケタ御用邸
+  en: 'Haukke Manor'
+  fr: 'Le Manoir des Haukke'
+  de: 'Haukke-Herrenhaus'
+  ja: '名門屋敷 ハウケタ御用邸'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Manor Claviger
-        fr: Clavière du manoir
-        de: Herrenhaus-Schlüsselträgerin
-        ja: 夫人付きクラヴィジャー
+        en: 'Manor Claviger'
+        fr: 'Clavière du manoir'
+        de: 'Herrenhaus-Schlüsselträgerin'
+        ja: '夫人付きクラヴィジャー'
       lodestone:
         id: 0ad5389201b
         url: /lodestone/playguide/db/npc/enemy/0ad5389201b/
@@ -49,18 +49,18 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Manor Jester
-        fr: Bouffon du manoir
-        de: Hofnarr
-        ja: 御用邸の道化師
+        en: 'Manor Jester'
+        fr: 'Bouffon du manoir'
+        de: 'Hofnarr'
+        ja: '御用邸の道化師'
       lodestone:
         id: eee97fda062
         url: /lodestone/playguide/db/npc/enemy/eee97fda062/
     - name:
-        en: Manor Steward
-        fr: Intendant du manoir
-        de: Seneschall
-        ja: 御用邸の執事長
+        en: 'Manor Steward'
+        fr: 'Intendant du manoir'
+        de: 'Seneschall'
+        ja: '御用邸の執事長'
       lodestone:
         id: 881c3c25f1c
         url: /lodestone/playguide/db/npc/enemy/881c3c25f1c/
@@ -90,10 +90,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Lady Amandine
-        fr: Dame Amandine
-        de: Lady Amandine
-        ja: レディ・アマンディヌ
+        en: 'Lady Amandine'
+        fr: 'Dame Amandine'
+        de: 'Lady Amandine'
+        ja: 'レディ・アマンディヌ'
       lodestone:
         id: edf9243f5c3
         url: /lodestone/playguide/db/npc/enemy/edf9243f5c3/

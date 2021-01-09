@@ -1,8 +1,8 @@
 name:
-  en: Cape Westwind
-  fr: Le Cap Vendouest
-  de: Kap Westwind
-  ja: リットアティン強襲戦
+  en: 'Cape Westwind'
+  fr: 'Le Cap Vendouest'
+  de: 'Kap Westwind'
+  ja: 'リットアティン強襲戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Rhitahtyn Sas Arvina
-        fr: Rhitahtyn sas Arvina
-        de: Rhitahtyn sas Arvina
-        ja: リットアティン・サス・アルヴィナ
+        en: 'Rhitahtyn Sas Arvina'
+        fr: 'Rhitahtyn sas Arvina'
+        de: 'Rhitahtyn sas Arvina'
+        ja: 'リットアティン・サス・アルヴィナ'
       lodestone:
         id: a74d25eb883
         url: /lodestone/playguide/db/npc/enemy/a74d25eb883/

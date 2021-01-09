@@ -1,8 +1,8 @@
 name:
-  en: The Unending Coil of Bahamut (Ultimate)
-  fr: L'Abîme infini de Bahamut (fatal)
-  de: Endlose Schatten von Bahamut (fatal)
-  ja: 絶バハムート討滅戦
+  en: 'The Unending Coil of Bahamut (Ultimate)'
+  fr: 'L'Abîme infini de Bahamut (fatal)'
+  de: 'Endlose Schatten von Bahamut (fatal)'
+  ja: '絶バハムート討滅戦'
 type: Ultimate Raid
 tags: []
 lodestone:
@@ -16,26 +16,26 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Bahamut Prime
-        fr: Primo-Bahamut
-        de: Prim-Bahamut
-        ja: バハムート・プライム
+        en: 'Bahamut Prime'
+        fr: 'Primo-Bahamut'
+        de: 'Prim-Bahamut'
+        ja: 'バハムート・プライム'
       lodestone:
         id: 35c02005349
         url: /lodestone/playguide/db/npc/enemy/35c02005349/
     - name:
-        en: Nael Deus Darnus
-        fr: Nael deus Darnus
-        de: Nael deus Darnus
-        ja: ネール・デウス・ダーナス
+        en: 'Nael Deus Darnus'
+        fr: 'Nael deus Darnus'
+        de: 'Nael deus Darnus'
+        ja: 'ネール・デウス・ダーナス'
       lodestone:
         id: 662f3172754
         url: /lodestone/playguide/db/npc/enemy/662f3172754/
     - name:
-        en: Twintania
-        fr: Gémellia
-        de: Twintania
-        ja: ツインタニア
+        en: 'Twintania'
+        fr: 'Gémellia'
+        de: 'Twintania'
+        ja: 'ツインタニア'
       lodestone:
         id: 415b605e6e9
         url: /lodestone/playguide/db/npc/enemy/415b605e6e9/

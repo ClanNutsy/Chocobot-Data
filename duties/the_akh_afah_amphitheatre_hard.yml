@@ -1,8 +1,8 @@
 name:
-  en: The Akh Afah Amphitheatre (Hard)
-  fr: L'Amphithéâtre d'Akh Afah (brutal)
-  de: Götterdämmerung - Shiva
-  ja: 真シヴァ討滅戦
+  en: 'The Akh Afah Amphitheatre (Hard)'
+  fr: 'L'Amphithéâtre d'Akh Afah (brutal)'
+  de: 'Götterdämmerung - Shiva'
+  ja: '真シヴァ討滅戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Shiva
-        fr: Shiva
-        de: Shiva
-        ja: シヴァ
+        en: 'Shiva'
+        fr: 'Shiva'
+        de: 'Shiva'
+        ja: 'シヴァ'
       lodestone:
         id: 0ab8d5dd511
         url: /lodestone/playguide/db/npc/enemy/0ab8d5dd511/

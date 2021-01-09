@@ -1,8 +1,8 @@
 name:
-  en: Alexander - The Eyes of the Creator
-  fr: Alexander - Les Yeux du Créateur
-  de: Alexander - Augen des Schöpfers
-  ja: 機工城アレキサンダー：天動編1
+  en: 'Alexander - The Eyes of the Creator'
+  fr: 'Alexander - Les Yeux du Créateur'
+  de: 'Alexander - Augen des Schöpfers'
+  ja: '機工城アレキサンダー：天動編1'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Refurbisher 0
-        fr: Récupérateur
-        de: Rekompositor
-        ja: リファビッシャー
+        en: 'Refurbisher 0'
+        fr: 'Récupérateur'
+        de: 'Rekompositor'
+        ja: 'リファビッシャー'
       lodestone:
         id: 0044172bc99
         url: /lodestone/playguide/db/npc/enemy/0044172bc99/

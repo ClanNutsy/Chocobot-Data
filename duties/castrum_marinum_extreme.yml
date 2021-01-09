@@ -1,8 +1,8 @@
 name:
-  en: Castrum Marinum (Extreme)
-  fr: Castrum Marinum (extrême)
-  de: Smaragdsturm - Trauma
-  ja: 極エメラルドウェポン破壊作戦
+  en: 'Castrum Marinum (Extreme)'
+  fr: 'Castrum Marinum (extrême)'
+  de: 'Smaragdsturm - Trauma'
+  ja: '極エメラルドウェポン破壊作戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: The Emerald Weapon
-        fr: Arme Émeraude
-        de: Smaragd-Waffe
-        ja: エメラルドウェポン
+        en: 'The Emerald Weapon'
+        fr: 'Arme Émeraude'
+        de: 'Smaragd-Waffe'
+        ja: 'エメラルドウェポン'
       lodestone:
         id: 5bc182049d4
         url: /lodestone/playguide/db/npc/enemy/5bc182049d4/

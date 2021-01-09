@@ -1,8 +1,8 @@
 name:
-  en: The Royal City of Rabanastre
-  fr: La Cité royale de Rabanastre
-  de: Rabanastre
-  ja: 失われた都 ラバナスタ
+  en: 'The Royal City of Rabanastre'
+  fr: 'La Cité royale de Rabanastre'
+  de: 'Rabanastre'
+  ja: '失われた都 ラバナスタ'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Mateus, The Corrupt
-        fr: Mateus le Corrompu
-        de: Mateus der Peiniger
-        ja: 背徳の皇帝マティウス
+        en: 'Mateus, The Corrupt'
+        fr: 'Mateus le Corrompu'
+        de: 'Mateus der Peiniger'
+        ja: '背徳の皇帝マティウス'
       lodestone:
         id: c2b3691360a
         url: /lodestone/playguide/db/npc/enemy/c2b3691360a/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Hashmal, Bringer Of Order
-        fr: Hashmal le Grand Ordonnateur
-        de: Hashmallim der Einiger
-        ja: 統制者ハシュマリム
+        en: 'Hashmal, Bringer Of Order'
+        fr: 'Hashmal le Grand Ordonnateur'
+        de: 'Hashmallim der Einiger'
+        ja: '統制者ハシュマリム'
       lodestone:
         id: d6a0a9e75cb
         url: /lodestone/playguide/db/npc/enemy/d6a0a9e75cb/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Rofocale
-        fr: Rofocale le Roi centaure
-        de: Rofocale
-        ja: 人馬王ロフォカレ
+        en: 'Rofocale'
+        fr: 'Rofocale le Roi centaure'
+        de: 'Rofocale'
+        ja: '人馬王ロフォカレ'
       lodestone:
         id: c8085341847
         url: /lodestone/playguide/db/npc/enemy/c8085341847/
@@ -115,10 +115,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Argath Thadalfus
-        fr: Argath Thadalfus
-        de: Argath Thadalfus
-        ja: 冷血剣アルガス
+        en: 'Argath Thadalfus'
+        fr: 'Argath Thadalfus'
+        de: 'Argath Thadalfus'
+        ja: '冷血剣アルガス'
       lodestone:
         id: 84344415f59
         url: /lodestone/playguide/db/npc/enemy/84344415f59/

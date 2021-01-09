@@ -1,8 +1,8 @@
 name:
-  en: The Dying Gasp
-  fr: Le Râle de l'Agonie
-  de: Offenbarung - Hades
-  ja: ハーデス討滅戦
+  en: 'The Dying Gasp'
+  fr: 'Le Râle de l'Agonie'
+  de: 'Offenbarung - Hades'
+  ja: 'ハーデス討滅戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Hades
-        fr: Hadès
-        de: Hades
-        ja: ハーデス
+        en: 'Hades'
+        fr: 'Hadès'
+        de: 'Hades'
+        ja: 'ハーデス'
       lodestone:
         id: 09525e32b26
         url: /lodestone/playguide/db/npc/enemy/09525e32b26/

@@ -1,8 +1,8 @@
 name:
-  en: The Void Ark
-  fr: L'Arche du néant
-  de: Die Nichts-Arche
-  ja: 魔航船ヴォイドアーク
+  en: 'The Void Ark'
+  fr: 'L'Arche du néant'
+  de: 'Die Nichts-Arche'
+  ja: '魔航船ヴォイドアーク'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Cetus
-        fr: Cetus
-        de: Cetus
-        ja: ケートス
+        en: 'Cetus'
+        fr: 'Cetus'
+        de: 'Cetus'
+        ja: 'ケートス'
       lodestone:
         id: 1bdd2b80eba
         url: /lodestone/playguide/db/npc/enemy/1bdd2b80eba/
@@ -49,18 +49,18 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Irminsul
-        fr: Irminsul
-        de: Irminsul
-        ja: イルミンスール
+        en: 'Irminsul'
+        fr: 'Irminsul'
+        de: 'Irminsul'
+        ja: 'イルミンスール'
       lodestone:
         id: 243761258d7
         url: /lodestone/playguide/db/npc/enemy/243761258d7/
     - name:
-        en: Sawtooth
-        fr: Dentata
-        de: Sägezahn
-        ja: ソウトゥース
+        en: 'Sawtooth'
+        fr: 'Dentata'
+        de: 'Sägezahn'
+        ja: 'ソウトゥース'
       lodestone:
         id: 8644370cc95
         url: /lodestone/playguide/db/npc/enemy/8644370cc95/
@@ -90,10 +90,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Cuchulainn
-        fr: Cúchulainn
-        de: Cuchulainn
-        ja: キュクレイン
+        en: 'Cuchulainn'
+        fr: 'Cúchulainn'
+        de: 'Cuchulainn'
+        ja: 'キュクレイン'
       lodestone:
         id: 660d13b79af
         url: /lodestone/playguide/db/npc/enemy/660d13b79af/
@@ -123,10 +123,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Echidna
-        fr: Echidna
-        de: Echidna
-        ja: エキドナ
+        en: 'Echidna'
+        fr: 'Echidna'
+        de: 'Echidna'
+        ja: 'エキドナ'
       lodestone:
         id: 54a3d516a50
         url: /lodestone/playguide/db/npc/enemy/54a3d516a50/

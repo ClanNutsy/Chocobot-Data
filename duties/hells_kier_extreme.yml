@@ -1,8 +1,8 @@
 name:
-  en: Hells' Kier (Extreme)
-  fr: Le Nid des Lamentations (extrême)
-  de: Seelensturm - Suzaku
-  ja: 極朱雀征魂戦
+  en: 'Hells' Kier (Extreme)'
+  fr: 'Le Nid des Lamentations (extrême)'
+  de: 'Seelensturm - Suzaku'
+  ja: '極朱雀征魂戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,18 +16,18 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Suzaku
-        fr: Suzaku
-        de: Suzaku
-        ja: 朱雀
+        en: 'Suzaku'
+        fr: 'Suzaku'
+        de: 'Suzaku'
+        ja: '朱雀'
       lodestone:
         id: 1fe2521445a
         url: /lodestone/playguide/db/npc/enemy/1fe2521445a/
     - name:
-        en: Scarlet Lady
-        fr: Oiseau de feu
-        de: Flammenvogel
-        ja: 火焔鳥
+        en: 'Scarlet Lady'
+        fr: 'Oiseau de feu'
+        de: 'Flammenvogel'
+        ja: '火焔鳥'
       lodestone:
         id: baaf33f2a17
         url: /lodestone/playguide/db/npc/enemy/baaf33f2a17/

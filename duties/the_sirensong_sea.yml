@@ -1,8 +1,8 @@
 name:
-  en: The Sirensong Sea
-  fr: La Mer du Chant des sirènes
-  de: Sirenen-See
-  ja: 漂流海域 セイレーン海
+  en: 'The Sirensong Sea'
+  fr: 'La Mer du Chant des sirènes'
+  de: 'Sirenen-See'
+  ja: '漂流海域 セイレーン海'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Lugat
-        fr: Lugat
-        de: Lugat
-        ja: ルガト
+        en: 'Lugat'
+        fr: 'Lugat'
+        de: 'Lugat'
+        ja: 'ルガト'
       lodestone:
         id: 4e3c135b2b4
         url: /lodestone/playguide/db/npc/enemy/4e3c135b2b4/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: The Governor
-        fr: Gouverneur
-        de: Friedhofsvorsteher
-        ja: ガバナー
+        en: 'The Governor'
+        fr: 'Gouverneur'
+        de: 'Friedhofsvorsteher'
+        ja: 'ガバナー'
       lodestone:
         id: fec049783f3
         url: /lodestone/playguide/db/npc/enemy/fec049783f3/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Lorelei
-        fr: Lorelei
-        de: Loreley
-        ja: ローレライ
+        en: 'Lorelei'
+        fr: 'Lorelei'
+        de: 'Loreley'
+        ja: 'ローレライ'
       lodestone:
         id: fe2ae806f32
         url: /lodestone/playguide/db/npc/enemy/fe2ae806f32/

@@ -1,8 +1,8 @@
 name:
-  en: Containment Bay Z1T9 (Extreme)
-  fr: Unité de contention Z1P9 (extrême)
-  de: Zenit der Götter - Zurvan
-  ja: 極鬼神ズルワーン討滅戦
+  en: 'Containment Bay Z1T9 (Extreme)'
+  fr: 'Unité de contention Z1P9 (extrême)'
+  de: 'Zenit der Götter - Zurvan'
+  ja: '極鬼神ズルワーン討滅戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Zurvan
-        fr: Zurvan
-        de: Zurvan
-        ja: ズルワーン
+        en: 'Zurvan'
+        fr: 'Zurvan'
+        de: 'Zurvan'
+        ja: 'ズルワーン'
       lodestone:
         id: 7a228ee8429
         url: /lodestone/playguide/db/npc/enemy/7a228ee8429/

@@ -1,8 +1,8 @@
 name:
-  en: Syrcus Tower
-  fr: La Tour de Cristal - Tour de Syrcus
-  de: Kristallturm - Der Syrcus-Turm
-  ja: クリスタルタワー：シルクスの塔
+  en: 'Syrcus Tower'
+  fr: 'La Tour de Cristal - Tour de Syrcus'
+  de: 'Kristallturm - Der Syrcus-Turm'
+  ja: 'クリスタルタワー：シルクスの塔'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Scylla
-        fr: Scylla
-        de: Scylla
-        ja: 妖艶のスキュラ
+        en: 'Scylla'
+        fr: 'Scylla'
+        de: 'Scylla'
+        ja: '妖艶のスキュラ'
       lodestone:
         id: bec45f5f2e7
         url: /lodestone/playguide/db/npc/enemy/bec45f5f2e7/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Glasya Labolas
-        fr: Glasya Labolas
-        de: Glasya Labolas
-        ja: 不壊のガーディアン
+        en: 'Glasya Labolas'
+        fr: 'Glasya Labolas'
+        de: 'Glasya Labolas'
+        ja: '不壊のガーディアン'
       lodestone:
         id: 9abd853ef60
         url: /lodestone/playguide/db/npc/enemy/9abd853ef60/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Amon
-        fr: Amon
-        de: Amon
-        ja: 異才のアモン
+        en: 'Amon'
+        fr: 'Amon'
+        de: 'Amon'
+        ja: '異才のアモン'
       lodestone:
         id: 253da028d4e
         url: /lodestone/playguide/db/npc/enemy/253da028d4e/
@@ -115,10 +115,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Xande
-        fr: Xande
-        de: Xande
-        ja: 始皇帝ザンデ
+        en: 'Xande'
+        fr: 'Xande'
+        de: 'Xande'
+        ja: '始皇帝ザンデ'
       lodestone:
         id: 3fca87ceffa
         url: /lodestone/playguide/db/npc/enemy/3fca87ceffa/

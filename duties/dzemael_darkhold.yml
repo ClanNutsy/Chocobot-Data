@@ -1,8 +1,8 @@
 name:
-  en: Dzemael Darkhold
-  fr: La Forteresse de Dzemael
-  de: Die Feste Dzemael
-  ja: 掃討作戦 ゼーメル要塞
+  en: 'Dzemael Darkhold'
+  fr: 'La Forteresse de Dzemael'
+  de: 'Die Feste Dzemael'
+  ja: '掃討作戦 ゼーメル要塞'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: All-seeing Eye
-        fr: Œil omniscient
-        de: Allsehendes Auge
-        ja: オールシーイングアイ
+        en: 'All-seeing Eye'
+        fr: 'Œil omniscient'
+        de: 'Allsehendes Auge'
+        ja: 'オールシーイングアイ'
       lodestone:
         id: 0af9f50d124
         url: /lodestone/playguide/db/npc/enemy/0af9f50d124/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Taulurd
-        fr: Taulurd
-        de: Taulurd
-        ja: タウラード
+        en: 'Taulurd'
+        fr: 'Taulurd'
+        de: 'Taulurd'
+        ja: 'タウラード'
       lodestone:
         id: 8bf5ff6ff00
         url: /lodestone/playguide/db/npc/enemy/8bf5ff6ff00/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Batraal
-        fr: Batraal
-        de: Batraal
-        ja: バトラール
+        en: 'Batraal'
+        fr: 'Batraal'
+        de: 'Batraal'
+        ja: 'バトラール'
       lodestone:
         id: 278cfa2e852
         url: /lodestone/playguide/db/npc/enemy/278cfa2e852/

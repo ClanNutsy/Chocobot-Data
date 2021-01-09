@@ -1,8 +1,8 @@
 name:
-  en: Halatali
-  fr: Halatali
-  de: Halatali
-  ja: 魔獣領域 ハラタリ修練所
+  en: 'Halatali'
+  fr: 'Halatali'
+  de: 'Halatali'
+  ja: '魔獣領域 ハラタリ修練所'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Firemane
-        fr: Crin-de-feu
-        de: Pyross
-        ja: 赤熱のブッシュファイア
+        en: 'Firemane'
+        fr: 'Crin-de-feu'
+        de: 'Pyross'
+        ja: '赤熱のブッシュファイア'
       lodestone:
         id: ee586b27bb7
         url: /lodestone/playguide/db/npc/enemy/ee586b27bb7/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Thunderclap Guivre
-        fr: Guivre foudroyante
-        de: Donnerhall-Guivre
-        ja: 百雷のギーヴル
+        en: 'Thunderclap Guivre'
+        fr: 'Guivre foudroyante'
+        de: 'Donnerhall-Guivre'
+        ja: '百雷のギーヴル'
       lodestone:
         id: 4a280a4c5aa
         url: /lodestone/playguide/db/npc/enemy/4a280a4c5aa/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Tangata
-        fr: Tangata le bestial
-        de: Tangata
-        ja: 獣闘士 タンガタ
+        en: 'Tangata'
+        fr: 'Tangata le bestial'
+        de: 'Tangata'
+        ja: '獣闘士 タンガタ'
       lodestone:
         id: 0eceac35fe9
         url: /lodestone/playguide/db/npc/enemy/0eceac35fe9/

@@ -1,8 +1,8 @@
 name:
-  en: Eden's Verse: Furor (Savage)
-  fr: Les Accords d'Éden - Fureur (sadique)
-  de: Edens Resonanz - Raserei (episch)
-  ja: 希望の園エデン零式：共鳴編2
+  en: 'Eden's Verse: Furor (Savage)'
+  fr: 'Les Accords d'Éden - Fureur (sadique)'
+  de: 'Edens Resonanz - Raserei (episch)'
+  ja: '希望の園エデン零式：共鳴編2'
 type: Raid
 tags: []
 lodestone:
@@ -16,26 +16,26 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Garuda
-        fr: Garuda
-        de: Garuda
-        ja: ガルーダ
+        en: 'Garuda'
+        fr: 'Garuda'
+        de: 'Garuda'
+        ja: 'ガルーダ'
       lodestone:
         id: a9c5aa5fe0f
         url: /lodestone/playguide/db/npc/enemy/a9c5aa5fe0f/
     - name:
-        en: Ifrit
-        fr: Ifrit
-        de: Ifrit
-        ja: イフリート
+        en: 'Ifrit'
+        fr: 'Ifrit'
+        de: 'Ifrit'
+        ja: 'イフリート'
       lodestone:
         id: 7298553f77e
         url: /lodestone/playguide/db/npc/enemy/7298553f77e/
     - name:
-        en: Raktapaksa
-        fr: Raktapaksa
-        de: Raktapaksa
-        ja: ラクタパクシャ
+        en: 'Raktapaksa'
+        fr: 'Raktapaksa'
+        de: 'Raktapaksa'
+        ja: 'ラクタパクシャ'
       lodestone:
         id: d4114a151a0
         url: /lodestone/playguide/db/npc/enemy/d4114a151a0/

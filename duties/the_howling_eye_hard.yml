@@ -1,8 +1,8 @@
 name:
-  en: The Howling Eye (Hard)
-  fr: Hurlœil (brutal)
-  de: Götterdämmerung - Garuda
-  ja: 真ガルーダ討滅戦
+  en: 'The Howling Eye (Hard)'
+  fr: 'Hurlœil (brutal)'
+  de: 'Götterdämmerung - Garuda'
+  ja: '真ガルーダ討滅戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Garuda
-        fr: Garuda
-        de: Garuda
-        ja: ガルーダ
+        en: 'Garuda'
+        fr: 'Garuda'
+        de: 'Garuda'
+        ja: 'ガルーダ'
       lodestone:
         id: 89cfccc1652
         url: /lodestone/playguide/db/npc/enemy/89cfccc1652/

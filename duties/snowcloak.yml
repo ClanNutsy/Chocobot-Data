@@ -1,8 +1,8 @@
 name:
-  en: Snowcloak
-  fr: Manteneige
-  de: Das Schneekleid
-  ja: 氷結潜窟 スノークローク大氷壁
+  en: 'Snowcloak'
+  fr: 'Manteneige'
+  de: 'Das Schneekleid'
+  ja: '氷結潜窟 スノークローク大氷壁'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Wandil
-        fr: Wandill
-        de: Wandil
-        ja: ワンディル
+        en: 'Wandil'
+        fr: 'Wandill'
+        de: 'Wandil'
+        ja: 'ワンディル'
       lodestone:
         id: 943cb8c066e
         url: /lodestone/playguide/db/npc/enemy/943cb8c066e/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Yeti
-        fr: Yéti
-        de: Yeti
-        ja: イエティ
+        en: 'Yeti'
+        fr: 'Yéti'
+        de: 'Yeti'
+        ja: 'イエティ'
       lodestone:
         id: 7c0f2882281
         url: /lodestone/playguide/db/npc/enemy/7c0f2882281/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Fenrir
-        fr: Fenrir
-        de: Fenrir
-        ja: フェンリル
+        en: 'Fenrir'
+        fr: 'Fenrir'
+        de: 'Fenrir'
+        ja: 'フェンリル'
       lodestone:
         id: d1f9af92b95
         url: /lodestone/playguide/db/npc/enemy/d1f9af92b95/

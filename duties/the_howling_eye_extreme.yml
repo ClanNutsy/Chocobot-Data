@@ -1,8 +1,8 @@
 name:
-  en: The Howling Eye (Extreme)
-  fr: Hurlœil (extrême)
-  de: Zenit der Götter - Garuda
-  ja: 極ガルーダ討滅戦
+  en: 'The Howling Eye (Extreme)'
+  fr: 'Hurlœil (extrême)'
+  de: 'Zenit der Götter - Garuda'
+  ja: '極ガルーダ討滅戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Garuda
-        fr: Garuda
-        de: Garuda
-        ja: ガルーダ
+        en: 'Garuda'
+        fr: 'Garuda'
+        de: 'Garuda'
+        ja: 'ガルーダ'
       lodestone:
         id: a6738b9e253
         url: /lodestone/playguide/db/npc/enemy/a6738b9e253/

@@ -1,8 +1,8 @@
 name:
-  en: The Tam-Tara Deepcroft
-  fr: L'Hypogée de Tam-Tara
-  de: Totenacker Tam-Tara
-  ja: 地下霊殿 タムタラの墓所
+  en: 'The Tam-Tara Deepcroft'
+  fr: 'L'Hypogée de Tam-Tara'
+  de: 'Totenacker Tam-Tara'
+  ja: '地下霊殿 タムタラの墓所'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Void Soulcounter
-        fr: Compteur d'âmes du néant
-        de: Nichts-Seelensammler
-        ja: ヴォイド・ソウルカウンター
+        en: 'Void Soulcounter'
+        fr: 'Compteur d'âmes du néant'
+        de: 'Nichts-Seelensammler'
+        ja: 'ヴォイド・ソウルカウンター'
       lodestone:
         id: c7a7d24a44c
         url: /lodestone/playguide/db/npc/enemy/c7a7d24a44c/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Void Soulcounter
-        fr: Compteur d'âmes du néant
-        de: Nichts-Seelensammler
-        ja: ヴォイド・ソウルカウンター
+        en: 'Void Soulcounter'
+        fr: 'Compteur d'âmes du néant'
+        de: 'Nichts-Seelensammler'
+        ja: 'ヴォイド・ソウルカウンター'
       lodestone:
         id: c7a7d24a44c
         url: /lodestone/playguide/db/npc/enemy/c7a7d24a44c/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Void Soulcounter
-        fr: Compteur d'âmes du néant
-        de: Nichts-Seelensammler
-        ja: ヴォイド・ソウルカウンター
+        en: 'Void Soulcounter'
+        fr: 'Compteur d'âmes du néant'
+        de: 'Nichts-Seelensammler'
+        ja: 'ヴォイド・ソウルカウンター'
       lodestone:
         id: c7a7d24a44c
         url: /lodestone/playguide/db/npc/enemy/c7a7d24a44c/
@@ -115,10 +115,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Galvanth The Dominator
-        fr: Galvanth le Tyran
-        de: Großkönig Galvanth
-        ja: 絶対王ガルヴァンス
+        en: 'Galvanth The Dominator'
+        fr: 'Galvanth le Tyran'
+        de: 'Großkönig Galvanth'
+        ja: '絶対王ガルヴァンス'
       lodestone:
         id: 557f0907421
         url: /lodestone/playguide/db/npc/enemy/557f0907421/

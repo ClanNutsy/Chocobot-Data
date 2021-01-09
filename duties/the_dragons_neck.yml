@@ -1,8 +1,8 @@
 name:
-  en: The Dragon's Neck
-  fr: Le Col du dragon
-  de: Das Drachenhals-Kolosseum
-  ja: アマジナ杯闘技会決勝戦
+  en: 'The Dragon's Neck'
+  fr: 'Le Col du dragon'
+  de: 'Das Drachenhals-Kolosseum'
+  ja: 'アマジナ杯闘技会決勝戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,18 +16,18 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Typhon
-        fr: Typhon
-        de: Typhon
-        ja: テュポーン
+        en: 'Typhon'
+        fr: 'Typhon'
+        de: 'Typhon'
+        ja: 'テュポーン'
       lodestone:
         id: d576294c1e0
         url: /lodestone/playguide/db/npc/enemy/d576294c1e0/
     - name:
-        en: Ultros
-        fr: Orthros
-        de: Ultros
-        ja: オルトロス
+        en: 'Ultros'
+        fr: 'Orthros'
+        de: 'Ultros'
+        ja: 'オルトロス'
       lodestone:
         id: 89b51da0d99
         url: /lodestone/playguide/db/npc/enemy/89b51da0d99/

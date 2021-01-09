@@ -1,8 +1,8 @@
 name:
-  en: The Lost City of Amdapor (Hard)
-  fr: Les Vestiges de la cité d'Amdapor (brutal)
-  de: Historisches Amdapor (schwer)
-  ja: 神聖遺跡 古アムダプール市街 (Hard)
+  en: 'The Lost City of Amdapor (Hard)'
+  fr: 'Les Vestiges de la cité d'Amdapor (brutal)'
+  de: 'Historisches Amdapor (schwer)'
+  ja: '神聖遺跡 古アムダプール市街 (Hard)'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Achamoth
-        fr: Achamoth
-        de: Achamoth
-        ja: アカモート
+        en: 'Achamoth'
+        fr: 'Achamoth'
+        de: 'Achamoth'
+        ja: 'アカモート'
       lodestone:
         id: 5c6bb0caca9
         url: /lodestone/playguide/db/npc/enemy/5c6bb0caca9/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Winged Lion
-        fr: Lion ailé
-        de: Schwingenlöwe
-        ja: ウィングドライオン
+        en: 'Winged Lion'
+        fr: 'Lion ailé'
+        de: 'Schwingenlöwe'
+        ja: 'ウィングドライオン'
       lodestone:
         id: 1a7862b9f1f
         url: /lodestone/playguide/db/npc/enemy/1a7862b9f1f/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Kuribu
-        fr: Kuribu
-        de: Kuribu
-        ja: クリブ
+        en: 'Kuribu'
+        fr: 'Kuribu'
+        de: 'Kuribu'
+        ja: 'クリブ'
       lodestone:
         id: 156b2238154
         url: /lodestone/playguide/db/npc/enemy/156b2238154/

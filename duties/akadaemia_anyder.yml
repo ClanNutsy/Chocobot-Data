@@ -1,8 +1,8 @@
 name:
-  en: Akadaemia Anyder
-  fr: Akadaemia Anydre
-  de: Akadaemia Anyder
-  ja: 創造機関 アナイダアカデミア
+  en: 'Akadaemia Anyder'
+  fr: 'Akadaemia Anydre'
+  de: 'Akadaemia Anyder'
+  ja: '創造機関 アナイダアカデミア'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,18 +16,18 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Cladoselache
-        fr: Cladoselache
-        de: Cladoselache
-        ja: クラドセラケ
+        en: 'Cladoselache'
+        fr: 'Cladoselache'
+        de: 'Cladoselache'
+        ja: 'クラドセラケ'
       lodestone:
         id: fa1a6844b9e
         url: /lodestone/playguide/db/npc/enemy/fa1a6844b9e/
     - name:
-        en: Doliodus
-        fr: Doliodus
-        de: Doliodus
-        ja: ドリオドゥス
+        en: 'Doliodus'
+        fr: 'Doliodus'
+        de: 'Doliodus'
+        ja: 'ドリオドゥス'
       lodestone:
         id: 1847716c5e5
         url: /lodestone/playguide/db/npc/enemy/1847716c5e5/
@@ -57,10 +57,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Marquis Morbol
-        fr: Marquis morbol
-        de: Marquis-Morbol
-        ja: マーカス・モルボル
+        en: 'Marquis Morbol'
+        fr: 'Marquis morbol'
+        de: 'Marquis-Morbol'
+        ja: 'マーカス・モルボル'
       lodestone:
         id: b43c546d077
         url: /lodestone/playguide/db/npc/enemy/b43c546d077/
@@ -90,10 +90,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Quetzalcoatl
-        fr: Quetzalcóatl
-        de: Quetzalcoatl
-        ja: ケツァクウァトル
+        en: 'Quetzalcoatl'
+        fr: 'Quetzalcóatl'
+        de: 'Quetzalcoatl'
+        ja: 'ケツァクウァトル'
       lodestone:
         id: 54c34eaf54e
         url: /lodestone/playguide/db/npc/enemy/54c34eaf54e/

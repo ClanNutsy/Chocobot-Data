@@ -1,8 +1,8 @@
 name:
-  en: Alphascape V3.0 (Savage)
-  fr: Alphastice v3.0 (sadique)
-  de: Alphametrie 3.0 (episch)
-  ja: 次元の狭間オメガ零式：アルファ編3
+  en: 'Alphascape V3.0 (Savage)'
+  fr: 'Alphastice v3.0 (sadique)'
+  de: 'Alphametrie 3.0 (episch)'
+  ja: '次元の狭間オメガ零式：アルファ編3'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Omega
-        fr: Oméga
-        de: Omega
-        ja: オメガ
+        en: 'Omega'
+        fr: 'Oméga'
+        de: 'Omega'
+        ja: 'オメガ'
       lodestone:
         id: 4ebb5a254c6
         url: /lodestone/playguide/db/npc/enemy/4ebb5a254c6/

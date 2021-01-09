@@ -1,8 +1,8 @@
 name:
-  en: The Jade Stoa
-  fr: La Clairière de Jade
-  de: Seelentanz - Byakko
-  ja: 白虎征魂戦
+  en: 'The Jade Stoa'
+  fr: 'La Clairière de Jade'
+  de: 'Seelentanz - Byakko'
+  ja: '白虎征魂戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Byakko
-        fr: Byakko
-        de: Byakko
-        ja: 白虎
+        en: 'Byakko'
+        fr: 'Byakko'
+        de: 'Byakko'
+        ja: '白虎'
       lodestone:
         id: 0ebde711700
         url: /lodestone/playguide/db/npc/enemy/0ebde711700/

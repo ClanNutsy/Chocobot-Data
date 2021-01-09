@@ -1,8 +1,8 @@
 name:
-  en: The Stone Vigil
-  fr: Le Vigile de Pierre
-  de: Steinerne Wacht
-  ja: 城塞攻略 ストーンヴィジル
+  en: 'The Stone Vigil'
+  fr: 'Le Vigile de Pierre'
+  de: 'Steinerne Wacht'
+  ja: '城塞攻略 ストーンヴィジル'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Chudo-Yudo
-        fr: Chudo-Yudo
-        de: Chudo-Yudo
-        ja: チョドーユドー
+        en: 'Chudo-Yudo'
+        fr: 'Chudo-Yudo'
+        de: 'Chudo-Yudo'
+        ja: 'チョドーユドー'
       lodestone:
         id: 25acf3372ac
         url: /lodestone/playguide/db/npc/enemy/25acf3372ac/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Koshchei
-        fr: Koshchei
-        de: Koshchei
-        ja: コシュチェイ
+        en: 'Koshchei'
+        fr: 'Koshchei'
+        de: 'Koshchei'
+        ja: 'コシュチェイ'
       lodestone:
         id: 1bcc219a710
         url: /lodestone/playguide/db/npc/enemy/1bcc219a710/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Isgebind
-        fr: Isgebind
-        de: Isgebind
-        ja: イスケビンド
+        en: 'Isgebind'
+        fr: 'Isgebind'
+        de: 'Isgebind'
+        ja: 'イスケビンド'
       lodestone:
         id: 550c8c07f1e
         url: /lodestone/playguide/db/npc/enemy/550c8c07f1e/

@@ -1,8 +1,8 @@
 name:
-  en: Malikah's Well
-  fr: Le Puits de Malikah
-  de: Malikahs Brunnen
-  ja: 爽涼離宮 マリカの大井戸
+  en: 'Malikah's Well'
+  fr: 'Le Puits de Malikah'
+  de: 'Malikahs Brunnen'
+  ja: '爽涼離宮 マリカの大井戸'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Greater Armadillo
-        fr: Grand tatou
-        de: Riesengürteltier
-        ja: グレーター・アルマジロ
+        en: 'Greater Armadillo'
+        fr: 'Grand tatou'
+        de: 'Riesengürteltier'
+        ja: 'グレーター・アルマジロ'
       lodestone:
         id: 387a483b22b
         url: /lodestone/playguide/db/npc/enemy/387a483b22b/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Amphibious Talos
-        fr: Talos amphibie
-        de: Wasserträger-Talos
-        ja: ハイドロタロース
+        en: 'Amphibious Talos'
+        fr: 'Talos amphibie'
+        de: 'Wasserträger-Talos'
+        ja: 'ハイドロタロース'
       lodestone:
         id: 464c0f82901
         url: /lodestone/playguide/db/npc/enemy/464c0f82901/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Storge
-        fr: Storgê
-        de: Storge
-        ja: ストルゲー
+        en: 'Storge'
+        fr: 'Storgê'
+        de: 'Storge'
+        ja: 'ストルゲー'
       lodestone:
         id: 2e2b1b8c98f
         url: /lodestone/playguide/db/npc/enemy/2e2b1b8c98f/

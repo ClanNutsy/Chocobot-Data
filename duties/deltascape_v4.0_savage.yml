@@ -1,8 +1,8 @@
 name:
-  en: Deltascape V4.0 (Savage)
-  fr: Deltastice v4.0 (sadique)
-  de: Deltametrie 4.0 (episch)
-  ja: 次元の狭間オメガ零式：デルタ編4
+  en: 'Deltascape V4.0 (Savage)'
+  fr: 'Deltastice v4.0 (sadique)'
+  de: 'Deltametrie 4.0 (episch)'
+  ja: '次元の狭間オメガ零式：デルタ編4'
 type: Raid
 tags: []
 lodestone:
@@ -16,18 +16,18 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Exdeath
-        fr: Exdeath
-        de: Exdeath
-        ja: エクスデス
+        en: 'Exdeath'
+        fr: 'Exdeath'
+        de: 'Exdeath'
+        ja: 'エクスデス'
       lodestone:
         id: 7e53d796e6c
         url: /lodestone/playguide/db/npc/enemy/7e53d796e6c/
     - name:
-        en: Neo Exdeath
-        fr: Néo-Exdeath
-        de: Neo Exdeath
-        ja: ネオエクスデス
+        en: 'Neo Exdeath'
+        fr: 'Néo-Exdeath'
+        de: 'Neo Exdeath'
+        ja: 'ネオエクスデス'
       lodestone:
         id: 82f8d4eabe0
         url: /lodestone/playguide/db/npc/enemy/82f8d4eabe0/

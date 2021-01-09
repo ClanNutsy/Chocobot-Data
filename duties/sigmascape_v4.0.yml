@@ -1,8 +1,8 @@
 name:
-  en: Sigmascape V4.0
-  fr: Sigmastice v4.0
-  de: Sigmametrie 4.0
-  ja: 次元の狭間オメガ：シグマ編4
+  en: 'Sigmascape V4.0'
+  fr: 'Sigmastice v4.0'
+  de: 'Sigmametrie 4.0'
+  ja: '次元の狭間オメガ：シグマ編4'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Kefka
-        fr: Kefka
-        de: Kefka
-        ja: ケフカ
+        en: 'Kefka'
+        fr: 'Kefka'
+        de: 'Kefka'
+        ja: 'ケフカ'
       lodestone:
         id: 6fd4427b440
         url: /lodestone/playguide/db/npc/enemy/6fd4427b440/

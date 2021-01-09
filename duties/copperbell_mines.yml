@@ -1,8 +1,8 @@
 name:
-  en: Copperbell Mines
-  fr: Les Mines de Clochecuivre
-  de: Kupferglocken-Mine
-  ja: 封鎖坑道 カッパーベル銅山
+  en: 'Copperbell Mines'
+  fr: 'Les Mines de Clochecuivre'
+  de: 'Kupferglocken-Mine'
+  ja: '封鎖坑道 カッパーベル銅山'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Kottos
-        fr: Cottos l'irrascible
-        de: Kottos
-        ja: 憤怒のコットス
+        en: 'Kottos'
+        fr: 'Cottos l'irrascible'
+        de: 'Kottos'
+        ja: '憤怒のコットス'
       lodestone:
         id: 01ff1908e3c
         url: /lodestone/playguide/db/npc/enemy/01ff1908e3c/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Ichorous Ire
-        fr: Ire ichoreuse
-        de: Zorniger Ichor
-        ja: イコラウス・アイル
+        en: 'Ichorous Ire'
+        fr: 'Ire ichoreuse'
+        de: 'Zorniger Ichor'
+        ja: 'イコラウス・アイル'
       lodestone:
         id: e910d95a56e
         url: /lodestone/playguide/db/npc/enemy/e910d95a56e/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Gyges The Great
-        fr: Gygès l'invulnérable
-        de: Gyges der Großer
-        ja: 豪腕のギュゲス
+        en: 'Gyges The Great'
+        fr: 'Gygès l'invulnérable'
+        de: 'Gyges der Großer'
+        ja: '豪腕のギュゲス'
       lodestone:
         id: b396a581fd6
         url: /lodestone/playguide/db/npc/enemy/b396a581fd6/

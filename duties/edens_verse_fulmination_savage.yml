@@ -1,8 +1,8 @@
 name:
-  en: Eden's Verse: Fulmination (Savage)
-  fr: Les Accords d'Éden - Fulmination (sadique)
-  de: Edens Resonanz - Entladung (episch)
-  ja: 希望の園エデン零式：共鳴編1
+  en: 'Eden's Verse: Fulmination (Savage)'
+  fr: 'Les Accords d'Éden - Fulmination (sadique)'
+  de: 'Edens Resonanz - Entladung (episch)'
+  ja: '希望の園エデン零式：共鳴編1'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Ramuh
-        fr: Ramuh
-        de: Ramuh
-        ja: ラムウ
+        en: 'Ramuh'
+        fr: 'Ramuh'
+        de: 'Ramuh'
+        ja: 'ラムウ'
       lodestone:
         id: 9dac08ceb1c
         url: /lodestone/playguide/db/npc/enemy/9dac08ceb1c/

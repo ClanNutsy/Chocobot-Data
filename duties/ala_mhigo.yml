@@ -1,8 +1,8 @@
 name:
-  en: Ala Mhigo
-  fr: Ala Mhigo
-  de: Ala Mhigo
-  ja: 紅蓮決戦 アラミゴ
+  en: 'Ala Mhigo'
+  fr: 'Ala Mhigo'
+  de: 'Ala Mhigo'
+  ja: '紅蓮決戦 アラミゴ'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Magitek Scorpion
-        fr: Scorpion magitek
-        de: Wachskorpion
-        ja: ガードスコーピオン
+        en: 'Magitek Scorpion'
+        fr: 'Scorpion magitek'
+        de: 'Wachskorpion'
+        ja: 'ガードスコーピオン'
       lodestone:
         id: 9c4a971c03b
         url: /lodestone/playguide/db/npc/enemy/9c4a971c03b/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Aulus Mal Asina
-        fr: Aulus mal Asina
-        de: Aulus mal Asina
-        ja: アウルス・マル・アシナ
+        en: 'Aulus Mal Asina'
+        fr: 'Aulus mal Asina'
+        de: 'Aulus mal Asina'
+        ja: 'アウルス・マル・アシナ'
       lodestone:
         id: 0e60472d94b
         url: /lodestone/playguide/db/npc/enemy/0e60472d94b/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Zenos Yae Galvus
-        fr: Zenos yae Galvus
-        de: Zenos yae Galvus
-        ja: ゼノス・イェー・ガルヴァス
+        en: 'Zenos Yae Galvus'
+        fr: 'Zenos yae Galvus'
+        de: 'Zenos yae Galvus'
+        ja: 'ゼノス・イェー・ガルヴァス'
       lodestone:
         id: b7578e5583e
         url: /lodestone/playguide/db/npc/enemy/b7578e5583e/

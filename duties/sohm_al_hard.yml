@@ -1,8 +1,8 @@
 name:
-  en: Sohm Al (Hard)
-  fr: Sohm Al (brutal)
-  de: Sohm Al (schwer)
-  ja: 霊峰浄化 ソーム・アル (Hard)
+  en: 'Sohm Al (Hard)'
+  fr: 'Sohm Al (brutal)'
+  de: 'Sohm Al (schwer)'
+  ja: '霊峰浄化 ソーム・アル (Hard)'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: The Leightonward
-        fr: Chortocyon
-        de: Hortigolem
-        ja: レイトンワード
+        en: 'The Leightonward'
+        fr: 'Chortocyon'
+        de: 'Hortigolem'
+        ja: 'レイトンワード'
       lodestone:
         id: e3bdac29b42
         url: /lodestone/playguide/db/npc/enemy/e3bdac29b42/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Gowrow
-        fr: Gowrow
-        de: Gowrow
-        ja: ガウロウ
+        en: 'Gowrow'
+        fr: 'Gowrow'
+        de: 'Gowrow'
+        ja: 'ガウロウ'
       lodestone:
         id: 89ce9a49a9d
         url: /lodestone/playguide/db/npc/enemy/89ce9a49a9d/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Lava Scorpion
-        fr: Scorpion de lave
-        de: Lavaskorpion
-        ja: ラーヴァ・スコーピオン
+        en: 'Lava Scorpion'
+        fr: 'Scorpion de lave'
+        de: 'Lavaskorpion'
+        ja: 'ラーヴァ・スコーピオン'
       lodestone:
         id: b3e55909789
         url: /lodestone/playguide/db/npc/enemy/b3e55909789/

@@ -1,8 +1,8 @@
 name:
-  en: The Binding Coil of Bahamut - Turn 5
-  fr: Le Labyrinthe de Bahamut V
-  de: Verschlungene Schatten 5
-  ja: 大迷宮バハムート：邂逅編5
+  en: 'The Binding Coil of Bahamut - Turn 5'
+  fr: 'Le Labyrinthe de Bahamut V'
+  de: 'Verschlungene Schatten 5'
+  ja: '大迷宮バハムート：邂逅編5'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Twintania
-        fr: Gémellia
-        de: Twintania
-        ja: ツインタニア
+        en: 'Twintania'
+        fr: 'Gémellia'
+        de: 'Twintania'
+        ja: 'ツインタニア'
       lodestone:
         id: adcc4bfe4c3
         url: /lodestone/playguide/db/npc/enemy/adcc4bfe4c3/

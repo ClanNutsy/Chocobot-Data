@@ -1,8 +1,8 @@
 name:
-  en: The Wreath of Snakes
-  fr: L'Îlot des Amertumes
-  de: Seelentanz - Seiryu
-  ja: 青龍征魂戦
+  en: 'The Wreath of Snakes'
+  fr: 'L'Îlot des Amertumes'
+  de: 'Seelentanz - Seiryu'
+  ja: '青龍征魂戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Seiryu
-        fr: Seiryû
-        de: Seiryu
-        ja: 青龍
+        en: 'Seiryu'
+        fr: 'Seiryû'
+        de: 'Seiryu'
+        ja: '青龍'
       lodestone:
         id: d5cbf983b28
         url: /lodestone/playguide/db/npc/enemy/d5cbf983b28/

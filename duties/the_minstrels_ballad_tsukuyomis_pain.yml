@@ -1,8 +1,8 @@
 name:
-  en: The Minstrel's Ballad: Tsukuyomi's Pain
-  fr: Castrum Fluminis (extrême)
-  de: Zenit der Götter - Tsukuyomi
-  ja: 極ツクヨミ討滅戦
+  en: 'The Minstrel's Ballad: Tsukuyomi's Pain'
+  fr: 'Castrum Fluminis (extrême)'
+  de: 'Zenit der Götter - Tsukuyomi'
+  ja: '極ツクヨミ討滅戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Tsukuyomi
-        fr: Tsukuyomi
-        de: Tsukuyomi
-        ja: ツクヨミ
+        en: 'Tsukuyomi'
+        fr: 'Tsukuyomi'
+        de: 'Tsukuyomi'
+        ja: 'ツクヨミ'
       lodestone:
         id: 2ea6e449c56
         url: /lodestone/playguide/db/npc/enemy/2ea6e449c56/

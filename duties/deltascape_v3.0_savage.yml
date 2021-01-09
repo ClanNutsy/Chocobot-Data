@@ -1,8 +1,8 @@
 name:
-  en: Deltascape V3.0 (Savage)
-  fr: Deltastice v3.0 (sadique)
-  de: Deltametrie 3.0 (episch)
-  ja: 次元の狭間オメガ零式：デルタ編3
+  en: 'Deltascape V3.0 (Savage)'
+  fr: 'Deltastice v3.0 (sadique)'
+  de: 'Deltametrie 3.0 (episch)'
+  ja: '次元の狭間オメガ零式：デルタ編3'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Halicarnassus
-        fr: Halicarnasse
-        de: Halikarnassos
-        ja: ハリカルナッソス
+        en: 'Halicarnassus'
+        fr: 'Halicarnasse'
+        de: 'Halikarnassos'
+        ja: 'ハリカルナッソス'
       lodestone:
         id: c73fc52ba4c
         url: /lodestone/playguide/db/npc/enemy/c73fc52ba4c/

@@ -1,8 +1,8 @@
 name:
-  en: The Crown of the Immaculate (Extreme)
-  fr: La Couronne de l'Immaculé (extrême)
-  de: Letzte Läuterung - Innozenz
-  ja: 極イノセンス討滅戦
+  en: 'The Crown of the Immaculate (Extreme)'
+  fr: 'La Couronne de l'Immaculé (extrême)'
+  de: 'Letzte Läuterung - Innozenz'
+  ja: '極イノセンス討滅戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Innocence
-        fr: Innocence
-        de: Innozenz
-        ja: イノセンス
+        en: 'Innocence'
+        fr: 'Innocence'
+        de: 'Innozenz'
+        ja: 'イノセンス'
       lodestone:
         id: cbab5c72cb8
         url: /lodestone/playguide/db/npc/enemy/cbab5c72cb8/

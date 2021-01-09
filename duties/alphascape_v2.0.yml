@@ -1,8 +1,8 @@
 name:
-  en: Alphascape V2.0
-  fr: Alphastice v2.0
-  de: Alphametrie 2.0
-  ja: 次元の狭間オメガ：アルファ編2
+  en: 'Alphascape V2.0'
+  fr: 'Alphastice v2.0'
+  de: 'Alphametrie 2.0'
+  ja: '次元の狭間オメガ：アルファ編2'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Midgardsormr
-        fr: Midgardsormr
-        de: Midgardsormr
-        ja: ミドガルズオルム
+        en: 'Midgardsormr'
+        fr: 'Midgardsormr'
+        de: 'Midgardsormr'
+        ja: 'ミドガルズオルム'
       lodestone:
         id: 635999dea16
         url: /lodestone/playguide/db/npc/enemy/635999dea16/

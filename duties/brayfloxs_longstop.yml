@@ -1,8 +1,8 @@
 name:
-  en: Brayflox's Longstop
-  fr: Le Bivouac de Brayflox
-  de: Brüllvolx' Langrast
-  ja: 奪還支援 ブレイフロクスの野営地
+  en: 'Brayflox's Longstop'
+  fr: 'Le Bivouac de Brayflox'
+  de: 'Brüllvolx' Langrast'
+  ja: '奪還支援 ブレイフロクスの野営地'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Great Yellow Pelican
-        fr: Grand pélican jaune
-        de: Großer Gelbpelikan
-        ja: グレート・イエローペリカン
+        en: 'Great Yellow Pelican'
+        fr: 'Grand pélican jaune'
+        de: 'Großer Gelbpelikan'
+        ja: 'グレート・イエローペリカン'
       lodestone:
         id: 1d7bc4737b1
         url: /lodestone/playguide/db/npc/enemy/1d7bc4737b1/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Inferno Drake
-        fr: Draconide des brasiers
-        de: Sonnen-Drakon
-        ja: インフェルノドレイク
+        en: 'Inferno Drake'
+        fr: 'Draconide des brasiers'
+        de: 'Sonnen-Drakon'
+        ja: 'インフェルノドレイク'
       lodestone:
         id: d23c2174b6e
         url: /lodestone/playguide/db/npc/enemy/d23c2174b6e/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Hellbender
-        fr: Ménopome
-        de: Höllenkrümmer
-        ja: ヘルベンダー
+        en: 'Hellbender'
+        fr: 'Ménopome'
+        de: 'Höllenkrümmer'
+        ja: 'ヘルベンダー'
       lodestone:
         id: 61275e0ac8a
         url: /lodestone/playguide/db/npc/enemy/61275e0ac8a/
@@ -115,10 +115,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Aiatar
-        fr: Aiatar
-        de: Aiatar
-        ja: アイアタル
+        en: 'Aiatar'
+        fr: 'Aiatar'
+        de: 'Aiatar'
+        ja: 'アイアタル'
       lodestone:
         id: 0a48dd19b3c
         url: /lodestone/playguide/db/npc/enemy/0a48dd19b3c/

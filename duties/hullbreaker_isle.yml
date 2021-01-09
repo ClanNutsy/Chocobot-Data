@@ -1,8 +1,8 @@
 name:
-  en: Hullbreaker Isle
-  fr: L'Île de Crèvecarène
-  de: Schiffbrecher-Insel
-  ja: 財宝伝説 ハルブレーカー・アイル
+  en: 'Hullbreaker Isle'
+  fr: 'L'Île de Crèvecarène'
+  de: 'Schiffbrecher-Insel'
+  ja: '財宝伝説 ハルブレーカー・アイル'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Sasquatch
-        fr: Sasquatch
-        de: Sasquatch
-        ja: サスカッチ
+        en: 'Sasquatch'
+        fr: 'Sasquatch'
+        de: 'Sasquatch'
+        ja: 'サスカッチ'
       lodestone:
         id: c1a51b1300c
         url: /lodestone/playguide/db/npc/enemy/c1a51b1300c/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Sjoorm
-        fr: Sjoorm
-        de: Sjoorm
-        ja: ショールム
+        en: 'Sjoorm'
+        fr: 'Sjoorm'
+        de: 'Sjoorm'
+        ja: 'ショールム'
       lodestone:
         id: 9b3877b12b5
         url: /lodestone/playguide/db/npc/enemy/9b3877b12b5/
@@ -82,26 +82,26 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Kraken
-        fr: Kraken
-        de: Aquadon
-        ja: クラーケン
+        en: 'Kraken'
+        fr: 'Kraken'
+        de: 'Aquadon'
+        ja: 'クラーケン'
       lodestone:
         id: 77abeb2892c
         url: /lodestone/playguide/db/npc/enemy/77abeb2892c/
     - name:
-        en: Kraken's Arm
-        fr: Bras du Kraken
-        de: Fangarm
-        ja: クラーケンの腕
+        en: 'Kraken's Arm'
+        fr: 'Bras du Kraken'
+        de: 'Fangarm'
+        ja: 'クラーケンの腕'
       lodestone:
         id: daeac06c7f0
         url: /lodestone/playguide/db/npc/enemy/daeac06c7f0/
     - name:
-        en: Tentacle
-        fr: Tentacule du Kraken
-        de: Tentakel
-        ja: クラーケンの触腕
+        en: 'Tentacle'
+        fr: 'Tentacule du Kraken'
+        de: 'Tentakel'
+        ja: 'クラーケンの触腕'
       lodestone:
         id: 0f1164133d9
         url: /lodestone/playguide/db/npc/enemy/0f1164133d9/

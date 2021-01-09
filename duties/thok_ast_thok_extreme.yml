@@ -1,8 +1,8 @@
 name:
-  en: Thok ast Thok (Extreme)
-  fr: Thok ast Thok (extrême)
-  de: Zenit der Götter - Ravana
-  ja: 極ラーヴァナ討滅戦
+  en: 'Thok ast Thok (Extreme)'
+  fr: 'Thok ast Thok (extrême)'
+  de: 'Zenit der Götter - Ravana'
+  ja: '極ラーヴァナ討滅戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Ravana
-        fr: Ravana
-        de: Ravana
-        ja: ラーヴァナ
+        en: 'Ravana'
+        fr: 'Ravana'
+        de: 'Ravana'
+        ja: 'ラーヴァナ'
       lodestone:
         id: 198c29d4c3f
         url: /lodestone/playguide/db/npc/enemy/198c29d4c3f/

@@ -1,8 +1,8 @@
 name:
-  en: Emanation
-  fr: Émanation
-  de: Götterdämmerung - Lakshmi
-  ja: ラクシュミ討滅戦
+  en: 'Emanation'
+  fr: 'Émanation'
+  de: 'Götterdämmerung - Lakshmi'
+  ja: 'ラクシュミ討滅戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Lakshmi
-        fr: Lakshmi
-        de: Lakshmi
-        ja: ラクシュミ
+        en: 'Lakshmi'
+        fr: 'Lakshmi'
+        de: 'Lakshmi'
+        ja: 'ラクシュミ'
       lodestone:
         id: dde80046f42
         url: /lodestone/playguide/db/npc/enemy/dde80046f42/

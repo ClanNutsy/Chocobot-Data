@@ -1,8 +1,8 @@
 name:
-  en: Amaurot
-  fr: Amaurote
-  de: Amaurot
-  ja: 終末幻想 アーモロート
+  en: 'Amaurot'
+  fr: 'Amaurote'
+  de: 'Amaurot'
+  ja: '終末幻想 アーモロート'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: The First Beast
-        fr: Annélide de l'apocalypse
-        de: das erstes Unheil
-        ja: ファースト・ビースト
+        en: 'The First Beast'
+        fr: 'Annélide de l'apocalypse'
+        de: 'das erstes Unheil'
+        ja: 'ファースト・ビースト'
       lodestone:
         id: 21c88427e38
         url: /lodestone/playguide/db/npc/enemy/21c88427e38/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Terminus Bellwether
-        fr: Sonneur de glas de l'apocalypse
-        de: Läuter der Totenglocke
-        ja: ターミナス・ベルウェザー
+        en: 'Terminus Bellwether'
+        fr: 'Sonneur de glas de l'apocalypse'
+        de: 'Läuter der Totenglocke'
+        ja: 'ターミナス・ベルウェザー'
       lodestone:
         id: 11afe7696aa
         url: /lodestone/playguide/db/npc/enemy/11afe7696aa/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Therion
-        fr: Mégatherion
-        de: Therion
-        ja: メガセリオン
+        en: 'Therion'
+        fr: 'Mégatherion'
+        de: 'Therion'
+        ja: 'メガセリオン'
       lodestone:
         id: 46b6e38b6cc
         url: /lodestone/playguide/db/npc/enemy/46b6e38b6cc/

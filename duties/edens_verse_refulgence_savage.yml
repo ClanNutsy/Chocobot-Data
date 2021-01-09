@@ -1,8 +1,8 @@
 name:
-  en: Eden's Verse: Refulgence (Savage)
-  fr: Les Accords d'Éden - Éclat (sadique)
-  de: Edens Resonanz - Erstarrung (episch)
-  ja: 希望の園エデン零式：共鳴編4
+  en: 'Eden's Verse: Refulgence (Savage)'
+  fr: 'Les Accords d'Éden - Éclat (sadique)'
+  de: 'Edens Resonanz - Erstarrung (episch)'
+  ja: '希望の園エデン零式：共鳴編4'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Shiva
-        fr: Shiva
-        de: Shiva
-        ja: シヴァ
+        en: 'Shiva'
+        fr: 'Shiva'
+        de: 'Shiva'
+        ja: 'シヴァ'
       lodestone:
         id: 286074f7a6d
         url: /lodestone/playguide/db/npc/enemy/286074f7a6d/

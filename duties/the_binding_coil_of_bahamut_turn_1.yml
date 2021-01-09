@@ -1,8 +1,8 @@
 name:
-  en: The Binding Coil of Bahamut - Turn 1
-  fr: Le Labyrinthe de Bahamut I
-  de: Verschlungene Schatten 1
-  ja: 大迷宮バハムート：邂逅編1
+  en: 'The Binding Coil of Bahamut - Turn 1'
+  fr: 'Le Labyrinthe de Bahamut I'
+  de: 'Verschlungene Schatten 1'
+  ja: '大迷宮バハムート：邂逅編1'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Caduceus
-        fr: Caducée
-        de: Caduceus
-        ja: カドゥケウス
+        en: 'Caduceus'
+        fr: 'Caducée'
+        de: 'Caduceus'
+        ja: 'カドゥケウス'
       lodestone:
         id: 3e28ee2dbe0
         url: /lodestone/playguide/db/npc/enemy/3e28ee2dbe0/

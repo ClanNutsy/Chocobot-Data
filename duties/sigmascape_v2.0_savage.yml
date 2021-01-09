@@ -1,8 +1,8 @@
 name:
-  en: Sigmascape V2.0 (Savage)
-  fr: Sigmastice v2.0 (sadique)
-  de: Sigmametrie 2.0 (episch)
-  ja: 次元の狭間オメガ零式：シグマ編2
+  en: 'Sigmascape V2.0 (Savage)'
+  fr: 'Sigmastice v2.0 (sadique)'
+  de: 'Sigmametrie 2.0 (episch)'
+  ja: '次元の狭間オメガ零式：シグマ編2'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Demon Chadarnook
-        fr: Démon Chadarnouk
-        de: Gefallener Chadarnook
-        ja: チャダルヌーク・デーモン
+        en: 'Demon Chadarnook'
+        fr: 'Démon Chadarnouk'
+        de: 'Gefallener Chadarnook'
+        ja: 'チャダルヌーク・デーモン'
       lodestone:
         id: c76230e7315
         url: /lodestone/playguide/db/npc/enemy/c76230e7315/

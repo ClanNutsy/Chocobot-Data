@@ -1,8 +1,8 @@
 name:
-  en: The Jade Stoa (Extreme)
-  fr: La Clairière de Jade (extrême)
-  de: Seelensturm - Byakko
-  ja: 極白虎征魂戦
+  en: 'The Jade Stoa (Extreme)'
+  fr: 'La Clairière de Jade (extrême)'
+  de: 'Seelensturm - Byakko'
+  ja: '極白虎征魂戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Byakko
-        fr: Byakko
-        de: Byakko
-        ja: 白虎
+        en: 'Byakko'
+        fr: 'Byakko'
+        de: 'Byakko'
+        ja: '白虎'
       lodestone:
         id: 818ff536171
         url: /lodestone/playguide/db/npc/enemy/818ff536171/

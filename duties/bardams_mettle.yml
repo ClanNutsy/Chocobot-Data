@@ -1,8 +1,8 @@
 name:
-  en: Bardam's Mettle
-  fr: La Force de Bardam
-  de: Bardams Probe
-  ja: 伝統試練 バルダム覇道
+  en: 'Bardam's Mettle'
+  fr: 'La Force de Bardam'
+  de: 'Bardams Probe'
+  ja: '伝統試練 バルダム覇道'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Garula
-        fr: Garula
-        de: Garula
-        ja: ガルラ
+        en: 'Garula'
+        fr: 'Garula'
+        de: 'Garula'
+        ja: 'ガルラ'
       lodestone:
         id: 572ba865bbe
         url: /lodestone/playguide/db/npc/enemy/572ba865bbe/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Bardam
-        fr: Bardam
-        de: Bardams Statue
-        ja: バルダムの巨像
+        en: 'Bardam'
+        fr: 'Bardam'
+        de: 'Bardams Statue'
+        ja: 'バルダムの巨像'
       lodestone:
         id: d76ac92491c
         url: /lodestone/playguide/db/npc/enemy/d76ac92491c/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Yol
-        fr: Yol
-        de: Yol
-        ja: ヨル
+        en: 'Yol'
+        fr: 'Yol'
+        de: 'Yol'
+        ja: 'ヨル'
       lodestone:
         id: 7deb61133da
         url: /lodestone/playguide/db/npc/enemy/7deb61133da/

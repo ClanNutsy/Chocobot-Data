@@ -1,8 +1,8 @@
 name:
-  en: Deltascape V4.0
-  fr: Deltastice v4.0
-  de: Deltametrie 4.0
-  ja: 次元の狭間オメガ：デルタ編4
+  en: 'Deltascape V4.0'
+  fr: 'Deltastice v4.0'
+  de: 'Deltametrie 4.0'
+  ja: '次元の狭間オメガ：デルタ編4'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Exdeath
-        fr: Exdeath
-        de: Exdeath
-        ja: エクスデス
+        en: 'Exdeath'
+        fr: 'Exdeath'
+        de: 'Exdeath'
+        ja: 'エクスデス'
       lodestone:
         id: 5608b9612a5
         url: /lodestone/playguide/db/npc/enemy/5608b9612a5/

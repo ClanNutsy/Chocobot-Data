@@ -1,8 +1,8 @@
 name:
-  en: The Praetorium
-  fr: Le Praetorium
-  de: Castrum Meridianum - Praetorium
-  ja: 最終決戦 魔導城プラエトリウム
+  en: 'The Praetorium'
+  fr: 'Le Praetorium'
+  de: 'Castrum Meridianum - Praetorium'
+  ja: '最終決戦 魔導城プラエトリウム'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Lahabrea
-        fr: Lahabrea
-        de: Lahabrea
-        ja: アシエン・ラハブレア
+        en: 'Lahabrea'
+        fr: 'Lahabrea'
+        de: 'Lahabrea'
+        ja: 'アシエン・ラハブレア'
       lodestone:
         id: e6140114939
         url: /lodestone/playguide/db/npc/enemy/e6140114939/

@@ -1,8 +1,8 @@
 name:
-  en: Doma Castle
-  fr: Le Château de Doma
-  de: Burg Doma
-  ja: 解放決戦 ドマ城
+  en: 'Doma Castle'
+  fr: 'Le Château de Doma'
+  de: 'Burg Doma'
+  ja: '解放決戦 ドマ城'
 type: Dungeon
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Magitek Rearguard
-        fr: Arrière-garde magitek
-        de: Magitek-Rückendecker
-        ja: 魔導リアガード
+        en: 'Magitek Rearguard'
+        fr: 'Arrière-garde magitek'
+        de: 'Magitek-Rückendecker'
+        ja: '魔導リアガード'
       lodestone:
         id: 881a58ca5cd
         url: /lodestone/playguide/db/npc/enemy/881a58ca5cd/
@@ -49,10 +49,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Magitek Hexadrone
-        fr: Hexadrone magitek
-        de: Magitek-Hexadrohne
-        ja: 魔導ヘキサローラー
+        en: 'Magitek Hexadrone'
+        fr: 'Hexadrone magitek'
+        de: 'Magitek-Hexadrohne'
+        ja: '魔導ヘキサローラー'
       lodestone:
         id: 69a30b64d5d
         url: /lodestone/playguide/db/npc/enemy/69a30b64d5d/
@@ -82,10 +82,10 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
  - bosses:
     - name:
-        en: Hypertuned Grynewaht
-        fr: Grynewaht hyper-renforcé
-        de: Hyperisierter Grynewaht
-        ja: 強化グリーンワート
+        en: 'Hypertuned Grynewaht'
+        fr: 'Grynewaht hyper-renforcé'
+        de: 'Hyperisierter Grynewaht'
+        ja: '強化グリーンワート'
       lodestone:
         id: b4314349740
         url: /lodestone/playguide/db/npc/enemy/b4314349740/

@@ -1,8 +1,8 @@
 name:
-  en: Alexander - The Soul of the Creator
-  fr: Alexander - L'Âme du Créateur
-  de: Alexander - Seele des Schöpfers
-  ja: 機工城アレキサンダー：天動編4
+  en: 'Alexander - The Soul of the Creator'
+  fr: 'Alexander - L'Âme du Créateur'
+  de: 'Alexander - Seele des Schöpfers'
+  ja: '機工城アレキサンダー：天動編4'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Alexander Prime
-        fr: Primo-Alexander
-        de: Prim-Alexander
-        ja: アレキサンダー・プライム
+        en: 'Alexander Prime'
+        fr: 'Primo-Alexander'
+        de: 'Prim-Alexander'
+        ja: 'アレキサンダー・プライム'
       lodestone:
         id: 54d97d29126
         url: /lodestone/playguide/db/npc/enemy/54d97d29126/

@@ -1,8 +1,8 @@
 name:
-  en: Eden's Gate: Descent (Savage)
-  fr: L'Éveil d'Éden - Descente (sadique)
-  de: Edens Erwachen - Niederkunft (episch)
-  ja: 希望の園エデン零式：覚醒編2
+  en: 'Eden's Gate: Descent (Savage)'
+  fr: 'L'Éveil d'Éden - Descente (sadique)'
+  de: 'Edens Erwachen - Niederkunft (episch)'
+  ja: '希望の園エデン零式：覚醒編2'
 type: Raid
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Voidwalker
-        fr: Marcheuse du néant
-        de: Nichtswandler
-        ja: ヴォイドウォーカー
+        en: 'Voidwalker'
+        fr: 'Marcheuse du néant'
+        de: 'Nichtswandler'
+        ja: 'ヴォイドウォーカー'
       lodestone:
         id: 5ae77dfa3df
         url: /lodestone/playguide/db/npc/enemy/5ae77dfa3df/

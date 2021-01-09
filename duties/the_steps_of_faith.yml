@@ -1,8 +1,8 @@
 name:
-  en: The Steps of Faith
-  fr: Le Siège de la sainte Cité d'Ishgard
-  de: Der Schicksalsweg
-  ja: 皇都イシュガルド防衛戦
+  en: 'The Steps of Faith'
+  fr: 'Le Siège de la sainte Cité d'Ishgard'
+  de: 'Der Schicksalsweg'
+  ja: '皇都イシュガルド防衛戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: Vishap
-        fr: Vishap
-        de: Vishap
-        ja: ヴィシャップ
+        en: 'Vishap'
+        fr: 'Vishap'
+        de: 'Vishap'
+        ja: 'ヴィシャップ'
       lodestone:
         id: c6d6978ab73
         url: /lodestone/playguide/db/npc/enemy/c6d6978ab73/

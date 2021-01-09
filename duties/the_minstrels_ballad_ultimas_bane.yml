@@ -1,8 +1,8 @@
 name:
-  en: The Minstrel's Ballad: Ultima's Bane
-  fr: Le fléau d'Ultima
-  de: Heldenlied von Ultima
-  ja: 究極幻想 アルテマウェポン破壊作戦
+  en: 'The Minstrel's Ballad: Ultima's Bane'
+  fr: 'Le fléau d'Ultima'
+  de: 'Heldenlied von Ultima'
+  ja: '究極幻想 アルテマウェポン破壊作戦'
 type: Trial
 tags: []
 lodestone:
@@ -16,10 +16,10 @@ video_url:
 sections:
  - bosses:
     - name:
-        en: The Ultima Weapon
-        fr: Ultima Arma
-        de: Ultima-Waffe
-        ja: アルテマウェポン
+        en: 'The Ultima Weapon'
+        fr: 'Ultima Arma'
+        de: 'Ultima-Waffe'
+        ja: 'アルテマウェポン'
       lodestone:
         id: 1cffed8947b
         url: /lodestone/playguide/db/npc/enemy/1cffed8947b/
