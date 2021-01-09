@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Garula'
-        fr: 'Garula'
-        de: 'Garula'
-        ja: 'ガルラ'
-      lodestone:
-        id: 572ba865bbe
-        url: /lodestone/playguide/db/npc/enemy/572ba865bbe/
+  - bosses:
+      - name:
+          en: 'Garula'
+          fr: 'Garula'
+          de: 'Garula'
+          ja: 'ガルラ'
+        lodestone:
+          id: 572ba865bbe
+          url: /lodestone/playguide/db/npc/enemy/572ba865bbe/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Bardam'
-        fr: 'Bardam'
-        de: 'Bardams Statue'
-        ja: 'バルダムの巨像'
-      lodestone:
-        id: d76ac92491c
-        url: /lodestone/playguide/db/npc/enemy/d76ac92491c/
+  - bosses:
+      - name:
+          en: 'Bardam'
+          fr: 'Bardam'
+          de: 'Bardams Statue'
+          ja: 'バルダムの巨像'
+        lodestone:
+          id: d76ac92491c
+          url: /lodestone/playguide/db/npc/enemy/d76ac92491c/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Yol'
-        fr: 'Yol'
-        de: 'Yol'
-        ja: 'ヨル'
-      lodestone:
-        id: 7deb61133da
-        url: /lodestone/playguide/db/npc/enemy/7deb61133da/
+  - bosses:
+      - name:
+          en: 'Yol'
+          fr: 'Yol'
+          de: 'Yol'
+          ja: 'ヨル'
+        lodestone:
+          id: 7deb61133da
+          url: /lodestone/playguide/db/npc/enemy/7deb61133da/
     tags: []
     video_url:
       en:

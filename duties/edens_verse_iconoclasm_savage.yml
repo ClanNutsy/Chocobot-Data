@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'The Idol Of Darkness'
-        fr: 'Idole des Ténèbres'
-        de: 'Götzenbild der Dunkelheit'
-        ja: 'ダークアイドル'
-      lodestone:
-        id: 0221550c79c
-        url: /lodestone/playguide/db/npc/enemy/0221550c79c/
+  - bosses:
+      - name:
+          en: 'The Idol Of Darkness'
+          fr: 'Idole des Ténèbres'
+          de: 'Götzenbild der Dunkelheit'
+          ja: 'ダークアイドル'
+        lodestone:
+          id: 0221550c79c
+          url: /lodestone/playguide/db/npc/enemy/0221550c79c/
     tags: []
     video_url:
       en:

@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Lugat'
-        fr: 'Lugat'
-        de: 'Lugat'
-        ja: 'ルガト'
-      lodestone:
-        id: 4e3c135b2b4
-        url: /lodestone/playguide/db/npc/enemy/4e3c135b2b4/
+  - bosses:
+      - name:
+          en: 'Lugat'
+          fr: 'Lugat'
+          de: 'Lugat'
+          ja: 'ルガト'
+        lodestone:
+          id: 4e3c135b2b4
+          url: /lodestone/playguide/db/npc/enemy/4e3c135b2b4/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'The Governor'
-        fr: 'Gouverneur'
-        de: 'Friedhofsvorsteher'
-        ja: 'ガバナー'
-      lodestone:
-        id: fec049783f3
-        url: /lodestone/playguide/db/npc/enemy/fec049783f3/
+  - bosses:
+      - name:
+          en: 'The Governor'
+          fr: 'Gouverneur'
+          de: 'Friedhofsvorsteher'
+          ja: 'ガバナー'
+        lodestone:
+          id: fec049783f3
+          url: /lodestone/playguide/db/npc/enemy/fec049783f3/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Lorelei'
-        fr: 'Lorelei'
-        de: 'Loreley'
-        ja: 'ローレライ'
-      lodestone:
-        id: fe2ae806f32
-        url: /lodestone/playguide/db/npc/enemy/fe2ae806f32/
+  - bosses:
+      - name:
+          en: 'Lorelei'
+          fr: 'Lorelei'
+          de: 'Loreley'
+          ja: 'ローレライ'
+        lodestone:
+          id: fe2ae806f32
+          url: /lodestone/playguide/db/npc/enemy/fe2ae806f32/
     tags: []
     video_url:
       en:

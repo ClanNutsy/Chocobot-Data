@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Coeurl O' Nine Tails'
-        fr: 'Flagellotyugh'
-        de: 'Neunschwänzige Coeurl-Ranke'
-        ja: 'クァール・オ・ナインテイル'
-      lodestone:
-        id: fee4de74f27
-        url: /lodestone/playguide/db/npc/enemy/fee4de74f27/
+  - bosses:
+      - name:
+          en: 'Coeurl O' Nine Tails'
+          fr: 'Flagellotyugh'
+          de: 'Neunschwänzige Coeurl-Ranke'
+          ja: 'クァール・オ・ナインテイル'
+        lodestone:
+          id: fee4de74f27
+          url: /lodestone/playguide/db/npc/enemy/fee4de74f27/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Coeurl O' Nine Tails'
-        fr: 'Flagellotyugh'
-        de: 'Neunschwänzige Coeurl-Ranke'
-        ja: 'クァール・オ・ナインテイル'
-      lodestone:
-        id: fee4de74f27
-        url: /lodestone/playguide/db/npc/enemy/fee4de74f27/
+  - bosses:
+      - name:
+          en: 'Coeurl O' Nine Tails'
+          fr: 'Flagellotyugh'
+          de: 'Neunschwänzige Coeurl-Ranke'
+          ja: 'クァール・オ・ナインテイル'
+        lodestone:
+          id: fee4de74f27
+          url: /lodestone/playguide/db/npc/enemy/fee4de74f27/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Graffias'
-        fr: 'Graffias'
-        de: 'Graffias'
-        ja: 'グラフィアス'
-      lodestone:
-        id: 13a5b24b5d6
-        url: /lodestone/playguide/db/npc/enemy/13a5b24b5d6/
+  - bosses:
+      - name:
+          en: 'Graffias'
+          fr: 'Graffias'
+          de: 'Graffias'
+          ja: 'グラフィアス'
+        lodestone:
+          id: 13a5b24b5d6
+          url: /lodestone/playguide/db/npc/enemy/13a5b24b5d6/
     tags: []
     video_url:
       en:

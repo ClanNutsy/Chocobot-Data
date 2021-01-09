@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Refurbisher 0'
-        fr: 'Récupérateur'
-        de: 'Rekompositor'
-        ja: 'リファビッシャー'
-      lodestone:
-        id: 0044172bc99
-        url: /lodestone/playguide/db/npc/enemy/0044172bc99/
+  - bosses:
+      - name:
+          en: 'Refurbisher 0'
+          fr: 'Récupérateur'
+          de: 'Rekompositor'
+          ja: 'リファビッシャー'
+        lodestone:
+          id: 0044172bc99
+          url: /lodestone/playguide/db/npc/enemy/0044172bc99/
     tags: []
     video_url:
       en:

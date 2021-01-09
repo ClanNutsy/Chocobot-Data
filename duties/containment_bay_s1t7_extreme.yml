@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Sephirot'
-        fr: 'Sephirot'
-        de: 'Sephirot'
-        ja: 'セフィロト'
-      lodestone:
-        id: 5eb70889001
-        url: /lodestone/playguide/db/npc/enemy/5eb70889001/
+  - bosses:
+      - name:
+          en: 'Sephirot'
+          fr: 'Sephirot'
+          de: 'Sephirot'
+          ja: 'セフィロト'
+        lodestone:
+          id: 5eb70889001
+          url: /lodestone/playguide/db/npc/enemy/5eb70889001/
     tags: []
     video_url:
       en:

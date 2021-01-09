@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Rathalos'
-        fr: 'Rathalos'
-        de: 'Rathalos'
-        ja: 'リオレウス'
-      lodestone:
-        id: 5785a982d4e
-        url: /lodestone/playguide/db/npc/enemy/5785a982d4e/
+  - bosses:
+      - name:
+          en: 'Rathalos'
+          fr: 'Rathalos'
+          de: 'Rathalos'
+          ja: 'リオレウス'
+        lodestone:
+          id: 5785a982d4e
+          url: /lodestone/playguide/db/npc/enemy/5785a982d4e/
     tags: []
     video_url:
       en:

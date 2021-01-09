@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Manor Jester'
-        fr: 'Bouffon du manoir'
-        de: 'Hofnarr'
-        ja: '御用邸の道化師'
-      lodestone:
-        id: 523b5036844
-        url: /lodestone/playguide/db/npc/enemy/523b5036844/
+  - bosses:
+      - name:
+          en: 'Manor Jester'
+          fr: 'Bouffon du manoir'
+          de: 'Hofnarr'
+          ja: '御用邸の道化師'
+        lodestone:
+          id: 523b5036844
+          url: /lodestone/playguide/db/npc/enemy/523b5036844/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Ash'
-        fr: 'Astaroth'
-        de: 'Ashur'
-        ja: 'アッシュ'
-      lodestone:
-        id: 5cccab7df4b
-        url: /lodestone/playguide/db/npc/enemy/5cccab7df4b/
+  - bosses:
+      - name:
+          en: 'Ash'
+          fr: 'Astaroth'
+          de: 'Ashur'
+          ja: 'アッシュ'
+        lodestone:
+          id: 5cccab7df4b
+          url: /lodestone/playguide/db/npc/enemy/5cccab7df4b/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Halicarnassus'
-        fr: 'Halicarnasse'
-        de: 'Halikarnassos'
-        ja: 'ハリカルナッソス'
-      lodestone:
-        id: 1b7b19482c4
-        url: /lodestone/playguide/db/npc/enemy/1b7b19482c4/
+  - bosses:
+      - name:
+          en: 'Halicarnassus'
+          fr: 'Halicarnasse'
+          de: 'Halikarnassos'
+          ja: 'ハリカルナッソス'
+        lodestone:
+          id: 1b7b19482c4
+          url: /lodestone/playguide/db/npc/enemy/1b7b19482c4/
     tags: []
     video_url:
       en:

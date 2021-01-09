@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Gorynich'
-        fr: 'Gorynich'
-        de: 'Gorynich'
-        ja: 'ゴリニチ'
-      lodestone:
-        id: ca6df53675a
-        url: /lodestone/playguide/db/npc/enemy/ca6df53675a/
+  - bosses:
+      - name:
+          en: 'Gorynich'
+          fr: 'Gorynich'
+          de: 'Gorynich'
+          ja: 'ゴリニチ'
+        lodestone:
+          id: ca6df53675a
+          url: /lodestone/playguide/db/npc/enemy/ca6df53675a/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Cuca Fera'
-        fr: 'Cuca Fera'
-        de: 'Cuca Fera'
-        ja: 'クカフェラ'
-      lodestone:
-        id: 9cc2468c8b0
-        url: /lodestone/playguide/db/npc/enemy/9cc2468c8b0/
+  - bosses:
+      - name:
+          en: 'Cuca Fera'
+          fr: 'Cuca Fera'
+          de: 'Cuca Fera'
+          ja: 'クカフェラ'
+        lodestone:
+          id: 9cc2468c8b0
+          url: /lodestone/playguide/db/npc/enemy/9cc2468c8b0/
     tags: []
     video_url:
       en:
@@ -80,23 +80,23 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Giruveganaus'
-        fr: 'Gilvéganos'
-        de: 'Giruveganos'
-        ja: 'ギルヴェガノス'
-      lodestone:
-        id: fb0681cca1f
-        url: /lodestone/playguide/db/npc/enemy/fb0681cca1f/
-    - name:
-        en: 'Giruveganaus'
-        fr: 'Gilvéganos'
-        de: 'Giruveganos'
-        ja: 'ギルヴェガノス'
-      lodestone:
-        id: 162dc0e0380
-        url: /lodestone/playguide/db/npc/enemy/162dc0e0380/
+  - bosses:
+      - name:
+          en: 'Giruveganaus'
+          fr: 'Gilvéganos'
+          de: 'Giruveganos'
+          ja: 'ギルヴェガノス'
+        lodestone:
+          id: fb0681cca1f
+          url: /lodestone/playguide/db/npc/enemy/fb0681cca1f/
+      - name:
+          en: 'Giruveganaus'
+          fr: 'Gilvéganos'
+          de: 'Giruveganos'
+          ja: 'ギルヴェガノス'
+        lodestone:
+          id: 162dc0e0380
+          url: /lodestone/playguide/db/npc/enemy/162dc0e0380/
     tags: []
     video_url:
       en:

@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Damaged Adjudicator'
-        fr: 'Adjucateur endommagé'
-        de: 'Beschädigter Azeyma-Richter'
-        ja: 'ダメージド・アーゼマジャッジ'
-      lodestone:
-        id: f388149d4f8
-        url: /lodestone/playguide/db/npc/enemy/f388149d4f8/
+  - bosses:
+      - name:
+          en: 'Damaged Adjudicator'
+          fr: 'Adjucateur endommagé'
+          de: 'Beschädigter Azeyma-Richter'
+          ja: 'ダメージド・アーゼマジャッジ'
+        lodestone:
+          id: f388149d4f8
+          url: /lodestone/playguide/db/npc/enemy/f388149d4f8/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Sabotender Emperatriz'
-        fr: 'Pampa impératrice'
-        de: 'Sabotender-Kaiserin'
-        ja: 'サボテンダー・エンペラトリス'
-      lodestone:
-        id: afa1f36e68a
-        url: /lodestone/playguide/db/npc/enemy/afa1f36e68a/
+  - bosses:
+      - name:
+          en: 'Sabotender Emperatriz'
+          fr: 'Pampa impératrice'
+          de: 'Sabotender-Kaiserin'
+          ja: 'サボテンダー・エンペラトリス'
+        lodestone:
+          id: afa1f36e68a
+          url: /lodestone/playguide/db/npc/enemy/afa1f36e68a/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Vicegerent To The Warden'
-        fr: 'Adjoint de la Gardienne'
-        de: 'Statthalter der Aufseherin'
-        ja: 'アーゼマヴァイスジェレント'
-      lodestone:
-        id: ae47368ecd3
-        url: /lodestone/playguide/db/npc/enemy/ae47368ecd3/
+  - bosses:
+      - name:
+          en: 'Vicegerent To The Warden'
+          fr: 'Adjoint de la Gardienne'
+          de: 'Statthalter der Aufseherin'
+          ja: 'アーゼマヴァイスジェレント'
+        lodestone:
+          id: ae47368ecd3
+          url: /lodestone/playguide/db/npc/enemy/ae47368ecd3/
     tags: []
     video_url:
       en:

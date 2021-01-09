@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Kottos'
-        fr: 'Cottos l'irrascible'
-        de: 'Kottos'
-        ja: '憤怒のコットス'
-      lodestone:
-        id: 01ff1908e3c
-        url: /lodestone/playguide/db/npc/enemy/01ff1908e3c/
+  - bosses:
+      - name:
+          en: 'Kottos'
+          fr: 'Cottos l'irrascible'
+          de: 'Kottos'
+          ja: '憤怒のコットス'
+        lodestone:
+          id: 01ff1908e3c
+          url: /lodestone/playguide/db/npc/enemy/01ff1908e3c/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Ichorous Ire'
-        fr: 'Ire ichoreuse'
-        de: 'Zorniger Ichor'
-        ja: 'イコラウス・アイル'
-      lodestone:
-        id: e910d95a56e
-        url: /lodestone/playguide/db/npc/enemy/e910d95a56e/
+  - bosses:
+      - name:
+          en: 'Ichorous Ire'
+          fr: 'Ire ichoreuse'
+          de: 'Zorniger Ichor'
+          ja: 'イコラウス・アイル'
+        lodestone:
+          id: e910d95a56e
+          url: /lodestone/playguide/db/npc/enemy/e910d95a56e/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Gyges The Great'
-        fr: 'Gygès l'invulnérable'
-        de: 'Gyges der Großer'
-        ja: '豪腕のギュゲス'
-      lodestone:
-        id: b396a581fd6
-        url: /lodestone/playguide/db/npc/enemy/b396a581fd6/
+  - bosses:
+      - name:
+          en: 'Gyges The Great'
+          fr: 'Gygès l'invulnérable'
+          de: 'Gyges der Großer'
+          ja: '豪腕のギュゲス'
+        lodestone:
+          id: b396a581fd6
+          url: /lodestone/playguide/db/npc/enemy/b396a581fd6/
     tags: []
     video_url:
       en:

@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Alexander Prime'
-        fr: 'Primo-Alexander'
-        de: 'Prim-Alexander'
-        ja: 'アレキサンダー・プライム'
-      lodestone:
-        id: 54d97d29126
-        url: /lodestone/playguide/db/npc/enemy/54d97d29126/
+  - bosses:
+      - name:
+          en: 'Alexander Prime'
+          fr: 'Primo-Alexander'
+          de: 'Prim-Alexander'
+          ja: 'アレキサンダー・プライム'
+        lodestone:
+          id: 54d97d29126
+          url: /lodestone/playguide/db/npc/enemy/54d97d29126/
     tags: []
     video_url:
       en:

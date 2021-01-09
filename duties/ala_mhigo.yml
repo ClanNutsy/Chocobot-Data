@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Magitek Scorpion'
-        fr: 'Scorpion magitek'
-        de: 'Wachskorpion'
-        ja: 'ガードスコーピオン'
-      lodestone:
-        id: 9c4a971c03b
-        url: /lodestone/playguide/db/npc/enemy/9c4a971c03b/
+  - bosses:
+      - name:
+          en: 'Magitek Scorpion'
+          fr: 'Scorpion magitek'
+          de: 'Wachskorpion'
+          ja: 'ガードスコーピオン'
+        lodestone:
+          id: 9c4a971c03b
+          url: /lodestone/playguide/db/npc/enemy/9c4a971c03b/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Aulus Mal Asina'
-        fr: 'Aulus mal Asina'
-        de: 'Aulus mal Asina'
-        ja: 'アウルス・マル・アシナ'
-      lodestone:
-        id: 0e60472d94b
-        url: /lodestone/playguide/db/npc/enemy/0e60472d94b/
+  - bosses:
+      - name:
+          en: 'Aulus Mal Asina'
+          fr: 'Aulus mal Asina'
+          de: 'Aulus mal Asina'
+          ja: 'アウルス・マル・アシナ'
+        lodestone:
+          id: 0e60472d94b
+          url: /lodestone/playguide/db/npc/enemy/0e60472d94b/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Zenos Yae Galvus'
-        fr: 'Zenos yae Galvus'
-        de: 'Zenos yae Galvus'
-        ja: 'ゼノス・イェー・ガルヴァス'
-      lodestone:
-        id: b7578e5583e
-        url: /lodestone/playguide/db/npc/enemy/b7578e5583e/
+  - bosses:
+      - name:
+          en: 'Zenos Yae Galvus'
+          fr: 'Zenos yae Galvus'
+          de: 'Zenos yae Galvus'
+          ja: 'ゼノス・イェー・ガルヴァス'
+        lodestone:
+          id: b7578e5583e
+          url: /lodestone/playguide/db/npc/enemy/b7578e5583e/
     tags: []
     video_url:
       en:

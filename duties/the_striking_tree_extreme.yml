@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Ramuh'
-        fr: 'Ramuh'
-        de: 'Ramuh'
-        ja: 'ラムウ'
-      lodestone:
-        id: 54d3461fa02
-        url: /lodestone/playguide/db/npc/enemy/54d3461fa02/
+  - bosses:
+      - name:
+          en: 'Ramuh'
+          fr: 'Ramuh'
+          de: 'Ramuh'
+          ja: 'ラムウ'
+        lodestone:
+          id: 54d3461fa02
+          url: /lodestone/playguide/db/npc/enemy/54d3461fa02/
     tags: []
     video_url:
       en:

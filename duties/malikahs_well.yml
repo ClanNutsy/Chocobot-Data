@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Greater Armadillo'
-        fr: 'Grand tatou'
-        de: 'Riesengürteltier'
-        ja: 'グレーター・アルマジロ'
-      lodestone:
-        id: 387a483b22b
-        url: /lodestone/playguide/db/npc/enemy/387a483b22b/
+  - bosses:
+      - name:
+          en: 'Greater Armadillo'
+          fr: 'Grand tatou'
+          de: 'Riesengürteltier'
+          ja: 'グレーター・アルマジロ'
+        lodestone:
+          id: 387a483b22b
+          url: /lodestone/playguide/db/npc/enemy/387a483b22b/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Amphibious Talos'
-        fr: 'Talos amphibie'
-        de: 'Wasserträger-Talos'
-        ja: 'ハイドロタロース'
-      lodestone:
-        id: 464c0f82901
-        url: /lodestone/playguide/db/npc/enemy/464c0f82901/
+  - bosses:
+      - name:
+          en: 'Amphibious Talos'
+          fr: 'Talos amphibie'
+          de: 'Wasserträger-Talos'
+          ja: 'ハイドロタロース'
+        lodestone:
+          id: 464c0f82901
+          url: /lodestone/playguide/db/npc/enemy/464c0f82901/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Storge'
-        fr: 'Storgê'
-        de: 'Storge'
-        ja: 'ストルゲー'
-      lodestone:
-        id: 2e2b1b8c98f
-        url: /lodestone/playguide/db/npc/enemy/2e2b1b8c98f/
+  - bosses:
+      - name:
+          en: 'Storge'
+          fr: 'Storgê'
+          de: 'Storge'
+          ja: 'ストルゲー'
+        lodestone:
+          id: 2e2b1b8c98f
+          url: /lodestone/playguide/db/npc/enemy/2e2b1b8c98f/
     tags: []
     video_url:
       en:

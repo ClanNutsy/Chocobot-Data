@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Liavinne'
-        fr: 'Liavinne la dame d'honneur'
-        de: 'Liavinne'
-        ja: '立会人リアヴィヌ'
-      lodestone:
-        id: 98707efa0d2
-        url: /lodestone/playguide/db/npc/enemy/98707efa0d2/
+  - bosses:
+      - name:
+          en: 'Liavinne'
+          fr: 'Liavinne la dame d'honneur'
+          de: 'Liavinne'
+          ja: '立会人リアヴィヌ'
+        lodestone:
+          id: 98707efa0d2
+          url: /lodestone/playguide/db/npc/enemy/98707efa0d2/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Spare Body'
-        fr: 'Corps inusité'
-        de: 'Ungenutzter Körper'
-        ja: 'スペアボディ'
-      lodestone:
-        id: 559dcd15a23
-        url: /lodestone/playguide/db/npc/enemy/559dcd15a23/
+  - bosses:
+      - name:
+          en: 'Spare Body'
+          fr: 'Corps inusité'
+          de: 'Ungenutzter Körper'
+          ja: 'スペアボディ'
+        lodestone:
+          id: 559dcd15a23
+          url: /lodestone/playguide/db/npc/enemy/559dcd15a23/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Avere Bravearm'
-        fr: 'Avere l'intrépide'
-        de: 'Avere Haudegen'
-        ja: '勇壮のアヴィール'
-      lodestone:
-        id: 8b20c2c67c4
-        url: /lodestone/playguide/db/npc/enemy/8b20c2c67c4/
+  - bosses:
+      - name:
+          en: 'Avere Bravearm'
+          fr: 'Avere l'intrépide'
+          de: 'Avere Haudegen'
+          ja: '勇壮のアヴィール'
+        lodestone:
+          id: 8b20c2c67c4
+          url: /lodestone/playguide/db/npc/enemy/8b20c2c67c4/
     tags: []
     video_url:
       en:

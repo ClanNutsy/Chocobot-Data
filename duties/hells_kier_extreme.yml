@@ -14,23 +14,23 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Suzaku'
-        fr: 'Suzaku'
-        de: 'Suzaku'
-        ja: '朱雀'
-      lodestone:
-        id: 1fe2521445a
-        url: /lodestone/playguide/db/npc/enemy/1fe2521445a/
-    - name:
-        en: 'Scarlet Lady'
-        fr: 'Oiseau de feu'
-        de: 'Flammenvogel'
-        ja: '火焔鳥'
-      lodestone:
-        id: baaf33f2a17
-        url: /lodestone/playguide/db/npc/enemy/baaf33f2a17/
+  - bosses:
+      - name:
+          en: 'Suzaku'
+          fr: 'Suzaku'
+          de: 'Suzaku'
+          ja: '朱雀'
+        lodestone:
+          id: 1fe2521445a
+          url: /lodestone/playguide/db/npc/enemy/1fe2521445a/
+      - name:
+          en: 'Scarlet Lady'
+          fr: 'Oiseau de feu'
+          de: 'Flammenvogel'
+          ja: '火焔鳥'
+        lodestone:
+          id: baaf33f2a17
+          url: /lodestone/playguide/db/npc/enemy/baaf33f2a17/
     tags: []
     video_url:
       en:

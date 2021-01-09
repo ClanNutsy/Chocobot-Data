@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Spectral Thief'
-        fr: 'Voleur spectral'
-        de: 'Phantom-Dieb'
-        ja: '幻光のシーフ'
-      lodestone:
-        id: 65967f9e114
-        url: /lodestone/playguide/db/npc/enemy/65967f9e114/
+  - bosses:
+      - name:
+          en: 'Spectral Thief'
+          fr: 'Voleur spectral'
+          de: 'Phantom-Dieb'
+          ja: '幻光のシーフ'
+        lodestone:
+          id: 65967f9e114
+          url: /lodestone/playguide/db/npc/enemy/65967f9e114/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Spectral Necromancer'
-        fr: 'Nécromancienne spectrale'
-        de: 'Phantom-Nekromantin'
-        ja: '幻光のネクロマンサー'
-      lodestone:
-        id: 676392511ff
-        url: /lodestone/playguide/db/npc/enemy/676392511ff/
+  - bosses:
+      - name:
+          en: 'Spectral Necromancer'
+          fr: 'Nécromancienne spectrale'
+          de: 'Phantom-Nekromantin'
+          ja: '幻光のネクロマンサー'
+        lodestone:
+          id: 676392511ff
+          url: /lodestone/playguide/db/npc/enemy/676392511ff/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Spectral Berserker'
-        fr: 'Berserker spectral'
-        de: 'Phantom-Berserker'
-        ja: '幻光のバーサーカー'
-      lodestone:
-        id: b2ce5ee312c
-        url: /lodestone/playguide/db/npc/enemy/b2ce5ee312c/
+  - bosses:
+      - name:
+          en: 'Spectral Berserker'
+          fr: 'Berserker spectral'
+          de: 'Phantom-Berserker'
+          ja: '幻光のバーサーカー'
+        lodestone:
+          id: b2ce5ee312c
+          url: /lodestone/playguide/db/npc/enemy/b2ce5ee312c/
     tags: []
     video_url:
       en:

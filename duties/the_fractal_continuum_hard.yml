@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Motherbit'
-        fr: 'Drone mère'
-        de: 'Mutterdrohne'
-        ja: 'マザービット'
-      lodestone:
-        id: 933740cf608
-        url: /lodestone/playguide/db/npc/enemy/933740cf608/
+  - bosses:
+      - name:
+          en: 'Motherbit'
+          fr: 'Drone mère'
+          de: 'Mutterdrohne'
+          ja: 'マザービット'
+        lodestone:
+          id: 933740cf608
+          url: /lodestone/playguide/db/npc/enemy/933740cf608/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'The Ultima Warrior'
-        fr: 'Ultima-guerrier'
-        de: 'Ultimativer Krieger'
-        ja: 'アルテマウォリアー'
-      lodestone:
-        id: 2f806a6446e
-        url: /lodestone/playguide/db/npc/enemy/2f806a6446e/
+  - bosses:
+      - name:
+          en: 'The Ultima Warrior'
+          fr: 'Ultima-guerrier'
+          de: 'Ultimativer Krieger'
+          ja: 'アルテマウォリアー'
+        lodestone:
+          id: 2f806a6446e
+          url: /lodestone/playguide/db/npc/enemy/2f806a6446e/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'The Ultima Beast'
-        fr: 'Ultima-monstre'
-        de: 'Ultimative Bestie'
-        ja: 'アルテマビースト'
-      lodestone:
-        id: a49861b138e
-        url: /lodestone/playguide/db/npc/enemy/a49861b138e/
+  - bosses:
+      - name:
+          en: 'The Ultima Beast'
+          fr: 'Ultima-monstre'
+          de: 'Ultimative Bestie'
+          ja: 'アルテマビースト'
+        lodestone:
+          id: a49861b138e
+          url: /lodestone/playguide/db/npc/enemy/a49861b138e/
     tags: []
     video_url:
       en:

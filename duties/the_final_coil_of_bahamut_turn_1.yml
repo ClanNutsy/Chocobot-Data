@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Imdugud'
-        fr: 'Imdugud'
-        de: 'Imdugud'
-        ja: 'イムドゥグド'
-      lodestone:
-        id: 6185a982324
-        url: /lodestone/playguide/db/npc/enemy/6185a982324/
+  - bosses:
+      - name:
+          en: 'Imdugud'
+          fr: 'Imdugud'
+          de: 'Imdugud'
+          ja: 'イムドゥグド'
+        lodestone:
+          id: 6185a982324
+          url: /lodestone/playguide/db/npc/enemy/6185a982324/
     tags: []
     video_url:
       en:

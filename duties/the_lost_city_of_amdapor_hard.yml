@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Achamoth'
-        fr: 'Achamoth'
-        de: 'Achamoth'
-        ja: 'アカモート'
-      lodestone:
-        id: 5c6bb0caca9
-        url: /lodestone/playguide/db/npc/enemy/5c6bb0caca9/
+  - bosses:
+      - name:
+          en: 'Achamoth'
+          fr: 'Achamoth'
+          de: 'Achamoth'
+          ja: 'アカモート'
+        lodestone:
+          id: 5c6bb0caca9
+          url: /lodestone/playguide/db/npc/enemy/5c6bb0caca9/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Winged Lion'
-        fr: 'Lion ailé'
-        de: 'Schwingenlöwe'
-        ja: 'ウィングドライオン'
-      lodestone:
-        id: 1a7862b9f1f
-        url: /lodestone/playguide/db/npc/enemy/1a7862b9f1f/
+  - bosses:
+      - name:
+          en: 'Winged Lion'
+          fr: 'Lion ailé'
+          de: 'Schwingenlöwe'
+          ja: 'ウィングドライオン'
+        lodestone:
+          id: 1a7862b9f1f
+          url: /lodestone/playguide/db/npc/enemy/1a7862b9f1f/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Kuribu'
-        fr: 'Kuribu'
-        de: 'Kuribu'
-        ja: 'クリブ'
-      lodestone:
-        id: 156b2238154
-        url: /lodestone/playguide/db/npc/enemy/156b2238154/
+  - bosses:
+      - name:
+          en: 'Kuribu'
+          fr: 'Kuribu'
+          de: 'Kuribu'
+          ja: 'クリブ'
+        lodestone:
+          id: 156b2238154
+          url: /lodestone/playguide/db/npc/enemy/156b2238154/
     tags: []
     video_url:
       en:

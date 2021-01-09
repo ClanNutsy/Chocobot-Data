@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Great Yellow Pelican'
-        fr: 'Grand pélican jaune'
-        de: 'Großer Gelbpelikan'
-        ja: 'グレート・イエローペリカン'
-      lodestone:
-        id: 1d7bc4737b1
-        url: /lodestone/playguide/db/npc/enemy/1d7bc4737b1/
+  - bosses:
+      - name:
+          en: 'Great Yellow Pelican'
+          fr: 'Grand pélican jaune'
+          de: 'Großer Gelbpelikan'
+          ja: 'グレート・イエローペリカン'
+        lodestone:
+          id: 1d7bc4737b1
+          url: /lodestone/playguide/db/npc/enemy/1d7bc4737b1/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Inferno Drake'
-        fr: 'Draconide des brasiers'
-        de: 'Sonnen-Drakon'
-        ja: 'インフェルノドレイク'
-      lodestone:
-        id: d23c2174b6e
-        url: /lodestone/playguide/db/npc/enemy/d23c2174b6e/
+  - bosses:
+      - name:
+          en: 'Inferno Drake'
+          fr: 'Draconide des brasiers'
+          de: 'Sonnen-Drakon'
+          ja: 'インフェルノドレイク'
+        lodestone:
+          id: d23c2174b6e
+          url: /lodestone/playguide/db/npc/enemy/d23c2174b6e/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Hellbender'
-        fr: 'Ménopome'
-        de: 'Höllenkrümmer'
-        ja: 'ヘルベンダー'
-      lodestone:
-        id: 61275e0ac8a
-        url: /lodestone/playguide/db/npc/enemy/61275e0ac8a/
+  - bosses:
+      - name:
+          en: 'Hellbender'
+          fr: 'Ménopome'
+          de: 'Höllenkrümmer'
+          ja: 'ヘルベンダー'
+        lodestone:
+          id: 61275e0ac8a
+          url: /lodestone/playguide/db/npc/enemy/61275e0ac8a/
     tags: []
     video_url:
       en:
@@ -113,15 +113,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Aiatar'
-        fr: 'Aiatar'
-        de: 'Aiatar'
-        ja: 'アイアタル'
-      lodestone:
-        id: 0a48dd19b3c
-        url: /lodestone/playguide/db/npc/enemy/0a48dd19b3c/
+  - bosses:
+      - name:
+          en: 'Aiatar'
+          fr: 'Aiatar'
+          de: 'Aiatar'
+          ja: 'アイアタル'
+        lodestone:
+          id: 0a48dd19b3c
+          url: /lodestone/playguide/db/npc/enemy/0a48dd19b3c/
     tags: []
     video_url:
       en:

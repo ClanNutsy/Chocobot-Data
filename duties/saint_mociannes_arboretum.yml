@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Rose Garden'
-        fr: 'Rosier'
-        de: 'Garten-Rosi'
-        ja: 'ローズガーデン'
-      lodestone:
-        id: a7c1ef3fd62
-        url: /lodestone/playguide/db/npc/enemy/a7c1ef3fd62/
+  - bosses:
+      - name:
+          en: 'Rose Garden'
+          fr: 'Rosier'
+          de: 'Garten-Rosi'
+          ja: 'ローズガーデン'
+        lodestone:
+          id: a7c1ef3fd62
+          url: /lodestone/playguide/db/npc/enemy/a7c1ef3fd62/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Queen Hawk'
-        fr: 'Reine des guêpes'
-        de: 'Falkenkönigin'
-        ja: 'クィーンホーク'
-      lodestone:
-        id: 95c3f3b000e
-        url: /lodestone/playguide/db/npc/enemy/95c3f3b000e/
+  - bosses:
+      - name:
+          en: 'Queen Hawk'
+          fr: 'Reine des guêpes'
+          de: 'Falkenkönigin'
+          ja: 'クィーンホーク'
+        lodestone:
+          id: 95c3f3b000e
+          url: /lodestone/playguide/db/npc/enemy/95c3f3b000e/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Belladonna'
-        fr: 'Belladone'
-        de: 'Belladonna'
-        ja: 'ベラドンナ'
-      lodestone:
-        id: cfec5893064
-        url: /lodestone/playguide/db/npc/enemy/cfec5893064/
+  - bosses:
+      - name:
+          en: 'Belladonna'
+          fr: 'Belladone'
+          de: 'Belladonna'
+          ja: 'ベラドンナ'
+        lodestone:
+          id: cfec5893064
+          url: /lodestone/playguide/db/npc/enemy/cfec5893064/
     tags: []
     video_url:
       en:

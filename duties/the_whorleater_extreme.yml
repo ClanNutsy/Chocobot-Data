@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Leviathan'
-        fr: 'Léviathan'
-        de: 'Leviathan'
-        ja: 'リヴァイアサン'
-      lodestone:
-        id: b8e53a056ef
-        url: /lodestone/playguide/db/npc/enemy/b8e53a056ef/
+  - bosses:
+      - name:
+          en: 'Leviathan'
+          fr: 'Léviathan'
+          de: 'Leviathan'
+          ja: 'リヴァイアサン'
+        lodestone:
+          id: b8e53a056ef
+          url: /lodestone/playguide/db/npc/enemy/b8e53a056ef/
     tags: []
     video_url:
       en:

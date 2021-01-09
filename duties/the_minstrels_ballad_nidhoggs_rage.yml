@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Nidhogg'
-        fr: 'Nidhogg'
-        de: 'Nidhogg'
-        ja: 'ニーズヘッグ'
-      lodestone:
-        id: 24c714ec46f
-        url: /lodestone/playguide/db/npc/enemy/24c714ec46f/
+  - bosses:
+      - name:
+          en: 'Nidhogg'
+          fr: 'Nidhogg'
+          de: 'Nidhogg'
+          ja: 'ニーズヘッグ'
+        lodestone:
+          id: 24c714ec46f
+          url: /lodestone/playguide/db/npc/enemy/24c714ec46f/
     tags: []
     video_url:
       en:

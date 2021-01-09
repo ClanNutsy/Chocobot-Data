@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Alpha Zaghnal'
-        fr: 'Zaghnal alpha'
-        de: 'Alpha-Zaghnal'
-        ja: 'アルファ・ザグナル'
-      lodestone:
-        id: 73d53e760e9
-        url: /lodestone/playguide/db/npc/enemy/73d53e760e9/
+  - bosses:
+      - name:
+          en: 'Alpha Zaghnal'
+          fr: 'Zaghnal alpha'
+          de: 'Alpha-Zaghnal'
+          ja: 'アルファ・ザグナル'
+        lodestone:
+          id: 73d53e760e9
+          url: /lodestone/playguide/db/npc/enemy/73d53e760e9/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Mithridates'
-        fr: 'Mithridate'
-        de: 'Mithridates'
-        ja: 'ミトリダテス'
-      lodestone:
-        id: 156780fca50
-        url: /lodestone/playguide/db/npc/enemy/156780fca50/
+  - bosses:
+      - name:
+          en: 'Mithridates'
+          fr: 'Mithridate'
+          de: 'Mithridates'
+          ja: 'ミトリダテス'
+        lodestone:
+          id: 156780fca50
+          url: /lodestone/playguide/db/npc/enemy/156780fca50/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'The Tycoon'
-        fr: 'Le Magnat'
-        de: 'Tycoon'
-        ja: 'タイクーン'
-      lodestone:
-        id: 0e6218abb50
-        url: /lodestone/playguide/db/npc/enemy/0e6218abb50/
+  - bosses:
+      - name:
+          en: 'The Tycoon'
+          fr: 'Le Magnat'
+          de: 'Tycoon'
+          ja: 'タイクーン'
+        lodestone:
+          id: 0e6218abb50
+          url: /lodestone/playguide/db/npc/enemy/0e6218abb50/
     tags: []
     video_url:
       en:

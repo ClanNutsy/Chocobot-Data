@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Cruise Chaser'
-        fr: 'Croiseur-chasseur'
-        de: 'Chaser-Mecha'
-        ja: 'クルーズチェイサー'
-      lodestone:
-        id: 245e2ccff27
-        url: /lodestone/playguide/db/npc/enemy/245e2ccff27/
+  - bosses:
+      - name:
+          en: 'Cruise Chaser'
+          fr: 'Croiseur-chasseur'
+          de: 'Chaser-Mecha'
+          ja: 'クルーズチェイサー'
+        lodestone:
+          id: 245e2ccff27
+          url: /lodestone/playguide/db/npc/enemy/245e2ccff27/
     tags: []
     video_url:
       en:

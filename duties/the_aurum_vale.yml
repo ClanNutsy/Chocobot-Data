@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Locksmith'
-        fr: 'Serrurier'
-        de: 'Schlosser'
-        ja: 'ロックスミス'
-      lodestone:
-        id: c8d5ce30474
-        url: /lodestone/playguide/db/npc/enemy/c8d5ce30474/
+  - bosses:
+      - name:
+          en: 'Locksmith'
+          fr: 'Serrurier'
+          de: 'Schlosser'
+          ja: 'ロックスミス'
+        lodestone:
+          id: c8d5ce30474
+          url: /lodestone/playguide/db/npc/enemy/c8d5ce30474/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Coincounter'
-        fr: 'Trésorier'
-        de: 'Münzzähler'
-        ja: 'コインカウンター'
-      lodestone:
-        id: 0d8cdbe4581
-        url: /lodestone/playguide/db/npc/enemy/0d8cdbe4581/
+  - bosses:
+      - name:
+          en: 'Coincounter'
+          fr: 'Trésorier'
+          de: 'Münzzähler'
+          ja: 'コインカウンター'
+        lodestone:
+          id: 0d8cdbe4581
+          url: /lodestone/playguide/db/npc/enemy/0d8cdbe4581/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Miser's Mistress'
-        fr: 'Maîtresse du Grigou'
-        de: 'Knausers Mätresse'
-        ja: 'マイザーズミストレス'
-      lodestone:
-        id: 167a12b84fb
-        url: /lodestone/playguide/db/npc/enemy/167a12b84fb/
+  - bosses:
+      - name:
+          en: 'Miser's Mistress'
+          fr: 'Maîtresse du Grigou'
+          de: 'Knausers Mätresse'
+          ja: 'マイザーズミストレス'
+        lodestone:
+          id: 167a12b84fb
+          url: /lodestone/playguide/db/npc/enemy/167a12b84fb/
     tags: []
     video_url:
       en:

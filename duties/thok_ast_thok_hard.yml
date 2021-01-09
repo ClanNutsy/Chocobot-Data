@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Ravana'
-        fr: 'Ravana'
-        de: 'Ravana'
-        ja: 'ラーヴァナ'
-      lodestone:
-        id: e12e4eb0b1b
-        url: /lodestone/playguide/db/npc/enemy/e12e4eb0b1b/
+  - bosses:
+      - name:
+          en: 'Ravana'
+          fr: 'Ravana'
+          de: 'Ravana'
+          ja: 'ラーヴァナ'
+        lodestone:
+          id: e12e4eb0b1b
+          url: /lodestone/playguide/db/npc/enemy/e12e4eb0b1b/
     tags: []
     video_url:
       en:

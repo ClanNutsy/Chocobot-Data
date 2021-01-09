@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Kefka'
-        fr: 'Kefka'
-        de: 'Kefka'
-        ja: 'ケフカ'
-      lodestone:
-        id: e0aa5258ecf
-        url: /lodestone/playguide/db/npc/enemy/e0aa5258ecf/
+  - bosses:
+      - name:
+          en: 'Kefka'
+          fr: 'Kefka'
+          de: 'Kefka'
+          ja: 'ケフカ'
+        lodestone:
+          id: e0aa5258ecf
+          url: /lodestone/playguide/db/npc/enemy/e0aa5258ecf/
     tags: []
     video_url:
       en:

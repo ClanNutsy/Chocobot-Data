@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Kelpie'
-        fr: 'Kelpie'
-        de: 'Kelpie'
-        ja: 'ケルピー'
-      lodestone:
-        id: 5d3b666c99d
-        url: /lodestone/playguide/db/npc/enemy/5d3b666c99d/
+  - bosses:
+      - name:
+          en: 'Kelpie'
+          fr: 'Kelpie'
+          de: 'Kelpie'
+          ja: 'ケルピー'
+        lodestone:
+          id: 5d3b666c99d
+          url: /lodestone/playguide/db/npc/enemy/5d3b666c99d/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'The Old One'
-        fr: 'Ancien'
-        de: 'Altvorderer'
-        ja: 'オールドワン'
-      lodestone:
-        id: 0b6f32cfa30
-        url: /lodestone/playguide/db/npc/enemy/0b6f32cfa30/
+  - bosses:
+      - name:
+          en: 'The Old One'
+          fr: 'Ancien'
+          de: 'Altvorderer'
+          ja: 'オールドワン'
+        lodestone:
+          id: 0b6f32cfa30
+          url: /lodestone/playguide/db/npc/enemy/0b6f32cfa30/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Hrodric Poisontongue'
-        fr: 'Hrodric le Médisant'
-        de: 'Hrodric Giftzunge'
-        ja: '直言のフロドリック'
-      lodestone:
-        id: 778590c7ffc
-        url: /lodestone/playguide/db/npc/enemy/778590c7ffc/
+  - bosses:
+      - name:
+          en: 'Hrodric Poisontongue'
+          fr: 'Hrodric le Médisant'
+          de: 'Hrodric Giftzunge'
+          ja: '直言のフロドリック'
+        lodestone:
+          id: 778590c7ffc
+          url: /lodestone/playguide/db/npc/enemy/778590c7ffc/
     tags: []
     video_url:
       en:

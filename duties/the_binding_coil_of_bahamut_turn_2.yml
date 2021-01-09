@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'ADS'
-        fr: 'Sphère de contrôle'
-        de: 'Abwehrsystem'
-        ja: '制御システム'
-      lodestone:
-        id: 40a8cb2f18e
-        url: /lodestone/playguide/db/npc/enemy/40a8cb2f18e/
+  - bosses:
+      - name:
+          en: 'ADS'
+          fr: 'Sphère de contrôle'
+          de: 'Abwehrsystem'
+          ja: '制御システム'
+        lodestone:
+          id: 40a8cb2f18e
+          url: /lodestone/playguide/db/npc/enemy/40a8cb2f18e/
     tags: []
     video_url:
       en:

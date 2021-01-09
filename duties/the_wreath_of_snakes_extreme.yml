@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Seiryu'
-        fr: 'Seiryû'
-        de: 'Seiryu'
-        ja: '青龍'
-      lodestone:
-        id: 142085e482c
-        url: /lodestone/playguide/db/npc/enemy/142085e482c/
+  - bosses:
+      - name:
+          en: 'Seiryu'
+          fr: 'Seiryû'
+          de: 'Seiryu'
+          ja: '青龍'
+        lodestone:
+          id: 142085e482c
+          url: /lodestone/playguide/db/npc/enemy/142085e482c/
     tags: []
     video_url:
       en:

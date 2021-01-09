@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Halicarnassus'
-        fr: 'Halicarnasse'
-        de: 'Halikarnassos'
-        ja: 'ハリカルナッソス'
-      lodestone:
-        id: c73fc52ba4c
-        url: /lodestone/playguide/db/npc/enemy/c73fc52ba4c/
+  - bosses:
+      - name:
+          en: 'Halicarnassus'
+          fr: 'Halicarnasse'
+          de: 'Halikarnassos'
+          ja: 'ハリカルナッソス'
+        lodestone:
+          id: c73fc52ba4c
+          url: /lodestone/playguide/db/npc/enemy/c73fc52ba4c/
     tags: []
     video_url:
       en:

@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Nullchu'
-        fr: 'Nullchu'
-        de: 'Nullchu'
-        ja: 'ヌルチュー'
-      lodestone:
-        id: a7c5468ae63
-        url: /lodestone/playguide/db/npc/enemy/a7c5468ae63/
+  - bosses:
+      - name:
+          en: 'Nullchu'
+          fr: 'Nullchu'
+          de: 'Nullchu'
+          ja: 'ヌルチュー'
+        lodestone:
+          id: a7c5468ae63
+          url: /lodestone/playguide/db/npc/enemy/a7c5468ae63/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Lakhamu'
-        fr: 'Lakhamu'
-        de: 'Lakhamu'
-        ja: 'ラハム'
-      lodestone:
-        id: ce8ecd03872
-        url: /lodestone/playguide/db/npc/enemy/ce8ecd03872/
+  - bosses:
+      - name:
+          en: 'Lakhamu'
+          fr: 'Lakhamu'
+          de: 'Lakhamu'
+          ja: 'ラハム'
+        lodestone:
+          id: ce8ecd03872
+          url: /lodestone/playguide/db/npc/enemy/ce8ecd03872/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Tokkapchi'
-        fr: 'Tokkapchi'
-        de: 'Tokkapchi'
-        ja: 'トカップチ'
-      lodestone:
-        id: 9420faca787
-        url: /lodestone/playguide/db/npc/enemy/9420faca787/
+  - bosses:
+      - name:
+          en: 'Tokkapchi'
+          fr: 'Tokkapchi'
+          de: 'Tokkapchi'
+          ja: 'トカップチ'
+        lodestone:
+          id: 9420faca787
+          url: /lodestone/playguide/db/npc/enemy/9420faca787/
     tags: []
     video_url:
       en:

@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'King Thordan'
-        fr: 'Roi Thordan'
-        de: 'Thordan'
-        ja: '騎神トールダン'
-      lodestone:
-        id: 7a34613ae2d
-        url: /lodestone/playguide/db/npc/enemy/7a34613ae2d/
+  - bosses:
+      - name:
+          en: 'King Thordan'
+          fr: 'Roi Thordan'
+          de: 'Thordan'
+          ja: '騎神トールダン'
+        lodestone:
+          id: 7a34613ae2d
+          url: /lodestone/playguide/db/npc/enemy/7a34613ae2d/
     tags: []
     video_url:
       en:

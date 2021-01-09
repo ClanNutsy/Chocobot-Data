@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Susano'
-        fr: 'Susano'
-        de: 'Susano'
-        ja: 'スサノオ'
-      lodestone:
-        id: 79dcbc803bf
-        url: /lodestone/playguide/db/npc/enemy/79dcbc803bf/
+  - bosses:
+      - name:
+          en: 'Susano'
+          fr: 'Susano'
+          de: 'Susano'
+          ja: 'スサノオ'
+        lodestone:
+          id: 79dcbc803bf
+          url: /lodestone/playguide/db/npc/enemy/79dcbc803bf/
     tags: []
     video_url:
       en:

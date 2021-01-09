@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Midgardsormr'
-        fr: 'Midgardsormr'
-        de: 'Midgardsormr'
-        ja: 'ミドガルズオルム'
-      lodestone:
-        id: 635999dea16
-        url: /lodestone/playguide/db/npc/enemy/635999dea16/
+  - bosses:
+      - name:
+          en: 'Midgardsormr'
+          fr: 'Midgardsormr'
+          de: 'Midgardsormr'
+          ja: 'ミドガルズオルム'
+        lodestone:
+          id: 635999dea16
+          url: /lodestone/playguide/db/npc/enemy/635999dea16/
     tags: []
     video_url:
       en:

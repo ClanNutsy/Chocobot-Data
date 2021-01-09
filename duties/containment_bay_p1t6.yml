@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Sophia'
-        fr: 'Sophia'
-        de: 'Sophia'
-        ja: 'ソフィア'
-      lodestone:
-        id: 18f4234e398
-        url: /lodestone/playguide/db/npc/enemy/18f4234e398/
+  - bosses:
+      - name:
+          en: 'Sophia'
+          fr: 'Sophia'
+          de: 'Sophia'
+          ja: 'ソフィア'
+        lodestone:
+          id: 18f4234e398
+          url: /lodestone/playguide/db/npc/enemy/18f4234e398/
     tags: []
     video_url:
       en:

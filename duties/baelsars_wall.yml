@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Magitek Predator'
-        fr: 'Prédateur magitek'
-        de: 'Magitek-Prädator'
-        ja: '魔導プレデター'
-      lodestone:
-        id: 1be15b20b8c
-        url: /lodestone/playguide/db/npc/enemy/1be15b20b8c/
+  - bosses:
+      - name:
+          en: 'Magitek Predator'
+          fr: 'Prédateur magitek'
+          de: 'Magitek-Prädator'
+          ja: '魔導プレデター'
+        lodestone:
+          id: 1be15b20b8c
+          url: /lodestone/playguide/db/npc/enemy/1be15b20b8c/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Armored Weapon'
-        fr: 'Arme blindée'
-        de: 'Panzerwaffe'
-        ja: 'アームドウェポン'
-      lodestone:
-        id: c11fcb729f9
-        url: /lodestone/playguide/db/npc/enemy/c11fcb729f9/
+  - bosses:
+      - name:
+          en: 'Armored Weapon'
+          fr: 'Arme blindée'
+          de: 'Panzerwaffe'
+          ja: 'アームドウェポン'
+        lodestone:
+          id: c11fcb729f9
+          url: /lodestone/playguide/db/npc/enemy/c11fcb729f9/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'The Griffin'
-        fr: 'Ilberd le Griffon'
-        de: 'Ilberd'
-        ja: '鉄面のイルベルド'
-      lodestone:
-        id: fb9682e4e70
-        url: /lodestone/playguide/db/npc/enemy/fb9682e4e70/
+  - bosses:
+      - name:
+          en: 'The Griffin'
+          fr: 'Ilberd le Griffon'
+          de: 'Ilberd'
+          ja: '鉄面のイルベルド'
+        lodestone:
+          id: fb9682e4e70
+          url: /lodestone/playguide/db/npc/enemy/fb9682e4e70/
     tags: []
     video_url:
       en:

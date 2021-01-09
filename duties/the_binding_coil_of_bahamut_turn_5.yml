@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Twintania'
-        fr: 'Gémellia'
-        de: 'Twintania'
-        ja: 'ツインタニア'
-      lodestone:
-        id: adcc4bfe4c3
-        url: /lodestone/playguide/db/npc/enemy/adcc4bfe4c3/
+  - bosses:
+      - name:
+          en: 'Twintania'
+          fr: 'Gémellia'
+          de: 'Twintania'
+          ja: 'ツインタニア'
+        lodestone:
+          id: adcc4bfe4c3
+          url: /lodestone/playguide/db/npc/enemy/adcc4bfe4c3/
     tags: []
     video_url:
       en:

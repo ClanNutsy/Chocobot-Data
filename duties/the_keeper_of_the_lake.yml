@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Einhander'
-        fr: 'Einhänder'
-        de: 'Einhänder'
-        ja: 'アインハンダー'
-      lodestone:
-        id: 54fb2c3f380
-        url: /lodestone/playguide/db/npc/enemy/54fb2c3f380/
+  - bosses:
+      - name:
+          en: 'Einhander'
+          fr: 'Einhänder'
+          de: 'Einhänder'
+          ja: 'アインハンダー'
+        lodestone:
+          id: 54fb2c3f380
+          url: /lodestone/playguide/db/npc/enemy/54fb2c3f380/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Magitek Gunship'
-        fr: 'Vaisseau magitek'
-        de: 'Magitek-Kanonenschiff'
-        ja: '魔導ガンシップ'
-      lodestone:
-        id: baecef45a06
-        url: /lodestone/playguide/db/npc/enemy/baecef45a06/
+  - bosses:
+      - name:
+          en: 'Magitek Gunship'
+          fr: 'Vaisseau magitek'
+          de: 'Magitek-Kanonenschiff'
+          ja: '魔導ガンシップ'
+        lodestone:
+          id: baecef45a06
+          url: /lodestone/playguide/db/npc/enemy/baecef45a06/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Midgardsormr'
-        fr: 'Midgardsormr'
-        de: 'Midgardsormr'
-        ja: 'ミドガルズオルム'
-      lodestone:
-        id: f31ab017ec8
-        url: /lodestone/playguide/db/npc/enemy/f31ab017ec8/
+  - bosses:
+      - name:
+          en: 'Midgardsormr'
+          fr: 'Midgardsormr'
+          de: 'Midgardsormr'
+          ja: 'ミドガルズオルム'
+        lodestone:
+          id: f31ab017ec8
+          url: /lodestone/playguide/db/npc/enemy/f31ab017ec8/
     tags: []
     video_url:
       en:

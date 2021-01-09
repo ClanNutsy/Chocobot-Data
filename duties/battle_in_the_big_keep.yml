@@ -14,23 +14,23 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Gilgamesh'
-        fr: 'Gilgamesh'
-        de: 'Gilgamesch'
-        ja: 'ギルガメッシュ'
-      lodestone:
-        id: 3554b8b8296
-        url: /lodestone/playguide/db/npc/enemy/3554b8b8296/
-    - name:
-        en: 'Enkidu'
-        fr: 'Enkidu'
-        de: 'Enkidu'
-        ja: 'エンキドウ'
-      lodestone:
-        id: 1365d0d97aa
-        url: /lodestone/playguide/db/npc/enemy/1365d0d97aa/
+  - bosses:
+      - name:
+          en: 'Gilgamesh'
+          fr: 'Gilgamesh'
+          de: 'Gilgamesch'
+          ja: 'ギルガメッシュ'
+        lodestone:
+          id: 3554b8b8296
+          url: /lodestone/playguide/db/npc/enemy/3554b8b8296/
+      - name:
+          en: 'Enkidu'
+          fr: 'Enkidu'
+          de: 'Enkidu'
+          ja: 'エンキドウ'
+        lodestone:
+          id: 1365d0d97aa
+          url: /lodestone/playguide/db/npc/enemy/1365d0d97aa/
     tags: []
     video_url:
       en:

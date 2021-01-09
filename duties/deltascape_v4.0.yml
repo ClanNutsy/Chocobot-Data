@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Exdeath'
-        fr: 'Exdeath'
-        de: 'Exdeath'
-        ja: 'エクスデス'
-      lodestone:
-        id: 5608b9612a5
-        url: /lodestone/playguide/db/npc/enemy/5608b9612a5/
+  - bosses:
+      - name:
+          en: 'Exdeath'
+          fr: 'Exdeath'
+          de: 'Exdeath'
+          ja: 'エクスデス'
+        lodestone:
+          id: 5608b9612a5
+          url: /lodestone/playguide/db/npc/enemy/5608b9612a5/
     tags: []
     video_url:
       en:

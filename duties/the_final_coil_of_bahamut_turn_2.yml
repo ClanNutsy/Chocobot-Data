@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Kaliya'
-        fr: 'Kaliya'
-        de: 'Kaliya'
-        ja: 'カーリア'
-      lodestone:
-        id: 76c4ffab8aa
-        url: /lodestone/playguide/db/npc/enemy/76c4ffab8aa/
+  - bosses:
+      - name:
+          en: 'Kaliya'
+          fr: 'Kaliya'
+          de: 'Kaliya'
+          ja: 'カーリア'
+        lodestone:
+          id: 76c4ffab8aa
+          url: /lodestone/playguide/db/npc/enemy/76c4ffab8aa/
     tags: []
     video_url:
       en:

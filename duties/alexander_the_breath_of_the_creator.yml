@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Lamebrix Strikebocks'
-        fr: 'Lamebrix le Mercenaire'
-        de: 'Wüterix der Söldner'
-        ja: '傭兵のレイムプリクス'
-      lodestone:
-        id: 146f9f3c06a
-        url: /lodestone/playguide/db/npc/enemy/146f9f3c06a/
+  - bosses:
+      - name:
+          en: 'Lamebrix Strikebocks'
+          fr: 'Lamebrix le Mercenaire'
+          de: 'Wüterix der Söldner'
+          ja: '傭兵のレイムプリクス'
+        lodestone:
+          id: 146f9f3c06a
+          url: /lodestone/playguide/db/npc/enemy/146f9f3c06a/
     tags: []
     video_url:
       en:

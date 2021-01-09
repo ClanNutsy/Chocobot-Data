@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Ifrit'
-        fr: 'Ifrit'
-        de: 'Ifrit'
-        ja: 'イフリート'
-      lodestone:
-        id: 4ec28894427
-        url: /lodestone/playguide/db/npc/enemy/4ec28894427/
+  - bosses:
+      - name:
+          en: 'Ifrit'
+          fr: 'Ifrit'
+          de: 'Ifrit'
+          ja: 'イフリート'
+        lodestone:
+          id: 4ec28894427
+          url: /lodestone/playguide/db/npc/enemy/4ec28894427/
     tags: []
     video_url:
       en:

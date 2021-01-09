@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Titan'
-        fr: 'Titan'
-        de: 'Titan'
-        ja: 'タイタン'
-      lodestone:
-        id: d334aac6b0d
-        url: /lodestone/playguide/db/npc/enemy/d334aac6b0d/
+  - bosses:
+      - name:
+          en: 'Titan'
+          fr: 'Titan'
+          de: 'Titan'
+          ja: 'タイタン'
+        lodestone:
+          id: d334aac6b0d
+          url: /lodestone/playguide/db/npc/enemy/d334aac6b0d/
     tags: []
     video_url:
       en:

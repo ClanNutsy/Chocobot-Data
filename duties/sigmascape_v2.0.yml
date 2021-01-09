@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Demon Chadarnook'
-        fr: 'Démon Chadarnouk'
-        de: 'Gefallener Chadarnook'
-        ja: 'チャダルヌーク・デーモン'
-      lodestone:
-        id: 0bfd8da6861
-        url: /lodestone/playguide/db/npc/enemy/0bfd8da6861/
+  - bosses:
+      - name:
+          en: 'Demon Chadarnook'
+          fr: 'Démon Chadarnouk'
+          de: 'Gefallener Chadarnook'
+          ja: 'チャダルヌーク・デーモン'
+        lodestone:
+          id: 0bfd8da6861
+          url: /lodestone/playguide/db/npc/enemy/0bfd8da6861/
     tags: []
     video_url:
       en:

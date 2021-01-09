@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Hades'
-        fr: 'Hadès'
-        de: 'Hades'
-        ja: 'ハーデス'
-      lodestone:
-        id: 09525e32b26
-        url: /lodestone/playguide/db/npc/enemy/09525e32b26/
+  - bosses:
+      - name:
+          en: 'Hades'
+          fr: 'Hadès'
+          de: 'Hades'
+          ja: 'ハーデス'
+        lodestone:
+          id: 09525e32b26
+          url: /lodestone/playguide/db/npc/enemy/09525e32b26/
     tags: []
     video_url:
       en:

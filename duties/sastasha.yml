@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Chopper'
-        fr: 'Trancheur'
-        de: 'Chopper'
-        ja: 'チョッパー'
-      lodestone:
-        id: ebec689be32
-        url: /lodestone/playguide/db/npc/enemy/ebec689be32/
+  - bosses:
+      - name:
+          en: 'Chopper'
+          fr: 'Trancheur'
+          de: 'Chopper'
+          ja: 'チョッパー'
+        lodestone:
+          id: ebec689be32
+          url: /lodestone/playguide/db/npc/enemy/ebec689be32/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Captain Madison'
-        fr: 'Capitaine Madison'
-        de: 'Kapitän Madison'
-        ja: 'マディソン船長'
-      lodestone:
-        id: 8e7f320a2fe
-        url: /lodestone/playguide/db/npc/enemy/8e7f320a2fe/
+  - bosses:
+      - name:
+          en: 'Captain Madison'
+          fr: 'Capitaine Madison'
+          de: 'Kapitän Madison'
+          ja: 'マディソン船長'
+        lodestone:
+          id: 8e7f320a2fe
+          url: /lodestone/playguide/db/npc/enemy/8e7f320a2fe/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Denn The Orcatoothed'
-        fr: 'Denn dent-d'orque'
-        de: 'Denn Walhauer'
-        ja: '鯱牙のデェン'
-      lodestone:
-        id: b6b4c8bae5a
-        url: /lodestone/playguide/db/npc/enemy/b6b4c8bae5a/
+  - bosses:
+      - name:
+          en: 'Denn The Orcatoothed'
+          fr: 'Denn dent-d'orque'
+          de: 'Denn Walhauer'
+          ja: '鯱牙のデェン'
+        lodestone:
+          id: b6b4c8bae5a
+          url: /lodestone/playguide/db/npc/enemy/b6b4c8bae5a/
     tags: []
     video_url:
       en:

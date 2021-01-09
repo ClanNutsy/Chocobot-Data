@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Shiva'
-        fr: 'Shiva'
-        de: 'Shiva'
-        ja: 'シヴァ'
-      lodestone:
-        id: 0ab8d5dd511
-        url: /lodestone/playguide/db/npc/enemy/0ab8d5dd511/
+  - bosses:
+      - name:
+          en: 'Shiva'
+          fr: 'Shiva'
+          de: 'Shiva'
+          ja: 'シヴァ'
+        lodestone:
+          id: 0ab8d5dd511
+          url: /lodestone/playguide/db/npc/enemy/0ab8d5dd511/
     tags: []
     video_url:
       en:

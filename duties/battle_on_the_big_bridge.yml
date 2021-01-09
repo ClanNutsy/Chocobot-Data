@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Gilgamesh'
-        fr: 'Gilgamesh'
-        de: 'Gilgamesch'
-        ja: 'ギルガメッシュ'
-      lodestone:
-        id: eeb533b3c27
-        url: /lodestone/playguide/db/npc/enemy/eeb533b3c27/
+  - bosses:
+      - name:
+          en: 'Gilgamesh'
+          fr: 'Gilgamesh'
+          de: 'Gilgamesch'
+          ja: 'ギルガメッシュ'
+        lodestone:
+          id: eeb533b3c27
+          url: /lodestone/playguide/db/npc/enemy/eeb533b3c27/
     tags: []
     video_url:
       en:

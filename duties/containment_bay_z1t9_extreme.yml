@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Zurvan'
-        fr: 'Zurvan'
-        de: 'Zurvan'
-        ja: 'ズルワーン'
-      lodestone:
-        id: 7a228ee8429
-        url: /lodestone/playguide/db/npc/enemy/7a228ee8429/
+  - bosses:
+      - name:
+          en: 'Zurvan'
+          fr: 'Zurvan'
+          de: 'Zurvan'
+          ja: 'ズルワーン'
+        lodestone:
+          id: 7a228ee8429
+          url: /lodestone/playguide/db/npc/enemy/7a228ee8429/
     tags: []
     video_url:
       en:

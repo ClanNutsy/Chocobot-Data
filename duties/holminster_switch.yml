@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Forgiven Dissonance'
-        fr: 'Dissonance pardonnée'
-        de: 'Geläuterter Widerspruch'
-        ja: 'フォーギヴン・ディソナンス'
-      lodestone:
-        id: 2bf7cfdd285
-        url: /lodestone/playguide/db/npc/enemy/2bf7cfdd285/
+  - bosses:
+      - name:
+          en: 'Forgiven Dissonance'
+          fr: 'Dissonance pardonnée'
+          de: 'Geläuterter Widerspruch'
+          ja: 'フォーギヴン・ディソナンス'
+        lodestone:
+          id: 2bf7cfdd285
+          url: /lodestone/playguide/db/npc/enemy/2bf7cfdd285/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Tesleen, The Forgiven'
-        fr: 'Tesleen pardonnée'
-        de: 'Tesleen die Bekehrte'
-        ja: 'フォーギヴン・テスリーン'
-      lodestone:
-        id: 928d1e367de
-        url: /lodestone/playguide/db/npc/enemy/928d1e367de/
+  - bosses:
+      - name:
+          en: 'Tesleen, The Forgiven'
+          fr: 'Tesleen pardonnée'
+          de: 'Tesleen die Bekehrte'
+          ja: 'フォーギヴン・テスリーン'
+        lodestone:
+          id: 928d1e367de
+          url: /lodestone/playguide/db/npc/enemy/928d1e367de/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Philia'
-        fr: 'Philia'
-        de: 'Philia'
-        ja: 'フィリア'
-      lodestone:
-        id: 9d4b1bbc1ec
-        url: /lodestone/playguide/db/npc/enemy/9d4b1bbc1ec/
+  - bosses:
+      - name:
+          en: 'Philia'
+          fr: 'Philia'
+          de: 'Philia'
+          ja: 'フィリア'
+        lodestone:
+          id: 9d4b1bbc1ec
+          url: /lodestone/playguide/db/npc/enemy/9d4b1bbc1ec/
     tags: []
     video_url:
       en:

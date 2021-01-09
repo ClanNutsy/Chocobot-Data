@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Mateus, The Corrupt'
-        fr: 'Mateus le Corrompu'
-        de: 'Mateus der Peiniger'
-        ja: '背徳の皇帝マティウス'
-      lodestone:
-        id: c2b3691360a
-        url: /lodestone/playguide/db/npc/enemy/c2b3691360a/
+  - bosses:
+      - name:
+          en: 'Mateus, The Corrupt'
+          fr: 'Mateus le Corrompu'
+          de: 'Mateus der Peiniger'
+          ja: '背徳の皇帝マティウス'
+        lodestone:
+          id: c2b3691360a
+          url: /lodestone/playguide/db/npc/enemy/c2b3691360a/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Hashmal, Bringer Of Order'
-        fr: 'Hashmal le Grand Ordonnateur'
-        de: 'Hashmallim der Einiger'
-        ja: '統制者ハシュマリム'
-      lodestone:
-        id: d6a0a9e75cb
-        url: /lodestone/playguide/db/npc/enemy/d6a0a9e75cb/
+  - bosses:
+      - name:
+          en: 'Hashmal, Bringer Of Order'
+          fr: 'Hashmal le Grand Ordonnateur'
+          de: 'Hashmallim der Einiger'
+          ja: '統制者ハシュマリム'
+        lodestone:
+          id: d6a0a9e75cb
+          url: /lodestone/playguide/db/npc/enemy/d6a0a9e75cb/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Rofocale'
-        fr: 'Rofocale le Roi centaure'
-        de: 'Rofocale'
-        ja: '人馬王ロフォカレ'
-      lodestone:
-        id: c8085341847
-        url: /lodestone/playguide/db/npc/enemy/c8085341847/
+  - bosses:
+      - name:
+          en: 'Rofocale'
+          fr: 'Rofocale le Roi centaure'
+          de: 'Rofocale'
+          ja: '人馬王ロフォカレ'
+        lodestone:
+          id: c8085341847
+          url: /lodestone/playguide/db/npc/enemy/c8085341847/
     tags: []
     video_url:
       en:
@@ -113,15 +113,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Argath Thadalfus'
-        fr: 'Argath Thadalfus'
-        de: 'Argath Thadalfus'
-        ja: '冷血剣アルガス'
-      lodestone:
-        id: 84344415f59
-        url: /lodestone/playguide/db/npc/enemy/84344415f59/
+  - bosses:
+      - name:
+          en: 'Argath Thadalfus'
+          fr: 'Argath Thadalfus'
+          de: 'Argath Thadalfus'
+          ja: '冷血剣アルガス'
+        lodestone:
+          id: 84344415f59
+          url: /lodestone/playguide/db/npc/enemy/84344415f59/
     tags: []
     video_url:
       en:

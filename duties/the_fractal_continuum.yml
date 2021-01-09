@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Phantom Ray'
-        fr: 'Rayon fantomatique'
-        de: 'Phantomschimmer'
-        ja: 'ファントムレイ'
-      lodestone:
-        id: 39cefc52a63
-        url: /lodestone/playguide/db/npc/enemy/39cefc52a63/
+  - bosses:
+      - name:
+          en: 'Phantom Ray'
+          fr: 'Rayon fantomatique'
+          de: 'Phantomschimmer'
+          ja: 'ファントムレイ'
+        lodestone:
+          id: 39cefc52a63
+          url: /lodestone/playguide/db/npc/enemy/39cefc52a63/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Minotaur'
-        fr: 'Minotaure'
-        de: 'Minotaurus'
-        ja: 'ミノタウロス'
-      lodestone:
-        id: 4d76375c29f
-        url: /lodestone/playguide/db/npc/enemy/4d76375c29f/
+  - bosses:
+      - name:
+          en: 'Minotaur'
+          fr: 'Minotaure'
+          de: 'Minotaurus'
+          ja: 'ミノタウロス'
+        lodestone:
+          id: 4d76375c29f
+          url: /lodestone/playguide/db/npc/enemy/4d76375c29f/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'The Curator'
-        fr: 'Conservateur'
-        de: 'Kurator'
-        ja: 'キュレーター'
-      lodestone:
-        id: fcf1d573e3d
-        url: /lodestone/playguide/db/npc/enemy/fcf1d573e3d/
+  - bosses:
+      - name:
+          en: 'The Curator'
+          fr: 'Conservateur'
+          de: 'Kurator'
+          ja: 'キュレーター'
+        lodestone:
+          id: fcf1d573e3d
+          url: /lodestone/playguide/db/npc/enemy/fcf1d573e3d/
     tags: []
     video_url:
       en:

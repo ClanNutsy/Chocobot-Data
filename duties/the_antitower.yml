@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Zuro Roggo'
-        fr: 'Zuro Roggo le Ténor'
-        de: 'Zuro Roggo'
-        ja: '歌聖のズロ・ロッゴ'
-      lodestone:
-        id: 7dde0d1c17d
-        url: /lodestone/playguide/db/npc/enemy/7dde0d1c17d/
+  - bosses:
+      - name:
+          en: 'Zuro Roggo'
+          fr: 'Zuro Roggo le Ténor'
+          de: 'Zuro Roggo'
+          ja: '歌聖のズロ・ロッゴ'
+        lodestone:
+          id: 7dde0d1c17d
+          url: /lodestone/playguide/db/npc/enemy/7dde0d1c17d/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Ziggy'
-        fr: 'Ziggy'
-        de: 'Ziggy'
-        ja: 'ズィギー'
-      lodestone:
-        id: d2f73c2baf2
-        url: /lodestone/playguide/db/npc/enemy/d2f73c2baf2/
+  - bosses:
+      - name:
+          en: 'Ziggy'
+          fr: 'Ziggy'
+          de: 'Ziggy'
+          ja: 'ズィギー'
+        lodestone:
+          id: d2f73c2baf2
+          url: /lodestone/playguide/db/npc/enemy/d2f73c2baf2/
     tags: []
     video_url:
       en:
@@ -80,31 +80,31 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Calcabrina'
-        fr: 'Calcabrina'
-        de: 'Calcobrina'
-        ja: 'カルコブリーナ'
-      lodestone:
-        id: 71ce2c557bc
-        url: /lodestone/playguide/db/npc/enemy/71ce2c557bc/
-    - name:
-        en: 'Brina'
-        fr: 'Brina'
-        de: 'Brina'
-        ja: 'ブリーナ'
-      lodestone:
-        id: 4ee0b7f8990
-        url: /lodestone/playguide/db/npc/enemy/4ee0b7f8990/
-    - name:
-        en: 'Calca'
-        fr: 'Calca'
-        de: 'Calco'
-        ja: 'カルコ'
-      lodestone:
-        id: e560df58cfd
-        url: /lodestone/playguide/db/npc/enemy/e560df58cfd/
+  - bosses:
+      - name:
+          en: 'Calcabrina'
+          fr: 'Calcabrina'
+          de: 'Calcobrina'
+          ja: 'カルコブリーナ'
+        lodestone:
+          id: 71ce2c557bc
+          url: /lodestone/playguide/db/npc/enemy/71ce2c557bc/
+      - name:
+          en: 'Brina'
+          fr: 'Brina'
+          de: 'Brina'
+          ja: 'ブリーナ'
+        lodestone:
+          id: 4ee0b7f8990
+          url: /lodestone/playguide/db/npc/enemy/4ee0b7f8990/
+      - name:
+          en: 'Calca'
+          fr: 'Calca'
+          de: 'Calco'
+          ja: 'カルコ'
+        lodestone:
+          id: e560df58cfd
+          url: /lodestone/playguide/db/npc/enemy/e560df58cfd/
     tags: []
     video_url:
       en:

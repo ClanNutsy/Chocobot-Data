@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'The Manipulator'
-        fr: 'Manipulateur'
-        de: 'Manipulator'
-        ja: 'マニピュレーター'
-      lodestone:
-        id: 3837faf63b4
-        url: /lodestone/playguide/db/npc/enemy/3837faf63b4/
+  - bosses:
+      - name:
+          en: 'The Manipulator'
+          fr: 'Manipulateur'
+          de: 'Manipulator'
+          ja: 'マニピュレーター'
+        lodestone:
+          id: 3837faf63b4
+          url: /lodestone/playguide/db/npc/enemy/3837faf63b4/
     tags: []
     video_url:
       en:

@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'The Avatar'
-        fr: 'Bio-tréant'
-        de: 'Avatar'
-        ja: 'アバター'
-      lodestone:
-        id: f3a49a50c1c
-        url: /lodestone/playguide/db/npc/enemy/f3a49a50c1c/
+  - bosses:
+      - name:
+          en: 'The Avatar'
+          fr: 'Bio-tréant'
+          de: 'Avatar'
+          ja: 'アバター'
+        lodestone:
+          id: f3a49a50c1c
+          url: /lodestone/playguide/db/npc/enemy/f3a49a50c1c/
     tags: []
     video_url:
       en:

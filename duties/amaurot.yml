@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'The First Beast'
-        fr: 'Annélide de l'apocalypse'
-        de: 'das erstes Unheil'
-        ja: 'ファースト・ビースト'
-      lodestone:
-        id: 21c88427e38
-        url: /lodestone/playguide/db/npc/enemy/21c88427e38/
+  - bosses:
+      - name:
+          en: 'The First Beast'
+          fr: 'Annélide de l'apocalypse'
+          de: 'das erstes Unheil'
+          ja: 'ファースト・ビースト'
+        lodestone:
+          id: 21c88427e38
+          url: /lodestone/playguide/db/npc/enemy/21c88427e38/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Terminus Bellwether'
-        fr: 'Sonneur de glas de l'apocalypse'
-        de: 'Läuter der Totenglocke'
-        ja: 'ターミナス・ベルウェザー'
-      lodestone:
-        id: 11afe7696aa
-        url: /lodestone/playguide/db/npc/enemy/11afe7696aa/
+  - bosses:
+      - name:
+          en: 'Terminus Bellwether'
+          fr: 'Sonneur de glas de l'apocalypse'
+          de: 'Läuter der Totenglocke'
+          ja: 'ターミナス・ベルウェザー'
+        lodestone:
+          id: 11afe7696aa
+          url: /lodestone/playguide/db/npc/enemy/11afe7696aa/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Therion'
-        fr: 'Mégatherion'
-        de: 'Therion'
-        ja: 'メガセリオン'
-      lodestone:
-        id: 46b6e38b6cc
-        url: /lodestone/playguide/db/npc/enemy/46b6e38b6cc/
+  - bosses:
+      - name:
+          en: 'Therion'
+          fr: 'Mégatherion'
+          de: 'Therion'
+          ja: 'メガセリオン'
+        lodestone:
+          id: 46b6e38b6cc
+          url: /lodestone/playguide/db/npc/enemy/46b6e38b6cc/
     tags: []
     video_url:
       en:

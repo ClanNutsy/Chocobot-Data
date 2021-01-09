@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Arachne Eve'
-        fr: 'Arachné mère'
-        de: 'Arachne die Ahnin'
-        ja: 'アルケニー'
-      lodestone:
-        id: 5f9de4f1bc3
-        url: /lodestone/playguide/db/npc/enemy/5f9de4f1bc3/
+  - bosses:
+      - name:
+          en: 'Arachne Eve'
+          fr: 'Arachné mère'
+          de: 'Arachne die Ahnin'
+          ja: 'アルケニー'
+        lodestone:
+          id: 5f9de4f1bc3
+          url: /lodestone/playguide/db/npc/enemy/5f9de4f1bc3/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Forgall'
-        fr: 'Forgall'
-        de: 'Forgall'
-        ja: 'フォルガル'
-      lodestone:
-        id: 6d1c995c9f6
-        url: /lodestone/playguide/db/npc/enemy/6d1c995c9f6/
+  - bosses:
+      - name:
+          en: 'Forgall'
+          fr: 'Forgall'
+          de: 'Forgall'
+          ja: 'フォルガル'
+        lodestone:
+          id: 6d1c995c9f6
+          url: /lodestone/playguide/db/npc/enemy/6d1c995c9f6/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Ozma'
-        fr: 'Ozma'
-        de: 'Yadis'
-        ja: 'オズマ'
-      lodestone:
-        id: ba184158705
-        url: /lodestone/playguide/db/npc/enemy/ba184158705/
+  - bosses:
+      - name:
+          en: 'Ozma'
+          fr: 'Ozma'
+          de: 'Yadis'
+          ja: 'オズマ'
+        lodestone:
+          id: ba184158705
+          url: /lodestone/playguide/db/npc/enemy/ba184158705/
     tags: []
     video_url:
       en:
@@ -113,15 +113,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Calofisteri'
-        fr: 'Calofisteri'
-        de: 'Calofisteri'
-        ja: 'カロフィステリ'
-      lodestone:
-        id: df65bfc9a90
-        url: /lodestone/playguide/db/npc/enemy/df65bfc9a90/
+  - bosses:
+      - name:
+          en: 'Calofisteri'
+          fr: 'Calofisteri'
+          de: 'Calofisteri'
+          ja: 'カロフィステリ'
+        lodestone:
+          id: df65bfc9a90
+          url: /lodestone/playguide/db/npc/enemy/df65bfc9a90/
     tags: []
     video_url:
       en:

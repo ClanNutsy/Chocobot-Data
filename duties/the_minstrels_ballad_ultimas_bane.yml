@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'The Ultima Weapon'
-        fr: 'Ultima Arma'
-        de: 'Ultima-Waffe'
-        ja: 'アルテマウェポン'
-      lodestone:
-        id: 1cffed8947b
-        url: /lodestone/playguide/db/npc/enemy/1cffed8947b/
+  - bosses:
+      - name:
+          en: 'The Ultima Weapon'
+          fr: 'Ultima Arma'
+          de: 'Ultima-Waffe'
+          ja: 'アルテマウェポン'
+        lodestone:
+          id: 1cffed8947b
+          url: /lodestone/playguide/db/npc/enemy/1cffed8947b/
     tags: []
     video_url:
       en:

@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Shinryu'
-        fr: 'Shinryu'
-        de: 'Shinryu'
-        ja: '神龍'
-      lodestone:
-        id: 9ac0b4d657e
-        url: /lodestone/playguide/db/npc/enemy/9ac0b4d657e/
+  - bosses:
+      - name:
+          en: 'Shinryu'
+          fr: 'Shinryu'
+          de: 'Shinryu'
+          ja: '神龍'
+        lodestone:
+          id: 9ac0b4d657e
+          url: /lodestone/playguide/db/npc/enemy/9ac0b4d657e/
     tags: []
     video_url:
       en:

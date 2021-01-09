@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Nuzal Hueloc'
-        fr: 'Nuzal Hueloc'
-        de: 'Nuzal Hueloc'
-        ja: '飛天のヌザル・フェロック'
-      lodestone:
-        id: 49f6e7a03b8
-        url: /lodestone/playguide/db/npc/enemy/49f6e7a03b8/
+  - bosses:
+      - name:
+          en: 'Nuzal Hueloc'
+          fr: 'Nuzal Hueloc'
+          de: 'Nuzal Hueloc'
+          ja: '飛天のヌザル・フェロック'
+        lodestone:
+          id: 49f6e7a03b8
+          url: /lodestone/playguide/db/npc/enemy/49f6e7a03b8/
     tags: []
     video_url:
       en:
@@ -47,15 +47,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Dotoli Ciloc'
-        fr: 'Dotoli Ciloc'
-        de: 'Dotoli Ciloc'
-        ja: '旋風のドトリ・シロック'
-      lodestone:
-        id: 186b4861756
-        url: /lodestone/playguide/db/npc/enemy/186b4861756/
+  - bosses:
+      - name:
+          en: 'Dotoli Ciloc'
+          fr: 'Dotoli Ciloc'
+          de: 'Dotoli Ciloc'
+          ja: '旋風のドトリ・シロック'
+        lodestone:
+          id: 186b4861756
+          url: /lodestone/playguide/db/npc/enemy/186b4861756/
     tags: []
     video_url:
       en:
@@ -80,15 +80,15 @@ sections:
       ja:
         - title: Why Not Contribute?
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
- - bosses:
-    - name:
-        en: 'Tozol Huatotl'
-        fr: 'Tozol Huatotl'
-        de: 'Tozol Huatotl'
-        ja: '晴嵐のトゾル・ファトトル'
-      lodestone:
-        id: 0a9e06117e2
-        url: /lodestone/playguide/db/npc/enemy/0a9e06117e2/
+  - bosses:
+      - name:
+          en: 'Tozol Huatotl'
+          fr: 'Tozol Huatotl'
+          de: 'Tozol Huatotl'
+          ja: '晴嵐のトゾル・ファトトル'
+        lodestone:
+          id: 0a9e06117e2
+          url: /lodestone/playguide/db/npc/enemy/0a9e06117e2/
     tags: []
     video_url:
       en:

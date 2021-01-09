@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Rafflesia'
-        fr: 'Rafflesia'
-        de: 'Rafflesia'
-        ja: 'ラフレシア'
-      lodestone:
-        id: 212e8c1d13d
-        url: /lodestone/playguide/db/npc/enemy/212e8c1d13d/
+  - bosses:
+      - name:
+          en: 'Rafflesia'
+          fr: 'Rafflesia'
+          de: 'Rafflesia'
+          ja: 'ラフレシア'
+        lodestone:
+          id: 212e8c1d13d
+          url: /lodestone/playguide/db/npc/enemy/212e8c1d13d/
     tags: []
     video_url:
       en:

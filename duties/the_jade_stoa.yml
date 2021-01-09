@@ -14,15 +14,15 @@ video_url:
   de: 
   ja: 
 sections:
- - bosses:
-    - name:
-        en: 'Byakko'
-        fr: 'Byakko'
-        de: 'Byakko'
-        ja: '白虎'
-      lodestone:
-        id: 0ebde711700
-        url: /lodestone/playguide/db/npc/enemy/0ebde711700/
+  - bosses:
+      - name:
+          en: 'Byakko'
+          fr: 'Byakko'
+          de: 'Byakko'
+          ja: '白虎'
+        lodestone:
+          id: 0ebde711700
+          url: /lodestone/playguide/db/npc/enemy/0ebde711700/
     tags: []
     video_url:
       en:
