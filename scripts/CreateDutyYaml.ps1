@@ -76,7 +76,7 @@ foreach ($encounter in $Duty.encounters)
 	$bossYaml = ""
 	if ($encounter.bosses.Count -eq 0)
 	{
-		$bossYaml = "[]"
+		$bossYaml = " []"
 	}
 	else
 	{
