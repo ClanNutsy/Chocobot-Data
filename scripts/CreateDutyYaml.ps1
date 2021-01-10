@@ -95,6 +95,6 @@ foreach ($encounter in $Duty.encounters)
 	$dutyYaml += $sectionYamlTemplate -f $bossYaml
 }
 
-$fileName = $Duty.name.na.Replace('(', '').Replace(')', '').Replace("'", '').Replace('<i>', '').Replace('</i>', '').Replace(':', '').Replace(' - ', '_').Replace(' ', '_').ToLowerInvariant()
+$fileName = $Duty.name.na.Replace('(', '').Replace(')', '').Replace("'", '').Replace('<i>', '').Replace('</i>', '').Replace(':', '').Replace('.', '').Replace(' - ', '_').Replace(' ', '_').ToLowerInvariant()
 
 $dutyYaml | % { [System.Web.HttpUtility]::HtmlDecode($_) } | Out-File "./duties/$fileName.yml" -Encoding UTF8
