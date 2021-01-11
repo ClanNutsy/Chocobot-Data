@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 16d0ba16753
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/47/47925fc8d470ee7c6cd2079a4d967670b1ed89b4.png
   url: /lodestone/playguide/db/duty/16d0ba16753/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Living Liquid"
-          fr: "Liquide vivant"
-          de: "Belebtes Wasser"
-          ja: "リビングリキッド"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: b524dd8b6e6
-          url: /lodestone/playguide/db/npc/enemy/b524dd8b6e6/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

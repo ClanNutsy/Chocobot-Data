@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: decf353d4e7
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb8397b0e2e534dbf32526e9c18e06531e4216fc.png
   url: /lodestone/playguide/db/duty/decf353d4e7/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Dhorme Chimera"
-          fr: "Chimère dhorme"
-          de: "Dhorme-Chimära"
-          ja: "ドルムキマイラ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 149f2d3bef5
-          url: /lodestone/playguide/db/npc/enemy/149f2d3bef5/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

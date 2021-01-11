@@ -14,7 +14,8 @@ type: {4}
 tags: []
 lodestone:
   id: {5}
-  url: {6}
+  image_url: {6}
+  url: {7}
 video_url:
   en: 
   fr: 
@@ -69,6 +70,7 @@ $dutyYaml = $dutyYamlTemplate -f `
 	$Duty.name.jp, `
 	$Duty.type, `
 	$Duty.lodestoneId, `
+	$Duty.lodestoneImageUri, `
 	$Duty.lodestoneUri
 
 foreach ($encounter in $Duty.encounters)

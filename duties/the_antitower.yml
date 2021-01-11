@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 36e172ff46c
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de47137798ce6682e9608c9291a517f7c5ae2225.png
   url: /lodestone/playguide/db/duty/36e172ff46c/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Zuro Roggo"
-          fr: "Zuro Roggo le Ténor"
-          de: "Zuro Roggo"
-          ja: "歌聖のズロ・ロッゴ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 7dde0d1c17d
-          url: /lodestone/playguide/db/npc/enemy/7dde0d1c17d/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Ziggy"
-          fr: "Ziggy"
-          de: "Ziggy"
-          ja: "ズィギー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d2f73c2baf2
-          url: /lodestone/playguide/db/npc/enemy/d2f73c2baf2/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,29 +83,29 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Calcabrina"
-          fr: "Calcabrina"
-          de: "Calcobrina"
-          ja: "カルコブリーナ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 71ce2c557bc
-          url: /lodestone/playguide/db/npc/enemy/71ce2c557bc/
+          id: 
+          url: 
       - name:
-          en: "Brina"
-          fr: "Brina"
-          de: "Brina"
-          ja: "ブリーナ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 4ee0b7f8990
-          url: /lodestone/playguide/db/npc/enemy/4ee0b7f8990/
+          id: 
+          url: 
       - name:
-          en: "Calca"
-          fr: "Calca"
-          de: "Calco"
-          ja: "カルコ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e560df58cfd
-          url: /lodestone/playguide/db/npc/enemy/e560df58cfd/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

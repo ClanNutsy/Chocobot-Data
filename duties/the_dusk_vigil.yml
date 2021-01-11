@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: df5ab8bfd61
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/22/225aa84498f1f5e701f53b96523cd3bb6ea46f0c.png
   url: /lodestone/playguide/db/duty/df5ab8bfd61/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Towering Oliphant"
-          fr: "Olifant"
-          de: "Olifant"
-          ja: "オリファント"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: fd054e9914a
-          url: /lodestone/playguide/db/npc/enemy/fd054e9914a/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Ser Yuhelmeric"
-          fr: "Yuhelmeric Brillelame"
-          de: "Yuhelmeric"
-          ja: "剣光のユヘルメリック"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 2750ef1eb8f
-          url: /lodestone/playguide/db/npc/enemy/2750ef1eb8f/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Opinicus"
-          fr: "Opinicus"
-          de: "Opinicus"
-          ja: "オピニコス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: be1a2aef953
-          url: /lodestone/playguide/db/npc/enemy/be1a2aef953/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

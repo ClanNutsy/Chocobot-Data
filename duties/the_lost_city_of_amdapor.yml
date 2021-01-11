@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 87d3b951d3d
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3a1b70dbf3c9afe2c8f3feff762c6d2d4af70d04.png
   url: /lodestone/playguide/db/duty/87d3b951d3d/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Decaying Gourmand"
-          fr: "Glouton putride"
-          de: "Verrottender Gourmet"
-          ja: "ロッティング・グルマン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 30078ec881b
-          url: /lodestone/playguide/db/npc/enemy/30078ec881b/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Arioch"
-          fr: "Arioch"
-          de: "Arioch"
-          ja: "アリオク"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 97b2efb111b
-          url: /lodestone/playguide/db/npc/enemy/97b2efb111b/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Diabolos"
-          fr: "Diabolos"
-          de: "Diabolos"
-          ja: "ディアボロス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ca6836b0d22
-          url: /lodestone/playguide/db/npc/enemy/ca6836b0d22/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

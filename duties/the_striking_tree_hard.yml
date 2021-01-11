@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 520ffafb60d
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/9991f6ecd4f8b861d5b24155948d70b20c631f69.png
   url: /lodestone/playguide/db/duty/520ffafb60d/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Ramuh"
-          fr: "Ramuh"
-          de: "Ramuh"
-          ja: "ラムウ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: b01a497fdbf
-          url: /lodestone/playguide/db/npc/enemy/b01a497fdbf/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

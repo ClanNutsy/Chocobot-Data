@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 7992a4eab66
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/436a5b41156c624d9296bfa6bf7555a3dc938f87.png
   url: /lodestone/playguide/db/duty/7992a4eab66/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Lakshmi"
-          fr: "Lakshmi"
-          de: "Lakshmi"
-          ja: "ラクシュミ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: dde80046f42
-          url: /lodestone/playguide/db/npc/enemy/dde80046f42/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

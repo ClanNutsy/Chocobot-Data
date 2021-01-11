@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: c5de427bfef
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dc/dca939d0c88c790940e70c305a46deaa4cdb99df.png
   url: /lodestone/playguide/db/duty/c5de427bfef/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "The First Beast"
-          fr: "Annélide de l'apocalypse"
-          de: "das erstes Unheil"
-          ja: "ファースト・ビースト"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 21c88427e38
-          url: /lodestone/playguide/db/npc/enemy/21c88427e38/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Terminus Bellwether"
-          fr: "Sonneur de glas de l'apocalypse"
-          de: "Läuter der Totenglocke"
-          ja: "ターミナス・ベルウェザー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 11afe7696aa
-          url: /lodestone/playguide/db/npc/enemy/11afe7696aa/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Therion"
-          fr: "Mégatherion"
-          de: "Therion"
-          ja: "メガセリオン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 46b6e38b6cc
-          url: /lodestone/playguide/db/npc/enemy/46b6e38b6cc/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

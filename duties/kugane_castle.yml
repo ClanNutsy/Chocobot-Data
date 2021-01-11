@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 37d0e83919d
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0bd88cd0cf17865be47fffae007e49aef373f4ee.png
   url: /lodestone/playguide/db/duty/37d0e83919d/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Zuiko-maru"
-          fr: "Zuiko Maru"
-          de: "Zuiko-Maru"
-          ja: "ズイコウ丸"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 97c168723b9
-          url: /lodestone/playguide/db/npc/enemy/97c168723b9/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Dojun-maru"
-          fr: "Dôjun Maru"
-          de: "Dojun-Maru"
-          ja: "ドウジュン丸"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 37d17915401
-          url: /lodestone/playguide/db/npc/enemy/37d17915401/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Yojimbo"
-          fr: "Yojimbo"
-          de: "Yojinbo"
-          ja: "ヨウジンボウ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 7267501ac54
-          url: /lodestone/playguide/db/npc/enemy/7267501ac54/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

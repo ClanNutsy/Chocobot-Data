@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 5806cb2d995
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4b/4b93a2b1a0162e2c4022cf9bf062a2cac8c41512.png
   url: /lodestone/playguide/db/duty/5806cb2d995/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Susano"
-          fr: "Susano"
-          de: "Susano"
-          ja: "スサノオ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 57facb9a0fc
-          url: /lodestone/playguide/db/npc/enemy/57facb9a0fc/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

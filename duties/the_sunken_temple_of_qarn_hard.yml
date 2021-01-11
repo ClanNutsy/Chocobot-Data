@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 6b35d4a1179
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e057bf8bfc786b9668fc5e4abb7ad66cc4abd04a.png
   url: /lodestone/playguide/db/duty/6b35d4a1179/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Damaged Adjudicator"
-          fr: "Adjucateur endommagé"
-          de: "Beschädigter Azeyma-Richter"
-          ja: "ダメージド・アーゼマジャッジ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: f388149d4f8
-          url: /lodestone/playguide/db/npc/enemy/f388149d4f8/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Sabotender Emperatriz"
-          fr: "Pampa impératrice"
-          de: "Sabotender-Kaiserin"
-          ja: "サボテンダー・エンペラトリス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: afa1f36e68a
-          url: /lodestone/playguide/db/npc/enemy/afa1f36e68a/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Vicegerent To The Warden"
-          fr: "Adjoint de la Gardienne"
-          de: "Statthalter der Aufseherin"
-          ja: "アーゼマヴァイスジェレント"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ae47368ecd3
-          url: /lodestone/playguide/db/npc/enemy/ae47368ecd3/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

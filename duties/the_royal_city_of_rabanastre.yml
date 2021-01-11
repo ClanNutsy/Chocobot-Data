@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 56209386296
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f34fce54b46991acedcdad32b146272858e1a852.png
   url: /lodestone/playguide/db/duty/56209386296/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Mateus, The Corrupt"
-          fr: "Mateus le Corrompu"
-          de: "Mateus der Peiniger"
-          ja: "背徳の皇帝マティウス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: c2b3691360a
-          url: /lodestone/playguide/db/npc/enemy/c2b3691360a/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Hashmal, Bringer Of Order"
-          fr: "Hashmal le Grand Ordonnateur"
-          de: "Hashmallim der Einiger"
-          ja: "統制者ハシュマリム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d6a0a9e75cb
-          url: /lodestone/playguide/db/npc/enemy/d6a0a9e75cb/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Rofocale"
-          fr: "Rofocale le Roi centaure"
-          de: "Rofocale"
-          ja: "人馬王ロフォカレ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: c8085341847
-          url: /lodestone/playguide/db/npc/enemy/c8085341847/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -115,13 +116,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Argath Thadalfus"
-          fr: "Argath Thadalfus"
-          de: "Argath Thadalfus"
-          ja: "冷血剣アルガス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 84344415f59
-          url: /lodestone/playguide/db/npc/enemy/84344415f59/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

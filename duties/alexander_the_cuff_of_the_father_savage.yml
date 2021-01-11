@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 820a11812ab
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2bf0b27b2878df79995dd2493a27472256ed3664.png
   url: /lodestone/playguide/db/duty/820a11812ab/
 video_url:
   en: 
@@ -16,69 +17,69 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Boomtype Magitek Gobwalker G-VII"
-          fr: "Gobblindé magitek G-VII Boumbardier"
-          de: "Gobumm-Stampfer VII"
-          ja: "VII号ゴブリウォーカーB型"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 9c3c55466ef
-          url: /lodestone/playguide/db/npc/enemy/9c3c55466ef/
+          id: 
+          url: 
       - name:
-          en: "Gordian Hardhelm"
-          fr: "Casque-dur gordien"
-          de: "Gordios-Harthelm"
-          ja: "ゴルディオス・ハードヘルム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: a878f0200d6
-          url: /lodestone/playguide/db/npc/enemy/a878f0200d6/
+          id: 
+          url: 
       - name:
-          en: "Gordian Hardmind"
-          fr: "Cerveau-dur gordien"
-          de: "Gordios-Sturschale"
-          ja: "ゴルディオス・ハードマインド"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: cc7e0d1f676
-          url: /lodestone/playguide/db/npc/enemy/cc7e0d1f676/
+          id: 
+          url: 
       - name:
-          en: "Gordian Hardmind"
-          fr: "Cerveau-dur gordien"
-          de: "Gordios-Sturschale"
-          ja: "ゴルディオス・ハードマインド"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: cc7e0d1f676
-          url: /lodestone/playguide/db/npc/enemy/cc7e0d1f676/
+          id: 
+          url: 
       - name:
-          en: "Gordian Sniper"
-          fr: "Sniper gordien"
-          de: "Indigohand-Scharfschütze"
-          ja: "ゴルディオス・スナイパー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 5db18565256
-          url: /lodestone/playguide/db/npc/enemy/5db18565256/
+          id: 
+          url: 
       - name:
-          en: "Gordian Soldier"
-          fr: "Soldat gordien"
-          de: "Gordios-Soldat"
-          ja: "ゴルディオス・ソルジャー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d297e1f1b5f
-          url: /lodestone/playguide/db/npc/enemy/d297e1f1b5f/
+          id: 
+          url: 
       - name:
-          en: "Jagd Doll"
-          fr: "Poupée jagd"
-          de: "Jagdpuppe"
-          ja: "ヤークトドール"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 45b1ada0334
-          url: /lodestone/playguide/db/npc/enemy/45b1ada0334/
+          id: 
+          url: 
       - name:
-          en: "Magitek Gobwidow G-IX"
-          fr: "Gobmygale magitek G-IX"
-          de: "Gob-Witwe IX"
-          ja: "IX号ゴブリウィドー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: b341094c741
-          url: /lodestone/playguide/db/npc/enemy/b341094c741/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

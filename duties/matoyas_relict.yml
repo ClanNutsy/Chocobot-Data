@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 5a30eb6b20d
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8b/8b6b6413e3157c05a2e641b50d31a450b59f8fd1.png
   url: /lodestone/playguide/db/duty/5a30eb6b20d/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Mudman"
-          fr: "Tadboue"
-          de: "Matschmann"
-          ja: "マッドマン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 758c02e6ada
-          url: /lodestone/playguide/db/npc/enemy/758c02e6ada/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Nixie"
-          fr: "Nixe"
-          de: "Nixchen"
-          ja: "ノッケン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: fe08c2cc00a
-          url: /lodestone/playguide/db/npc/enemy/fe08c2cc00a/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Mother Porxie"
-          fr: "Mère porxie"
-          de: "Muttersau"
-          ja: "マザーポークシー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d1d26f63d5f
-          url: /lodestone/playguide/db/npc/enemy/d1d26f63d5f/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

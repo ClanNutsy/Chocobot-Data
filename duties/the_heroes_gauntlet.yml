@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 44073b7449c
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80f2cab681acd4fd2c4afa934f4871d91cb28dd7.png
   url: /lodestone/playguide/db/duty/44073b7449c/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Spectral Thief"
-          fr: "Voleur spectral"
-          de: "Phantom-Dieb"
-          ja: "幻光のシーフ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 65967f9e114
-          url: /lodestone/playguide/db/npc/enemy/65967f9e114/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Spectral Necromancer"
-          fr: "Nécromancienne spectrale"
-          de: "Phantom-Nekromantin"
-          ja: "幻光のネクロマンサー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 676392511ff
-          url: /lodestone/playguide/db/npc/enemy/676392511ff/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Spectral Berserker"
-          fr: "Berserker spectral"
-          de: "Phantom-Berserker"
-          ja: "幻光のバーサーカー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: b2ce5ee312c
-          url: /lodestone/playguide/db/npc/enemy/b2ce5ee312c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

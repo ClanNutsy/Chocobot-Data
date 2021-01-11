@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: fade6531524
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b61ea6da77ad12dcff2586ff8ee5f981bf197a0e.png
   url: /lodestone/playguide/db/duty/fade6531524/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Caduceus"
-          fr: "Caducée"
-          de: "Caduceus"
-          ja: "カドゥケウス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 3e28ee2dbe0
-          url: /lodestone/playguide/db/npc/enemy/3e28ee2dbe0/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

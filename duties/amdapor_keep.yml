@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: ae8a92122ec
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/21/213de2b5210c0199dec67b5b6b9a2c8a7f4002b5.png
   url: /lodestone/playguide/db/duty/ae8a92122ec/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Psycheflayer"
-          fr: "Flagelleur psychique"
-          de: "Psychoschinder"
-          ja: "サイコフレア"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: f0de4b745ca
-          url: /lodestone/playguide/db/npc/enemy/f0de4b745ca/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Demon Wall"
-          fr: "Mur démonique"
-          de: "Dämonenwand"
-          ja: "デモンズウォール"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 6247844e2b5
-          url: /lodestone/playguide/db/npc/enemy/6247844e2b5/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Anantaboga"
-          fr: "Anantaboga"
-          de: "Anantaboga"
-          ja: "アナンタボガ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ea3a88a231c
-          url: /lodestone/playguide/db/npc/enemy/ea3a88a231c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

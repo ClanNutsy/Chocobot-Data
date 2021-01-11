@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: cdad1cb65e8
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b3/b3fc87b8971607e328e297bdd4022fb66e861d34.png
   url: /lodestone/playguide/db/duty/cdad1cb65e8/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Rose Garden"
-          fr: "Rosier"
-          de: "Garten-Rosi"
-          ja: "ローズガーデン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: a7c1ef3fd62
-          url: /lodestone/playguide/db/npc/enemy/a7c1ef3fd62/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Queen Hawk"
-          fr: "Reine des guêpes"
-          de: "Falkenkönigin"
-          ja: "クィーンホーク"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 95c3f3b000e
-          url: /lodestone/playguide/db/npc/enemy/95c3f3b000e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Belladonna"
-          fr: "Belladone"
-          de: "Belladonna"
-          ja: "ベラドンナ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: cfec5893064
-          url: /lodestone/playguide/db/npc/enemy/cfec5893064/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

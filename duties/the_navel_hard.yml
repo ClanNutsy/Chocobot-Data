@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 349d6ca4465
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/9372b0ae476a9c2373bf6ff92efd6739f67a08f8.png
   url: /lodestone/playguide/db/duty/349d6ca4465/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Titan"
-          fr: "Titan"
-          de: "Titan"
-          ja: "タイタン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e10b5d1b57b
-          url: /lodestone/playguide/db/npc/enemy/e10b5d1b57b/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

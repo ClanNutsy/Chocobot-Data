@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: c8608c977a6
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30f2bb7bb783e3df2ef8bf07e628ae3eeaef71c9.png
   url: /lodestone/playguide/db/duty/c8608c977a6/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Hedetet"
-          fr: "Hedetet"
-          de: "Hedetet"
-          ja: "ヘデテト"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e180ed0cd18
-          url: /lodestone/playguide/db/npc/enemy/e180ed0cd18/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Defective Drone"
-          fr: "Drone défectueux"
-          de: "Defekte Drohne"
-          ja: "デフェクティブ・ドローン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 95df4426452
-          url: /lodestone/playguide/db/npc/enemy/95df4426452/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Mist Dragon"
-          fr: "Dragon des brumes"
-          de: "Nebeldrache"
-          ja: "ミストドラゴン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: bfd9004bdee
-          url: /lodestone/playguide/db/npc/enemy/bfd9004bdee/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

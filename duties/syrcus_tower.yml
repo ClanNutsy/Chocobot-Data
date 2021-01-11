@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 47eb1d018b6
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a5891b8615cf212120ea8ed200fd382ddd41f47.png
   url: /lodestone/playguide/db/duty/47eb1d018b6/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Scylla"
-          fr: "Scylla"
-          de: "Scylla"
-          ja: "妖艶のスキュラ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: bec45f5f2e7
-          url: /lodestone/playguide/db/npc/enemy/bec45f5f2e7/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Glasya Labolas"
-          fr: "Glasya Labolas"
-          de: "Glasya Labolas"
-          ja: "不壊のガーディアン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 9abd853ef60
-          url: /lodestone/playguide/db/npc/enemy/9abd853ef60/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Amon"
-          fr: "Amon"
-          de: "Amon"
-          ja: "異才のアモン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 253da028d4e
-          url: /lodestone/playguide/db/npc/enemy/253da028d4e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -115,13 +116,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Xande"
-          fr: "Xande"
-          de: "Xande"
-          ja: "始皇帝ザンデ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 3fca87ceffa
-          url: /lodestone/playguide/db/npc/enemy/3fca87ceffa/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

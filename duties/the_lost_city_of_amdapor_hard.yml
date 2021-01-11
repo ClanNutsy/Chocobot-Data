@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 193a96b0fa4
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2f/2f40904fe40d414c70f3cc7a763b7875f227ee69.png
   url: /lodestone/playguide/db/duty/193a96b0fa4/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Achamoth"
-          fr: "Achamoth"
-          de: "Achamoth"
-          ja: "アカモート"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 5c6bb0caca9
-          url: /lodestone/playguide/db/npc/enemy/5c6bb0caca9/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Winged Lion"
-          fr: "Lion ailé"
-          de: "Schwingenlöwe"
-          ja: "ウィングドライオン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1a7862b9f1f
-          url: /lodestone/playguide/db/npc/enemy/1a7862b9f1f/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Kuribu"
-          fr: "Kuribu"
-          de: "Kuribu"
-          ja: "クリブ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 156b2238154
-          url: /lodestone/playguide/db/npc/enemy/156b2238154/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

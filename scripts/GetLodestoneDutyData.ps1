@@ -69,6 +69,7 @@ foreach ($region in $regions)
 						"bosses" = [ordered] @{}
 						"encounters" = New-Object System.Collections.Generic.List[Object]
 						"lodestoneId" = $lodestoneId
+						"lodestoneImageUri" = [string] $null
 						"lodestoneUri" = $lodestoneUri
 						"name" = [ordered] @{}
 						"type" = $category.Name
@@ -89,6 +90,7 @@ foreach ($region in $regions)
 
 $bossListRegex = '<ul class="db-view__data__boss_list">(.+?)<\/ul>'
 $bossNameRegex = '<li.+?<a href="(?<lodestoneUri>.+?)".+?<strong>(?<name>.+?)</strong>'
+$lodestoneImageRegex = '<div class="db-view__detail__visual">.+?<img src="(?<lodestoneImageUri>.+?)"'
 
 foreach ($duty in $duties.Values)
 {
@@ -139,6 +141,13 @@ foreach ($duty in $duties.Values)
 					"bosses" = $bossLodestoneIds
 				}
 			}
+		}
+		
+		if ($duty.lodestoneImageUri -eq $null)
+		{
+			$imageMatch = [Regex]::Match($response.Content, $lodestoneImageRegex, [System.Text.RegularExpressions.RegexOptions]::Singleline)
+			$lodestoneImageUri = $imageMatch.Groups['lodestoneImageUri'].Value
+			$duty.lodestoneImageUri = $lodestoneImageUri.Split('?')[0]
 		}
 		
 		Start-Sleep -Seconds 1

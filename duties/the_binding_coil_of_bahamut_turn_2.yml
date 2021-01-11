@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 9c359c635d7
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9f/9f60c5972be902aab84f1dd8a3bdb1f9dd5f8e20.png
   url: /lodestone/playguide/db/duty/9c359c635d7/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "ADS"
-          fr: "Sphère de contrôle"
-          de: "Abwehrsystem"
-          ja: "制御システム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 40a8cb2f18e
-          url: /lodestone/playguide/db/npc/enemy/40a8cb2f18e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

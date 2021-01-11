@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 4618e49f844
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b9/b9992f9044be44646e16abeae21d23fd4d166119.png
   url: /lodestone/playguide/db/duty/4618e49f844/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Leviathan"
-          fr: "Léviathan"
-          de: "Leviathan"
-          ja: "リヴァイアサン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d0a60275b61
-          url: /lodestone/playguide/db/npc/enemy/d0a60275b61/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

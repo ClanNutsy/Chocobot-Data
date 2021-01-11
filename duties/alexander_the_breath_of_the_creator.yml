@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 54cc9b3db16
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/14/140831b51813fa5bb339eda3e727b17553ddbd07.png
   url: /lodestone/playguide/db/duty/54cc9b3db16/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Lamebrix Strikebocks"
-          fr: "Lamebrix le Mercenaire"
-          de: "Wüterix der Söldner"
-          ja: "傭兵のレイムプリクス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 146f9f3c06a
-          url: /lodestone/playguide/db/npc/enemy/146f9f3c06a/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

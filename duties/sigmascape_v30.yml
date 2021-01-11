@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: dd9b573806a
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/58/589513e7f0f54593e22970524357927eefc1050f.png
   url: /lodestone/playguide/db/duty/dd9b573806a/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Guardian"
-          fr: "Gardien"
-          de: "Wächter"
-          ja: "ガーディアン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 5c4385b1124
-          url: /lodestone/playguide/db/npc/enemy/5c4385b1124/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

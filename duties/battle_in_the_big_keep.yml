@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: cb876745bce
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3f/3fc7140708e4242953d97a4901970012d39f6167.png
   url: /lodestone/playguide/db/duty/cb876745bce/
 video_url:
   en: 
@@ -16,21 +17,21 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Gilgamesh"
-          fr: "Gilgamesh"
-          de: "Gilgamesch"
-          ja: "ギルガメッシュ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 3554b8b8296
-          url: /lodestone/playguide/db/npc/enemy/3554b8b8296/
+          id: 
+          url: 
       - name:
-          en: "Enkidu"
-          fr: "Enkidu"
-          de: "Enkidu"
-          ja: "エンキドウ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1365d0d97aa
-          url: /lodestone/playguide/db/npc/enemy/1365d0d97aa/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

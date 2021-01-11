@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 618168354ea
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f517b7d5d8a69050c8f746b6f13924cb34c91272.png
   url: /lodestone/playguide/db/duty/618168354ea/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Nunyenunc"
-          fr: "Nunyenunc"
-          de: "Nunyenunc"
-          ja: "ヌニエヌンク"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: f8a226d1310
-          url: /lodestone/playguide/db/npc/enemy/f8a226d1310/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Canu Vanu"
-          fr: "Canu Vanu"
-          de: "Canu Vanu"
-          ja: "カヌバヌ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d5e5a2068bc
-          url: /lodestone/playguide/db/npc/enemy/d5e5a2068bc/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Waukkeon"
-          fr: "Waukkeon"
-          de: "Waukkeon"
-          ja: "ワウッケオン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 7461a73be91
-          url: /lodestone/playguide/db/npc/enemy/7461a73be91/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

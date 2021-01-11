@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 5e1eccd3304
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/56/569faeaa5cdad0a0d8206eee3c66f12571e9bcf7.png
   url: /lodestone/playguide/db/duty/5e1eccd3304/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Omega"
-          fr: "Oméga"
-          de: "Omega"
-          ja: "オメガ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 4ebb5a254c6
-          url: /lodestone/playguide/db/npc/enemy/4ebb5a254c6/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

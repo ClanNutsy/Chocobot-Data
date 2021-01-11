@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 471227e1ee7
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/1617b4f148906349fcd179c8ebd40aba375a9b79.png
   url: /lodestone/playguide/db/duty/471227e1ee7/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Lugat"
-          fr: "Lugat"
-          de: "Lugat"
-          ja: "ルガト"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 4e3c135b2b4
-          url: /lodestone/playguide/db/npc/enemy/4e3c135b2b4/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "The Governor"
-          fr: "Gouverneur"
-          de: "Friedhofsvorsteher"
-          ja: "ガバナー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: fec049783f3
-          url: /lodestone/playguide/db/npc/enemy/fec049783f3/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Lorelei"
-          fr: "Lorelei"
-          de: "Loreley"
-          ja: "ローレライ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: fe2ae806f32
-          url: /lodestone/playguide/db/npc/enemy/fe2ae806f32/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

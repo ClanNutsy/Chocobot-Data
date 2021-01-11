@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 33a05f144e4
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4f/4f3a8a15637546efd151a4dea460b1e47cadde49.png
   url: /lodestone/playguide/db/duty/33a05f144e4/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Mark III-B Magitek Colossus"
-          fr: "Colosse magitek IIIB"
-          de: "Magitek-Stahlriese"
-          ja: "魔導コロッサスIIIB型"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 300612f4bd3
-          url: /lodestone/playguide/db/npc/enemy/300612f4bd3/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Prometheus"
-          fr: "Prometheus"
-          de: "Prometheus"
-          ja: "プロメテウス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 9caf528c6c1
-          url: /lodestone/playguide/db/npc/enemy/9caf528c6c1/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,21 +83,21 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Annia Quo Soranus"
-          fr: "Annia quo Soranus"
-          de: "Annia quo Soranus"
-          ja: "アンニア・クォ・ソラノス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 719ca54bca8
-          url: /lodestone/playguide/db/npc/enemy/719ca54bca8/
+          id: 
+          url: 
       - name:
-          en: "Julia Quo Soranus"
-          fr: "Julia quo Soranus"
-          de: "Julia quo Soranus"
-          ja: "ユリア・クォ・ソラノス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: f3fd765174c
-          url: /lodestone/playguide/db/npc/enemy/f3fd765174c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

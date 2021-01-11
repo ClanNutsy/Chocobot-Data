@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: b8bea03880d
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/82/82c05a99bef1b854e63d475194b7767731068204.png
   url: /lodestone/playguide/db/duty/b8bea03880d/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Motherbit"
-          fr: "Drone mère"
-          de: "Mutterdrohne"
-          ja: "マザービット"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 933740cf608
-          url: /lodestone/playguide/db/npc/enemy/933740cf608/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "The Ultima Warrior"
-          fr: "Ultima-guerrier"
-          de: "Ultimativer Krieger"
-          ja: "アルテマウォリアー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 2f806a6446e
-          url: /lodestone/playguide/db/npc/enemy/2f806a6446e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "The Ultima Beast"
-          fr: "Ultima-monstre"
-          de: "Ultimative Bestie"
-          ja: "アルテマビースト"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: a49861b138e
-          url: /lodestone/playguide/db/npc/enemy/a49861b138e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

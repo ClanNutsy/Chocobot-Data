@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: a62f7ee3718
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/daebf854b3829e04cae099ea80393920a16bc3c1.png
   url: /lodestone/playguide/db/duty/a62f7ee3718/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Ser Adelphel Brightblade"
-          fr: "Sire Adelphel"
-          de: "Adelphel"
-          ja: "美剣のアデルフェル"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: a9f4fda2acb
-          url: /lodestone/playguide/db/npc/enemy/a9f4fda2acb/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Ser Grinnaux The Bull"
-          fr: "Sire Grinnaux"
-          de: "Grinnaux"
-          ja: "戦狂のグリノー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: f33f4cb105a
-          url: /lodestone/playguide/db/npc/enemy/f33f4cb105a/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Ser Charibert"
-          fr: "Sire Charibert"
-          de: "Charibert"
-          ja: "聖騎士シャリベル"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 9fafaa76ff8
-          url: /lodestone/playguide/db/npc/enemy/9fafaa76ff8/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

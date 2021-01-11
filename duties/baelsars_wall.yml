@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: bc72ef27ade
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9f/9f579653cd0b98414bbc7d015e45a87fdc2b42ca.png
   url: /lodestone/playguide/db/duty/bc72ef27ade/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Magitek Predator"
-          fr: "Prédateur magitek"
-          de: "Magitek-Prädator"
-          ja: "魔導プレデター"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1be15b20b8c
-          url: /lodestone/playguide/db/npc/enemy/1be15b20b8c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Armored Weapon"
-          fr: "Arme blindée"
-          de: "Panzerwaffe"
-          ja: "アームドウェポン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: c11fcb729f9
-          url: /lodestone/playguide/db/npc/enemy/c11fcb729f9/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "The Griffin"
-          fr: "Ilberd le Griffon"
-          de: "Ilberd"
-          ja: "鉄面のイルベルド"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: fb9682e4e70
-          url: /lodestone/playguide/db/npc/enemy/fb9682e4e70/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

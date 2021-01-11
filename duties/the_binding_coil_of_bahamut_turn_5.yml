@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 7134211f501
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/69/69e256c803a89ee01b9c8ee78aed6bba75a5fd70.png
   url: /lodestone/playguide/db/duty/7134211f501/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Twintania"
-          fr: "Gémellia"
-          de: "Twintania"
-          ja: "ツインタニア"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: adcc4bfe4c3
-          url: /lodestone/playguide/db/npc/enemy/adcc4bfe4c3/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

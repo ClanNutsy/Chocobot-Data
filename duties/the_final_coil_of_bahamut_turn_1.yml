@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: debdbcb0b6a
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7d/7d68cfe62dc895a980d0a08a01ffc65d6e753a77.png
   url: /lodestone/playguide/db/duty/debdbcb0b6a/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Imdugud"
-          fr: "Imdugud"
-          de: "Imdugud"
-          ja: "イムドゥグド"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 6185a982324
-          url: /lodestone/playguide/db/npc/enemy/6185a982324/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

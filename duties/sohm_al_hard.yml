@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 9bd9004a140
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c8/c8ba94de5edcd6215369cea819bfd17d1c5c999a.png
   url: /lodestone/playguide/db/duty/9bd9004a140/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "The Leightonward"
-          fr: "Chortocyon"
-          de: "Hortigolem"
-          ja: "レイトンワード"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e3bdac29b42
-          url: /lodestone/playguide/db/npc/enemy/e3bdac29b42/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Gowrow"
-          fr: "Gowrow"
-          de: "Gowrow"
-          ja: "ガウロウ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 89ce9a49a9d
-          url: /lodestone/playguide/db/npc/enemy/89ce9a49a9d/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Lava Scorpion"
-          fr: "Scorpion de lave"
-          de: "Lavaskorpion"
-          ja: "ラーヴァ・スコーピオン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: b3e55909789
-          url: /lodestone/playguide/db/npc/enemy/b3e55909789/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

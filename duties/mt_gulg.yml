@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 72f2e86daba
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c8/c87037f039d4b69128a9837b866529c1be902c4b.png
   url: /lodestone/playguide/db/duty/72f2e86daba/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Forgiven Cruelty"
-          fr: "Cruauté pardonnée"
-          de: "Geläuterte Grausamkeit"
-          ja: "フォーギヴン・クルエルティー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: c738f0bd330
-          url: /lodestone/playguide/db/npc/enemy/c738f0bd330/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Forgiven Whimsy"
-          fr: "Caprice pardonné"
-          de: "Geläuterte Gereiztheit"
-          ja: "フォーギヴン・ウィムズィー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: a65cc3bf993
-          url: /lodestone/playguide/db/npc/enemy/a65cc3bf993/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Forgiven Obscenity"
-          fr: "Obscénité pardonnée"
-          de: "Geläuterte Unzucht"
-          ja: "フォーギヴン・オブセニティー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: f146c10cca6
-          url: /lodestone/playguide/db/npc/enemy/f146c10cca6/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: f6bdf734a4a
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1b/1b5ed55cecb1ea7e26f0a8aacb0f7a462fdb7336.png
   url: /lodestone/playguide/db/duty/f6bdf734a4a/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Kefka"
-          fr: "Kefka"
-          de: "Kefka"
-          ja: "ケフカ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 6fd4427b440
-          url: /lodestone/playguide/db/npc/enemy/6fd4427b440/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

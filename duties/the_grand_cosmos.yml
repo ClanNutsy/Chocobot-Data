@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 1f246825352
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/95/95eab72b826602a8e759a796c9c7a24a379ae273.png
   url: /lodestone/playguide/db/duty/1f246825352/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Seeker Of Solitude"
-          fr: "Ermite du palais"
-          de: "Einsiedler"
-          ja: "宮殿の隠者"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 8936bbec41f
-          url: /lodestone/playguide/db/npc/enemy/8936bbec41f/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Leannan Sith"
-          fr: "Leannan Sith"
-          de: "Leanan Sidhe"
-          ja: "リャナンシー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 89c3082221c
-          url: /lodestone/playguide/db/npc/enemy/89c3082221c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Lugus"
-          fr: "Lugus"
-          de: "Lugus"
-          ja: "ルゴス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0ad3b331dd9
-          url: /lodestone/playguide/db/npc/enemy/0ad3b331dd9/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

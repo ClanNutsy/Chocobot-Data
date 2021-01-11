@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: bad56c435a5
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/334744c0a86d9356a32d88d3e6b76e2070a6bb1f.png
   url: /lodestone/playguide/db/duty/bad56c435a5/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Yojimbo"
-          fr: "Yojimbo"
-          de: "Yojinbo"
-          ja: "ヨウジンボウ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 380709431f8
-          url: /lodestone/playguide/db/npc/enemy/380709431f8/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

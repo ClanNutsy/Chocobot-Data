@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 747c862dc22
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/73/738214ac1a9b22039cc290fd84a362954b37e2dc.png
   url: /lodestone/playguide/db/duty/747c862dc22/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Oppressor"
-          fr: "Oppresseur"
-          de: "Unterdrücker"
-          ja: "オプレッサー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 87b15eca7b5
-          url: /lodestone/playguide/db/npc/enemy/87b15eca7b5/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

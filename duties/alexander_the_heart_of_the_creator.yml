@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 3c58fc35be5
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c7/c737eaf2d2905fe87797a0d8438928001fff47ff.png
   url: /lodestone/playguide/db/duty/3c58fc35be5/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Cruise Chaser"
-          fr: "Croiseur-chasseur"
-          de: "Chaser-Mecha"
-          ja: "クルーズチェイサー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 245e2ccff27
-          url: /lodestone/playguide/db/npc/enemy/245e2ccff27/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

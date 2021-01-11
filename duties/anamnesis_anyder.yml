@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 969e6501eb7
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8e/8e43456994233d96ee0a683377ef6f3f1136475b.png
   url: /lodestone/playguide/db/duty/969e6501eb7/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Unknown"
-          fr: "Inconnu"
-          de: "Abscheuliches Monstrum"
-          ja: "正体不明"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: f388d37fdfe
-          url: /lodestone/playguide/db/npc/enemy/f388d37fdfe/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Kyklops"
-          fr: "Kyklops"
-          de: "Kyklops"
-          ja: "クリュプス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d7b61caabbd
-          url: /lodestone/playguide/db/npc/enemy/d7b61caabbd/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Rukshs Dheem"
-          fr: "Rukshs Dheem"
-          de: "Rukshs Dheem"
-          ja: "ルクスィー・ディーマ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ce388108d4c
-          url: /lodestone/playguide/db/npc/enemy/ce388108d4c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

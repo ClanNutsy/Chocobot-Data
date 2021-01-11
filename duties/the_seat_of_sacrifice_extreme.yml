@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 1543e03ff37
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/caf3bdf90c39b151164996f3c93c35980e26da26.png
   url: /lodestone/playguide/db/duty/1543e03ff37/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Warrior Of Light"
-          fr: "Guerrier de la Lumière primordial"
-          de: "Krieger des Lichts"
-          ja: "ウォーリア・オブ・ライト"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: b59fd3a154a
-          url: /lodestone/playguide/db/npc/enemy/b59fd3a154a/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

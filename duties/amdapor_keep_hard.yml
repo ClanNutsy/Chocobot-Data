@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: a4288ecf826
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6f26a0009c2e5620ed8b5fb609f0d88614adb1d.png
   url: /lodestone/playguide/db/duty/a4288ecf826/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Anchag"
-          fr: "Anchag"
-          de: "Anchag"
-          ja: "アンクハガー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 6e3ce18be8a
-          url: /lodestone/playguide/db/npc/enemy/6e3ce18be8a/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Boogyman"
-          fr: "Croque-mitaine"
-          de: "Butzemann"
-          ja: "ボギーマン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 71b651eeb17
-          url: /lodestone/playguide/db/npc/enemy/71b651eeb17/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Ferdiad"
-          fr: "Ferdiad"
-          de: "Ferdiad"
-          ja: "フェルディア"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: b20bf30b9fc
-          url: /lodestone/playguide/db/npc/enemy/b20bf30b9fc/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

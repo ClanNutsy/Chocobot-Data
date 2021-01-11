@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: a8b065d443b
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5f/5f7034f3c0316a3eec59c40ae3965c9f92c55740.png
   url: /lodestone/playguide/db/duty/a8b065d443b/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Rathalos"
-          fr: "Rathalos"
-          de: "Rathalos"
-          ja: "リオレウス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 5785a982d4e
-          url: /lodestone/playguide/db/npc/enemy/5785a982d4e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

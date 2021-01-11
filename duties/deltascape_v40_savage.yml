@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 0b519d7fd00
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/41/416adf5527b0320abab1feca1fe16b424e1b3093.png
   url: /lodestone/playguide/db/duty/0b519d7fd00/
 video_url:
   en: 
@@ -16,21 +17,21 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Exdeath"
-          fr: "Exdeath"
-          de: "Exdeath"
-          ja: "エクスデス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 7e53d796e6c
-          url: /lodestone/playguide/db/npc/enemy/7e53d796e6c/
+          id: 
+          url: 
       - name:
-          en: "Neo Exdeath"
-          fr: "Néo-Exdeath"
-          de: "Neo Exdeath"
-          ja: "ネオエクスデス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 82f8d4eabe0
-          url: /lodestone/playguide/db/npc/enemy/82f8d4eabe0/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

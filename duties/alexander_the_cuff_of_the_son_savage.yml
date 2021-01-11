@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 0ed79e8abf3
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b3/b31d9d7b8c45a7a22e72fd8cc299c9117f1495e1.png
   url: /lodestone/playguide/db/duty/0ed79e8abf3/
 video_url:
   en: 
@@ -16,37 +17,37 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Blaster"
-          fr: "Fracasseur"
-          de: "Blaster"
-          ja: "ブラスター"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 903410ff3d6
-          url: /lodestone/playguide/db/npc/enemy/903410ff3d6/
+          id: 
+          url: 
       - name:
-          en: "Brawler"
-          fr: "Bagarreur"
-          de: "Blechbrecher"
-          ja: "ブロウラー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e079deeb950
-          url: /lodestone/playguide/db/npc/enemy/e079deeb950/
+          id: 
+          url: 
       - name:
-          en: "Swindler"
-          fr: "Arnaqueur"
-          de: "Schwindler"
-          ja: "スウィンドラー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 478ef5ef72a
-          url: /lodestone/playguide/db/npc/enemy/478ef5ef72a/
+          id: 
+          url: 
       - name:
-          en: "Vortexer"
-          fr: "Tourbillonneur"
-          de: "Wirbler"
-          ja: "ボルテッカー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: c6021b14c34
-          url: /lodestone/playguide/db/npc/enemy/c6021b14c34/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

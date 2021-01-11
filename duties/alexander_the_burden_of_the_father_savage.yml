@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: fd7aa157f29
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d99984bb3a33f7ab6156db29c30e815e190d4adb.png
   url: /lodestone/playguide/db/duty/fd7aa157f29/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "The Manipulator"
-          fr: "Manipulateur"
-          de: "Manipulator"
-          ja: "マニピュレーター"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: dc8adcab0ee
-          url: /lodestone/playguide/db/npc/enemy/dc8adcab0ee/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

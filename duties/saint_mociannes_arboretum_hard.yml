@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 25cf070eeb4
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da302e7c808f680ec617bcad2c9c11c5e67c79c1.png
   url: /lodestone/playguide/db/duty/25cf070eeb4/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Nullchu"
-          fr: "Nullchu"
-          de: "Nullchu"
-          ja: "ヌルチュー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: a7c5468ae63
-          url: /lodestone/playguide/db/npc/enemy/a7c5468ae63/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Lakhamu"
-          fr: "Lakhamu"
-          de: "Lakhamu"
-          ja: "ラハム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ce8ecd03872
-          url: /lodestone/playguide/db/npc/enemy/ce8ecd03872/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Tokkapchi"
-          fr: "Tokkapchi"
-          de: "Tokkapchi"
-          ja: "トカップチ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 9420faca787
-          url: /lodestone/playguide/db/npc/enemy/9420faca787/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 793ed012f43
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/59a3411a059215ff7848bdef5079bd69f9872dfd.png
   url: /lodestone/playguide/db/duty/793ed012f43/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "The Ruby Weapon"
-          fr: "Arme Rubis"
-          de: "Rubin-Waffe"
-          ja: "ルビーウェポン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 35e20c5ea1d
-          url: /lodestone/playguide/db/npc/enemy/35e20c5ea1d/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

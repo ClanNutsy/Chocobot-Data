@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: b919a88ec20
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bb/bbd45c0d28c979c27619ab464bfcd12dfe5e9733.png
   url: /lodestone/playguide/db/duty/b919a88ec20/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Quickthinx Allthoughts"
-          fr: "Quickthinx le Cerveau"
-          de: "Denkfix"
-          ja: "万能のクイックシンクス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: a62d960e4a5
-          url: /lodestone/playguide/db/npc/enemy/a62d960e4a5/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

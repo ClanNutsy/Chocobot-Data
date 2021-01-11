@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 98319325b98
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4d/4d82127797ea39e5bc6cb669fa823e4f6645d5c6.png
   url: /lodestone/playguide/db/duty/98319325b98/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Firemane"
-          fr: "Crin-de-feu"
-          de: "Pyross"
-          ja: "赤熱のブッシュファイア"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ee586b27bb7
-          url: /lodestone/playguide/db/npc/enemy/ee586b27bb7/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Thunderclap Guivre"
-          fr: "Guivre foudroyante"
-          de: "Donnerhall-Guivre"
-          ja: "百雷のギーヴル"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 4a280a4c5aa
-          url: /lodestone/playguide/db/npc/enemy/4a280a4c5aa/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Tangata"
-          fr: "Tangata le bestial"
-          de: "Tangata"
-          ja: "獣闘士 タンガタ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0eceac35fe9
-          url: /lodestone/playguide/db/npc/enemy/0eceac35fe9/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

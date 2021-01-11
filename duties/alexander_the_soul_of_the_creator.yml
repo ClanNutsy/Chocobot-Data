@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 5516e8fd14f
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b524b7ab88eee718b19fbc80601bc98aa6be41db.png
   url: /lodestone/playguide/db/duty/5516e8fd14f/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Alexander Prime"
-          fr: "Primo-Alexander"
-          de: "Prim-Alexander"
-          ja: "アレキサンダー・プライム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 54d97d29126
-          url: /lodestone/playguide/db/npc/enemy/54d97d29126/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

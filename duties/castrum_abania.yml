@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: e635797754f
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3a0bc784c85b720bb57f565f2cf1b41e7a5297c9.png
   url: /lodestone/playguide/db/duty/e635797754f/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Magna Roader"
-          fr: "Magna rouleur magitek"
-          de: "Magna Rotula"
-          ja: "魔導マグナローダー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ee18b18403e
-          url: /lodestone/playguide/db/npc/enemy/ee18b18403e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Number XXIV"
-          fr: "Numéro XXIV"
-          de: "Nummer XXIV"
-          ja: "ナンバーXXIV"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e21de296783
-          url: /lodestone/playguide/db/npc/enemy/e21de296783/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Inferno"
-          fr: "Inferno"
-          de: "Inferno"
-          ja: "インフェルノ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d9c8d044dac
-          url: /lodestone/playguide/db/npc/enemy/d9c8d044dac/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

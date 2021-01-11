@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 3f2c9ddbe05
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/74/74e3c82da9cd730a738824a538515f404afa8cad.png
   url: /lodestone/playguide/db/duty/3f2c9ddbe05/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Titan"
-          fr: "Titan"
-          de: "Titan"
-          ja: "タイタン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1a9d78cff8a
-          url: /lodestone/playguide/db/npc/enemy/1a9d78cff8a/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

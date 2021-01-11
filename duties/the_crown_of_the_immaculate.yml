@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 0b1d4434e26
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f7/f7a68cbf5b648cc7f04aa81c68d2f19f38f9c3b8.png
   url: /lodestone/playguide/db/duty/0b1d4434e26/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Innocence"
-          fr: "Innocence"
-          de: "Innozenz"
-          ja: "イノセンス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 44e8fd8d8ea
-          url: /lodestone/playguide/db/npc/enemy/44e8fd8d8ea/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

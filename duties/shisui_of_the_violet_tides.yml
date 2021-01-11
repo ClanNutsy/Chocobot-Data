@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 39ba54ada1c
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6a/6aea130efa8531e432a47487f8e452a06a078f7c.png
   url: /lodestone/playguide/db/duty/39ba54ada1c/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Amikiri"
-          fr: "Amikiri"
-          de: "Amikiri"
-          ja: "アミキリ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 75590dd33b5
-          url: /lodestone/playguide/db/npc/enemy/75590dd33b5/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Ruby Princess"
-          fr: "Princesse de Rubis"
-          de: "Rubinprinzessin"
-          ja: "紅玉姫"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 766f1e8d7ae
-          url: /lodestone/playguide/db/npc/enemy/766f1e8d7ae/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Shisui Yohi"
-          fr: "Shisui Yohi"
-          de: "Shisui Yohi"
-          ja: "紫水妖妃"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: c39ef367756
-          url: /lodestone/playguide/db/npc/enemy/c39ef367756/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

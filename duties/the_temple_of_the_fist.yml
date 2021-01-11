@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 23edcb0d626
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/19ac2031fa5bf961c25352883a680f5f838cf312.png
   url: /lodestone/playguide/db/duty/23edcb0d626/
 video_url:
   en: 
@@ -16,21 +17,21 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Coeurl Smriti"
-          fr: "Coeurl smriti"
-          de: "Coeurl Smriti"
-          ja: "クァール・スムリティ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 3fe1e25c8c7
-          url: /lodestone/playguide/db/npc/enemy/3fe1e25c8c7/
+          id: 
+          url: 
       - name:
-          en: "Coeurl Sruti"
-          fr: "Coeurl sruti"
-          de: "Coeurl Sruti"
-          ja: "クァール・シュルティ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 8d9b0e08a0f
-          url: /lodestone/playguide/db/npc/enemy/8d9b0e08a0f/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -57,13 +58,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Arbuda"
-          fr: "Arbuda"
-          de: "Arbuda"
-          ja: "アブダ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 03e641ccabf
-          url: /lodestone/playguide/db/npc/enemy/03e641ccabf/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -90,13 +91,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Ivon Coeurlfist"
-          fr: "Ivon le Coeurl"
-          de: "Ivon Coeurlfaust"
-          ja: "双豹のイヴォン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 77c6b5dfea3
-          url: /lodestone/playguide/db/npc/enemy/77c6b5dfea3/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

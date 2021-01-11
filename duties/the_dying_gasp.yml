@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 6b31d339381
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ac/acfeb2e282bd66efbd5c3e0b6e1036140eecd37d.png
   url: /lodestone/playguide/db/duty/6b31d339381/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Hades"
-          fr: "Hadès"
-          de: "Hades"
-          ja: "ハーデス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 09525e32b26
-          url: /lodestone/playguide/db/npc/enemy/09525e32b26/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

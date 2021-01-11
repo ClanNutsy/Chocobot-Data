@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 7616847b849
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/6676828efcc30cfe662ebd533fd2ffc318d052ec.png
   url: /lodestone/playguide/db/duty/7616847b849/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Voidwalker"
-          fr: "Marcheuse du néant"
-          de: "Nichtswandler"
-          ja: "ヴォイドウォーカー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 5ae77dfa3df
-          url: /lodestone/playguide/db/npc/enemy/5ae77dfa3df/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

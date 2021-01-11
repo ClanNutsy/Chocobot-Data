@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: f93d68d7d3c
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80a68379077ac47cc9b68f1e8c38c0b730e0fb94.png
   url: /lodestone/playguide/db/duty/f93d68d7d3c/
 video_url:
   en: 
@@ -16,53 +17,53 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Brute Justice"
-          fr: "Justicier"
-          de: "Brutalus"
-          ja: "ブルートジャスティス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 6378d7cad31
-          url: /lodestone/playguide/db/npc/enemy/6378d7cad31/
+          id: 
+          url: 
       - name:
-          en: "Blaster"
-          fr: "Fracasseur"
-          de: "Blaster"
-          ja: "ブラスター"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 14fa9e1a093
-          url: /lodestone/playguide/db/npc/enemy/14fa9e1a093/
+          id: 
+          url: 
       - name:
-          en: "Brawler"
-          fr: "Bagarreur"
-          de: "Blechbrecher"
-          ja: "ブロウラー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 686a5e283bf
-          url: /lodestone/playguide/db/npc/enemy/686a5e283bf/
+          id: 
+          url: 
       - name:
-          en: "Onslaughter"
-          fr: "Attaqueur"
-          de: "Schlachter"
-          ja: "オンスローター"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: aa34865eb90
-          url: /lodestone/playguide/db/npc/enemy/aa34865eb90/
+          id: 
+          url: 
       - name:
-          en: "Swindler"
-          fr: "Arnaqueur"
-          de: "Schwindler"
-          ja: "スウィンドラー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 14db61b9402
-          url: /lodestone/playguide/db/npc/enemy/14db61b9402/
+          id: 
+          url: 
       - name:
-          en: "Vortexer"
-          fr: "Tourbillonneur"
-          de: "Wirbler"
-          ja: "ボルテッカー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 969907f4bde
-          url: /lodestone/playguide/db/npc/enemy/969907f4bde/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

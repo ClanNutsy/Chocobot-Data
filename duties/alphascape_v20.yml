@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 43a122b16c2
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f44aa3fa96dab6d56ced954754cd5d5fede0063.png
   url: /lodestone/playguide/db/duty/43a122b16c2/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Midgardsormr"
-          fr: "Midgardsormr"
-          de: "Midgardsormr"
-          ja: "ミドガルズオルム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 635999dea16
-          url: /lodestone/playguide/db/npc/enemy/635999dea16/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

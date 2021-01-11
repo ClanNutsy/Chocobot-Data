@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: c39cf50a6a5
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0c/0ccd06aaab677ff37bd067ab41a6ab20cf3d6e4f.png
   url: /lodestone/playguide/db/duty/c39cf50a6a5/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Phantom Ray"
-          fr: "Rayon fantomatique"
-          de: "Phantomschimmer"
-          ja: "ファントムレイ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 39cefc52a63
-          url: /lodestone/playguide/db/npc/enemy/39cefc52a63/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Minotaur"
-          fr: "Minotaure"
-          de: "Minotaurus"
-          ja: "ミノタウロス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 4d76375c29f
-          url: /lodestone/playguide/db/npc/enemy/4d76375c29f/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "The Curator"
-          fr: "Conservateur"
-          de: "Kurator"
-          ja: "キュレーター"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: fcf1d573e3d
-          url: /lodestone/playguide/db/npc/enemy/fcf1d573e3d/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

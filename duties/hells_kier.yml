@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: ea0f6440546
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a6/a61579095bb66b5e2a84ea78c25c59aa70ff6ffe.png
   url: /lodestone/playguide/db/duty/ea0f6440546/
 video_url:
   en: 
@@ -16,21 +17,21 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Suzaku"
-          fr: "Suzaku"
-          de: "Suzaku"
-          ja: "朱雀"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 7047b8c4a38
-          url: /lodestone/playguide/db/npc/enemy/7047b8c4a38/
+          id: 
+          url: 
       - name:
-          en: "Scarlet Lady"
-          fr: "Oiseau de feu"
-          de: "Flammenvogel"
-          ja: "火焔鳥"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 316e47aad6c
-          url: /lodestone/playguide/db/npc/enemy/316e47aad6c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

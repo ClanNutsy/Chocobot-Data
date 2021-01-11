@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: d536b8f0cc8
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fd/fd24a0cc9b7564878f9089fa9a1f53e6cf6b61ed.png
   url: /lodestone/playguide/db/duty/d536b8f0cc8/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Pyracmon"
-          fr: "Pyracmon"
-          de: "Pyracmon"
-          ja: "ピュラクモン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ed8c6c49774
-          url: /lodestone/playguide/db/npc/enemy/ed8c6c49774/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Catoblepas"
-          fr: "Catoblépas"
-          de: "Catblepus"
-          ja: "カトブレパス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: acb8d0dad04
-          url: /lodestone/playguide/db/npc/enemy/acb8d0dad04/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,53 +83,53 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Mumuepo The Beholden"
-          fr: "Mumuepo le prêtre déchu"
-          de: "Ex-Bischof Mumuepo "
-          ja: "廃司教 ムムエポ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 823087d0c4e
-          url: /lodestone/playguide/db/npc/enemy/823087d0c4e/
+          id: 
+          url: 
       - name:
-          en: "Franz The Fair"
-          fr: "Franz le magnifique"
-          de: "Schöner Franz"
-          ja: "麗しの剣士 フランツ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 070567ac6ec
-          url: /lodestone/playguide/db/npc/enemy/070567ac6ec/
+          id: 
+          url: 
       - name:
-          en: "Langloisiert The Lionheart"
-          fr: "Langloisiert l'inégalable"
-          de: "Langloisiert Löwenherz"
-          ja: "無双のラングロアジエ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e2485e8d0cd
-          url: /lodestone/playguide/db/npc/enemy/e2485e8d0cd/
+          id: 
+          url: 
       - name:
-          en: "Narasimha"
-          fr: "Narasimha"
-          de: "Narasimha"
-          ja: "ナラシンハ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 6cd1cf203fa
-          url: /lodestone/playguide/db/npc/enemy/6cd1cf203fa/
+          id: 
+          url: 
       - name:
-          en: "Silent Moss The Solemn"
-          fr: "Silent Moss l'impératrice"
-          de: "Stilles Moos"
-          ja: "女帝 サイレント・モス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ba9853641c9
-          url: /lodestone/playguide/db/npc/enemy/ba9853641c9/
+          id: 
+          url: 
       - name:
-          en: "U'linbho The Sand Devil"
-          fr: "U'linbho l'indomptable"
-          de: "Sandteufel U'linbho"
-          ja: "砂の狩人 ウ・リンボ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 655a744ba2c
-          url: /lodestone/playguide/db/npc/enemy/655a744ba2c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: b7a48152df9
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/94dc61bd06f813414a45a8e690d5367852010618.png
   url: /lodestone/playguide/db/duty/b7a48152df9/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Teratotaur"
-          fr: "Teratotaurus"
-          de: "Teratotaurus"
-          ja: "テラトタウルス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e34c3c74ec7
-          url: /lodestone/playguide/db/npc/enemy/e34c3c74ec7/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Temple Guardian"
-          fr: "Gardien du temple"
-          de: "Tempelwächter"
-          ja: "テンプルガーディアン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: f93f961506e
-          url: /lodestone/playguide/db/npc/enemy/f93f961506e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Adjudicator"
-          fr: "Adjucateur"
-          de: "Azeyma-Richter"
-          ja: "アーゼマジャッジ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 6683be5f041
-          url: /lodestone/playguide/db/npc/enemy/6683be5f041/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

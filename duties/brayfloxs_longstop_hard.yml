@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 40681f6c94a
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/1215c817319b716d7b0108908706ed14f6ce0803.png
   url: /lodestone/playguide/db/duty/40681f6c94a/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Illuminati Commander"
-          fr: "Commandant de la Main indigo"
-          de: "Indigohand-Kommandant"
-          ja: "ブルーハンド・コマンダー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: b222cd6e226
-          url: /lodestone/playguide/db/npc/enemy/b222cd6e226/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Magitek Vangob G-III"
-          fr: "Gobavant-garde magitek G-III"
-          de: "Magitek-Gobbrecher III"
-          ja: "III号ゴブリガード"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: cf7c495439b
-          url: /lodestone/playguide/db/npc/enemy/cf7c495439b/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Gobmachine G-VI"
-          fr: "Gobtank G-VI"
-          de: "Gobmaschine VI"
-          ja: "VI号ゴブリタンク"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 356d6732e86
-          url: /lodestone/playguide/db/npc/enemy/356d6732e86/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

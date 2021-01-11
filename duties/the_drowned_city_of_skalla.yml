@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 47ef709fb04
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ad/ad7f3209a353ea683a250b773955658f27da10ed.png
   url: /lodestone/playguide/db/duty/47ef709fb04/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Kelpie"
-          fr: "Kelpie"
-          de: "Kelpie"
-          ja: "ケルピー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 5d3b666c99d
-          url: /lodestone/playguide/db/npc/enemy/5d3b666c99d/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "The Old One"
-          fr: "Ancien"
-          de: "Altvorderer"
-          ja: "オールドワン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0b6f32cfa30
-          url: /lodestone/playguide/db/npc/enemy/0b6f32cfa30/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Hrodric Poisontongue"
-          fr: "Hrodric le Médisant"
-          de: "Hrodric Giftzunge"
-          ja: "直言のフロドリック"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 778590c7ffc
-          url: /lodestone/playguide/db/npc/enemy/778590c7ffc/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

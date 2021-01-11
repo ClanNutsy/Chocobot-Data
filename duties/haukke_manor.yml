@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: e9740dde26c
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ac/ac35585945b4d5ad9861251c4a2123fc690b1604.png
   url: /lodestone/playguide/db/duty/e9740dde26c/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Manor Claviger"
-          fr: "Clavière du manoir"
-          de: "Herrenhaus-Schlüsselträgerin"
-          ja: "夫人付きクラヴィジャー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0ad5389201b
-          url: /lodestone/playguide/db/npc/enemy/0ad5389201b/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,21 +50,21 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Manor Jester"
-          fr: "Bouffon du manoir"
-          de: "Hofnarr"
-          ja: "御用邸の道化師"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: eee97fda062
-          url: /lodestone/playguide/db/npc/enemy/eee97fda062/
+          id: 
+          url: 
       - name:
-          en: "Manor Steward"
-          fr: "Intendant du manoir"
-          de: "Seneschall"
-          ja: "御用邸の執事長"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 881c3c25f1c
-          url: /lodestone/playguide/db/npc/enemy/881c3c25f1c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -90,13 +91,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Lady Amandine"
-          fr: "Dame Amandine"
-          de: "Lady Amandine"
-          ja: "レディ・アマンディヌ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: edf9243f5c3
-          url: /lodestone/playguide/db/npc/enemy/edf9243f5c3/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

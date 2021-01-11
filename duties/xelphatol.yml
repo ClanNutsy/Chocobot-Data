@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 1d95a773990
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/11/11541863ac44ad7f1451e5d967ba4a7e2bf93bca.png
   url: /lodestone/playguide/db/duty/1d95a773990/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Nuzal Hueloc"
-          fr: "Nuzal Hueloc"
-          de: "Nuzal Hueloc"
-          ja: "飛天のヌザル・フェロック"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 49f6e7a03b8
-          url: /lodestone/playguide/db/npc/enemy/49f6e7a03b8/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Dotoli Ciloc"
-          fr: "Dotoli Ciloc"
-          de: "Dotoli Ciloc"
-          ja: "旋風のドトリ・シロック"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 186b4861756
-          url: /lodestone/playguide/db/npc/enemy/186b4861756/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Tozol Huatotl"
-          fr: "Tozol Huatotl"
-          de: "Tozol Huatotl"
-          ja: "晴嵐のトゾル・ファトトル"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0a9e06117e2
-          url: /lodestone/playguide/db/npc/enemy/0a9e06117e2/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

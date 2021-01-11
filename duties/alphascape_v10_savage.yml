@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: da2590c3569
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fd/fdd1c4de67f6c660555b96f23efa7d7625d078b5.png
   url: /lodestone/playguide/db/duty/da2590c3569/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Chaos"
-          fr: "Chaos"
-          de: "Chaos"
-          ja: "カオス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 9675e4434a4
-          url: /lodestone/playguide/db/npc/enemy/9675e4434a4/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

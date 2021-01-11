@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: a74020d08e8
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/94ef8852088c518f83c15cc8214c55ea49149666.png
   url: /lodestone/playguide/db/duty/a74020d08e8/
 video_url:
   en: 
@@ -16,21 +17,21 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Typhon"
-          fr: "Typhon"
-          de: "Typhon"
-          ja: "テュポーン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d576294c1e0
-          url: /lodestone/playguide/db/npc/enemy/d576294c1e0/
+          id: 
+          url: 
       - name:
-          en: "Ultros"
-          fr: "Orthros"
-          de: "Ultros"
-          ja: "オルトロス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 89b51da0d99
-          url: /lodestone/playguide/db/npc/enemy/89b51da0d99/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

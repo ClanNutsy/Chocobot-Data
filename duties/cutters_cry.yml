@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: d601f85dc1e
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6d/6d00a68503a873f376e8f0bab1929388c0f6cf4a.png
   url: /lodestone/playguide/db/duty/d601f85dc1e/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Myrmidon Princess"
-          fr: "Princesse myrmidone"
-          de: "Myrmidonen-Prinzessin"
-          ja: "ミュルミドン・プリンセス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e7e4f2fd40f
-          url: /lodestone/playguide/db/npc/enemy/e7e4f2fd40f/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Giant Tunnel Worm"
-          fr: "Ver des tunnels géant"
-          de: "Riesen-Tunnelwurm"
-          ja: "ジャイアント・トンネルワーム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 5e4973e5c82
-          url: /lodestone/playguide/db/npc/enemy/5e4973e5c82/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Chimera"
-          fr: "Chimère"
-          de: "Chimära"
-          ja: "キマイラ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: b7bdae83d9b
-          url: /lodestone/playguide/db/npc/enemy/b7bdae83d9b/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

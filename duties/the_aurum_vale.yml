@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: f507633618c
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f94d9ba86ee0cd1017a05cc9b890c648f714b74.png
   url: /lodestone/playguide/db/duty/f507633618c/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Locksmith"
-          fr: "Serrurier"
-          de: "Schlosser"
-          ja: "ロックスミス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: c8d5ce30474
-          url: /lodestone/playguide/db/npc/enemy/c8d5ce30474/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Coincounter"
-          fr: "Trésorier"
-          de: "Münzzähler"
-          ja: "コインカウンター"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0d8cdbe4581
-          url: /lodestone/playguide/db/npc/enemy/0d8cdbe4581/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Miser's Mistress"
-          fr: "Maîtresse du Grigou"
-          de: "Knausers Mätresse"
-          ja: "マイザーズミストレス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 167a12b84fb
-          url: /lodestone/playguide/db/npc/enemy/167a12b84fb/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

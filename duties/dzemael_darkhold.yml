@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 4a36cbca533
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/cef908f71a407062fa936e449402467a781facf6.png
   url: /lodestone/playguide/db/duty/4a36cbca533/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "All-seeing Eye"
-          fr: "Œil omniscient"
-          de: "Allsehendes Auge"
-          ja: "オールシーイングアイ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0af9f50d124
-          url: /lodestone/playguide/db/npc/enemy/0af9f50d124/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Taulurd"
-          fr: "Taulurd"
-          de: "Taulurd"
-          ja: "タウラード"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 8bf5ff6ff00
-          url: /lodestone/playguide/db/npc/enemy/8bf5ff6ff00/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Batraal"
-          fr: "Batraal"
-          de: "Batraal"
-          ja: "バトラール"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 278cfa2e852
-          url: /lodestone/playguide/db/npc/enemy/278cfa2e852/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

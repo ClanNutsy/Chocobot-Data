@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 7f0a3551ab6
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bd/bdcd55456b341740b2b48e6fd3650fdb3e7f37a7.png
   url: /lodestone/playguide/db/duty/7f0a3551ab6/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Angra Mainyu"
-          fr: "Angra Mainyu"
-          de: "Angra Mainyu"
-          ja: "アンラ・マンユ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 6ae51b39bce
-          url: /lodestone/playguide/db/npc/enemy/6ae51b39bce/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Five-headed Dragon"
-          fr: "Dragon à cinq têtes"
-          de: "Fünfköpfiger Drache"
-          ja: "ファイブヘッド・ドラゴン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 43e0c163e3b
-          url: /lodestone/playguide/db/npc/enemy/43e0c163e3b/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Cerberus"
-          fr: "Cerbère"
-          de: "Cerberus"
-          ja: "ケルベロス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 9dbe19735e8
-          url: /lodestone/playguide/db/npc/enemy/9dbe19735e8/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -115,13 +116,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Cloud Of Darkness"
-          fr: "Nuage de Ténèbres"
-          de: "Wolke der Dunkelheit"
-          ja: "暗闇の雲"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: bd938638f75
-          url: /lodestone/playguide/db/npc/enemy/bd938638f75/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

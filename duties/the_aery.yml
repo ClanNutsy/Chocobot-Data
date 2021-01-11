@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 339c4923556
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/caf3b05f522ee304744014024f58a1c21fcad9c1.png
   url: /lodestone/playguide/db/duty/339c4923556/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Rangda"
-          fr: "Rangda"
-          de: "Rangda"
-          ja: "ランダ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 635ab739e2c
-          url: /lodestone/playguide/db/npc/enemy/635ab739e2c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Gyascutus"
-          fr: "Gyascutus"
-          de: "Gyascutus"
-          ja: "グヤスクトゥス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 3f05c9e5335
-          url: /lodestone/playguide/db/npc/enemy/3f05c9e5335/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Nidhogg"
-          fr: "Nidhogg"
-          de: "Nidhogg"
-          ja: "ニーズヘッグ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 49024aa9036
-          url: /lodestone/playguide/db/npc/enemy/49024aa9036/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

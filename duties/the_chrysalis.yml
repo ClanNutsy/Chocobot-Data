@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 2fac3746c16
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b1/b1fc7b7730a6a2f63644d0b3b0d8c63ba3436799.png
   url: /lodestone/playguide/db/duty/2fac3746c16/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Nabriales"
-          fr: "Nabriales"
-          de: "Nabriales"
-          ja: "アシエン・ナプリアレス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 47616be7bf8
-          url: /lodestone/playguide/db/npc/enemy/47616be7bf8/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

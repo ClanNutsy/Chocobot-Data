@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 1d0f4877cf2
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3e/3e9caad0626f11effad56972367d96b22a694bca.png
   url: /lodestone/playguide/db/duty/1d0f4877cf2/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Halicarnassus"
-          fr: "Halicarnasse"
-          de: "Halikarnassos"
-          ja: "ハリカルナッソス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 5cce34b519c
-          url: /lodestone/playguide/db/npc/enemy/5cce34b519c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

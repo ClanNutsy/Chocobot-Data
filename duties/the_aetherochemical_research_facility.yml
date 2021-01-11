@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 923e0a1d1d0
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a5/a5263674a86a60c20249019c4317226a04f0ef60.png
   url: /lodestone/playguide/db/duty/923e0a1d1d0/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Regula Van Hydrus"
-          fr: "Regula van Hydrus"
-          de: "Regula van Hydrus"
-          ja: "レグラ・ヴァン・ヒュドルス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 8c77f6f1ca2
-          url: /lodestone/playguide/db/npc/enemy/8c77f6f1ca2/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Harmachis"
-          fr: "Horemakhet"
-          de: "Harmachis"
-          ja: "ハルマキス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: f1c9aa11855
-          url: /lodestone/playguide/db/npc/enemy/f1c9aa11855/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,21 +83,21 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Igeyorhm"
-          fr: "Igeyorhm"
-          de: "Igeyorhm"
-          ja: "アシエン・イゲオルム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1641d4789a6
-          url: /lodestone/playguide/db/npc/enemy/1641d4789a6/
+          id: 
+          url: 
       - name:
-          en: "Lahabrea"
-          fr: "Lahabrea"
-          de: "Lahabrea"
-          ja: "アシエン・ラハブレア"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0f456c2eefa
-          url: /lodestone/playguide/db/npc/enemy/0f456c2eefa/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -123,13 +124,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Ascian Prime"
-          fr: "Primo-Ascien"
-          de: "Prim-Ascian"
-          ja: "アシエン・プライム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0fe407f9ceb
-          url: /lodestone/playguide/db/npc/enemy/0fe407f9ceb/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

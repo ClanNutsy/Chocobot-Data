@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 8e638aa5413
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5e8b015e84be68e5346fe1ac37e82cbcedf1972a.png
   url: /lodestone/playguide/db/duty/8e638aa5413/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Catastrophe"
-          fr: "Catastrophe"
-          de: "Katastroph"
-          ja: "カタストロフィー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0174fba845b
-          url: /lodestone/playguide/db/npc/enemy/0174fba845b/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: a780ca9b970
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d911c88e7fda01c8547937d350591f7b5d6985f6.png
   url: /lodestone/playguide/db/duty/a780ca9b970/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Hecatoncheir Mastermind"
-          fr: "Hécatonchire instigateur"
-          de: "Hekatoncheir-Rädelsführer"
-          ja: "ヘカトン・マスターマインド"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ad85f544b2e
-          url: /lodestone/playguide/db/npc/enemy/ad85f544b2e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,21 +50,21 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Biggy"
-          fr: "Biggy"
-          de: "Biggy"
-          ja: "ビィギー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 064b4c81b32
-          url: /lodestone/playguide/db/npc/enemy/064b4c81b32/
+          id: 
+          url: 
       - name:
-          en: "Gogmagolem"
-          fr: "Gogmagolem"
-          de: "Gogmagolem"
-          ja: "ゴグマゴーレム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 2dafccd185f
-          url: /lodestone/playguide/db/npc/enemy/2dafccd185f/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -90,13 +91,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Ouranos"
-          fr: "Ouranos"
-          de: "Ouranos"
-          ja: "復讐のウラノス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 02094ca3a6e
-          url: /lodestone/playguide/db/npc/enemy/02094ca3a6e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

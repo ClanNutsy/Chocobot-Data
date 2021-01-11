@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: c38bedcfa46
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4a/4ad9464dbfdcdfd68beb4e0400256d54700c87a2.png
   url: /lodestone/playguide/db/duty/c38bedcfa46/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Shiva"
-          fr: "Shiva"
-          de: "Shiva"
-          ja: "シヴァ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0ab8d5dd511
-          url: /lodestone/playguide/db/npc/enemy/0ab8d5dd511/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: f8fff809d77
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/04/04b6679007c07fb2de3c27fec7af4417419d2495.png
   url: /lodestone/playguide/db/duty/f8fff809d77/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Greater Armadillo"
-          fr: "Grand tatou"
-          de: "Riesengürteltier"
-          ja: "グレーター・アルマジロ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 387a483b22b
-          url: /lodestone/playguide/db/npc/enemy/387a483b22b/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Amphibious Talos"
-          fr: "Talos amphibie"
-          de: "Wasserträger-Talos"
-          ja: "ハイドロタロース"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 464c0f82901
-          url: /lodestone/playguide/db/npc/enemy/464c0f82901/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Storge"
-          fr: "Storgê"
-          de: "Storge"
-          ja: "ストルゲー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 2e2b1b8c98f
-          url: /lodestone/playguide/db/npc/enemy/2e2b1b8c98f/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

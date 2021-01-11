@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 3fd66be47b2
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/11/11e5a1e9d98c0f8cc90d71ddce1d519fb7ab7c4e.png
   url: /lodestone/playguide/db/duty/3fd66be47b2/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Keeper Of Halidom"
-          fr: "Gardien du sanctuaire"
-          de: "Wächter von Halidom"
-          ja: "キーパー・オブ・ヘリダム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 04f305c6b6a
-          url: /lodestone/playguide/db/npc/enemy/04f305c6b6a/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Giant Bavarois"
-          fr: "Bavarois géant"
-          de: "Riesengelee"
-          ja: "ジャイアント・ババロア"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 2c56832b780
-          url: /lodestone/playguide/db/npc/enemy/2c56832b780/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Tonberry King"
-          fr: "Tomberry roi"
-          de: "Tomberry-König"
-          ja: "トンベリキング"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: c125f54436c
-          url: /lodestone/playguide/db/npc/enemy/c125f54436c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

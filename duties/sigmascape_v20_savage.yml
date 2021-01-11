@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: be562bd1bdc
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbfdf421c89137cff72956e9ee3fae84aa90e2f7.png
   url: /lodestone/playguide/db/duty/be562bd1bdc/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Demon Chadarnook"
-          fr: "Démon Chadarnouk"
-          de: "Gefallener Chadarnook"
-          ja: "チャダルヌーク・デーモン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: c76230e7315
-          url: /lodestone/playguide/db/npc/enemy/c76230e7315/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

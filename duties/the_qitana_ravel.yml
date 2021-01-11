@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 3aff2d6760c
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b8/b87d0d64f4fcc95e9ce386ac9a178c4e1db4cbab.png
   url: /lodestone/playguide/db/duty/3aff2d6760c/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Lozatl"
-          fr: "Lozatl"
-          de: "Lozatl"
-          ja: "ロツァトル"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: abe6f0618eb
-          url: /lodestone/playguide/db/npc/enemy/abe6f0618eb/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Batsquatch"
-          fr: "Batsquatch"
-          de: "Fledersquatch"
-          ja: "バッツカッチ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 3dcad8e1f17
-          url: /lodestone/playguide/db/npc/enemy/3dcad8e1f17/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Eros"
-          fr: "Éros"
-          de: "Eros"
-          ja: "エロース"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e8fe76c7ec4
-          url: /lodestone/playguide/db/npc/enemy/e8fe76c7ec4/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

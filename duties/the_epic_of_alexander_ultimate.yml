@@ -7,6 +7,7 @@ type: Ultimate Raid
 tags: []
 lodestone:
   id: b56710190e9
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/df/df109b51274e8555932056cd985fa4229cb37505.png
   url: /lodestone/playguide/db/duty/b56710190e9/
 video_url:
   en: 
@@ -16,37 +17,37 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Alexander Prime"
-          fr: "Primo-Alexander"
-          de: "Prim-Alexander"
-          ja: "アレキサンダー・プライム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1b7681b1a12
-          url: /lodestone/playguide/db/npc/enemy/1b7681b1a12/
+          id: 
+          url: 
       - name:
-          en: "Brute Justice"
-          fr: "Justicier"
-          de: "Brutalus"
-          ja: "ブルートジャスティス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: bdcce5c5295
-          url: /lodestone/playguide/db/npc/enemy/bdcce5c5295/
+          id: 
+          url: 
       - name:
-          en: "Cruise Chaser"
-          fr: "Croiseur-chasseur"
-          de: "Chaser-Mecha"
-          ja: "クルーズチェイサー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 9bf68f501ad
-          url: /lodestone/playguide/db/npc/enemy/9bf68f501ad/
+          id: 
+          url: 
       - name:
-          en: "Living Liquid"
-          fr: "Liquide vivant"
-          de: "Belebtes Wasser"
-          ja: "リビングリキッド"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 6430a075c08
-          url: /lodestone/playguide/db/npc/enemy/6430a075c08/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

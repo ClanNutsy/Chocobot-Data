@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: d85fe0d02a1
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bb/bb907bc9613eeacaae456830e556bd551d158f8a.png
   url: /lodestone/playguide/db/duty/d85fe0d02a1/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Rhitahtyn Sas Arvina"
-          fr: "Rhitahtyn sas Arvina"
-          de: "Rhitahtyn sas Arvina"
-          ja: "リットアティン・サス・アルヴィナ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: a74d25eb883
-          url: /lodestone/playguide/db/npc/enemy/a74d25eb883/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 59c2b3b84fa
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/df/df0cc1f49f3da4938bc5e0e8613a75beec49b676.png
   url: /lodestone/playguide/db/duty/59c2b3b84fa/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Livia Sas Junius"
-          fr: "Livia sas Junius"
-          de: "Livia sas Junius"
-          ja: "リウィア・サス・ユニウス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: aee1959475b
-          url: /lodestone/playguide/db/npc/enemy/aee1959475b/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

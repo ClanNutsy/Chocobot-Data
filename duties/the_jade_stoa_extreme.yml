@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 44fc4abc0eb
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7f/7fc9a1dfdf8c75a5590b048f587574da36657e12.png
   url: /lodestone/playguide/db/duty/44fc4abc0eb/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Byakko"
-          fr: "Byakko"
-          de: "Byakko"
-          ja: "白虎"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 818ff536171
-          url: /lodestone/playguide/db/npc/enemy/818ff536171/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

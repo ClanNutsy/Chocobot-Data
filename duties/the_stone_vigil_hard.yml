@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 418628edfbf
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/89ab173dbe1ee1af6f7adeede644f8797e9c2abc.png
   url: /lodestone/playguide/db/duty/418628edfbf/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Gorynich"
-          fr: "Gorynich"
-          de: "Gorynich"
-          ja: "ゴリニチ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ca6df53675a
-          url: /lodestone/playguide/db/npc/enemy/ca6df53675a/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Cuca Fera"
-          fr: "Cuca Fera"
-          de: "Cuca Fera"
-          ja: "クカフェラ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 9cc2468c8b0
-          url: /lodestone/playguide/db/npc/enemy/9cc2468c8b0/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,21 +83,21 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Giruveganaus"
-          fr: "Gilvéganos"
-          de: "Giruveganos"
-          ja: "ギルヴェガノス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: fb0681cca1f
-          url: /lodestone/playguide/db/npc/enemy/fb0681cca1f/
+          id: 
+          url: 
       - name:
-          en: "Giruveganaus"
-          fr: "Gilvéganos"
-          de: "Giruveganos"
-          ja: "ギルヴェガノス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 162dc0e0380
-          url: /lodestone/playguide/db/npc/enemy/162dc0e0380/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

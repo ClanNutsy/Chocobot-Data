@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 2407dbd0cae
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f9/f99b4b3f60c0ba4da711d84bbe0d770d8363f36a.png
   url: /lodestone/playguide/db/duty/2407dbd0cae/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Lahabrea"
-          fr: "Lahabrea"
-          de: "Lahabrea"
-          ja: "アシエン・ラハブレア"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e6140114939
-          url: /lodestone/playguide/db/npc/enemy/e6140114939/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

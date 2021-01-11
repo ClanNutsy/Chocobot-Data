@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 8ff3c52798c
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/057d1513ba57271cf4027970321277c90f2795b7.png
   url: /lodestone/playguide/db/duty/8ff3c52798c/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Zurvan"
-          fr: "Zurvan"
-          de: "Zurvan"
-          ja: "ズルワーン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: b9fb8499c78
-          url: /lodestone/playguide/db/npc/enemy/b9fb8499c78/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

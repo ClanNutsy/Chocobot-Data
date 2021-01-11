@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: a3549ccbd94
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fed360e736cb131ddbcf1b3c62554a3c170333c.png
   url: /lodestone/playguide/db/duty/a3549ccbd94/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Eden Prime"
-          fr: "Primo-Éden"
-          de: "Prim-Eden"
-          ja: "エデン・プライム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0112af1d455
-          url: /lodestone/playguide/db/npc/enemy/0112af1d455/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

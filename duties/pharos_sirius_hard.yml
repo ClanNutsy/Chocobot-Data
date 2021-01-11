@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: cd500c08682
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0b576b2af921ca22184716e9fe905f329f8b9932.png
   url: /lodestone/playguide/db/duty/cd500c08682/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Ghrah Luminary"
-          fr: "Ghrah virtuose"
-          de: "Ghrah-Luminion"
-          ja: "ルミナリー・ゴラホ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ec03db2e824
-          url: /lodestone/playguide/db/npc/enemy/ec03db2e824/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "8th Order Patriarch Be Gu"
-          fr: "Be Gu patriarche du 8e ordre"
-          de: "Be Gu vom 8. Orden"
-          ja: "ペイトリアーク08 ベ・グ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: bf86c315a92
-          url: /lodestone/playguide/db/npc/enemy/bf86c315a92/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,21 +83,21 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Progenitor"
-          fr: "Papa bombo"
-          de: "Progenitor"
-          ja: "ファザーボム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1669cb05669
-          url: /lodestone/playguide/db/npc/enemy/1669cb05669/
+          id: 
+          url: 
       - name:
-          en: "Progenitrix"
-          fr: "Maman bombo"
-          de: "Progenitrix"
-          ja: "マザーボム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e15fbec1991
-          url: /lodestone/playguide/db/npc/enemy/e15fbec1991/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

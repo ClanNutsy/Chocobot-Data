@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 07fc9cb5bc8
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1c/1c61b54626133a2ae8147e18975acb11ae08f4a4.png
   url: /lodestone/playguide/db/duty/07fc9cb5bc8/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Cetus"
-          fr: "Cetus"
-          de: "Cetus"
-          ja: "ケートス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1bdd2b80eba
-          url: /lodestone/playguide/db/npc/enemy/1bdd2b80eba/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,21 +50,21 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Irminsul"
-          fr: "Irminsul"
-          de: "Irminsul"
-          ja: "イルミンスール"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 243761258d7
-          url: /lodestone/playguide/db/npc/enemy/243761258d7/
+          id: 
+          url: 
       - name:
-          en: "Sawtooth"
-          fr: "Dentata"
-          de: "Sägezahn"
-          ja: "ソウトゥース"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 8644370cc95
-          url: /lodestone/playguide/db/npc/enemy/8644370cc95/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -90,13 +91,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Cuchulainn"
-          fr: "Cúchulainn"
-          de: "Cuchulainn"
-          ja: "キュクレイン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 660d13b79af
-          url: /lodestone/playguide/db/npc/enemy/660d13b79af/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -123,13 +124,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Echidna"
-          fr: "Echidna"
-          de: "Echidna"
-          ja: "エキドナ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 54a3d516a50
-          url: /lodestone/playguide/db/npc/enemy/54a3d516a50/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

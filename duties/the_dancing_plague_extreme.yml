@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: bad53f19540
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9d/9de43bfb4a9f0bf9080e3ebc005eb7c59c6b4b64.png
   url: /lodestone/playguide/db/duty/bad53f19540/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Titania"
-          fr: "Titania"
-          de: "Titania"
-          ja: "ティターニア"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 5ab129394e5
-          url: /lodestone/playguide/db/npc/enemy/5ab129394e5/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

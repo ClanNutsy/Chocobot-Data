@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 0e880006330
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9e/9ecd6dc6e893e39c18c5444fff3ff7d48fc53039.png
   url: /lodestone/playguide/db/duty/0e880006330/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Nidhogg"
-          fr: "Nidhogg"
-          de: "Nidhogg"
-          ja: "ニーズヘッグ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 24c714ec46f
-          url: /lodestone/playguide/db/npc/enemy/24c714ec46f/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

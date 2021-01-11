@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 8e7cf4fcca2
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/71146eb23c2562e5eef15d829ad07888ae310008.png
   url: /lodestone/playguide/db/duty/8e7cf4fcca2/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Alte Roite"
-          fr: "Alte Roite"
-          de: "Alte Roite"
-          ja: "アルテ・ロイテ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: fdf470b2853
-          url: /lodestone/playguide/db/npc/enemy/fdf470b2853/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

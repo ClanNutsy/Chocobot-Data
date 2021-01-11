@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 39c6854e6a8
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/efe35428cbdcfcbe7d2f7d62855d2106ea633356.png
   url: /lodestone/playguide/db/duty/39c6854e6a8/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Ratfinx Twinkledinks"
-          fr: "Ratfinx le Génie"
-          de: "Ratfix Blinkdings"
-          ja: "奇才のラットフィンクス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: fc1f92b85d4
-          url: /lodestone/playguide/db/npc/enemy/fc1f92b85d4/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

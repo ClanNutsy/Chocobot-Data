@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 83e0064270d
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5e668c07b896d565011dbb001d41a36184c4081b.png
   url: /lodestone/playguide/db/duty/83e0064270d/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Sophia"
-          fr: "Sophia"
-          de: "Sophia"
-          ja: "ソフィア"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 18f4234e398
-          url: /lodestone/playguide/db/npc/enemy/18f4234e398/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

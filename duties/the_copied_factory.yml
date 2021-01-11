@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: ed86e5291b2
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fca3051b5db6c000976c3a805e86bd9fbbfdade.png
   url: /lodestone/playguide/db/duty/ed86e5291b2/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Serial-jointed Command Model"
-          fr: "Modèle multiarticulé : commandant"
-          de: "Befehlsmodell mit Omnigelenk"
-          ja: "多関節型：司令機"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1d4ab6647c0
-          url: /lodestone/playguide/db/npc/enemy/1d4ab6647c0/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Hobbes"
-          fr: "Hobbes"
-          de: "Hobbes"
-          ja: "ホッブス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 4f9ce501b4d
-          url: /lodestone/playguide/db/npc/enemy/4f9ce501b4d/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Engels"
-          fr: "Engels"
-          de: "Engels"
-          ja: "エンゲルス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 449ba937720
-          url: /lodestone/playguide/db/npc/enemy/449ba937720/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -115,13 +116,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "9S-operated Walking Fortress"
-          fr: "9S : avec multipède esclave"
-          de: "9S' mehrbeiniger Panzer"
-          ja: "９Ｓ：多脚戦車従属"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 2c04d77b405
-          url: /lodestone/playguide/db/npc/enemy/2c04d77b405/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

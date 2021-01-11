@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 889b8d8cfa4
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ea/eaeb10c52f3f8ae6a9a6ecd45a2014cd09752a10.png
   url: /lodestone/playguide/db/duty/889b8d8cfa4/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "813P-operated Aegis Unit"
-          fr: "813P : avec unité rempart"
-          de: "813P: Bollwerk"
-          ja: "８１３Ｐ：拠点防衛ユニット装備"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 199ae432434
-          url: /lodestone/playguide/db/npc/enemy/199ae432434/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,29 +50,29 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "724P-operated Superior Flight Unit (A-lpha)"
-          fr: "724P : avec module de vol renforcé [A-lpha]"
-          de: "724P: Flugeinheit A-lpha"
-          ja: "７２４Ｐ：強化型飛行ユニット［A-lpha］"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 7f5805daae4
-          url: /lodestone/playguide/db/npc/enemy/7f5805daae4/
+          id: 
+          url: 
       - name:
-          en: "767P-operated Superior Flight Unit (B-eta)"
-          fr: "767P : avec module de vol renforcé [B-êta]"
-          de: "767P: Flugeinheit B-eta"
-          ja: "７６７Ｐ：強化型飛行ユニット［B-eta］"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1c9e9df213a
-          url: /lodestone/playguide/db/npc/enemy/1c9e9df213a/
+          id: 
+          url: 
       - name:
-          en: "772P-operated Superior Flight Unit (C-hi)"
-          fr: "772P : avec module de vol renforcé [C-hi]"
-          de: "772P: Flugeinheit C-hi"
-          ja: "７７２Ｐ：強化型飛行ユニット［C-hi］"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 04ff5309ac5
-          url: /lodestone/playguide/db/npc/enemy/04ff5309ac5/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -98,13 +99,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "905P-operated Heavy Artillery Unit"
-          fr: "905P : avec unité terrestre lourde"
-          de: "905P: Läufer"
-          ja: "９０５Ｐ：重陸戦ユニット装備"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 3cb7eb338a7
-          url: /lodestone/playguide/db/npc/enemy/3cb7eb338a7/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -131,13 +132,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "The Compound"
-          fr: "Agglomérat de pantins"
-          de: "Puppenklumpen"
-          ja: "融合シタ人形タチ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 39112425e11
-          url: /lodestone/playguide/db/npc/enemy/39112425e11/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

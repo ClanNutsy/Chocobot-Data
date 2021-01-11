@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 8c829b8dd8c
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3d/3d68f00c8a9b60f3ed1a94c4b242e2a92e5aa8b0.png
   url: /lodestone/playguide/db/duty/8c829b8dd8c/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Shinryu"
-          fr: "Shinryu"
-          de: "Shinryu"
-          ja: "神龍"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 9ac0b4d657e
-          url: /lodestone/playguide/db/npc/enemy/9ac0b4d657e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

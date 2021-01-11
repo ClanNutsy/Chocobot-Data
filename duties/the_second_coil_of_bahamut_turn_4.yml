@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 1fed5f286f0
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dba461713ad7e3423e9f7d9b98d0bbaa3f0636a9.png
   url: /lodestone/playguide/db/duty/1fed5f286f0/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Nael Deus Darnus"
-          fr: "Nael deus Darnus"
-          de: "Nael deus Darnus"
-          ja: "ネール・デウス・ダーナス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e3ca09cb201
-          url: /lodestone/playguide/db/npc/enemy/e3ca09cb201/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 84d01fe5b6c
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d1da2a6c8040a47a2a52eb44e682e0eb3d932317.png
   url: /lodestone/playguide/db/duty/84d01fe5b6c/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Liavinne"
-          fr: "Liavinne la dame d'honneur"
-          de: "Liavinne"
-          ja: "立会人リアヴィヌ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 98707efa0d2
-          url: /lodestone/playguide/db/npc/enemy/98707efa0d2/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Spare Body"
-          fr: "Corps inusité"
-          de: "Ungenutzter Körper"
-          ja: "スペアボディ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 559dcd15a23
-          url: /lodestone/playguide/db/npc/enemy/559dcd15a23/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Avere Bravearm"
-          fr: "Avere l'intrépide"
-          de: "Avere Haudegen"
-          ja: "勇壮のアヴィール"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 8b20c2c67c4
-          url: /lodestone/playguide/db/npc/enemy/8b20c2c67c4/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

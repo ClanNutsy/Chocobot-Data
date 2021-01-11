@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: d743dcfe06a
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be65093b55bb22d8e99eca186807d8fedc8bfeae.png
   url: /lodestone/playguide/db/duty/d743dcfe06a/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Ramuh"
-          fr: "Ramuh"
-          de: "Ramuh"
-          ja: "ラムウ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: f747526cf42
-          url: /lodestone/playguide/db/npc/enemy/f747526cf42/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

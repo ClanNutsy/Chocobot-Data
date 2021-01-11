@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: d2b053e4e31
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/53/53c2ce6db61bd8ea1cd00a0156b3d419b74e18fd.png
   url: /lodestone/playguide/db/duty/d2b053e4e31/
 video_url:
   en: 
@@ -16,21 +17,21 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Cladoselache"
-          fr: "Cladoselache"
-          de: "Cladoselache"
-          ja: "クラドセラケ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: fa1a6844b9e
-          url: /lodestone/playguide/db/npc/enemy/fa1a6844b9e/
+          id: 
+          url: 
       - name:
-          en: "Doliodus"
-          fr: "Doliodus"
-          de: "Doliodus"
-          ja: "ドリオドゥス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1847716c5e5
-          url: /lodestone/playguide/db/npc/enemy/1847716c5e5/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -57,13 +58,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Marquis Morbol"
-          fr: "Marquis morbol"
-          de: "Marquis-Morbol"
-          ja: "マーカス・モルボル"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: b43c546d077
-          url: /lodestone/playguide/db/npc/enemy/b43c546d077/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -90,13 +91,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Quetzalcoatl"
-          fr: "Quetzalcóatl"
-          de: "Quetzalcoatl"
-          ja: "ケツァクウァトル"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 54c34eaf54e
-          url: /lodestone/playguide/db/npc/enemy/54c34eaf54e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

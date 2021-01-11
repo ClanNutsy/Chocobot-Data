@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 0de44d2eccf
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be3299c0f00598ec296ad4b56ac25ab371b10ebb.png
   url: /lodestone/playguide/db/duty/0de44d2eccf/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "The Ultima Weapon"
-          fr: "Ultima Arma"
-          de: "Ultima-Waffe"
-          ja: "アルテマウェポン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1cffed8947b
-          url: /lodestone/playguide/db/npc/enemy/1cffed8947b/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

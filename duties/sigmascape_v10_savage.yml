@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: c6a225d5436
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/57/575765c16fd02a11ee121be6fb8cc279f1a96a64.png
   url: /lodestone/playguide/db/duty/c6a225d5436/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Phantom Train"
-          fr: "Train fantôme"
-          de: "Phantomzug"
-          ja: "魔列車"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: a7bceb20ee9
-          url: /lodestone/playguide/db/npc/enemy/a7bceb20ee9/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

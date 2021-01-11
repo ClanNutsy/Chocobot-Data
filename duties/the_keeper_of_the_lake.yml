@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 5e75d2059af
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bf/bf65fe90bbad619f22868fad5d38378b5a262f50.png
   url: /lodestone/playguide/db/duty/5e75d2059af/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Einhander"
-          fr: "Einhänder"
-          de: "Einhänder"
-          ja: "アインハンダー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 54fb2c3f380
-          url: /lodestone/playguide/db/npc/enemy/54fb2c3f380/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Magitek Gunship"
-          fr: "Vaisseau magitek"
-          de: "Magitek-Kanonenschiff"
-          ja: "魔導ガンシップ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: baecef45a06
-          url: /lodestone/playguide/db/npc/enemy/baecef45a06/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Midgardsormr"
-          fr: "Midgardsormr"
-          de: "Midgardsormr"
-          ja: "ミドガルズオルム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: f31ab017ec8
-          url: /lodestone/playguide/db/npc/enemy/f31ab017ec8/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

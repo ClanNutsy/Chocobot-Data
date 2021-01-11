@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: c79d50c803d
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a2/a2505410d17c40ab6074111a3ad1b471b1f95726.png
   url: /lodestone/playguide/db/duty/c79d50c803d/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Seiryu"
-          fr: "Seiryû"
-          de: "Seiryu"
-          ja: "青龍"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 142085e482c
-          url: /lodestone/playguide/db/npc/enemy/142085e482c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

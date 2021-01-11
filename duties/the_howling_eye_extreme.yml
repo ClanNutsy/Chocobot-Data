@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 7c17ae70cc6
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/56/569fe7ed1eb5f3b1b02e4d9e674c62bd191aae69.png
   url: /lodestone/playguide/db/duty/7c17ae70cc6/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Garuda"
-          fr: "Garuda"
-          de: "Garuda"
-          ja: "ガルーダ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: a6738b9e253
-          url: /lodestone/playguide/db/npc/enemy/a6738b9e253/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

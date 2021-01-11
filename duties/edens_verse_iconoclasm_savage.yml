@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: cfa4ab23330
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ed/edff6b93ca5c59767b9dcfbaa021e59b3d08dda4.png
   url: /lodestone/playguide/db/duty/cfa4ab23330/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "The Idol Of Darkness"
-          fr: "Idole des Ténèbres"
-          de: "Götzenbild der Dunkelheit"
-          ja: "ダークアイドル"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0221550c79c
-          url: /lodestone/playguide/db/npc/enemy/0221550c79c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

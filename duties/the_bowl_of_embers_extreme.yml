@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 6af1a94ccca
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/49/49882d7d07c410fefb98cc520d471161754df6e5.png
   url: /lodestone/playguide/db/duty/6af1a94ccca/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Ifrit"
-          fr: "Ifrit"
-          de: "Ifrit"
-          ja: "イフリート"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 4ec28894427
-          url: /lodestone/playguide/db/npc/enemy/4ec28894427/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 8e7439e713d
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c45c0474ff731a8fb15aab0a3bfabf3fc25afb8.png
   url: /lodestone/playguide/db/duty/8e7439e713d/
 video_url:
   en: 
@@ -16,29 +17,29 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Garuda"
-          fr: "Garuda"
-          de: "Garuda"
-          ja: "ガルーダ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: a9c5aa5fe0f
-          url: /lodestone/playguide/db/npc/enemy/a9c5aa5fe0f/
+          id: 
+          url: 
       - name:
-          en: "Ifrit"
-          fr: "Ifrit"
-          de: "Ifrit"
-          ja: "イフリート"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 7298553f77e
-          url: /lodestone/playguide/db/npc/enemy/7298553f77e/
+          id: 
+          url: 
       - name:
-          en: "Raktapaksa"
-          fr: "Raktapaksa"
-          de: "Raktapaksa"
-          ja: "ラクタパクシャ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d4114a151a0
-          url: /lodestone/playguide/db/npc/enemy/d4114a151a0/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

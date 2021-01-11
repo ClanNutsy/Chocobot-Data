@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: f9ab5899e9d
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/430d188b40d744c81255e9c35e1296e4a93bd117.png
   url: /lodestone/playguide/db/duty/f9ab5899e9d/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Otake-maru"
-          fr: "Ôtake Maru"
-          de: "Otake-Maru"
-          ja: "オオタケ丸"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 474a9df587c
-          url: /lodestone/playguide/db/npc/enemy/474a9df587c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Kamaitachi"
-          fr: "Kamaitachi"
-          de: "Kamaitachi"
-          ja: "カマイタチ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d9abc9c681e
-          url: /lodestone/playguide/db/npc/enemy/d9abc9c681e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Genbu"
-          fr: "Genbu"
-          de: "Genbu"
-          ja: "玄武"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 5fcb0282cdf
-          url: /lodestone/playguide/db/npc/enemy/5fcb0282cdf/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

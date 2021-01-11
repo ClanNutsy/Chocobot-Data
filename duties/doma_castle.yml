@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: cd924bd8eac
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4a/4a0e93e30a6a7f2bbc4cbe7ce1059779e2148f84.png
   url: /lodestone/playguide/db/duty/cd924bd8eac/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Magitek Rearguard"
-          fr: "Arrière-garde magitek"
-          de: "Magitek-Rückendecker"
-          ja: "魔導リアガード"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 881a58ca5cd
-          url: /lodestone/playguide/db/npc/enemy/881a58ca5cd/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Magitek Hexadrone"
-          fr: "Hexadrone magitek"
-          de: "Magitek-Hexadrohne"
-          ja: "魔導ヘキサローラー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 69a30b64d5d
-          url: /lodestone/playguide/db/npc/enemy/69a30b64d5d/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Hypertuned Grynewaht"
-          fr: "Grynewaht hyper-renforcé"
-          de: "Hyperisierter Grynewaht"
-          ja: "強化グリーンワート"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: b4314349740
-          url: /lodestone/playguide/db/npc/enemy/b4314349740/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

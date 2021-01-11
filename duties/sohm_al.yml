@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: eed0add7a62
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fa/fadc617e9cb7e1039299317c115348f5d3d4e16a.png
   url: /lodestone/playguide/db/duty/eed0add7a62/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Raskovnik"
-          fr: "Raskovnik"
-          de: "Raskovnik"
-          ja: "ラスコヴニク"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: c51edfdf2f0
-          url: /lodestone/playguide/db/npc/enemy/c51edfdf2f0/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Myath"
-          fr: "Myath"
-          de: "Myath"
-          ja: "マイス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 806a9e77762
-          url: /lodestone/playguide/db/npc/enemy/806a9e77762/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Tioman"
-          fr: "Tioman"
-          de: "Tioman"
-          ja: "ティオマン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 850eda141fb
-          url: /lodestone/playguide/db/npc/enemy/850eda141fb/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

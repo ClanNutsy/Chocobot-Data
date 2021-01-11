@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: b0a1515fd3d
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ec8f1b447a9ee8b1401e06f763997e153f11c638.png
   url: /lodestone/playguide/db/duty/b0a1515fd3d/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Arachne Eve"
-          fr: "Arachné mère"
-          de: "Arachne die Ahnin"
-          ja: "アルケニー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 5f9de4f1bc3
-          url: /lodestone/playguide/db/npc/enemy/5f9de4f1bc3/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Forgall"
-          fr: "Forgall"
-          de: "Forgall"
-          ja: "フォルガル"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 6d1c995c9f6
-          url: /lodestone/playguide/db/npc/enemy/6d1c995c9f6/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Ozma"
-          fr: "Ozma"
-          de: "Yadis"
-          ja: "オズマ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ba184158705
-          url: /lodestone/playguide/db/npc/enemy/ba184158705/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -115,13 +116,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Calofisteri"
-          fr: "Calofisteri"
-          de: "Calofisteri"
-          ja: "カロフィステリ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: df65bfc9a90
-          url: /lodestone/playguide/db/npc/enemy/df65bfc9a90/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: bcb01b1b218
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/15/157f3447db5a214a742665b21840b0ce71051b33.png
   url: /lodestone/playguide/db/duty/bcb01b1b218/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Kaliya"
-          fr: "Kaliya"
-          de: "Kaliya"
-          ja: "カーリア"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 76c4ffab8aa
-          url: /lodestone/playguide/db/npc/enemy/76c4ffab8aa/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 46c4d21a738
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/46/46e12eba33c790ea61c55b936ad59916a854e58f.png
   url: /lodestone/playguide/db/duty/46c4d21a738/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Shiva"
-          fr: "Shiva"
-          de: "Shiva"
-          ja: "シヴァ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 286074f7a6d
-          url: /lodestone/playguide/db/npc/enemy/286074f7a6d/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

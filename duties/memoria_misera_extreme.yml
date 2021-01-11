@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 841d3f69efd
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/04/04aa01af1d85942282cb82a57b7dc573c7ad7175.png
   url: /lodestone/playguide/db/duty/841d3f69efd/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Varis Yae Galvus"
-          fr: "Varis yae Galvus"
-          de: "Varis yae Galvus"
-          ja: "ヴァリス・イェー・ガルヴァス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 2ae4ed83f53
-          url: /lodestone/playguide/db/npc/enemy/2ae4ed83f53/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

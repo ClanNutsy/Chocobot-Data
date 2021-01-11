@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: f5e0e0bdfbe
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6a/6a5f0732b4b9ce23aa9246b22acbe4cf0559cdea.png
   url: /lodestone/playguide/db/duty/f5e0e0bdfbe/
 video_url:
   en: 
@@ -16,45 +17,45 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Clockwork Bug"
-          fr: "Insecte mécanique"
-          de: "Uhrwerk-Wanze"
-          ja: "アラガンワーク・バグ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ae70ffa43f4
-          url: /lodestone/playguide/db/npc/enemy/ae70ffa43f4/
+          id: 
+          url: 
       - name:
-          en: "Clockwork Dreadnaught"
-          fr: "Cuirassé Dreadnaught"
-          de: "Brummonaut"
-          ja: "ドレッドノート"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 7842504153d
-          url: /lodestone/playguide/db/npc/enemy/7842504153d/
+          id: 
+          url: 
       - name:
-          en: "Clockwork Knight"
-          fr: "Chevalier mécanique"
-          de: "Uhrwerk-Ritter"
-          ja: "アラガンワーク・ナイト"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d79c3f775a0
-          url: /lodestone/playguide/db/npc/enemy/d79c3f775a0/
+          id: 
+          url: 
       - name:
-          en: "Clockwork Soldier"
-          fr: "Soldat mécanique"
-          de: "Uhrwerk-Soldat"
-          ja: "アラガンワーク・ソルジャー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 24b8c838f09
-          url: /lodestone/playguide/db/npc/enemy/24b8c838f09/
+          id: 
+          url: 
       - name:
-          en: "Spinner-rook"
-          fr: "Drone-drille"
-          de: "Drehturm"
-          ja: "ルークスピナー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: a17cafa5b89
-          url: /lodestone/playguide/db/npc/enemy/a17cafa5b89/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

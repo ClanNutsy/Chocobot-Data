@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: f80af21461f
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c6/c6d64604325e98d5825097fac7c22575acb27c9c.png
   url: /lodestone/playguide/db/duty/f80af21461f/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Vishap"
-          fr: "Vishap"
-          de: "Vishap"
-          ja: "ヴィシャップ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: c6d6978ab73
-          url: /lodestone/playguide/db/npc/enemy/c6d6978ab73/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

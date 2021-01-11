@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 18aeffad7c5
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dc/dc0694a4d133620f9e2b9790812be36d27c145f9.png
   url: /lodestone/playguide/db/duty/18aeffad7c5/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Sasquatch"
-          fr: "Sasquatch"
-          de: "Sasquatch"
-          ja: "サスカッチ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: c1a51b1300c
-          url: /lodestone/playguide/db/npc/enemy/c1a51b1300c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Sjoorm"
-          fr: "Sjoorm"
-          de: "Sjoorm"
-          ja: "ショールム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 9b3877b12b5
-          url: /lodestone/playguide/db/npc/enemy/9b3877b12b5/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,29 +83,29 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Kraken"
-          fr: "Kraken"
-          de: "Aquadon"
-          ja: "クラーケン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 77abeb2892c
-          url: /lodestone/playguide/db/npc/enemy/77abeb2892c/
+          id: 
+          url: 
       - name:
-          en: "Kraken's Arm"
-          fr: "Bras du Kraken"
-          de: "Fangarm"
-          ja: "クラーケンの腕"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: daeac06c7f0
-          url: /lodestone/playguide/db/npc/enemy/daeac06c7f0/
+          id: 
+          url: 
       - name:
-          en: "Tentacle"
-          fr: "Tentacule du Kraken"
-          de: "Tentakel"
-          ja: "クラーケンの触腕"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0f1164133d9
-          url: /lodestone/playguide/db/npc/enemy/0f1164133d9/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

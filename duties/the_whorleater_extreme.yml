@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 0850a8627aa
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/96/968e847cd11424a9f2b34a6fbd81ff57d498587e.png
   url: /lodestone/playguide/db/duty/0850a8627aa/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Leviathan"
-          fr: "Léviathan"
-          de: "Leviathan"
-          ja: "リヴァイアサン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: b8e53a056ef
-          url: /lodestone/playguide/db/npc/enemy/b8e53a056ef/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

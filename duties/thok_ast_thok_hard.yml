@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: f55bdb9e34e
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6f/6f9c8ba6e71f326bc35dc1b0e38f6d767d1e3d21.png
   url: /lodestone/playguide/db/duty/f55bdb9e34e/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Ravana"
-          fr: "Ravana"
-          de: "Ravana"
-          ja: "ラーヴァナ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: e12e4eb0b1b
-          url: /lodestone/playguide/db/npc/enemy/e12e4eb0b1b/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

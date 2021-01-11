@@ -7,6 +7,7 @@ type: Ultimate Raid
 tags: []
 lodestone:
   id: e6c2c586ba6
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06b4b4da4b5eacee722a5f930d4d23fa880268b1.png
   url: /lodestone/playguide/db/duty/e6c2c586ba6/
 video_url:
   en: 
@@ -16,37 +17,37 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "The Ultima Weapon"
-          fr: "Ultima Arma"
-          de: "Ultima-Waffe"
-          ja: "アルテマウェポン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: df9b7620e3d
-          url: /lodestone/playguide/db/npc/enemy/df9b7620e3d/
+          id: 
+          url: 
       - name:
-          en: "Garuda"
-          fr: "Garuda"
-          de: "Garuda"
-          ja: "ガルーダ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 8a1760b2a6c
-          url: /lodestone/playguide/db/npc/enemy/8a1760b2a6c/
+          id: 
+          url: 
       - name:
-          en: "Ifrit"
-          fr: "Ifrit"
-          de: "Ifrit"
-          ja: "イフリート"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 565dffe9458
-          url: /lodestone/playguide/db/npc/enemy/565dffe9458/
+          id: 
+          url: 
       - name:
-          en: "Titan"
-          fr: "Titan"
-          de: "Titan"
-          ja: "タイタン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 37a074a7704
-          url: /lodestone/playguide/db/npc/enemy/37a074a7704/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

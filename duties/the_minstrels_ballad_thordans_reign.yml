@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: a8a4860068c
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9cd22553abbec793f0a93fc33d833b44dc565408.png
   url: /lodestone/playguide/db/duty/a8a4860068c/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "King Thordan"
-          fr: "Roi Thordan"
-          de: "Thordan"
-          ja: "騎神トールダン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 7a34613ae2d
-          url: /lodestone/playguide/db/npc/enemy/7a34613ae2d/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

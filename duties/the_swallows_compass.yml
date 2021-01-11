@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 35ed52cf463
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/54/54293c3cc367d734fe240c9862c7f78259c3f789.png
   url: /lodestone/playguide/db/duty/35ed52cf463/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Otengu"
-          fr: "Ô-tengu"
-          de: "Otengu"
-          ja: "オオテング"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: fc15b2a0738
-          url: /lodestone/playguide/db/npc/enemy/fc15b2a0738/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Daidarabotchi"
-          fr: "Daidarabotchi"
-          de: "Daidarabotchi"
-          ja: "ダイダラボッチ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: f3072c1c0e0
-          url: /lodestone/playguide/db/npc/enemy/f3072c1c0e0/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Qitian Dasheng"
-          fr: "Qitian Dasheng"
-          de: "Qitian Dasheng"
-          ja: "セイテンタイセイ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 70d5c7e36c9
-          url: /lodestone/playguide/db/npc/enemy/70d5c7e36c9/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

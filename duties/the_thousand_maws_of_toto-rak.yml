@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: cf7612fa294
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/10/10beffc4bc093022b57a3a67479cc30d217d5e6a.png
   url: /lodestone/playguide/db/duty/cf7612fa294/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Coeurl O' Nine Tails"
-          fr: "Flagellotyugh"
-          de: "Neunschwänzige Coeurl-Ranke"
-          ja: "クァール・オ・ナインテイル"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: fee4de74f27
-          url: /lodestone/playguide/db/npc/enemy/fee4de74f27/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Coeurl O' Nine Tails"
-          fr: "Flagellotyugh"
-          de: "Neunschwänzige Coeurl-Ranke"
-          ja: "クァール・オ・ナインテイル"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: fee4de74f27
-          url: /lodestone/playguide/db/npc/enemy/fee4de74f27/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Graffias"
-          fr: "Graffias"
-          de: "Graffias"
-          ja: "グラフィアス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 13a5b24b5d6
-          url: /lodestone/playguide/db/npc/enemy/13a5b24b5d6/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

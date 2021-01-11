@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: b6491e1b508
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8d/8d5a8ea494389e01d27f1554c5505a17e2460cb1.png
   url: /lodestone/playguide/db/duty/b6491e1b508/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Chudo-Yudo"
-          fr: "Chudo-Yudo"
-          de: "Chudo-Yudo"
-          ja: "チョドーユドー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 25acf3372ac
-          url: /lodestone/playguide/db/npc/enemy/25acf3372ac/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Koshchei"
-          fr: "Koshchei"
-          de: "Koshchei"
-          ja: "コシュチェイ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1bcc219a710
-          url: /lodestone/playguide/db/npc/enemy/1bcc219a710/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Isgebind"
-          fr: "Isgebind"
-          de: "Isgebind"
-          ja: "イスケビンド"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 550c8c07f1e
-          url: /lodestone/playguide/db/npc/enemy/550c8c07f1e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

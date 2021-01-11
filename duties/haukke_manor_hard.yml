@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 61c74c68e00
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/22/2285b25c002cc71fa43b15156221d18a6fe58f4d.png
   url: /lodestone/playguide/db/duty/61c74c68e00/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Manor Jester"
-          fr: "Bouffon du manoir"
-          de: "Hofnarr"
-          ja: "御用邸の道化師"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 523b5036844
-          url: /lodestone/playguide/db/npc/enemy/523b5036844/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Ash"
-          fr: "Astaroth"
-          de: "Ashur"
-          ja: "アッシュ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 5cccab7df4b
-          url: /lodestone/playguide/db/npc/enemy/5cccab7df4b/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Halicarnassus"
-          fr: "Halicarnasse"
-          de: "Halikarnassos"
-          ja: "ハリカルナッソス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1b7b19482c4
-          url: /lodestone/playguide/db/npc/enemy/1b7b19482c4/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

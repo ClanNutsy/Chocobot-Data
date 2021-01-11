@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: 53d7100d839
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5cd5e7c354ee4707afdce5e85e400a391e1853c8.png
   url: /lodestone/playguide/db/duty/53d7100d839/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Garula"
-          fr: "Garula"
-          de: "Garula"
-          ja: "ガルラ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 572ba865bbe
-          url: /lodestone/playguide/db/npc/enemy/572ba865bbe/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Bardam"
-          fr: "Bardam"
-          de: "Bardams Statue"
-          ja: "バルダムの巨像"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d76ac92491c
-          url: /lodestone/playguide/db/npc/enemy/d76ac92491c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Yol"
-          fr: "Yol"
-          de: "Yol"
-          ja: "ヨル"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 7deb61133da
-          url: /lodestone/playguide/db/npc/enemy/7deb61133da/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

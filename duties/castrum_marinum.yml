@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: cd08ecb15cc
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b4/b407aa4f143de28b87b6cd351e0a0309ba7675f7.png
   url: /lodestone/playguide/db/duty/cd08ecb15cc/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "The Emerald Weapon"
-          fr: "Arme Émeraude"
-          de: "Smaragd-Waffe"
-          ja: "エメラルドウェポン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: ffbd3faa429
-          url: /lodestone/playguide/db/npc/enemy/ffbd3faa429/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

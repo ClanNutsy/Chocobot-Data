@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: c87fbc421a0
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/937f08408d89824eaf5383a29fa026eb4b6f7a6e.png
   url: /lodestone/playguide/db/duty/c87fbc421a0/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Hydra"
-          fr: "Hydre"
-          de: "Hydra"
-          ja: "ハイドラ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0a5bfc5b7b6
-          url: /lodestone/playguide/db/npc/enemy/0a5bfc5b7b6/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

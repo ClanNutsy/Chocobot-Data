@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: 91e7c2d4647
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2ae2f19152a7a37bce35ac620ee82f689b49a669.png
   url: /lodestone/playguide/db/duty/91e7c2d4647/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Refurbisher 0"
-          fr: "Récupérateur"
-          de: "Rekompositor"
-          ja: "リファビッシャー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0044172bc99
-          url: /lodestone/playguide/db/npc/enemy/0044172bc99/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

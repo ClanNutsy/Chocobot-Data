@@ -7,6 +7,7 @@ type: Ultimate Raid
 tags: []
 lodestone:
   id: 1a863f1ea3b
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1aa609c136b7632b4fb51293c24580f7bb50203a.png
   url: /lodestone/playguide/db/duty/1a863f1ea3b/
 video_url:
   en: 
@@ -16,29 +17,29 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Bahamut Prime"
-          fr: "Primo-Bahamut"
-          de: "Prim-Bahamut"
-          ja: "バハムート・プライム"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 35c02005349
-          url: /lodestone/playguide/db/npc/enemy/35c02005349/
+          id: 
+          url: 
       - name:
-          en: "Nael Deus Darnus"
-          fr: "Nael deus Darnus"
-          de: "Nael deus Darnus"
-          ja: "ネール・デウス・ダーナス"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 662f3172754
-          url: /lodestone/playguide/db/npc/enemy/662f3172754/
+          id: 
+          url: 
       - name:
-          en: "Twintania"
-          fr: "Gémellia"
-          de: "Twintania"
-          ja: "ツインタニア"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 415b605e6e9
-          url: /lodestone/playguide/db/npc/enemy/415b605e6e9/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

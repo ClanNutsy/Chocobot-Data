@@ -7,6 +7,7 @@ type: Raid
 tags: []
 lodestone:
   id: a674fe41a1a
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/49/494d31d95fe1b070289dfb2d2b95932854458bad.png
   url: /lodestone/playguide/db/duty/a674fe41a1a/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "The Avatar"
-          fr: "Bio-tréant"
-          de: "Avatar"
-          ja: "アバター"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: af77e43026c
-          url: /lodestone/playguide/db/npc/enemy/af77e43026c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

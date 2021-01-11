@@ -7,6 +7,7 @@ type: Trial
 tags: []
 lodestone:
   id: 0919d2674e0
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cb/cb71ed931b14d2d96b5f85c144e554cf0c3069cd.png
   url: /lodestone/playguide/db/duty/0919d2674e0/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Tsukuyomi"
-          fr: "Tsukuyomi"
-          de: "Tsukuyomi"
-          ja: "ツクヨミ"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 2ea6e449c56
-          url: /lodestone/playguide/db/npc/enemy/2ea6e449c56/
+          id: 
+          url: 
     tags: []
     video_url:
       en:

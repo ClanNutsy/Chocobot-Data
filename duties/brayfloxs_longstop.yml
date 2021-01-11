@@ -7,6 +7,7 @@ type: Dungeon
 tags: []
 lodestone:
   id: e371c7ab919
+  image_url: https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ee/ee287905d099a6ec6c762faad9e0985b792f7029.png
   url: /lodestone/playguide/db/duty/e371c7ab919/
 video_url:
   en: 
@@ -16,13 +17,13 @@ video_url:
 sections:
   - bosses:
       - name:
-          en: "Great Yellow Pelican"
-          fr: "Grand pélican jaune"
-          de: "Großer Gelbpelikan"
-          ja: "グレート・イエローペリカン"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 1d7bc4737b1
-          url: /lodestone/playguide/db/npc/enemy/1d7bc4737b1/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -49,13 +50,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Inferno Drake"
-          fr: "Draconide des brasiers"
-          de: "Sonnen-Drakon"
-          ja: "インフェルノドレイク"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: d23c2174b6e
-          url: /lodestone/playguide/db/npc/enemy/d23c2174b6e/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -82,13 +83,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Hellbender"
-          fr: "Ménopome"
-          de: "Höllenkrümmer"
-          ja: "ヘルベンダー"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 61275e0ac8a
-          url: /lodestone/playguide/db/npc/enemy/61275e0ac8a/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
@@ -115,13 +116,13 @@ sections:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: "Aiatar"
-          fr: "Aiatar"
-          de: "Aiatar"
-          ja: "アイアタル"
+          en: ""
+          fr: ""
+          de: ""
+          ja: ""
         lodestone:
-          id: 0a48dd19b3c
-          url: /lodestone/playguide/db/npc/enemy/0a48dd19b3c/
+          id: 
+          url: 
     tags: []
     video_url:
       en:
