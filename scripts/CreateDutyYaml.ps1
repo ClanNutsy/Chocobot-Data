@@ -21,7 +21,7 @@ video_url:
   fr: 
   de: 
   ja: 
-sections:
+pages:
 '
 
 $bossYamlTemplate = `
@@ -35,7 +35,7 @@ $bossYamlTemplate = `
           id: {4}
           url: {5}'
 
-$sectionYamlTemplate = `
+$pageYamlTemplate = `
 '  - bosses:{0}
     tags: []
     video_url:
@@ -94,7 +94,7 @@ foreach ($encounter in $Duty.encounters)
 		}
 	}
 	
-	$dutyYaml += $sectionYamlTemplate -f $bossYaml
+	$dutyYaml += $pageYamlTemplate -f $bossYaml
 }
 
 $fileName = $Duty.name.na.Replace('(', '').Replace(')', '').Replace("'", '').Replace('<i>', '').Replace('</i>', '').Replace(':', '').Replace('.', '').Replace(' - ', '_').Replace(' ', '_').ToLowerInvariant()
