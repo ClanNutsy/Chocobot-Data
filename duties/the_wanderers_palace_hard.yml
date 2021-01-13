@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Frumious Koheel Ja"
+          fr: "Koheel Ja"
+          de: "Koheel Ja"
+          ja: "角折のコヘージャ"
         lodestone:
-          id: 
-          url: 
+          id: ac76e8e8855
+          url: /lodestone/playguide/db/npc/enemy/ac76e8e8855/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Slithy Zolool Ja"
+          fr: "Zolool Ja"
+          de: "Zolool Ja"
+          ja: "濡肌のゾルージャ"
         lodestone:
-          id: 
-          url: 
+          id: 8c1a6370229
+          url: /lodestone/playguide/db/npc/enemy/8c1a6370229/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Manxome Molaa Ja Ja"
+          fr: "Molaa Ja Ja"
+          de: "Molaa Ja Ja"
+          ja: "光鱗のモラージャジャ"
         lodestone:
-          id: 
-          url: 
+          id: ec9d98c7243
+          url: /lodestone/playguide/db/npc/enemy/ec9d98c7243/
     tags: []
     video_url:
       en:

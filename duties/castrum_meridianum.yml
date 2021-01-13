@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Livia Sas Junius"
+          fr: "Livia sas Junius"
+          de: "Livia sas Junius"
+          ja: "リウィア・サス・ユニウス"
         lodestone:
-          id: 
-          url: 
+          id: aee1959475b
+          url: /lodestone/playguide/db/npc/enemy/aee1959475b/
     tags: []
     video_url:
       en:

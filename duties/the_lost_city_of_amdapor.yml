@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Decaying Gourmand"
+          fr: "Glouton putride"
+          de: "Verrottender Gourmet"
+          ja: "ロッティング・グルマン"
         lodestone:
-          id: 
-          url: 
+          id: 30078ec881b
+          url: /lodestone/playguide/db/npc/enemy/30078ec881b/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Arioch"
+          fr: "Arioch"
+          de: "Arioch"
+          ja: "アリオク"
         lodestone:
-          id: 
-          url: 
+          id: 97b2efb111b
+          url: /lodestone/playguide/db/npc/enemy/97b2efb111b/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Diabolos"
+          fr: "Diabolos"
+          de: "Diabolos"
+          ja: "ディアボロス"
         lodestone:
-          id: 
-          url: 
+          id: ca6836b0d22
+          url: /lodestone/playguide/db/npc/enemy/ca6836b0d22/
     tags: []
     video_url:
       en:

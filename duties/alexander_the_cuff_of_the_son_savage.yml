@@ -17,37 +17,37 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Blaster"
+          fr: "Fracasseur"
+          de: "Blaster"
+          ja: "ブラスター"
         lodestone:
-          id: 
-          url: 
+          id: 903410ff3d6
+          url: /lodestone/playguide/db/npc/enemy/903410ff3d6/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Brawler"
+          fr: "Bagarreur"
+          de: "Blechbrecher"
+          ja: "ブロウラー"
         lodestone:
-          id: 
-          url: 
+          id: e079deeb950
+          url: /lodestone/playguide/db/npc/enemy/e079deeb950/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Swindler"
+          fr: "Arnaqueur"
+          de: "Schwindler"
+          ja: "スウィンドラー"
         lodestone:
-          id: 
-          url: 
+          id: 478ef5ef72a
+          url: /lodestone/playguide/db/npc/enemy/478ef5ef72a/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Vortexer"
+          fr: "Tourbillonneur"
+          de: "Wirbler"
+          ja: "ボルテッカー"
         lodestone:
-          id: 
-          url: 
+          id: c6021b14c34
+          url: /lodestone/playguide/db/npc/enemy/c6021b14c34/
     tags: []
     video_url:
       en:

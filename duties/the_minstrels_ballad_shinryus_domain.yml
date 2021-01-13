@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Shinryu"
+          fr: "Shinryu"
+          de: "Shinryu"
+          ja: "神龍"
         lodestone:
-          id: 
-          url: 
+          id: 9ac0b4d657e
+          url: /lodestone/playguide/db/npc/enemy/9ac0b4d657e/
     tags: []
     video_url:
       en:

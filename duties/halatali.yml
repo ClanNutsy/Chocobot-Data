@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Firemane"
+          fr: "Crin-de-feu"
+          de: "Pyross"
+          ja: "赤熱のブッシュファイア"
         lodestone:
-          id: 
-          url: 
+          id: ee586b27bb7
+          url: /lodestone/playguide/db/npc/enemy/ee586b27bb7/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Thunderclap Guivre"
+          fr: "Guivre foudroyante"
+          de: "Donnerhall-Guivre"
+          ja: "百雷のギーヴル"
         lodestone:
-          id: 
-          url: 
+          id: 4a280a4c5aa
+          url: /lodestone/playguide/db/npc/enemy/4a280a4c5aa/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Tangata"
+          fr: "Tangata le bestial"
+          de: "Tangata"
+          ja: "獣闘士 タンガタ"
         lodestone:
-          id: 
-          url: 
+          id: 0eceac35fe9
+          url: /lodestone/playguide/db/npc/enemy/0eceac35fe9/
     tags: []
     video_url:
       en:

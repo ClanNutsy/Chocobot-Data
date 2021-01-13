@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Susano"
+          fr: "Susano"
+          de: "Susano"
+          ja: "スサノオ"
         lodestone:
-          id: 
-          url: 
+          id: 57facb9a0fc
+          url: /lodestone/playguide/db/npc/enemy/57facb9a0fc/
     tags: []
     video_url:
       en:

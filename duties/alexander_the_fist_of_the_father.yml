@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Oppressor"
+          fr: "Oppresseur"
+          de: "Unterdrücker"
+          ja: "オプレッサー"
         lodestone:
-          id: 
-          url: 
+          id: df17c4e6d46
+          url: /lodestone/playguide/db/npc/enemy/df17c4e6d46/
     tags: []
     video_url:
       en:

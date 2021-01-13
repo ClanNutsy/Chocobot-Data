@@ -17,37 +17,37 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Alexander Prime"
+          fr: "Primo-Alexander"
+          de: "Prim-Alexander"
+          ja: "アレキサンダー・プライム"
         lodestone:
-          id: 
-          url: 
+          id: 1b7681b1a12
+          url: /lodestone/playguide/db/npc/enemy/1b7681b1a12/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Brute Justice"
+          fr: "Justicier"
+          de: "Brutalus"
+          ja: "ブルートジャスティス"
         lodestone:
-          id: 
-          url: 
+          id: bdcce5c5295
+          url: /lodestone/playguide/db/npc/enemy/bdcce5c5295/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Cruise Chaser"
+          fr: "Croiseur-chasseur"
+          de: "Chaser-Mecha"
+          ja: "クルーズチェイサー"
         lodestone:
-          id: 
-          url: 
+          id: 9bf68f501ad
+          url: /lodestone/playguide/db/npc/enemy/9bf68f501ad/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Living Liquid"
+          fr: "Liquide vivant"
+          de: "Belebtes Wasser"
+          ja: "リビングリキッド"
         lodestone:
-          id: 
-          url: 
+          id: 6430a075c08
+          url: /lodestone/playguide/db/npc/enemy/6430a075c08/
     tags: []
     video_url:
       en:

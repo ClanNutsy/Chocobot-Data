@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Rangda"
+          fr: "Rangda"
+          de: "Rangda"
+          ja: "ランダ"
         lodestone:
-          id: 
-          url: 
+          id: 635ab739e2c
+          url: /lodestone/playguide/db/npc/enemy/635ab739e2c/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Gyascutus"
+          fr: "Gyascutus"
+          de: "Gyascutus"
+          ja: "グヤスクトゥス"
         lodestone:
-          id: 
-          url: 
+          id: 3f05c9e5335
+          url: /lodestone/playguide/db/npc/enemy/3f05c9e5335/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Nidhogg"
+          fr: "Nidhogg"
+          de: "Nidhogg"
+          ja: "ニーズヘッグ"
         lodestone:
-          id: 
-          url: 
+          id: 49024aa9036
+          url: /lodestone/playguide/db/npc/enemy/49024aa9036/
     tags: []
     video_url:
       en:

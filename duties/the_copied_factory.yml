@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Serial-jointed Command Model"
+          fr: "Modèle multiarticulé : commandant"
+          de: "Befehlsmodell mit Omnigelenk"
+          ja: "多関節型：司令機"
         lodestone:
-          id: 
-          url: 
+          id: 1d4ab6647c0
+          url: /lodestone/playguide/db/npc/enemy/1d4ab6647c0/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Hobbes"
+          fr: "Hobbes"
+          de: "Hobbes"
+          ja: "ホッブス"
         lodestone:
-          id: 
-          url: 
+          id: 4f9ce501b4d
+          url: /lodestone/playguide/db/npc/enemy/4f9ce501b4d/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Engels"
+          fr: "Engels"
+          de: "Engels"
+          ja: "エンゲルス"
         lodestone:
-          id: 
-          url: 
+          id: 449ba937720
+          url: /lodestone/playguide/db/npc/enemy/449ba937720/
     tags: []
     video_url:
       en:
@@ -116,13 +116,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "9S-operated Walking Fortress"
+          fr: "9S : avec multipède esclave"
+          de: "9S' mehrbeiniger Panzer"
+          ja: "９Ｓ：多脚戦車従属"
         lodestone:
-          id: 
-          url: 
+          id: 2c04d77b405
+          url: /lodestone/playguide/db/npc/enemy/2c04d77b405/
     tags: []
     video_url:
       en:

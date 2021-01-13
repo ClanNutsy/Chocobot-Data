@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Tsukuyomi"
+          fr: "Tsukuyomi"
+          de: "Tsukuyomi"
+          ja: "ツクヨミ"
         lodestone:
-          id: 
-          url: 
+          id: 2ea6e449c56
+          url: /lodestone/playguide/db/npc/enemy/2ea6e449c56/
     tags: []
     video_url:
       en:

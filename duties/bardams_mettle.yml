@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Garula"
+          fr: "Garula"
+          de: "Garula"
+          ja: "ガルラ"
         lodestone:
-          id: 
-          url: 
+          id: 572ba865bbe
+          url: /lodestone/playguide/db/npc/enemy/572ba865bbe/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Bardam"
+          fr: "Bardam"
+          de: "Bardams Statue"
+          ja: "バルダムの巨像"
         lodestone:
-          id: 
-          url: 
+          id: d76ac92491c
+          url: /lodestone/playguide/db/npc/enemy/d76ac92491c/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Yol"
+          fr: "Yol"
+          de: "Yol"
+          ja: "ヨル"
         lodestone:
-          id: 
-          url: 
+          id: 7deb61133da
+          url: /lodestone/playguide/db/npc/enemy/7deb61133da/
     tags: []
     video_url:
       en:

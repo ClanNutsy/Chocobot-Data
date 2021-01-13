@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ramuh"
+          fr: "Ramuh"
+          de: "Ramuh"
+          ja: "ラムウ"
         lodestone:
-          id: 
-          url: 
+          id: 9dac08ceb1c
+          url: /lodestone/playguide/db/npc/enemy/9dac08ceb1c/
     tags: []
     video_url:
       en:

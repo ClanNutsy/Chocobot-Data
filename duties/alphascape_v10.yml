@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Chaos"
+          fr: "Chaos"
+          de: "Chaos"
+          ja: "カオス"
         lodestone:
-          id: 
-          url: 
+          id: b54ba15c8f9
+          url: /lodestone/playguide/db/npc/enemy/b54ba15c8f9/
     tags: []
     video_url:
       en:

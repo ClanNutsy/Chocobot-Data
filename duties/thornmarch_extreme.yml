@@ -17,69 +17,69 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Good King Moggle Mog XII"
+          fr: "Moggle Mog XII"
+          de: "König Mogul Mog XII."
+          ja: "極王モグル・モグXII世"
         lodestone:
-          id: 
-          url: 
+          id: 231b805f21e
+          url: /lodestone/playguide/db/npc/enemy/231b805f21e/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Furryfoot Kupli Kipp"
+          fr: "Kupli Kipp pieds-poilus"
+          de: "Flinkefuß Kupli Kipp"
+          ja: "クプロ・キップ"
         lodestone:
-          id: 
-          url: 
+          id: 12ea644b193
+          url: /lodestone/playguide/db/npc/enemy/12ea644b193/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Pukla Puki The Pomburner"
+          fr: "Pukla Puki brûle-pompons"
+          de: "Bommelbrater Pukla Puki"
+          ja: "プクラ・プキ"
         lodestone:
-          id: 
-          url: 
+          id: 5247e6bcec8
+          url: /lodestone/playguide/db/npc/enemy/5247e6bcec8/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Pukna Pako The Tailturner"
+          fr: "Pukna Pako tourne-queue"
+          de: "Spielverderber Pukna Pako"
+          ja: "プクナ・パコ"
         lodestone:
-          id: 
-          url: 
+          id: c8c15172017
+          url: /lodestone/playguide/db/npc/enemy/c8c15172017/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Puksi Piko The Shaggysong"
+          fr: "Puksi Piko le hirsute"
+          de: "Liederschmied Puksi Piko"
+          ja: "プクシ・ピコ"
         lodestone:
-          id: 
-          url: 
+          id: 2dcc6b7572b
+          url: /lodestone/playguide/db/npc/enemy/2dcc6b7572b/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ruffletuft Kupta Kapa"
+          fr: "Kupta Kapa l'ébouriffé"
+          de: "Raufebart Kupta Kapa"
+          ja: "クプタ・カパ"
         lodestone:
-          id: 
-          url: 
+          id: 17bf2c6005f
+          url: /lodestone/playguide/db/npc/enemy/17bf2c6005f/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Whiskerwall Kupdi Koop"
+          fr: "Kupdi Koop le moustachu"
+          de: "Wollewand Kupdi Koop"
+          ja: "クプディ・クープ"
         lodestone:
-          id: 
-          url: 
+          id: 9c72b1ef2e9
+          url: /lodestone/playguide/db/npc/enemy/9c72b1ef2e9/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Woolywart Kupqu Kogi"
+          fr: "Kupqu Kogi le laineux"
+          de: "Tarnkappe Kupqu Kogi"
+          ja: "クプク・コギ"
         lodestone:
-          id: 
-          url: 
+          id: 5dfb62f21de
+          url: /lodestone/playguide/db/npc/enemy/5dfb62f21de/
     tags: []
     video_url:
       en:

@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Bone Dragon"
+          fr: "Calcidragon"
+          de: "Knochendrache"
+          ja: "ボーンドラゴン"
         lodestone:
-          id: 
-          url: 
+          id: cd4e94063a4
+          url: /lodestone/playguide/db/npc/enemy/cd4e94063a4/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Thanatos"
+          fr: "Thanatos"
+          de: "Thanatos"
+          ja: "タナトス"
         lodestone:
-          id: 
-          url: 
+          id: af29a27c084
+          url: /lodestone/playguide/db/npc/enemy/af29a27c084/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "King Behemoth"
+          fr: "Béhémoth roi"
+          de: "König Behemoth"
+          ja: "キングベヒーモス"
         lodestone:
-          id: 
-          url: 
+          id: a0a22b29916
+          url: /lodestone/playguide/db/npc/enemy/a0a22b29916/
     tags: []
     video_url:
       en:
@@ -116,13 +116,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Phlegethon"
+          fr: "Phlégéthon"
+          de: "Phlegethon"
+          ja: "ティターン"
         lodestone:
-          id: 
-          url: 
+          id: af2706be588
+          url: /lodestone/playguide/db/npc/enemy/af2706be588/
     tags: []
     video_url:
       en:

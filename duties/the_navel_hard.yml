@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Titan"
+          fr: "Titan"
+          de: "Titan"
+          ja: "タイタン"
         lodestone:
-          id: 
-          url: 
+          id: e10b5d1b57b
+          url: /lodestone/playguide/db/npc/enemy/e10b5d1b57b/
     tags: []
     video_url:
       en:

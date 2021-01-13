@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Guardian"
+          fr: "Gardien"
+          de: "Wächter"
+          ja: "ガーディアン"
         lodestone:
-          id: 
-          url: 
+          id: a569878a048
+          url: /lodestone/playguide/db/npc/enemy/a569878a048/
     tags: []
     video_url:
       en:

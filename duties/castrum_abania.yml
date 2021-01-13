@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Magna Roader"
+          fr: "Magna rouleur magitek"
+          de: "Magna Rotula"
+          ja: "魔導マグナローダー"
         lodestone:
-          id: 
-          url: 
+          id: ee18b18403e
+          url: /lodestone/playguide/db/npc/enemy/ee18b18403e/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Number XXIV"
+          fr: "Numéro XXIV"
+          de: "Nummer XXIV"
+          ja: "ナンバーXXIV"
         lodestone:
-          id: 
-          url: 
+          id: e21de296783
+          url: /lodestone/playguide/db/npc/enemy/e21de296783/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Inferno"
+          fr: "Inferno"
+          de: "Inferno"
+          ja: "インフェルノ"
         lodestone:
-          id: 
-          url: 
+          id: d9c8d044dac
+          url: /lodestone/playguide/db/npc/enemy/d9c8d044dac/
     tags: []
     video_url:
       en:

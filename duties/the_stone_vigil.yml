@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Chudo-Yudo"
+          fr: "Chudo-Yudo"
+          de: "Chudo-Yudo"
+          ja: "チョドーユドー"
         lodestone:
-          id: 
-          url: 
+          id: 25acf3372ac
+          url: /lodestone/playguide/db/npc/enemy/25acf3372ac/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Koshchei"
+          fr: "Koshchei"
+          de: "Koshchei"
+          ja: "コシュチェイ"
         lodestone:
-          id: 
-          url: 
+          id: 1bcc219a710
+          url: /lodestone/playguide/db/npc/enemy/1bcc219a710/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Isgebind"
+          fr: "Isgebind"
+          de: "Isgebind"
+          ja: "イスケビンド"
         lodestone:
-          id: 
-          url: 
+          id: 550c8c07f1e
+          url: /lodestone/playguide/db/npc/enemy/550c8c07f1e/
     tags: []
     video_url:
       en:

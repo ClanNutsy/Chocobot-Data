@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Voidwalker"
+          fr: "Marcheuse du néant"
+          de: "Nichtswandler"
+          ja: "ヴォイドウォーカー"
         lodestone:
-          id: 
-          url: 
+          id: 5ae77dfa3df
+          url: /lodestone/playguide/db/npc/enemy/5ae77dfa3df/
     tags: []
     video_url:
       en:

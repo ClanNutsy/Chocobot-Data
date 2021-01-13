@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Forgiven Cruelty"
+          fr: "Cruauté pardonnée"
+          de: "Geläuterte Grausamkeit"
+          ja: "フォーギヴン・クルエルティー"
         lodestone:
-          id: 
-          url: 
+          id: c738f0bd330
+          url: /lodestone/playguide/db/npc/enemy/c738f0bd330/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Forgiven Whimsy"
+          fr: "Caprice pardonné"
+          de: "Geläuterte Gereiztheit"
+          ja: "フォーギヴン・ウィムズィー"
         lodestone:
-          id: 
-          url: 
+          id: a65cc3bf993
+          url: /lodestone/playguide/db/npc/enemy/a65cc3bf993/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Forgiven Obscenity"
+          fr: "Obscénité pardonnée"
+          de: "Geläuterte Unzucht"
+          ja: "フォーギヴン・オブセニティー"
         lodestone:
-          id: 
-          url: 
+          id: f146c10cca6
+          url: /lodestone/playguide/db/npc/enemy/f146c10cca6/
     tags: []
     video_url:
       en:

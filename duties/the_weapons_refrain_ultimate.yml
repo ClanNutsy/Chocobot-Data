@@ -17,37 +17,37 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The Ultima Weapon"
+          fr: "Ultima Arma"
+          de: "Ultima-Waffe"
+          ja: "アルテマウェポン"
         lodestone:
-          id: 
-          url: 
+          id: df9b7620e3d
+          url: /lodestone/playguide/db/npc/enemy/df9b7620e3d/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Garuda"
+          fr: "Garuda"
+          de: "Garuda"
+          ja: "ガルーダ"
         lodestone:
-          id: 
-          url: 
+          id: 8a1760b2a6c
+          url: /lodestone/playguide/db/npc/enemy/8a1760b2a6c/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ifrit"
+          fr: "Ifrit"
+          de: "Ifrit"
+          ja: "イフリート"
         lodestone:
-          id: 
-          url: 
+          id: 565dffe9458
+          url: /lodestone/playguide/db/npc/enemy/565dffe9458/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Titan"
+          fr: "Titan"
+          de: "Titan"
+          ja: "タイタン"
         lodestone:
-          id: 
-          url: 
+          id: 37a074a7704
+          url: /lodestone/playguide/db/npc/enemy/37a074a7704/
     tags: []
     video_url:
       en:

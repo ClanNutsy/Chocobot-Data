@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Demon Of The Tome"
+          fr: "Démon du Tome"
+          de: "Bücherdämon"
+          ja: "デモン・オブ・トーム"
         lodestone:
-          id: 
-          url: 
+          id: 6c94961ad57
+          url: /lodestone/playguide/db/npc/enemy/6c94961ad57/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Liquid Flame"
+          fr: "Flamme liquide"
+          de: "Flüssige Flamme"
+          ja: "リクイドフレイム"
         lodestone:
-          id: 
-          url: 
+          id: 0ca57bad474
+          url: /lodestone/playguide/db/npc/enemy/0ca57bad474/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Strix"
+          fr: "Strix"
+          de: "Strix"
+          ja: "ストリックス"
         lodestone:
-          id: 
-          url: 
+          id: 458e6a8c545
+          url: /lodestone/playguide/db/npc/enemy/458e6a8c545/
     tags: []
     video_url:
       en:

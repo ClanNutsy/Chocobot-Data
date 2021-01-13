@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Alpha Zaghnal"
+          fr: "Zaghnal alpha"
+          de: "Alpha-Zaghnal"
+          ja: "アルファ・ザグナル"
         lodestone:
-          id: 
-          url: 
+          id: 73d53e760e9
+          url: /lodestone/playguide/db/npc/enemy/73d53e760e9/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Mithridates"
+          fr: "Mithridate"
+          de: "Mithridates"
+          ja: "ミトリダテス"
         lodestone:
-          id: 
-          url: 
+          id: 156780fca50
+          url: /lodestone/playguide/db/npc/enemy/156780fca50/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The Tycoon"
+          fr: "Le Magnat"
+          de: "Tycoon"
+          ja: "タイクーン"
         lodestone:
-          id: 
-          url: 
+          id: 0e6218abb50
+          url: /lodestone/playguide/db/npc/enemy/0e6218abb50/
     tags: []
     video_url:
       en:

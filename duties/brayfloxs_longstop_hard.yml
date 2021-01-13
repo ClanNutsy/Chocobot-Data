@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Illuminati Commander"
+          fr: "Commandant de la Main indigo"
+          de: "Indigohand-Kommandant"
+          ja: "ブルーハンド・コマンダー"
         lodestone:
-          id: 
-          url: 
+          id: b222cd6e226
+          url: /lodestone/playguide/db/npc/enemy/b222cd6e226/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Magitek Vangob G-III"
+          fr: "Gobavant-garde magitek G-III"
+          de: "Magitek-Gobbrecher III"
+          ja: "III号ゴブリガード"
         lodestone:
-          id: 
-          url: 
+          id: cf7c495439b
+          url: /lodestone/playguide/db/npc/enemy/cf7c495439b/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Gobmachine G-VI"
+          fr: "Gobtank G-VI"
+          de: "Gobmaschine VI"
+          ja: "VI号ゴブリタンク"
         lodestone:
-          id: 
-          url: 
+          id: 356d6732e86
+          url: /lodestone/playguide/db/npc/enemy/356d6732e86/
     tags: []
     video_url:
       en:

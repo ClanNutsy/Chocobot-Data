@@ -17,21 +17,21 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Suzaku"
+          fr: "Suzaku"
+          de: "Suzaku"
+          ja: "朱雀"
         lodestone:
-          id: 
-          url: 
+          id: 7047b8c4a38
+          url: /lodestone/playguide/db/npc/enemy/7047b8c4a38/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Scarlet Lady"
+          fr: "Oiseau de feu"
+          de: "Flammenvogel"
+          ja: "火焔鳥"
         lodestone:
-          id: 
-          url: 
+          id: 316e47aad6c
+          url: /lodestone/playguide/db/npc/enemy/316e47aad6c/
     tags: []
     video_url:
       en:

@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Magitek Rearguard"
+          fr: "Arrière-garde magitek"
+          de: "Magitek-Rückendecker"
+          ja: "魔導リアガード"
         lodestone:
-          id: 
-          url: 
+          id: 881a58ca5cd
+          url: /lodestone/playguide/db/npc/enemy/881a58ca5cd/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Magitek Hexadrone"
+          fr: "Hexadrone magitek"
+          de: "Magitek-Hexadrohne"
+          ja: "魔導ヘキサローラー"
         lodestone:
-          id: 
-          url: 
+          id: 69a30b64d5d
+          url: /lodestone/playguide/db/npc/enemy/69a30b64d5d/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Hypertuned Grynewaht"
+          fr: "Grynewaht hyper-renforcé"
+          de: "Hyperisierter Grynewaht"
+          ja: "強化グリーンワート"
         lodestone:
-          id: 
-          url: 
+          id: b4314349740
+          url: /lodestone/playguide/db/npc/enemy/b4314349740/
     tags: []
     video_url:
       en:

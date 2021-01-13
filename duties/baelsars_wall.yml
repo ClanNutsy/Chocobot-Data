@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Magitek Predator"
+          fr: "Prédateur magitek"
+          de: "Magitek-Prädator"
+          ja: "魔導プレデター"
         lodestone:
-          id: 
-          url: 
+          id: 1be15b20b8c
+          url: /lodestone/playguide/db/npc/enemy/1be15b20b8c/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Armored Weapon"
+          fr: "Arme blindée"
+          de: "Panzerwaffe"
+          ja: "アームドウェポン"
         lodestone:
-          id: 
-          url: 
+          id: c11fcb729f9
+          url: /lodestone/playguide/db/npc/enemy/c11fcb729f9/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The Griffin"
+          fr: "Ilberd le Griffon"
+          de: "Ilberd"
+          ja: "鉄面のイルベルド"
         lodestone:
-          id: 
-          url: 
+          id: fb9682e4e70
+          url: /lodestone/playguide/db/npc/enemy/fb9682e4e70/
     tags: []
     video_url:
       en:

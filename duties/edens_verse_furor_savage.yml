@@ -17,29 +17,29 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Garuda"
+          fr: "Garuda"
+          de: "Garuda"
+          ja: "ガルーダ"
         lodestone:
-          id: 
-          url: 
+          id: a9c5aa5fe0f
+          url: /lodestone/playguide/db/npc/enemy/a9c5aa5fe0f/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ifrit"
+          fr: "Ifrit"
+          de: "Ifrit"
+          ja: "イフリート"
         lodestone:
-          id: 
-          url: 
+          id: 7298553f77e
+          url: /lodestone/playguide/db/npc/enemy/7298553f77e/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Raktapaksa"
+          fr: "Raktapaksa"
+          de: "Raktapaksa"
+          ja: "ラクタパクシャ"
         lodestone:
-          id: 
-          url: 
+          id: d4114a151a0
+          url: /lodestone/playguide/db/npc/enemy/d4114a151a0/
     tags: []
     video_url:
       en:

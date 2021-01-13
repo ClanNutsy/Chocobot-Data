@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Locksmith"
+          fr: "Serrurier"
+          de: "Schlosser"
+          ja: "ロックスミス"
         lodestone:
-          id: 
-          url: 
+          id: c8d5ce30474
+          url: /lodestone/playguide/db/npc/enemy/c8d5ce30474/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Coincounter"
+          fr: "Trésorier"
+          de: "Münzzähler"
+          ja: "コインカウンター"
         lodestone:
-          id: 
-          url: 
+          id: 0d8cdbe4581
+          url: /lodestone/playguide/db/npc/enemy/0d8cdbe4581/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Miser's Mistress"
+          fr: "Maîtresse du Grigou"
+          de: "Knausers Mätresse"
+          ja: "マイザーズミストレス"
         lodestone:
-          id: 
-          url: 
+          id: 167a12b84fb
+          url: /lodestone/playguide/db/npc/enemy/167a12b84fb/
     tags: []
     video_url:
       en:

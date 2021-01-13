@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Melusine"
+          fr: "Mélusine"
+          de: "Melusine"
+          ja: "メリュジーヌ"
         lodestone:
-          id: 
-          url: 
+          id: f994c6754e5
+          url: /lodestone/playguide/db/npc/enemy/f994c6754e5/
     tags: []
     video_url:
       en:

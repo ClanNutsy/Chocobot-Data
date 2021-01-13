@@ -17,45 +17,45 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Clockwork Bug"
+          fr: "Insecte mécanique"
+          de: "Uhrwerk-Wanze"
+          ja: "アラガンワーク・バグ"
         lodestone:
-          id: 
-          url: 
+          id: ae70ffa43f4
+          url: /lodestone/playguide/db/npc/enemy/ae70ffa43f4/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Clockwork Dreadnaught"
+          fr: "Cuirassé Dreadnaught"
+          de: "Brummonaut"
+          ja: "ドレッドノート"
         lodestone:
-          id: 
-          url: 
+          id: 7842504153d
+          url: /lodestone/playguide/db/npc/enemy/7842504153d/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Clockwork Knight"
+          fr: "Chevalier mécanique"
+          de: "Uhrwerk-Ritter"
+          ja: "アラガンワーク・ナイト"
         lodestone:
-          id: 
-          url: 
+          id: d79c3f775a0
+          url: /lodestone/playguide/db/npc/enemy/d79c3f775a0/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Clockwork Soldier"
+          fr: "Soldat mécanique"
+          de: "Uhrwerk-Soldat"
+          ja: "アラガンワーク・ソルジャー"
         lodestone:
-          id: 
-          url: 
+          id: 24b8c838f09
+          url: /lodestone/playguide/db/npc/enemy/24b8c838f09/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Spinner-rook"
+          fr: "Drone-drille"
+          de: "Drehturm"
+          ja: "ルークスピナー"
         lodestone:
-          id: 
-          url: 
+          id: a17cafa5b89
+          url: /lodestone/playguide/db/npc/enemy/a17cafa5b89/
     tags: []
     video_url:
       en:

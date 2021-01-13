@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Scylla"
+          fr: "Scylla"
+          de: "Scylla"
+          ja: "妖艶のスキュラ"
         lodestone:
-          id: 
-          url: 
+          id: bec45f5f2e7
+          url: /lodestone/playguide/db/npc/enemy/bec45f5f2e7/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Glasya Labolas"
+          fr: "Glasya Labolas"
+          de: "Glasya Labolas"
+          ja: "不壊のガーディアン"
         lodestone:
-          id: 
-          url: 
+          id: 9abd853ef60
+          url: /lodestone/playguide/db/npc/enemy/9abd853ef60/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Amon"
+          fr: "Amon"
+          de: "Amon"
+          ja: "異才のアモン"
         lodestone:
-          id: 
-          url: 
+          id: 253da028d4e
+          url: /lodestone/playguide/db/npc/enemy/253da028d4e/
     tags: []
     video_url:
       en:
@@ -116,13 +116,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Xande"
+          fr: "Xande"
+          de: "Xande"
+          ja: "始皇帝ザンデ"
         lodestone:
-          id: 
-          url: 
+          id: 3fca87ceffa
+          url: /lodestone/playguide/db/npc/enemy/3fca87ceffa/
     tags: []
     video_url:
       en:

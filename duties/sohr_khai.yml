@@ -17,69 +17,69 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Chieftain Moglin"
+          fr: "Chef de tribu Moglin"
+          de: "Moglin der Ruhmreicher"
+          ja: "長老モグリン"
         lodestone:
-          id: 
-          url: 
+          id: 92d6b024e8d
+          url: /lodestone/playguide/db/npc/enemy/92d6b024e8d/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Captain Mogsun"
+          fr: "Capitaine Mogsun"
+          de: "Kapitän Mogsun"
+          ja: "護衛団長モグスン"
         lodestone:
-          id: 
-          url: 
+          id: 9505d3bb59a
+          url: /lodestone/playguide/db/npc/enemy/9505d3bb59a/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Pomguard Pomchopper"
+          fr: "Mog-hacheur de la Garde-pompon"
+          de: "Wachkorps-Hacker"
+          ja: "護衛団の斧術士"
         lodestone:
-          id: 
-          url: 
+          id: d207cfa9e64
+          url: /lodestone/playguide/db/npc/enemy/d207cfa9e64/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Pomguard Pomcrier"
+          fr: "Mog-égosilleur de la Garde-pompon"
+          de: "Wachkorps-Johler"
+          ja: "護衛団の歌唱士"
         lodestone:
-          id: 
-          url: 
+          id: 8424aa1ae85
+          url: /lodestone/playguide/db/npc/enemy/8424aa1ae85/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Pomguard Pomfluffer"
+          fr: "Mog-cafouilleur de la Garde-pompon"
+          de: "Wachkorps-Flauscher"
+          ja: "護衛団の幻術士"
         lodestone:
-          id: 
-          url: 
+          id: dfa6dbcfcc9
+          url: /lodestone/playguide/db/npc/enemy/dfa6dbcfcc9/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Pomguard Pomfryer"
+          fr: "Mog-grilleur de la Garde-pompon"
+          de: "Wachkorps-Abrakadabrer"
+          ja: "護衛団の魔術士"
         lodestone:
-          id: 
-          url: 
+          id: 9a5793e51ab
+          url: /lodestone/playguide/db/npc/enemy/9a5793e51ab/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Pomguard Pompiercer"
+          fr: "Mog-perceur de la Garde-pompon"
+          de: "Wachkorps-Piekser"
+          ja: "護衛団の弓術士"
         lodestone:
-          id: 
-          url: 
+          id: 855e2016d06
+          url: /lodestone/playguide/db/npc/enemy/855e2016d06/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Pomguard Pompincher"
+          fr: "Mog-moqueur de la Garde-pompon"
+          de: "Wachkorps-Nervtöter"
+          ja: "護衛団の悪戯士"
         lodestone:
-          id: 
-          url: 
+          id: c599fed4dbb
+          url: /lodestone/playguide/db/npc/enemy/c599fed4dbb/
     tags: []
     video_url:
       en:
@@ -106,13 +106,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Poqhiraj"
+          fr: "Poqhiraj"
+          de: "Poqhiraj"
+          ja: "ポキラージ"
         lodestone:
-          id: 
-          url: 
+          id: fb6c743c5fe
+          url: /lodestone/playguide/db/npc/enemy/fb6c743c5fe/
     tags: []
     video_url:
       en:
@@ -139,13 +139,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Hraesvelgr"
+          fr: "Hraesvelgr"
+          de: "Hraesvelgr"
+          ja: "フレースヴェルグ"
         lodestone:
-          id: 
-          url: 
+          id: e191e269695
+          url: /lodestone/playguide/db/npc/enemy/e191e269695/
     tags: []
     video_url:
       en:

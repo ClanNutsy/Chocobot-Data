@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ifrit"
+          fr: "Ifrit"
+          de: "Ifrit"
+          ja: "イフリート"
         lodestone:
-          id: 
-          url: 
+          id: 4ec28894427
+          url: /lodestone/playguide/db/npc/enemy/4ec28894427/
     tags: []
     video_url:
       en:

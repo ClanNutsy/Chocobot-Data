@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Otengu"
+          fr: "Ô-tengu"
+          de: "Otengu"
+          ja: "オオテング"
         lodestone:
-          id: 
-          url: 
+          id: fc15b2a0738
+          url: /lodestone/playguide/db/npc/enemy/fc15b2a0738/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Daidarabotchi"
+          fr: "Daidarabotchi"
+          de: "Daidarabotchi"
+          ja: "ダイダラボッチ"
         lodestone:
-          id: 
-          url: 
+          id: f3072c1c0e0
+          url: /lodestone/playguide/db/npc/enemy/f3072c1c0e0/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Qitian Dasheng"
+          fr: "Qitian Dasheng"
+          de: "Qitian Dasheng"
+          ja: "セイテンタイセイ"
         lodestone:
-          id: 
-          url: 
+          id: 70d5c7e36c9
+          url: /lodestone/playguide/db/npc/enemy/70d5c7e36c9/
     tags: []
     video_url:
       en:

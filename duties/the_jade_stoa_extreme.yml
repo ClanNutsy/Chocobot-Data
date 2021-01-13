@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Byakko"
+          fr: "Byakko"
+          de: "Byakko"
+          ja: "白虎"
         lodestone:
-          id: 
-          url: 
+          id: 818ff536171
+          url: /lodestone/playguide/db/npc/enemy/818ff536171/
     tags: []
     video_url:
       en:

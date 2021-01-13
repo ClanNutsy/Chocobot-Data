@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Eden Prime"
+          fr: "Primo-Éden"
+          de: "Prim-Eden"
+          ja: "エデン・プライム"
         lodestone:
-          id: 
-          url: 
+          id: eeac650e82f
+          url: /lodestone/playguide/db/npc/enemy/eeac650e82f/
     tags: []
     video_url:
       en:

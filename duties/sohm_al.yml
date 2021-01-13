@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Raskovnik"
+          fr: "Raskovnik"
+          de: "Raskovnik"
+          ja: "ラスコヴニク"
         lodestone:
-          id: 
-          url: 
+          id: c51edfdf2f0
+          url: /lodestone/playguide/db/npc/enemy/c51edfdf2f0/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Myath"
+          fr: "Myath"
+          de: "Myath"
+          ja: "マイス"
         lodestone:
-          id: 
-          url: 
+          id: 806a9e77762
+          url: /lodestone/playguide/db/npc/enemy/806a9e77762/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Tioman"
+          fr: "Tioman"
+          de: "Tioman"
+          ja: "ティオマン"
         lodestone:
-          id: 
-          url: 
+          id: 850eda141fb
+          url: /lodestone/playguide/db/npc/enemy/850eda141fb/
     tags: []
     video_url:
       en:

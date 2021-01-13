@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Nunyenunc"
+          fr: "Nunyenunc"
+          de: "Nunyenunc"
+          ja: "ヌニエヌンク"
         lodestone:
-          id: 
-          url: 
+          id: f8a226d1310
+          url: /lodestone/playguide/db/npc/enemy/f8a226d1310/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Canu Vanu"
+          fr: "Canu Vanu"
+          de: "Canu Vanu"
+          ja: "カヌバヌ"
         lodestone:
-          id: 
-          url: 
+          id: d5e5a2068bc
+          url: /lodestone/playguide/db/npc/enemy/d5e5a2068bc/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Waukkeon"
+          fr: "Waukkeon"
+          de: "Waukkeon"
+          ja: "ワウッケオン"
         lodestone:
-          id: 
-          url: 
+          id: 7461a73be91
+          url: /lodestone/playguide/db/npc/enemy/7461a73be91/
     tags: []
     video_url:
       en:

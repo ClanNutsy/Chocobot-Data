@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Symond The Unsinkable"
+          fr: "Symond l'insubmersible"
+          de: "Unsinkbarer Symond"
+          ja: "不沈のサイモンド"
         lodestone:
-          id: 
-          url: 
+          id: 7d87c4a00e4
+          url: /lodestone/playguide/db/npc/enemy/7d87c4a00e4/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Zu"
+          fr: "Zu"
+          de: "Montisaurus"
+          ja: "ズー"
         lodestone:
-          id: 
-          url: 
+          id: b7bd4764ca5
+          url: /lodestone/playguide/db/npc/enemy/b7bd4764ca5/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Tyrant"
+          fr: "Tyran"
+          de: "Tyrant"
+          ja: "タイラント"
         lodestone:
-          id: 
-          url: 
+          id: 9d33902cd2d
+          url: /lodestone/playguide/db/npc/enemy/9d33902cd2d/
     tags: []
     video_url:
       en:
@@ -116,13 +116,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Siren"
+          fr: "Sirène"
+          de: "Sirene"
+          ja: "セイレーン"
         lodestone:
-          id: 
-          url: 
+          id: 1d53db91305
+          url: /lodestone/playguide/db/npc/enemy/1d53db91305/
     tags: []
     video_url:
       en:

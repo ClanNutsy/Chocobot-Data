@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Mudman"
+          fr: "Tadboue"
+          de: "Matschmann"
+          ja: "マッドマン"
         lodestone:
-          id: 
-          url: 
+          id: 758c02e6ada
+          url: /lodestone/playguide/db/npc/enemy/758c02e6ada/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Nixie"
+          fr: "Nixe"
+          de: "Nixchen"
+          ja: "ノッケン"
         lodestone:
-          id: 
-          url: 
+          id: fe08c2cc00a
+          url: /lodestone/playguide/db/npc/enemy/fe08c2cc00a/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Mother Porxie"
+          fr: "Mère porxie"
+          de: "Muttersau"
+          ja: "マザーポークシー"
         lodestone:
-          id: 
-          url: 
+          id: d1d26f63d5f
+          url: /lodestone/playguide/db/npc/enemy/d1d26f63d5f/
     tags: []
     video_url:
       en:

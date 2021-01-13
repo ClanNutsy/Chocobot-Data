@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Hedetet"
+          fr: "Hedetet"
+          de: "Hedetet"
+          ja: "ヘデテト"
         lodestone:
-          id: 
-          url: 
+          id: e180ed0cd18
+          url: /lodestone/playguide/db/npc/enemy/e180ed0cd18/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Defective Drone"
+          fr: "Drone défectueux"
+          de: "Defekte Drohne"
+          ja: "デフェクティブ・ドローン"
         lodestone:
-          id: 
-          url: 
+          id: 95df4426452
+          url: /lodestone/playguide/db/npc/enemy/95df4426452/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Mist Dragon"
+          fr: "Dragon des brumes"
+          de: "Nebeldrache"
+          ja: "ミストドラゴン"
         lodestone:
-          id: 
-          url: 
+          id: bfd9004bdee
+          url: /lodestone/playguide/db/npc/enemy/bfd9004bdee/
     tags: []
     video_url:
       en:

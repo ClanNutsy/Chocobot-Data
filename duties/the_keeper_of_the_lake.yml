@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Einhander"
+          fr: "Einhänder"
+          de: "Einhänder"
+          ja: "アインハンダー"
         lodestone:
-          id: 
-          url: 
+          id: 54fb2c3f380
+          url: /lodestone/playguide/db/npc/enemy/54fb2c3f380/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Magitek Gunship"
+          fr: "Vaisseau magitek"
+          de: "Magitek-Kanonenschiff"
+          ja: "魔導ガンシップ"
         lodestone:
-          id: 
-          url: 
+          id: baecef45a06
+          url: /lodestone/playguide/db/npc/enemy/baecef45a06/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Midgardsormr"
+          fr: "Midgardsormr"
+          de: "Midgardsormr"
+          ja: "ミドガルズオルム"
         lodestone:
-          id: 
-          url: 
+          id: f31ab017ec8
+          url: /lodestone/playguide/db/npc/enemy/f31ab017ec8/
     tags: []
     video_url:
       en:

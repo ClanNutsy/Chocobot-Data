@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Gilgamesh"
+          fr: "Gilgamesh"
+          de: "Gilgamesch"
+          ja: "ギルガメッシュ"
         lodestone:
-          id: 
-          url: 
+          id: eeb533b3c27
+          url: /lodestone/playguide/db/npc/enemy/eeb533b3c27/
     tags: []
     video_url:
       en:

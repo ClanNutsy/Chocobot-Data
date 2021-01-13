@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Lozatl"
+          fr: "Lozatl"
+          de: "Lozatl"
+          ja: "ロツァトル"
         lodestone:
-          id: 
-          url: 
+          id: abe6f0618eb
+          url: /lodestone/playguide/db/npc/enemy/abe6f0618eb/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Batsquatch"
+          fr: "Batsquatch"
+          de: "Fledersquatch"
+          ja: "バッツカッチ"
         lodestone:
-          id: 
-          url: 
+          id: 3dcad8e1f17
+          url: /lodestone/playguide/db/npc/enemy/3dcad8e1f17/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Eros"
+          fr: "Éros"
+          de: "Eros"
+          ja: "エロース"
         lodestone:
-          id: 
-          url: 
+          id: e8fe76c7ec4
+          url: /lodestone/playguide/db/npc/enemy/e8fe76c7ec4/
     tags: []
     video_url:
       en:

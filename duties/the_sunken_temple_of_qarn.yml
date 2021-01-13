@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Teratotaur"
+          fr: "Teratotaurus"
+          de: "Teratotaurus"
+          ja: "テラトタウルス"
         lodestone:
-          id: 
-          url: 
+          id: e34c3c74ec7
+          url: /lodestone/playguide/db/npc/enemy/e34c3c74ec7/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Temple Guardian"
+          fr: "Gardien du temple"
+          de: "Tempelwächter"
+          ja: "テンプルガーディアン"
         lodestone:
-          id: 
-          url: 
+          id: f93f961506e
+          url: /lodestone/playguide/db/npc/enemy/f93f961506e/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Adjudicator"
+          fr: "Adjucateur"
+          de: "Azeyma-Richter"
+          ja: "アーゼマジャッジ"
         lodestone:
-          id: 
-          url: 
+          id: 6683be5f041
+          url: /lodestone/playguide/db/npc/enemy/6683be5f041/
     tags: []
     video_url:
       en:

@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Bahamut Prime"
+          fr: "Primo-Bahamut"
+          de: "Prim-Bahamut"
+          ja: "バハムート・プライム"
         lodestone:
-          id: 
-          url: 
+          id: 9e83ee0d9d4
+          url: /lodestone/playguide/db/npc/enemy/9e83ee0d9d4/
     tags: []
     video_url:
       en:

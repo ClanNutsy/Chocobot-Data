@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Rhitahtyn Sas Arvina"
+          fr: "Rhitahtyn sas Arvina"
+          de: "Rhitahtyn sas Arvina"
+          ja: "リットアティン・サス・アルヴィナ"
         lodestone:
-          id: 
-          url: 
+          id: a74d25eb883
+          url: /lodestone/playguide/db/npc/enemy/a74d25eb883/
     tags: []
     video_url:
       en:

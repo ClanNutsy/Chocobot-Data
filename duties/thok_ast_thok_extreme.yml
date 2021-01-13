@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ravana"
+          fr: "Ravana"
+          de: "Ravana"
+          ja: "ラーヴァナ"
         lodestone:
-          id: 
-          url: 
+          id: 198c29d4c3f
+          url: /lodestone/playguide/db/npc/enemy/198c29d4c3f/
     tags: []
     video_url:
       en:

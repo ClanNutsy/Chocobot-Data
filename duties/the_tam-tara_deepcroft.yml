@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Void Soulcounter"
+          fr: "Compteur d'âmes du néant"
+          de: "Nichts-Seelensammler"
+          ja: "ヴォイド・ソウルカウンター"
         lodestone:
-          id: 
-          url: 
+          id: c7a7d24a44c
+          url: /lodestone/playguide/db/npc/enemy/c7a7d24a44c/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Void Soulcounter"
+          fr: "Compteur d'âmes du néant"
+          de: "Nichts-Seelensammler"
+          ja: "ヴォイド・ソウルカウンター"
         lodestone:
-          id: 
-          url: 
+          id: c7a7d24a44c
+          url: /lodestone/playguide/db/npc/enemy/c7a7d24a44c/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Void Soulcounter"
+          fr: "Compteur d'âmes du néant"
+          de: "Nichts-Seelensammler"
+          ja: "ヴォイド・ソウルカウンター"
         lodestone:
-          id: 
-          url: 
+          id: c7a7d24a44c
+          url: /lodestone/playguide/db/npc/enemy/c7a7d24a44c/
     tags: []
     video_url:
       en:
@@ -116,13 +116,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Galvanth The Dominator"
+          fr: "Galvanth le Tyran"
+          de: "Großkönig Galvanth"
+          ja: "絶対王ガルヴァンス"
         lodestone:
-          id: 
-          url: 
+          id: 557f0907421
+          url: /lodestone/playguide/db/npc/enemy/557f0907421/
     tags: []
     video_url:
       en:

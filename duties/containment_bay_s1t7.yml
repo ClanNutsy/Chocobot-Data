@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Sephirot"
+          fr: "Sephirot"
+          de: "Sephirot"
+          ja: "セフィロト"
         lodestone:
-          id: 
-          url: 
+          id: aacc550210b
+          url: /lodestone/playguide/db/npc/enemy/aacc550210b/
     tags: []
     video_url:
       en:

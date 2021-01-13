@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Odin"
+          fr: "Odin"
+          de: "Odin"
+          ja: "オーディン"
         lodestone:
-          id: 
-          url: 
+          id: 5acd3207dab
+          url: /lodestone/playguide/db/npc/enemy/5acd3207dab/
     tags: []
     video_url:
       en:

@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Cetus"
+          fr: "Cetus"
+          de: "Cetus"
+          ja: "ケートス"
         lodestone:
-          id: 
-          url: 
+          id: 1bdd2b80eba
+          url: /lodestone/playguide/db/npc/enemy/1bdd2b80eba/
     tags: []
     video_url:
       en:
@@ -50,21 +50,21 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Irminsul"
+          fr: "Irminsul"
+          de: "Irminsul"
+          ja: "イルミンスール"
         lodestone:
-          id: 
-          url: 
+          id: 243761258d7
+          url: /lodestone/playguide/db/npc/enemy/243761258d7/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Sawtooth"
+          fr: "Dentata"
+          de: "Sägezahn"
+          ja: "ソウトゥース"
         lodestone:
-          id: 
-          url: 
+          id: 8644370cc95
+          url: /lodestone/playguide/db/npc/enemy/8644370cc95/
     tags: []
     video_url:
       en:
@@ -91,13 +91,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Cuchulainn"
+          fr: "Cúchulainn"
+          de: "Cuchulainn"
+          ja: "キュクレイン"
         lodestone:
-          id: 
-          url: 
+          id: 660d13b79af
+          url: /lodestone/playguide/db/npc/enemy/660d13b79af/
     tags: []
     video_url:
       en:
@@ -124,13 +124,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Echidna"
+          fr: "Echidna"
+          de: "Echidna"
+          ja: "エキドナ"
         lodestone:
-          id: 
-          url: 
+          id: 54a3d516a50
+          url: /lodestone/playguide/db/npc/enemy/54a3d516a50/
     tags: []
     video_url:
       en:

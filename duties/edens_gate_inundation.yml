@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Leviathan"
+          fr: "Léviathan"
+          de: "Leviathan"
+          ja: "リヴァイアサン"
         lodestone:
-          id: 
-          url: 
+          id: d0a60275b61
+          url: /lodestone/playguide/db/npc/enemy/d0a60275b61/
     tags: []
     video_url:
       en:

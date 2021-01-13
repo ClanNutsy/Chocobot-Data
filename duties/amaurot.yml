@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The First Beast"
+          fr: "Annélide de l'apocalypse"
+          de: "das erstes Unheil"
+          ja: "ファースト・ビースト"
         lodestone:
-          id: 
-          url: 
+          id: 21c88427e38
+          url: /lodestone/playguide/db/npc/enemy/21c88427e38/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Terminus Bellwether"
+          fr: "Sonneur de glas de l'apocalypse"
+          de: "Läuter der Totenglocke"
+          ja: "ターミナス・ベルウェザー"
         lodestone:
-          id: 
-          url: 
+          id: 11afe7696aa
+          url: /lodestone/playguide/db/npc/enemy/11afe7696aa/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Therion"
+          fr: "Mégatherion"
+          de: "Therion"
+          ja: "メガセリオン"
         lodestone:
-          id: 
-          url: 
+          id: 46b6e38b6cc
+          url: /lodestone/playguide/db/npc/enemy/46b6e38b6cc/
     tags: []
     video_url:
       en:

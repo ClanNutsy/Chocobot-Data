@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Alte Roite"
+          fr: "Alte Roite"
+          de: "Alte Roite"
+          ja: "アルテ・ロイテ"
         lodestone:
-          id: 
-          url: 
+          id: 300f213c1ae
+          url: /lodestone/playguide/db/npc/enemy/300f213c1ae/
     tags: []
     video_url:
       en:

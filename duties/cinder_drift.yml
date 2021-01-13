@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The Ruby Weapon"
+          fr: "Arme Rubis"
+          de: "Rubin-Waffe"
+          ja: "ルビーウェポン"
         lodestone:
-          id: 
-          url: 
+          id: 35e20c5ea1d
+          url: /lodestone/playguide/db/npc/enemy/35e20c5ea1d/
     tags: []
     video_url:
       en:

@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Seeker Of Solitude"
+          fr: "Ermite du palais"
+          de: "Einsiedler"
+          ja: "宮殿の隠者"
         lodestone:
-          id: 
-          url: 
+          id: 8936bbec41f
+          url: /lodestone/playguide/db/npc/enemy/8936bbec41f/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Leannan Sith"
+          fr: "Leannan Sith"
+          de: "Leanan Sidhe"
+          ja: "リャナンシー"
         lodestone:
-          id: 
-          url: 
+          id: 89c3082221c
+          url: /lodestone/playguide/db/npc/enemy/89c3082221c/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Lugus"
+          fr: "Lugus"
+          de: "Lugus"
+          ja: "ルゴス"
         lodestone:
-          id: 
-          url: 
+          id: 0ad3b331dd9
+          url: /lodestone/playguide/db/npc/enemy/0ad3b331dd9/
     tags: []
     video_url:
       en:

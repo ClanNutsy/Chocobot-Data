@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Warrior Of Light"
+          fr: "Guerrier de la Lumière primordial"
+          de: "Krieger des Lichts"
+          ja: "ウォーリア・オブ・ライト"
         lodestone:
-          id: 
-          url: 
+          id: b59fd3a154a
+          url: /lodestone/playguide/db/npc/enemy/b59fd3a154a/
     tags: []
     video_url:
       en:

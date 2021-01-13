@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Nidhogg"
+          fr: "Nidhogg"
+          de: "Nidhogg"
+          ja: "ニーズヘッグ"
         lodestone:
-          id: 
-          url: 
+          id: 0691138af59
+          url: /lodestone/playguide/db/npc/enemy/0691138af59/
     tags: []
     video_url:
       en:

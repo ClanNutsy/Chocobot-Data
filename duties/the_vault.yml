@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ser Adelphel Brightblade"
+          fr: "Sire Adelphel"
+          de: "Adelphel"
+          ja: "美剣のアデルフェル"
         lodestone:
-          id: 
-          url: 
+          id: a9f4fda2acb
+          url: /lodestone/playguide/db/npc/enemy/a9f4fda2acb/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ser Grinnaux The Bull"
+          fr: "Sire Grinnaux"
+          de: "Grinnaux"
+          ja: "戦狂のグリノー"
         lodestone:
-          id: 
-          url: 
+          id: f33f4cb105a
+          url: /lodestone/playguide/db/npc/enemy/f33f4cb105a/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ser Charibert"
+          fr: "Sire Charibert"
+          de: "Charibert"
+          ja: "聖騎士シャリベル"
         lodestone:
-          id: 
-          url: 
+          id: 9fafaa76ff8
+          url: /lodestone/playguide/db/npc/enemy/9fafaa76ff8/
     tags: []
     video_url:
       en:

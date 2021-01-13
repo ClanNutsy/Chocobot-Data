@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Deathgaze Hollow"
+          fr: "Mortalis nihil"
+          de: "Nihil-Thanatos"
+          ja: "デスゲイズ・ホロー"
         lodestone:
-          id: 
-          url: 
+          id: 77ac5137c68
+          url: /lodestone/playguide/db/npc/enemy/77ac5137c68/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ferdiad Hollow"
+          fr: "Ferdiad nihil"
+          de: "Nihil-Ferdiad"
+          ja: "フェルディア・ホロー"
         lodestone:
-          id: 
-          url: 
+          id: fa67cd848ba
+          url: /lodestone/playguide/db/npc/enemy/fa67cd848ba/
     tags: []
     video_url:
       en:
@@ -83,21 +83,21 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Scathach"
+          fr: "Scáthach"
+          de: "Scathach"
+          ja: "スカアハ"
         lodestone:
-          id: 
-          url: 
+          id: 7f0aa671d6a
+          url: /lodestone/playguide/db/npc/enemy/7f0aa671d6a/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Connla"
+          fr: "Connla"
+          de: "Connla"
+          ja: "コンラ"
         lodestone:
-          id: 
-          url: 
+          id: 1307358c3e2
+          url: /lodestone/playguide/db/npc/enemy/1307358c3e2/
     tags: []
     video_url:
       en:
@@ -124,13 +124,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Diabolos"
+          fr: "Diabolos"
+          de: "Diabolos"
+          ja: "ディアボロス"
         lodestone:
-          id: 
-          url: 
+          id: aa08efa410b
+          url: /lodestone/playguide/db/npc/enemy/aa08efa410b/
     tags: []
     video_url:
       en:

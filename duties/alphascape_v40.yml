@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Omega"
+          fr: "Oméga"
+          de: "Omega"
+          ja: "オメガ"
         lodestone:
-          id: 
-          url: 
+          id: 022ed5f6b0b
+          url: /lodestone/playguide/db/npc/enemy/022ed5f6b0b/
     tags: []
     video_url:
       en:

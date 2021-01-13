@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The Ultima Weapon"
+          fr: "Ultima Arma"
+          de: "Ultima-Waffe"
+          ja: "アルテマウェポン"
         lodestone:
-          id: 
-          url: 
+          id: 1cffed8947b
+          url: /lodestone/playguide/db/npc/enemy/1cffed8947b/
     tags: []
     video_url:
       en:

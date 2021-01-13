@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Regula Van Hydrus"
+          fr: "Regula van Hydrus"
+          de: "Regula van Hydrus"
+          ja: "レグラ・ヴァン・ヒュドルス"
         lodestone:
-          id: 
-          url: 
+          id: 8c77f6f1ca2
+          url: /lodestone/playguide/db/npc/enemy/8c77f6f1ca2/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Harmachis"
+          fr: "Horemakhet"
+          de: "Harmachis"
+          ja: "ハルマキス"
         lodestone:
-          id: 
-          url: 
+          id: f1c9aa11855
+          url: /lodestone/playguide/db/npc/enemy/f1c9aa11855/
     tags: []
     video_url:
       en:
@@ -83,21 +83,21 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Igeyorhm"
+          fr: "Igeyorhm"
+          de: "Igeyorhm"
+          ja: "アシエン・イゲオルム"
         lodestone:
-          id: 
-          url: 
+          id: 1641d4789a6
+          url: /lodestone/playguide/db/npc/enemy/1641d4789a6/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Lahabrea"
+          fr: "Lahabrea"
+          de: "Lahabrea"
+          ja: "アシエン・ラハブレア"
         lodestone:
-          id: 
-          url: 
+          id: 0f456c2eefa
+          url: /lodestone/playguide/db/npc/enemy/0f456c2eefa/
     tags: []
     video_url:
       en:
@@ -124,13 +124,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ascian Prime"
+          fr: "Primo-Ascien"
+          de: "Prim-Ascian"
+          ja: "アシエン・プライム"
         lodestone:
-          id: 
-          url: 
+          id: 0fe407f9ceb
+          url: /lodestone/playguide/db/npc/enemy/0fe407f9ceb/
     tags: []
     video_url:
       en:

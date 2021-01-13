@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Mustadio"
+          fr: "Mustadio"
+          de: "Mustadio"
+          ja: "機工士ムスタディオ"
         lodestone:
-          id: 
-          url: 
+          id: 596b19288a4
+          url: /lodestone/playguide/db/npc/enemy/596b19288a4/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Agrias"
+          fr: "Agrias"
+          de: "Agrias"
+          ja: "聖騎士アグリアス"
         lodestone:
-          id: 
-          url: 
+          id: ee6a251e770
+          url: /lodestone/playguide/db/npc/enemy/ee6a251e770/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The Thunder God"
+          fr: "Cid le Dieu de la Foudre"
+          de: "Cidolfus"
+          ja: "雷神シド"
         lodestone:
-          id: 
-          url: 
+          id: d508f16c533
+          url: /lodestone/playguide/db/npc/enemy/d508f16c533/
     tags: []
     video_url:
       en:
@@ -116,13 +116,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ultima, The High Seraph"
+          fr: "Ultima la Grande Séraphine"
+          de: "Cherub Ultima"
+          ja: "聖天使アルテマ"
         lodestone:
-          id: 
-          url: 
+          id: 27ec4887fa8
+          url: /lodestone/playguide/db/npc/enemy/27ec4887fa8/
     tags: []
     video_url:
       en:

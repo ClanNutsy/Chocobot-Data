@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Phoenix"
+          fr: "Phénix"
+          de: "Phönix"
+          ja: "フェニックス"
         lodestone:
-          id: 
-          url: 
+          id: 7d0eff3cfb7
+          url: /lodestone/playguide/db/npc/enemy/7d0eff3cfb7/
     tags: []
     video_url:
       en:

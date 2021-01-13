@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Halicarnassus"
+          fr: "Halicarnasse"
+          de: "Halikarnassos"
+          ja: "ハリカルナッソス"
         lodestone:
-          id: 
-          url: 
+          id: 5cce34b519c
+          url: /lodestone/playguide/db/npc/enemy/5cce34b519c/
     tags: []
     video_url:
       en:

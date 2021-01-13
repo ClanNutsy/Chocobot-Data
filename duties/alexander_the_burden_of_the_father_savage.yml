@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The Manipulator"
+          fr: "Manipulateur"
+          de: "Manipulator"
+          ja: "マニピュレーター"
         lodestone:
-          id: 
-          url: 
+          id: dc8adcab0ee
+          url: /lodestone/playguide/db/npc/enemy/dc8adcab0ee/
     tags: []
     video_url:
       en:

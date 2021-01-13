@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Motherbit"
+          fr: "Drone mère"
+          de: "Mutterdrohne"
+          ja: "マザービット"
         lodestone:
-          id: 
-          url: 
+          id: 933740cf608
+          url: /lodestone/playguide/db/npc/enemy/933740cf608/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The Ultima Warrior"
+          fr: "Ultima-guerrier"
+          de: "Ultimativer Krieger"
+          ja: "アルテマウォリアー"
         lodestone:
-          id: 
-          url: 
+          id: 2f806a6446e
+          url: /lodestone/playguide/db/npc/enemy/2f806a6446e/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The Ultima Beast"
+          fr: "Ultima-monstre"
+          de: "Ultimative Bestie"
+          ja: "アルテマビースト"
         lodestone:
-          id: 
-          url: 
+          id: a49861b138e
+          url: /lodestone/playguide/db/npc/enemy/a49861b138e/
     tags: []
     video_url:
       en:

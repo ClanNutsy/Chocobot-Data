@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Myrmidon Princess"
+          fr: "Princesse myrmidone"
+          de: "Myrmidonen-Prinzessin"
+          ja: "ミュルミドン・プリンセス"
         lodestone:
-          id: 
-          url: 
+          id: e7e4f2fd40f
+          url: /lodestone/playguide/db/npc/enemy/e7e4f2fd40f/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Giant Tunnel Worm"
+          fr: "Ver des tunnels géant"
+          de: "Riesen-Tunnelwurm"
+          ja: "ジャイアント・トンネルワーム"
         lodestone:
-          id: 
-          url: 
+          id: 5e4973e5c82
+          url: /lodestone/playguide/db/npc/enemy/5e4973e5c82/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Chimera"
+          fr: "Chimère"
+          de: "Chimära"
+          ja: "キマイラ"
         lodestone:
-          id: 
-          url: 
+          id: b7bdae83d9b
+          url: /lodestone/playguide/db/npc/enemy/b7bdae83d9b/
     tags: []
     video_url:
       en:

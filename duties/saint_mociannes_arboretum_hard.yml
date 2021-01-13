@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Nullchu"
+          fr: "Nullchu"
+          de: "Nullchu"
+          ja: "ヌルチュー"
         lodestone:
-          id: 
-          url: 
+          id: a7c5468ae63
+          url: /lodestone/playguide/db/npc/enemy/a7c5468ae63/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Lakhamu"
+          fr: "Lakhamu"
+          de: "Lakhamu"
+          ja: "ラハム"
         lodestone:
-          id: 
-          url: 
+          id: ce8ecd03872
+          url: /lodestone/playguide/db/npc/enemy/ce8ecd03872/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Tokkapchi"
+          fr: "Tokkapchi"
+          de: "Tokkapchi"
+          ja: "トカップチ"
         lodestone:
-          id: 
-          url: 
+          id: 9420faca787
+          url: /lodestone/playguide/db/npc/enemy/9420faca787/
     tags: []
     video_url:
       en:

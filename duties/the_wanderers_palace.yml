@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Keeper Of Halidom"
+          fr: "Gardien du sanctuaire"
+          de: "Wächter von Halidom"
+          ja: "キーパー・オブ・ヘリダム"
         lodestone:
-          id: 
-          url: 
+          id: 04f305c6b6a
+          url: /lodestone/playguide/db/npc/enemy/04f305c6b6a/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Giant Bavarois"
+          fr: "Bavarois géant"
+          de: "Riesengelee"
+          ja: "ジャイアント・ババロア"
         lodestone:
-          id: 
-          url: 
+          id: 2c56832b780
+          url: /lodestone/playguide/db/npc/enemy/2c56832b780/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Tonberry King"
+          fr: "Tomberry roi"
+          de: "Tomberry-König"
+          ja: "トンベリキング"
         lodestone:
-          id: 
-          url: 
+          id: c125f54436c
+          url: /lodestone/playguide/db/npc/enemy/c125f54436c/
     tags: []
     video_url:
       en:

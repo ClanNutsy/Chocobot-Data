@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Psycheflayer"
+          fr: "Flagelleur psychique"
+          de: "Psychoschinder"
+          ja: "サイコフレア"
         lodestone:
-          id: 
-          url: 
+          id: f0de4b745ca
+          url: /lodestone/playguide/db/npc/enemy/f0de4b745ca/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Demon Wall"
+          fr: "Mur démonique"
+          de: "Dämonenwand"
+          ja: "デモンズウォール"
         lodestone:
-          id: 
-          url: 
+          id: 6247844e2b5
+          url: /lodestone/playguide/db/npc/enemy/6247844e2b5/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Anantaboga"
+          fr: "Anantaboga"
+          de: "Anantaboga"
+          ja: "アナンタボガ"
         lodestone:
-          id: 
-          url: 
+          id: ea3a88a231c
+          url: /lodestone/playguide/db/npc/enemy/ea3a88a231c/
     tags: []
     video_url:
       en:

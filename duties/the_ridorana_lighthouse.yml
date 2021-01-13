@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Famfrit, The Darkening Cloud"
+          fr: "Famfrit le Nuage Ténébreux"
+          de: "Dunkelfürst Famfrit"
+          ja: "暗黒の雲ファムフリート"
         lodestone:
-          id: 
-          url: 
+          id: 9d75c3902b1
+          url: /lodestone/playguide/db/npc/enemy/9d75c3902b1/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Belias, The Gigas"
+          fr: "Bélias le Titan"
+          de: "Dämonid Belias"
+          ja: "魔人ベリアス"
         lodestone:
-          id: 
-          url: 
+          id: 1472d2580c5
+          url: /lodestone/playguide/db/npc/enemy/1472d2580c5/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Construct 7"
+          fr: "Bâtisseur n°7"
+          de: "Automat Nr. 7"
+          ja: "労働七号"
         lodestone:
-          id: 
-          url: 
+          id: 1d8b0d20fed
+          url: /lodestone/playguide/db/npc/enemy/1d8b0d20fed/
     tags: []
     video_url:
       en:
@@ -116,13 +116,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Yiazmat"
+          fr: "Yiazmat"
+          de: "Yiasmat"
+          ja: "鬼龍ヤズマット"
         lodestone:
-          id: 
-          url: 
+          id: eb7a306c968
+          url: /lodestone/playguide/db/npc/enemy/eb7a306c968/
     tags: []
     video_url:
       en:

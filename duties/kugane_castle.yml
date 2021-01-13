@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Zuiko-maru"
+          fr: "Zuiko Maru"
+          de: "Zuiko-Maru"
+          ja: "ズイコウ丸"
         lodestone:
-          id: 
-          url: 
+          id: 97c168723b9
+          url: /lodestone/playguide/db/npc/enemy/97c168723b9/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Dojun-maru"
+          fr: "Dôjun Maru"
+          de: "Dojun-Maru"
+          ja: "ドウジュン丸"
         lodestone:
-          id: 
-          url: 
+          id: 37d17915401
+          url: /lodestone/playguide/db/npc/enemy/37d17915401/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Yojimbo"
+          fr: "Yojimbo"
+          de: "Yojinbo"
+          ja: "ヨウジンボウ"
         lodestone:
-          id: 
-          url: 
+          id: 7267501ac54
+          url: /lodestone/playguide/db/npc/enemy/7267501ac54/
     tags: []
     video_url:
       en:

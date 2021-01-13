@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Phantom Ray"
+          fr: "Rayon fantomatique"
+          de: "Phantomschimmer"
+          ja: "ファントムレイ"
         lodestone:
-          id: 
-          url: 
+          id: 39cefc52a63
+          url: /lodestone/playguide/db/npc/enemy/39cefc52a63/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Minotaur"
+          fr: "Minotaure"
+          de: "Minotaurus"
+          ja: "ミノタウロス"
         lodestone:
-          id: 
-          url: 
+          id: 4d76375c29f
+          url: /lodestone/playguide/db/npc/enemy/4d76375c29f/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The Curator"
+          fr: "Conservateur"
+          de: "Kurator"
+          ja: "キュレーター"
         lodestone:
-          id: 
-          url: 
+          id: fcf1d573e3d
+          url: /lodestone/playguide/db/npc/enemy/fcf1d573e3d/
     tags: []
     video_url:
       en:

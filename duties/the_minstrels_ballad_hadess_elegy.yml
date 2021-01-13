@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Hades"
+          fr: "Hadès"
+          de: "Hades"
+          ja: "ハーデス"
         lodestone:
-          id: 
-          url: 
+          id: b43a1961518
+          url: /lodestone/playguide/db/npc/enemy/b43a1961518/
     tags: []
     video_url:
       en:

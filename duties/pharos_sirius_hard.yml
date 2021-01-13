@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ghrah Luminary"
+          fr: "Ghrah virtuose"
+          de: "Ghrah-Luminion"
+          ja: "ルミナリー・ゴラホ"
         lodestone:
-          id: 
-          url: 
+          id: ec03db2e824
+          url: /lodestone/playguide/db/npc/enemy/ec03db2e824/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "8th Order Patriarch Be Gu"
+          fr: "Be Gu patriarche du 8e ordre"
+          de: "Be Gu vom 8. Orden"
+          ja: "ペイトリアーク08 ベ・グ"
         lodestone:
-          id: 
-          url: 
+          id: bf86c315a92
+          url: /lodestone/playguide/db/npc/enemy/bf86c315a92/
     tags: []
     video_url:
       en:
@@ -83,21 +83,21 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Progenitor"
+          fr: "Papa bombo"
+          de: "Progenitor"
+          ja: "ファザーボム"
         lodestone:
-          id: 
-          url: 
+          id: 1669cb05669
+          url: /lodestone/playguide/db/npc/enemy/1669cb05669/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Progenitrix"
+          fr: "Maman bombo"
+          de: "Progenitrix"
+          ja: "マザーボム"
         lodestone:
-          id: 
-          url: 
+          id: e15fbec1991
+          url: /lodestone/playguide/db/npc/enemy/e15fbec1991/
     tags: []
     video_url:
       en:

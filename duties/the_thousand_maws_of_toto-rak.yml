@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Coeurl O' Nine Tails"
+          fr: "Flagellotyugh"
+          de: "Neunschwänzige Coeurl-Ranke"
+          ja: "クァール・オ・ナインテイル"
         lodestone:
-          id: 
-          url: 
+          id: fee4de74f27
+          url: /lodestone/playguide/db/npc/enemy/fee4de74f27/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Coeurl O' Nine Tails"
+          fr: "Flagellotyugh"
+          de: "Neunschwänzige Coeurl-Ranke"
+          ja: "クァール・オ・ナインテイル"
         lodestone:
-          id: 
-          url: 
+          id: fee4de74f27
+          url: /lodestone/playguide/db/npc/enemy/fee4de74f27/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Graffias"
+          fr: "Graffias"
+          de: "Graffias"
+          ja: "グラフィアス"
         lodestone:
-          id: 
-          url: 
+          id: 13a5b24b5d6
+          url: /lodestone/playguide/db/npc/enemy/13a5b24b5d6/
     tags: []
     video_url:
       en:

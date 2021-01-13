@@ -85,12 +85,12 @@ foreach ($encounter in $Duty.encounters)
 		foreach ($boss in $encounter.bosses)
 		{
 			$bossYaml += $bossYamlTemplate -f `
-				$Duty.bosses[$boss].name.na, `
-				$Duty.bosses[$boss].name.fr, `
-				$Duty.bosses[$boss].name.de, `
-				$Duty.bosses[$boss].name.jp, `
-				$Duty.bosses[$boss].lodestoneId, `
-				$Duty.bosses[$boss].lodestoneUri
+				$Duty.bosses.$boss.name.na, `
+				$Duty.bosses.$boss.name.fr, `
+				$Duty.bosses.$boss.name.de, `
+				$Duty.bosses.$boss.name.jp, `
+				$Duty.bosses.$boss.lodestoneId, `
+				$Duty.bosses.$boss.lodestoneUri
 		}
 	}
 	

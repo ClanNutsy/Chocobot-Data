@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "All-seeing Eye"
+          fr: "Œil omniscient"
+          de: "Allsehendes Auge"
+          ja: "オールシーイングアイ"
         lodestone:
-          id: 
-          url: 
+          id: 0af9f50d124
+          url: /lodestone/playguide/db/npc/enemy/0af9f50d124/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Taulurd"
+          fr: "Taulurd"
+          de: "Taulurd"
+          ja: "タウラード"
         lodestone:
-          id: 
-          url: 
+          id: 8bf5ff6ff00
+          url: /lodestone/playguide/db/npc/enemy/8bf5ff6ff00/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Batraal"
+          fr: "Batraal"
+          de: "Batraal"
+          ja: "バトラール"
         lodestone:
-          id: 
-          url: 
+          id: 278cfa2e852
+          url: /lodestone/playguide/db/npc/enemy/278cfa2e852/
     tags: []
     video_url:
       en:

@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ratfinx Twinkledinks"
+          fr: "Ratfinx le Génie"
+          de: "Ratfix Blinkdings"
+          ja: "奇才のラットフィンクス"
         lodestone:
-          id: 
-          url: 
+          id: d14515a0048
+          url: /lodestone/playguide/db/npc/enemy/d14515a0048/
     tags: []
     video_url:
       en:

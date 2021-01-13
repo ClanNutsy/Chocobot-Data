@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The Emerald Weapon"
+          fr: "Arme Émeraude"
+          de: "Smaragd-Waffe"
+          ja: "エメラルドウェポン"
         lodestone:
-          id: 
-          url: 
+          id: 5bc182049d4
+          url: /lodestone/playguide/db/npc/enemy/5bc182049d4/
     tags: []
     video_url:
       en:

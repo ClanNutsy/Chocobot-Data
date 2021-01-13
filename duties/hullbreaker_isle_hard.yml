@@ -17,37 +17,37 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Battle Coeurl"
+          fr: "Coeurl de combat"
+          de: "Kampf-Coeurl"
+          ja: "バトルクァール"
         lodestone:
-          id: 
-          url: 
+          id: bb727a1501a
+          url: /lodestone/playguide/db/npc/enemy/bb727a1501a/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Sanguine Sirens Gunner"
+          fr: "Canonnière des Sirènes sanguinaires"
+          de: "Sirenen-Kanonierin"
+          ja: "紅血聖女団の掌砲員"
         lodestone:
-          id: 
-          url: 
+          id: c4c2e394d13
+          url: /lodestone/playguide/db/npc/enemy/c4c2e394d13/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Sanguine Sirens Lodeswoman"
+          fr: "Pilote des Sirènes sanguinaires"
+          de: "Sirenen-Navigatorin"
+          ja: "紅血聖女団の航海士"
         lodestone:
-          id: 
-          url: 
+          id: fb7dac41907
+          url: /lodestone/playguide/db/npc/enemy/fb7dac41907/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Sanguine Sirens Targirl"
+          fr: "Manœuvrière des Sirènes sanguinaires"
+          de: "Sirenen-Matrosin"
+          ja: "紅血聖女団の甲板員"
         lodestone:
-          id: 
-          url: 
+          id: 75bfee75339
+          url: /lodestone/playguide/db/npc/enemy/75bfee75339/
     tags: []
     video_url:
       en:
@@ -74,13 +74,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ymir"
+          fr: "Ymir"
+          de: "Ymir"
+          ja: "ユミール"
         lodestone:
-          id: 
-          url: 
+          id: d340b903759
+          url: /lodestone/playguide/db/npc/enemy/d340b903759/
     tags: []
     video_url:
       en:
@@ -107,13 +107,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Grand Storm Marshal Slafyrsyn"
+          fr: "Grand maréchal des tempêtes Slafyrsyn"
+          de: "Konteradmiral Eynzahr Slafyrsyn"
+          ja: "エインザル・スラフィルシン大甲将"
         lodestone:
-          id: 
-          url: 
+          id: 3a68229a928
+          url: /lodestone/playguide/db/npc/enemy/3a68229a928/
     tags: []
     video_url:
       en:

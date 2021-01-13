@@ -17,53 +17,53 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Brute Justice"
+          fr: "Justicier"
+          de: "Brutalus"
+          ja: "ブルートジャスティス"
         lodestone:
-          id: 
-          url: 
+          id: 5056e2c8bea
+          url: /lodestone/playguide/db/npc/enemy/5056e2c8bea/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Blaster"
+          fr: "Fracasseur"
+          de: "Blaster"
+          ja: "ブラスター"
         lodestone:
-          id: 
-          url: 
+          id: 2cde0c8b0c4
+          url: /lodestone/playguide/db/npc/enemy/2cde0c8b0c4/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Brawler"
+          fr: "Bagarreur"
+          de: "Blechbrecher"
+          ja: "ブロウラー"
         lodestone:
-          id: 
-          url: 
+          id: 8547745dfbf
+          url: /lodestone/playguide/db/npc/enemy/8547745dfbf/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Onslaughter"
+          fr: "Attaqueur"
+          de: "Schlachter"
+          ja: "オンスローター"
         lodestone:
-          id: 
-          url: 
+          id: 9eb1de3832d
+          url: /lodestone/playguide/db/npc/enemy/9eb1de3832d/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Swindler"
+          fr: "Arnaqueur"
+          de: "Schwindler"
+          ja: "スウィンドラー"
         lodestone:
-          id: 
-          url: 
+          id: 8c65d7e3dbd
+          url: /lodestone/playguide/db/npc/enemy/8c65d7e3dbd/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Vortexer"
+          fr: "Tourbillonneur"
+          de: "Wirbler"
+          ja: "ボルテッカー"
         lodestone:
-          id: 
-          url: 
+          id: 8f05a5b8a5b
+          url: /lodestone/playguide/db/npc/enemy/8f05a5b8a5b/
     tags: []
     video_url:
       en:

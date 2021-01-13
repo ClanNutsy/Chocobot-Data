@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The Leightonward"
+          fr: "Chortocyon"
+          de: "Hortigolem"
+          ja: "レイトンワード"
         lodestone:
-          id: 
-          url: 
+          id: e3bdac29b42
+          url: /lodestone/playguide/db/npc/enemy/e3bdac29b42/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Gowrow"
+          fr: "Gowrow"
+          de: "Gowrow"
+          ja: "ガウロウ"
         lodestone:
-          id: 
-          url: 
+          id: 89ce9a49a9d
+          url: /lodestone/playguide/db/npc/enemy/89ce9a49a9d/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Lava Scorpion"
+          fr: "Scorpion de lave"
+          de: "Lavaskorpion"
+          ja: "ラーヴァ・スコーピオン"
         lodestone:
-          id: 
-          url: 
+          id: b3e55909789
+          url: /lodestone/playguide/db/npc/enemy/b3e55909789/
     tags: []
     video_url:
       en:

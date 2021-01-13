@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Catastrophe"
+          fr: "Catastrophe"
+          de: "Katastroph"
+          ja: "カタストロフィー"
         lodestone:
-          id: 
-          url: 
+          id: 0174fba845b
+          url: /lodestone/playguide/db/npc/enemy/0174fba845b/
     tags: []
     video_url:
       en:

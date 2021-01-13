@@ -17,21 +17,21 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Typhon"
+          fr: "Typhon"
+          de: "Typhon"
+          ja: "テュポーン"
         lodestone:
-          id: 
-          url: 
+          id: d576294c1e0
+          url: /lodestone/playguide/db/npc/enemy/d576294c1e0/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ultros"
+          fr: "Orthros"
+          de: "Ultros"
+          ja: "オルトロス"
         lodestone:
-          id: 
-          url: 
+          id: 89b51da0d99
+          url: /lodestone/playguide/db/npc/enemy/89b51da0d99/
     tags: []
     video_url:
       en:

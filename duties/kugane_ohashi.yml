@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Yojimbo"
+          fr: "Yojimbo"
+          de: "Yojinbo"
+          ja: "ヨウジンボウ"
         lodestone:
-          id: 
-          url: 
+          id: 380709431f8
+          url: /lodestone/playguide/db/npc/enemy/380709431f8/
     tags: []
     video_url:
       en:

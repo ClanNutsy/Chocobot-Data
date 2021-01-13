@@ -17,21 +17,21 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Cladoselache"
+          fr: "Cladoselache"
+          de: "Cladoselache"
+          ja: "クラドセラケ"
         lodestone:
-          id: 
-          url: 
+          id: fa1a6844b9e
+          url: /lodestone/playguide/db/npc/enemy/fa1a6844b9e/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Doliodus"
+          fr: "Doliodus"
+          de: "Doliodus"
+          ja: "ドリオドゥス"
         lodestone:
-          id: 
-          url: 
+          id: 1847716c5e5
+          url: /lodestone/playguide/db/npc/enemy/1847716c5e5/
     tags: []
     video_url:
       en:
@@ -58,13 +58,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Marquis Morbol"
+          fr: "Marquis morbol"
+          de: "Marquis-Morbol"
+          ja: "マーカス・モルボル"
         lodestone:
-          id: 
-          url: 
+          id: b43c546d077
+          url: /lodestone/playguide/db/npc/enemy/b43c546d077/
     tags: []
     video_url:
       en:
@@ -91,13 +91,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Quetzalcoatl"
+          fr: "Quetzalcóatl"
+          de: "Quetzalcoatl"
+          ja: "ケツァクウァトル"
         lodestone:
-          id: 
-          url: 
+          id: 54c34eaf54e
+          url: /lodestone/playguide/db/npc/enemy/54c34eaf54e/
     tags: []
     video_url:
       en:

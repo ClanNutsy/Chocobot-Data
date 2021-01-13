@@ -17,29 +17,29 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Bahamut Prime"
+          fr: "Primo-Bahamut"
+          de: "Prim-Bahamut"
+          ja: "バハムート・プライム"
         lodestone:
-          id: 
-          url: 
+          id: 35c02005349
+          url: /lodestone/playguide/db/npc/enemy/35c02005349/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Nael Deus Darnus"
+          fr: "Nael deus Darnus"
+          de: "Nael deus Darnus"
+          ja: "ネール・デウス・ダーナス"
         lodestone:
-          id: 
-          url: 
+          id: 662f3172754
+          url: /lodestone/playguide/db/npc/enemy/662f3172754/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Twintania"
+          fr: "Gémellia"
+          de: "Twintania"
+          ja: "ツインタニア"
         lodestone:
-          id: 
-          url: 
+          id: 415b605e6e9
+          url: /lodestone/playguide/db/npc/enemy/415b605e6e9/
     tags: []
     video_url:
       en:

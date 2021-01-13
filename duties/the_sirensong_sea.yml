@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Lugat"
+          fr: "Lugat"
+          de: "Lugat"
+          ja: "ルガト"
         lodestone:
-          id: 
-          url: 
+          id: 4e3c135b2b4
+          url: /lodestone/playguide/db/npc/enemy/4e3c135b2b4/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "The Governor"
+          fr: "Gouverneur"
+          de: "Friedhofsvorsteher"
+          ja: "ガバナー"
         lodestone:
-          id: 
-          url: 
+          id: fec049783f3
+          url: /lodestone/playguide/db/npc/enemy/fec049783f3/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Lorelei"
+          fr: "Lorelei"
+          de: "Loreley"
+          ja: "ローレライ"
         lodestone:
-          id: 
-          url: 
+          id: fe2ae806f32
+          url: /lodestone/playguide/db/npc/enemy/fe2ae806f32/
     tags: []
     video_url:
       en:

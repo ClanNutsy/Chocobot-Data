@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Magitek Scorpion"
+          fr: "Scorpion magitek"
+          de: "Wachskorpion"
+          ja: "ガードスコーピオン"
         lodestone:
-          id: 
-          url: 
+          id: 9c4a971c03b
+          url: /lodestone/playguide/db/npc/enemy/9c4a971c03b/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Aulus Mal Asina"
+          fr: "Aulus mal Asina"
+          de: "Aulus mal Asina"
+          ja: "アウルス・マル・アシナ"
         lodestone:
-          id: 
-          url: 
+          id: 0e60472d94b
+          url: /lodestone/playguide/db/npc/enemy/0e60472d94b/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Zenos Yae Galvus"
+          fr: "Zenos yae Galvus"
+          de: "Zenos yae Galvus"
+          ja: "ゼノス・イェー・ガルヴァス"
         lodestone:
-          id: 
-          url: 
+          id: b7578e5583e
+          url: /lodestone/playguide/db/npc/enemy/b7578e5583e/
     tags: []
     video_url:
       en:

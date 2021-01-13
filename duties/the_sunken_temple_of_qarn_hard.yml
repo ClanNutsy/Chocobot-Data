@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Damaged Adjudicator"
+          fr: "Adjucateur endommagé"
+          de: "Beschädigter Azeyma-Richter"
+          ja: "ダメージド・アーゼマジャッジ"
         lodestone:
-          id: 
-          url: 
+          id: f388149d4f8
+          url: /lodestone/playguide/db/npc/enemy/f388149d4f8/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Sabotender Emperatriz"
+          fr: "Pampa impératrice"
+          de: "Sabotender-Kaiserin"
+          ja: "サボテンダー・エンペラトリス"
         lodestone:
-          id: 
-          url: 
+          id: afa1f36e68a
+          url: /lodestone/playguide/db/npc/enemy/afa1f36e68a/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Vicegerent To The Warden"
+          fr: "Adjoint de la Gardienne"
+          de: "Statthalter der Aufseherin"
+          ja: "アーゼマヴァイスジェレント"
         lodestone:
-          id: 
-          url: 
+          id: ae47368ecd3
+          url: /lodestone/playguide/db/npc/enemy/ae47368ecd3/
     tags: []
     video_url:
       en:

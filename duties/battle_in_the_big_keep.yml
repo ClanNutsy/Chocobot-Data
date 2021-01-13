@@ -17,21 +17,21 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Gilgamesh"
+          fr: "Gilgamesh"
+          de: "Gilgamesch"
+          ja: "ギルガメッシュ"
         lodestone:
-          id: 
-          url: 
+          id: 3554b8b8296
+          url: /lodestone/playguide/db/npc/enemy/3554b8b8296/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Enkidu"
+          fr: "Enkidu"
+          de: "Enkidu"
+          ja: "エンキドウ"
         lodestone:
-          id: 
-          url: 
+          id: 1365d0d97aa
+          url: /lodestone/playguide/db/npc/enemy/1365d0d97aa/
     tags: []
     video_url:
       en:

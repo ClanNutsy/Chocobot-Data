@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Caduceus"
+          fr: "Caducée"
+          de: "Caduceus"
+          ja: "カドゥケウス"
         lodestone:
-          id: 
-          url: 
+          id: 3e28ee2dbe0
+          url: /lodestone/playguide/db/npc/enemy/3e28ee2dbe0/
     tags: []
     video_url:
       en:

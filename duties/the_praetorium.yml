@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Lahabrea"
+          fr: "Lahabrea"
+          de: "Lahabrea"
+          ja: "アシエン・ラハブレア"
         lodestone:
-          id: 
-          url: 
+          id: e6140114939
+          url: /lodestone/playguide/db/npc/enemy/e6140114939/
     tags: []
     video_url:
       en:

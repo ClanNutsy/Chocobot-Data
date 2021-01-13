@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Quickthinx Allthoughts"
+          fr: "Quickthinx le Cerveau"
+          de: "Denkfix"
+          ja: "万能のクイックシンクス"
         lodestone:
-          id: 
-          url: 
+          id: a62d960e4a5
+          url: /lodestone/playguide/db/npc/enemy/a62d960e4a5/
     tags: []
     video_url:
       en:

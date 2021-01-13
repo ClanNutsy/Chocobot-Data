@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Towering Oliphant"
+          fr: "Olifant"
+          de: "Olifant"
+          ja: "オリファント"
         lodestone:
-          id: 
-          url: 
+          id: fd054e9914a
+          url: /lodestone/playguide/db/npc/enemy/fd054e9914a/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ser Yuhelmeric"
+          fr: "Yuhelmeric Brillelame"
+          de: "Yuhelmeric"
+          ja: "剣光のユヘルメリック"
         lodestone:
-          id: 
-          url: 
+          id: 2750ef1eb8f
+          url: /lodestone/playguide/db/npc/enemy/2750ef1eb8f/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Opinicus"
+          fr: "Opinicus"
+          de: "Opinicus"
+          ja: "オピニコス"
         lodestone:
-          id: 
-          url: 
+          id: be1a2aef953
+          url: /lodestone/playguide/db/npc/enemy/be1a2aef953/
     tags: []
     video_url:
       en:

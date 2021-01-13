@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Angra Mainyu"
+          fr: "Angra Mainyu"
+          de: "Angra Mainyu"
+          ja: "アンラ・マンユ"
         lodestone:
-          id: 
-          url: 
+          id: 6ae51b39bce
+          url: /lodestone/playguide/db/npc/enemy/6ae51b39bce/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Five-headed Dragon"
+          fr: "Dragon à cinq têtes"
+          de: "Fünfköpfiger Drache"
+          ja: "ファイブヘッド・ドラゴン"
         lodestone:
-          id: 
-          url: 
+          id: 43e0c163e3b
+          url: /lodestone/playguide/db/npc/enemy/43e0c163e3b/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Cerberus"
+          fr: "Cerbère"
+          de: "Cerberus"
+          ja: "ケルベロス"
         lodestone:
-          id: 
-          url: 
+          id: 9dbe19735e8
+          url: /lodestone/playguide/db/npc/enemy/9dbe19735e8/
     tags: []
     video_url:
       en:
@@ -116,13 +116,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Cloud Of Darkness"
+          fr: "Nuage de Ténèbres"
+          de: "Wolke der Dunkelheit"
+          ja: "暗闇の雲"
         lodestone:
-          id: 
-          url: 
+          id: bd938638f75
+          url: /lodestone/playguide/db/npc/enemy/bd938638f75/
     tags: []
     video_url:
       en:

@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Living Liquid"
+          fr: "Liquide vivant"
+          de: "Belebtes Wasser"
+          ja: "リビングリキッド"
         lodestone:
-          id: 
-          url: 
+          id: 2ce2f2432d8
+          url: /lodestone/playguide/db/npc/enemy/2ce2f2432d8/
     tags: []
     video_url:
       en:

@@ -17,21 +17,21 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Coeurl Smriti"
+          fr: "Coeurl smriti"
+          de: "Coeurl Smriti"
+          ja: "クァール・スムリティ"
         lodestone:
-          id: 
-          url: 
+          id: 3fe1e25c8c7
+          url: /lodestone/playguide/db/npc/enemy/3fe1e25c8c7/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Coeurl Sruti"
+          fr: "Coeurl sruti"
+          de: "Coeurl Sruti"
+          ja: "クァール・シュルティ"
         lodestone:
-          id: 
-          url: 
+          id: 8d9b0e08a0f
+          url: /lodestone/playguide/db/npc/enemy/8d9b0e08a0f/
     tags: []
     video_url:
       en:
@@ -58,13 +58,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Arbuda"
+          fr: "Arbuda"
+          de: "Arbuda"
+          ja: "アブダ"
         lodestone:
-          id: 
-          url: 
+          id: 03e641ccabf
+          url: /lodestone/playguide/db/npc/enemy/03e641ccabf/
     tags: []
     video_url:
       en:
@@ -91,13 +91,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ivon Coeurlfist"
+          fr: "Ivon le Coeurl"
+          de: "Ivon Coeurlfaust"
+          ja: "双豹のイヴォン"
         lodestone:
-          id: 
-          url: 
+          id: 77c6b5dfea3
+          url: /lodestone/playguide/db/npc/enemy/77c6b5dfea3/
     tags: []
     video_url:
       en:

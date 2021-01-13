@@ -17,21 +17,21 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Exdeath"
+          fr: "Exdeath"
+          de: "Exdeath"
+          ja: "エクスデス"
         lodestone:
-          id: 
-          url: 
+          id: 7e53d796e6c
+          url: /lodestone/playguide/db/npc/enemy/7e53d796e6c/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Neo Exdeath"
+          fr: "Néo-Exdeath"
+          de: "Neo Exdeath"
+          ja: "ネオエクスデス"
         lodestone:
-          id: 
-          url: 
+          id: 82f8d4eabe0
+          url: /lodestone/playguide/db/npc/enemy/82f8d4eabe0/
     tags: []
     video_url:
       en:

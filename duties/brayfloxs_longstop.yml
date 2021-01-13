@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Great Yellow Pelican"
+          fr: "Grand pélican jaune"
+          de: "Großer Gelbpelikan"
+          ja: "グレート・イエローペリカン"
         lodestone:
-          id: 
-          url: 
+          id: 1d7bc4737b1
+          url: /lodestone/playguide/db/npc/enemy/1d7bc4737b1/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Inferno Drake"
+          fr: "Draconide des brasiers"
+          de: "Sonnen-Drakon"
+          ja: "インフェルノドレイク"
         lodestone:
-          id: 
-          url: 
+          id: d23c2174b6e
+          url: /lodestone/playguide/db/npc/enemy/d23c2174b6e/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Hellbender"
+          fr: "Ménopome"
+          de: "Höllenkrümmer"
+          ja: "ヘルベンダー"
         lodestone:
-          id: 
-          url: 
+          id: 61275e0ac8a
+          url: /lodestone/playguide/db/npc/enemy/61275e0ac8a/
     tags: []
     video_url:
       en:
@@ -116,13 +116,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Aiatar"
+          fr: "Aiatar"
+          de: "Aiatar"
+          ja: "アイアタル"
         lodestone:
-          id: 
-          url: 
+          id: 0a48dd19b3c
+          url: /lodestone/playguide/db/npc/enemy/0a48dd19b3c/
     tags: []
     video_url:
       en:

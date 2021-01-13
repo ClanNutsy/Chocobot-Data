@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Amikiri"
+          fr: "Amikiri"
+          de: "Amikiri"
+          ja: "アミキリ"
         lodestone:
-          id: 
-          url: 
+          id: 75590dd33b5
+          url: /lodestone/playguide/db/npc/enemy/75590dd33b5/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Ruby Princess"
+          fr: "Princesse de Rubis"
+          de: "Rubinprinzessin"
+          ja: "紅玉姫"
         lodestone:
-          id: 
-          url: 
+          id: 766f1e8d7ae
+          url: /lodestone/playguide/db/npc/enemy/766f1e8d7ae/
     tags: []
     video_url:
       en:
@@ -83,13 +83,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Shisui Yohi"
+          fr: "Shisui Yohi"
+          de: "Shisui Yohi"
+          ja: "紫水妖妃"
         lodestone:
-          id: 
-          url: 
+          id: c39ef367756
+          url: /lodestone/playguide/db/npc/enemy/c39ef367756/
     tags: []
     video_url:
       en:

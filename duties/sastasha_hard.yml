@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Karlabos"
+          fr: "Karlabos"
+          de: "Karlabos"
+          ja: "カーラボス"
         lodestone:
-          id: 
-          url: 
+          id: 2055b7c7bd2
+          url: /lodestone/playguide/db/npc/enemy/2055b7c7bd2/
     tags: []
     video_url:
       en:
@@ -50,13 +50,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Captain Madison"
+          fr: "Ancien capitaine Madison"
+          de: "Kapitän Madison"
+          ja: "マディソン元船長"
         lodestone:
-          id: 
-          url: 
+          id: 179c65ef969
+          url: /lodestone/playguide/db/npc/enemy/179c65ef969/
     tags: []
     video_url:
       en:
@@ -83,29 +83,29 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Kraken"
+          fr: "Kraken"
+          de: "Aquadon"
+          ja: "クラーケン"
         lodestone:
-          id: 
-          url: 
+          id: a196c6aaa86
+          url: /lodestone/playguide/db/npc/enemy/a196c6aaa86/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Kraken's Arm"
+          fr: "Bras du Kraken"
+          de: "Fangarm"
+          ja: "クラーケンの腕"
         lodestone:
-          id: 
-          url: 
+          id: bd08cbc0959
+          url: /lodestone/playguide/db/npc/enemy/bd08cbc0959/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Tentacle"
+          fr: "Tentacule du Kraken"
+          de: "Tentakel"
+          ja: "クラーケンの触腕"
         lodestone:
-          id: 
-          url: 
+          id: 1d02eee968a
+          url: /lodestone/playguide/db/npc/enemy/1d02eee968a/
     tags: []
     video_url:
       en:

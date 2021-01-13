@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Zurvan"
+          fr: "Zurvan"
+          de: "Zurvan"
+          ja: "ズルワーン"
         lodestone:
-          id: 
-          url: 
+          id: b9fb8499c78
+          url: /lodestone/playguide/db/npc/enemy/b9fb8499c78/
     tags: []
     video_url:
       en:

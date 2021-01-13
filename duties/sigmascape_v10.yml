@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Phantom Train"
+          fr: "Train fantôme"
+          de: "Phantomzug"
+          ja: "魔列車"
         lodestone:
-          id: 
-          url: 
+          id: 0847107c2de
+          url: /lodestone/playguide/db/npc/enemy/0847107c2de/
     tags: []
     video_url:
       en:

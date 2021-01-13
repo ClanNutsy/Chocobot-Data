@@ -17,13 +17,13 @@ video_url:
 pages:
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Manor Claviger"
+          fr: "Clavière du manoir"
+          de: "Herrenhaus-Schlüsselträgerin"
+          ja: "夫人付きクラヴィジャー"
         lodestone:
-          id: 
-          url: 
+          id: 0ad5389201b
+          url: /lodestone/playguide/db/npc/enemy/0ad5389201b/
     tags: []
     video_url:
       en:
@@ -50,21 +50,21 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Manor Jester"
+          fr: "Bouffon du manoir"
+          de: "Hofnarr"
+          ja: "御用邸の道化師"
         lodestone:
-          id: 
-          url: 
+          id: eee97fda062
+          url: /lodestone/playguide/db/npc/enemy/eee97fda062/
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Manor Steward"
+          fr: "Intendant du manoir"
+          de: "Seneschall"
+          ja: "御用邸の執事長"
         lodestone:
-          id: 
-          url: 
+          id: 881c3c25f1c
+          url: /lodestone/playguide/db/npc/enemy/881c3c25f1c/
     tags: []
     video_url:
       en:
@@ -91,13 +91,13 @@ pages:
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
   - bosses:
       - name:
-          en: ""
-          fr: ""
-          de: ""
-          ja: ""
+          en: "Lady Amandine"
+          fr: "Dame Amandine"
+          de: "Lady Amandine"
+          ja: "レディ・アマンディヌ"
         lodestone:
-          id: 
-          url: 
+          id: edf9243f5c3
+          url: /lodestone/playguide/db/npc/enemy/edf9243f5c3/
     tags: []
     video_url:
       en:
