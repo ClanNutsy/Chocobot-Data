@@ -21,7 +21,7 @@ video_url:
   fr: 
   de: 
   ja: 
-pages:{8}
+pages:
 '
 
 $bossYamlTemplate = `
@@ -63,8 +63,6 @@ $pageYamlTemplate = `
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
 '
 
-$pagesSuffix = if ($Duty.encounters) { $null } else { " []" }
-
 $dutyYaml = $dutyYamlTemplate -f `
 	$Duty.name.na, `
 	$Duty.name.fr, `
@@ -73,31 +71,37 @@ $dutyYaml = $dutyYamlTemplate -f `
 	$Duty.type, `
 	$Duty.lodestoneId, `
 	$Duty.lodestoneImageUri, `
-	$Duty.lodestoneUri, `
-	$pagesSuffix
+	$Duty.lodestoneUri
 
-foreach ($encounter in $Duty.encounters)
+if ($Duty.encounters)
 {
-	$bossYaml = ""
-	if ($encounter.bosses.Count -eq 0)
+	foreach ($encounter in $Duty.encounters)
 	{
-		$bossYaml = " []"
-	}
-	else
-	{
-		foreach ($boss in $encounter.bosses)
+		$bossYaml = ""
+		if ($encounter.bosses.Count -eq 0)
 		{
-			$bossYaml += $bossYamlTemplate -f `
-				$Duty.bosses.$boss.name.na, `
-				$Duty.bosses.$boss.name.fr, `
-				$Duty.bosses.$boss.name.de, `
-				$Duty.bosses.$boss.name.jp, `
-				$Duty.bosses.$boss.lodestoneId, `
-				$Duty.bosses.$boss.lodestoneUri
+			$bossYaml = " []"
 		}
+		else
+		{
+			foreach ($boss in $encounter.bosses)
+			{
+				$bossYaml += $bossYamlTemplate -f `
+					$Duty.bosses.$boss.name.na, `
+					$Duty.bosses.$boss.name.fr, `
+					$Duty.bosses.$boss.name.de, `
+					$Duty.bosses.$boss.name.jp, `
+					$Duty.bosses.$boss.lodestoneId, `
+					$Duty.bosses.$boss.lodestoneUri
+			}
+		}
+		
+		$dutyYaml += $pageYamlTemplate -f $bossYaml
 	}
-	
-	$dutyYaml += $pageYamlTemplate -f $bossYaml
+}
+else
+{
+	$dutyYaml += $pageYamlTemplate -f " []"
 }
 
 $fileName = $Duty.name.na.Replace('(', '').Replace(')', '').Replace("'", '').Replace('<i>', '').Replace('</i>', '').Replace(':', '').Replace('.', '').Replace(' - ', '_').Replace(' ', '_').ToLowerInvariant()
