@@ -21,7 +21,7 @@ video_url:
   fr: 
   de: 
   ja: 
-pages:
+pages:{8}
 '
 
 $bossYamlTemplate = `
@@ -63,6 +63,8 @@ $pageYamlTemplate = `
           text: Please consider contributing by visiting our GitHub site and uploading a strategy. Just click the title above!
 '
 
+$pagesSuffix = if ($Duty.encounters) { $null } else { " []" }
+
 $dutyYaml = $dutyYamlTemplate -f `
 	$Duty.name.na, `
 	$Duty.name.fr, `
@@ -71,7 +73,8 @@ $dutyYaml = $dutyYamlTemplate -f `
 	$Duty.type, `
 	$Duty.lodestoneId, `
 	$Duty.lodestoneImageUri, `
-	$Duty.lodestoneUri
+	$Duty.lodestoneUri, `
+	$pagesSuffix
 
 foreach ($encounter in $Duty.encounters)
 {
