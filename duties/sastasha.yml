@@ -1,8 +1,9 @@
 name:
-  en: "Sastasha Test"
+  en: null
   fr: "Sastasha"
   de: "Sastasha"
   ja: "天然要害 サスタシャ浸食洞"
+  totally-not-a-real-locale: null
 type: Dungeon
 tags: []
 lodestone:
