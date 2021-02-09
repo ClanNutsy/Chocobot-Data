@@ -1,0 +1,36 @@
+name: Pull Request
+
+on:
+  pull_request:
+    branches:
+      - main
+
+env:
+  DOTNET_PUBLISH_PATH: './tools/DataValidator'
+
+jobs:
+  validate:
+    runs-on: windows-latest
+    name: Validate
+    steps:
+      - name: Checkout Chocobot-Data
+        uses: actions/checkout@v2
+        with:
+          path: './repos/Chocobot-Data'
+      - name: Checkout Chocobot
+        uses: actions/checkout@v2
+        with:
+          repository: 'ClanNutsy/Chocobot'
+          token: ${{ secrets.CHOCOBOT_GITHUB_PRIVATE_REPO_PERSONAL_ACCESS_TOKEN }}
+          ref: 'initial'
+          path: './repos/Chocobot'
+      - name: Setup .NET Core
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '3.1.x'
+      - name: dotnet build
+        run: dotnet build './repos/Chocobot/DataValidator' --configuration Release
+      - name: dotnet publish
+        run: dotnet publish './repos/Chocobot/DataValidator' --configuration Release --output '${{ env.DOTNET_PUBLISH_PATH }}'
+      - name: Validate Duty Documents
+        run: ./tools/DataValidator/DataValidator.exe 'repos/Chocobot-Data/duties'
