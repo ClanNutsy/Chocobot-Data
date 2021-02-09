@@ -98,7 +98,7 @@ If Chocobot is able to successfully find a matching boss based on the specified 
 
 If more than one boss is located that matches the specified name, a list of all matching results will be displayed:
 
-![Boss - List](images/boss_list.png)
+![Boss - Select](images/boss_select.png)
 
 To select a particular boss, simply reply to Chocobot with the number that matches the desired option. If no response is received within a short time limit, Chocobot will cancel the command and take no further action.
 
