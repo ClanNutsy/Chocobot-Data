@@ -24,7 +24,7 @@ To add Chocobot to your Discord server, simply perform the following steps:
 
 Once Chocobot has been successfully authorized, you are ready to start using it in Discord!
 
-### Using Chocobot
+### Start a Conversation
 
 Once Chocobot has been added to your Discord server, you can interact with it by sending it a direct message:
 
@@ -37,3 +37,29 @@ Once Chocobot has been added to your Discord server, you can interact with it by
 ![In the pop-up that appears, search for Chocobot.](images/start_conversation_select_bot.png)
 
 You can confirm the username by navigating to your server settings and viewing the Server Members. Once you have confirmed, click the user to start a conversation.
+
+## Using Chocobot
+
+Chocobot is designed to provide strategy information for duties (Dungeons, Trials, Raids and Ultimate Raids), as well as individual bosses. As such, there are two commands designed to help look up this information:
+
+- The !duty command presents strategy information for an entire duty, including all bosses within that duty.
+- The !boss command presents strategy information solely for a single boss.
+
+### !duty Command
+
+To search for duty strategy information, use the following command:
+
+> !duty <search>
+
+- **search** : The search term to use for locating the corresponding duty. This can be an exact name match, a partial match, or even abbreviations, e.g:
+
+```
+!duty Sastasha
+!duty matoya
+!duty totorak hard
+!duty e9s
+```
+
+### !boss Command
+
+## Contributing to Chocobot
