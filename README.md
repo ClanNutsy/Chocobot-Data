@@ -42,16 +42,16 @@ You can confirm the username by navigating to your server settings and viewing t
 
 Chocobot is designed to provide strategy information for duties (Dungeons, Trials, Raids and Ultimate Raids), as well as individual bosses. As such, there are two commands designed to help look up this information:
 
-- The !duty command presents strategy information for an entire duty, including all bosses within that duty.
-- The !boss command presents strategy information solely for a single boss.
+- The **!duty** command presents strategy information for an entire duty, including all bosses within that duty.
+- The **!boss** command presents strategy information solely for a single boss.
 
 ### !duty Command
 
 To search for duty strategy information, use the following command:
 
-> !duty <search>
+> !duty *search*
 
-- **search** : The search term to use for locating the corresponding duty. This can be an exact name match, a partial match, or even abbreviations, e.g:
+- ***search*** : The search term to use for locating the corresponding duty. This can be an exact name match, a partial match, or even abbreviations, e.g:
 
 ```
 !duty Sastasha
@@ -59,6 +59,24 @@ To search for duty strategy information, use the following command:
 !duty totorak hard
 !duty e9s
 ```
+
+If Chocobot is able to successfully find one or more matching duties based on the specified search term, it will load up the strategy information for the duty that closest matches the term.
+
+On loading the strategy information for a duty, Chocobot will show both the Table of Contents for that duty, as well as the first page of information:
+
+![Duty - Table of Contents](images/duty_table_of_contents.png)
+![Duty - Page](images/duty_page.png)
+
+You can navigate through all of the duty's pages by using any of the following commands:
+
+- **!next** will display the next page of information for the current duty.
+- **!back** will display the previous page of information for the current duty.
+- **!page** will jump to the specified page number for the current duty.
+
+Additionally:
+
+- If the duty name (e.g. 'Sastasha') has a 🔗 icon next to it, you can click it in supported Discord clients to go to the duty information on The Lodestone.
+- If the page title (e.g. 'Boss: Chopper') has a :pencil: icon next to it, you can click it to go to the corresponding document in GitHub for that duty.
 
 ### !boss Command
 
