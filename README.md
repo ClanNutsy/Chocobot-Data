@@ -56,7 +56,7 @@ To search for duty strategy information, use the following command:
 ```
 !duty Sastasha
 !duty matoya
-!duty totorak hard
+!duty tamtara hard
 !duty e9s
 ```
 
@@ -79,5 +79,27 @@ Additionally:
 - If the page title (e.g. 'Boss: Chopper') has a :pencil: icon next to it, you can click it to go to the corresponding document in GitHub for that duty.
 
 ### !boss Command
+
+To search for boss strategy information, use the following command:
+
+> !boss *boss name*
+
+- ***boss name***: The name of the boss to search for. This can either be an exact or partial match, e.g.:
+
+```
+!boss Ifrit
+!boss zenos
+!boss porxie
+```
+
+If Chocobot is able to successfully find a matching boss based on the specified name, it will load up the strategy information for the boss:
+
+![Boss - Details](images/boss_details.png)
+
+If more than one boss is located that matches the specified name, a list of all matching results will be displayed:
+
+![Boss - List](images/boss_list.png)
+
+To select a particular boss, simply reply to Chocobot with the number that matches the desired option. If no response is received within a short time limit, Chocobot will cancel the command and take no further action.
 
 ## Contributing to Chocobot
